@@ -1,0 +1,12 @@
+# BetterSearch 仿冒站名单 / BetterSearch lookalike list
+#
+# 冒充官网、提供来路不明的安装包或下载的网站。每条记录上方注明依据（issue 编号）。
+# Sites that pose as an official site and offer installers or downloads of unknown origin.
+# Each entry is preceded by the issue that documents it.
+#
+# 格式：uBlacklist。在 BetterSearch 的「屏蔽 → 订阅列表」里添加本文件的 raw 地址即可订阅。
+# Format: uBlacklist. Subscribe by adding this file's raw URL under Blocking → Subscriptions.
+#
+# 示例 / Example:
+# # #12 自称「XX 官网」，下载包与官网不同 / claims to be the official XX site; installer differs
+# *://*.example-download.com/*

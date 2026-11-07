@@ -1,0 +1,18 @@
+name: 申诉误收录 / Appeal a listing
+description: 你的网站被错误地列为仿冒 / Your site was listed by mistake
+title: "[申诉] "
+labels: [appeal]
+body:
+  - type: input
+    id: domain
+    attributes:
+      label: 被收录的域名 / Listed domain
+    validations:
+      required: true
+  - type: textarea
+    id: relation
+    attributes:
+      label: 你和该品牌的关系 / Your relation to the brand
+      description: 例如官方授权的下载站、品牌所有者本人，可附上证明 / e.g. authorised distributor or the brand owner, with proof if possible
+    validations:
+      required: true

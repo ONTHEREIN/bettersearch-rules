@@ -1,0 +1,33 @@
+name: 举报仿冒网站 / Report a lookalike site
+description: 冒充官网、提供来路不明下载的网站 / A site posing as an official one
+title: "[举报] "
+labels: [report]
+body:
+  - type: input
+    id: domain
+    attributes:
+      label: 仿冒网站的域名 / Lookalike domain
+      placeholder: example-download.com
+    validations:
+      required: true
+  - type: input
+    id: official
+    attributes:
+      label: 真正的官网 / The real official site
+      description: 不确定可以留空 / Leave empty if unsure
+  - type: input
+    id: query
+    attributes:
+      label: 搜索词 / Search query
+  - type: dropdown
+    id: engine
+    attributes:
+      label: 搜索引擎 / Search engine
+      options: [Google, Bing, 百度 Baidu, 其他 Other]
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 依据 / Evidence
+      description: 截图、页面存档链接（如 web.archive.org）、下载包和官网安装包的差异等 / Screenshots, an archived copy, how the download differs from the official one
+    validations:
+      required: true
