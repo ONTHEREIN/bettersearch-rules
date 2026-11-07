@@ -2,7 +2,7 @@
 # Generated from Wikidata "official website" (P856), which is CC0.
 # Fix a wrong entry on Wikidata itself; this file is rebuilt every week.
 # Updated: 2026-11-07
-# Entries: 142171
+# Entries: 142174
 $wgcheckuserforcesummary = mediawiki.org
 $wgcheckuserlog = mediawiki.org
 % δrδbicδ = arabica.coffee
@@ -16528,6 +16528,7 @@ chipotle mexican grill = chipotle.com
 chipotle墨西哥大玉米饼快餐店 = chipotle.com
 chiquita brands international = chiquita.com
 chiquita brands international inc. = chiquita.com
+chirey = chery.cn cheryinternational.com
 chisox = chicago.whitesox.mlb.com
 chisso = chisso.co.jp
 chisso corporation = chisso.co.jp
@@ -24722,6 +24723,7 @@ em lyon recherche = certificate.em-lyon.com em-lyon.com em-lyon.com.cn executive
 em-1 = nasa.gov
 em-2 = nasa.gov
 em-lyon = certificate.em-lyon.com em-lyon.com em-lyon.com.cn executive.em-lyon.com
+em2 = disney.ru
 em2: the power of two = disney.ru
 em: bim = endermagnolia.com
 em: bitm = endermagnolia.com
@@ -62805,6 +62807,7 @@ qinetiq = qinetiq.com
 qinetiq group plc = qinetiq.com
 qingdao refrigerator co. = haier.com
 qip infium = qip.ru
+qirui = chery.cn cheryinternational.com
 qiskit = qiskit.org
 qiuwen baike = qiuwenbaike.cn
 qiuwen wiki = qiuwenbaike.cn
@@ -81780,7 +81783,7 @@ unbreakable kimmy schmidt = netflix.com
 unbreakable linux = oracle.com
 unchainblade rexx = cs.furyu.jp
 unchained blades = cs.furyu.jp
-uncharted = playstation.com
+uncharted = playstation.com unchartedps3.com
 uncharted 1 = unchartedps3.com
 uncharted 2 = unchartedthegame.com
 uncharted 2: among thieves = unchartedthegame.com
