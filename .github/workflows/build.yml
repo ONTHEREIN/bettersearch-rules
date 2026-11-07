@@ -1,0 +1,38 @@
+name: Build generated lists
+
+on:
+  schedule:
+    # Mondays 03:17 UTC, off the hour to spread load on the endpoints.
+    - cron: '17 3 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - run: node scripts/build-official.mjs
+      - name: Commit if changed
+        run: |
+          # The header's date changes every run; only commit when entries do.
+          if git diff --quiet -I '^# Updated: ' -- official.txt popular.txt; then
+            echo "No changes"
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898333+github-actions[bot]@users.noreply.github.com'
+          git add official.txt popular.txt
+          git commit -m "Rebuild generated lists"
+          git push
+      - name: Purge jsDelivr cache
+        run: |
+          for f in official.txt popular.txt; do
+            curl -fsS "https://purge.jsdelivr.net/gh/${GITHUB_REPOSITORY}@main/$f" > /dev/null || true
+          done
