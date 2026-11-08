@@ -5,8 +5,7 @@
 | 文件 | 内容 |
 |---|---|
 | [`lookalike.txt`](lookalike.txt) | 冒充官网、提供来路不明安装包的网站。人工维护 |
-| [`official.txt`](official.txt) | 官网登记表：品牌名 → 官方网站。每周从 Wikidata 自动生成 |
-| [`popular.txt`](popular.txt) | 被链接最多的 20 万个域名，用来区分常见网站和陌生网站。每周从 Majestic Million 自动生成 |
+| [`sites/`](sites) | 已知网站名单：Wikidata 登记过的所有官网域名，加上被链接最多的 20 万个域名。每周自动生成 |
 
 ## 订阅
 
@@ -18,13 +17,14 @@ https://raw.githubusercontent.com/ONTHEREIN/bettersearch-rules/main/lookalike.tx
 
 名单默认不开启，订阅与否由你决定。格式兼容 [uBlacklist](https://github.com/iorate/ublacklist)，也可以直接在 uBlacklist 里订阅。
 
-## 自动生成的列表
+## 已知网站名单（sites/）
 
-`official.txt` 和 `popular.txt` 由 [`scripts/build-official.mjs`](scripts/build-official.mjs) 生成，GitHub Actions 每周一运行一次，不要手动修改。BetterSearch 默认订阅这两份列表，用来给官网加 ✓ 标记，以及提示「自称官网、却不在登记表里也不常见」的网站。
+BetterSearch 默认用它核对搜索结果：标题自称「官网」「官方」、域名却不在名单里的结果会显示提示；名单里注明了品牌名的域名，在搜索词提到该品牌时标上 ✓。
 
-- **官网数据**来自 Wikidata 的「官方网站」（P856）属性。收录范围：软件、网站、在线服务、编程语言（至少 3 个维基百科语言版本有条目），公司、银行、品牌（至少 5 到 10 个），以及其他至少 20 个语言版本有条目、官网又在常见网站前 10 万名里的条目，地点和人物除外。
-- **官网写错了，或者漏了某个官网**，请直接到 Wikidata 上修改对应条目的「官方网站」，下一次生成时会自动更新。这里不接受针对这两份文件的修改。
-- 每行一个关键词，按 JavaScript 默认的字符串顺序排序，脚本直接在原始文本上二分查找。
+- **来源**：Wikidata 上所有条目的「官方网站」（P856），约 120 万个域名，不区分是哪个品牌的官网；再加上 [Majestic Million](https://majestic.com/reports/majestic-million) 被链接最多的 20 万个域名，补上没有 Wikidata 条目的大网站。软件、网站、公司、品牌等常被搜索的条目，还附上了它们的中英文名称和别名。
+- **生成**：[`scripts/build.mjs`](scripts/build.mjs)，GitHub Actions 每周一运行，并发布为 npm 包 [`bettersearch-rules`](https://www.npmjs.com/package/bettersearch-rules)。脚本依次从 npmmirror、jsDelivr 和 GitHub 下载，国内一般走 npmmirror。不要手动修改这个目录。
+- **格式**：按主域名的 FNV-1a 哈希前 3 位分成 4096 个分片，每片约 2 KB。脚本只下载所查域名所在的那一片，所以请求里只透露「4096 组里的哪一组」，不透露具体域名。每行是 `域名` 或 `域名 = 名称|名称`，按 JavaScript 默认的字符串顺序排序。
+- **出错了**：官网写错或漏了，请直接到 Wikidata 修改对应条目的「官方网站」，下一次生成会自动更新。
 
 ## 收录标准（lookalike.txt）
 
@@ -43,11 +43,11 @@ https://raw.githubusercontent.com/ONTHEREIN/bettersearch-rules/main/lookalike.tx
 
 ## English
 
-Community rule lists for BetterSearch. `official.txt` (brand → official site, from Wikidata's "official website" property) and `popular.txt` (the 200,000 most-linked domains, from the Majestic Million) are generated weekly by `scripts/build-official.mjs`; fix a wrong official site on Wikidata itself. `lookalike.txt` lists sites that pose as an official site and offer downloads of unknown origin. An entry needs evidence in an issue (screenshots, an archived page, or a hash comparison of the installer). Report a site or appeal a listing with the issue templates above. The list is off by default; subscribe to it in BetterSearch or uBlacklist.
+Community rule lists for BetterSearch. `sites/` lists known sites: every domain Wikidata records as an official website, plus the 200,000 most-linked domains from the Majestic Million. It is built weekly by `scripts/build.mjs`, published to npm as `bettersearch-rules`, and split into 4096 shards by domain hash so a lookup downloads one 2 KB shard. Fix a wrong official site on Wikidata itself. `lookalike.txt` lists sites that pose as an official site and offer downloads of unknown origin. An entry needs evidence in an issue (screenshots, an archived page, or a hash comparison of the installer). Report a site or appeal a listing with the issue templates above. The list is off by default; subscribe to it in BetterSearch or uBlacklist.
 
 ## 许可证 / License
 
-- `lookalike.txt`、`official.txt` 和脚本：[CC0 1.0](LICENSE)，可以自由使用，不需要署名。`official.txt` 的数据来自 Wikidata，Wikidata 本身也是 CC0。
-- `popular.txt`：数据来自 [Majestic Million](https://majestic.com/reports/majestic-million)，按 [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) 授权，使用时请注明出处为 Majestic。
+- `lookalike.txt` 和脚本：[CC0 1.0](LICENSE)，可以自由使用，不需要署名。
+- `sites/`：包含 [Majestic Million](https://majestic.com/reports/majestic-million) 的数据，按 [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) 授权，使用时请注明数据来自 Majestic 和 Wikidata（Wikidata 部分为 CC0）。
 
-`lookalike.txt`, `official.txt` and the script are CC0. `popular.txt` is from the Majestic Million under CC BY 3.0; credit Majestic when you use it.
+`lookalike.txt` and the script are CC0. `sites/` includes data from the Majestic Million under CC BY 3.0; credit Majestic and Wikidata when you use it.

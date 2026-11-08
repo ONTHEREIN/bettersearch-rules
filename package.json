@@ -1,0 +1,15 @@
+{
+  "name": "bettersearch-rules",
+  "version": "0.1.202611081320",
+  "description": "Lists BetterSearch checks search results against: known sites from Wikidata and the Majestic Million, and lookalike sites.",
+  "homepage": "https://github.com/ONTHEREIN/bettersearch-rules",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ONTHEREIN/bettersearch-rules.git"
+  },
+  "license": "SEE LICENSE IN README.md",
+  "files": [
+    "sites/",
+    "lookalike.txt"
+  ]
+}
