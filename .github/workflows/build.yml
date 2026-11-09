@@ -8,8 +8,6 @@ on:
 
 permissions:
   contents: write
-  # npm trusted publishing: the registry accepts this workflow's OIDC token.
-  id-token: write
 
 jobs:
   build:
@@ -17,13 +15,14 @@ jobs:
     timeout-minutes: 30
     steps:
       - uses: actions/checkout@v5
+        with:
+          # Gitee refuses a push from a shallow clone.
+          fetch-depth: 0
       - uses: actions/setup-node@v5
         with:
           node-version: 24
-          registry-url: https://registry.npmjs.org
       - run: node scripts/build.mjs
       - name: Commit if changed
-        id: commit
         run: |
           git add -A sites
           if git diff --cached --quiet; then
@@ -34,13 +33,9 @@ jobs:
           git config user.email '41898333+github-actions[bot]@users.noreply.github.com'
           git commit -m "Rebuild the known-sites list"
           git push
-          echo "changed=true" >> "$GITHUB_OUTPUT"
-      - name: Publish to npm
-        if: steps.commit.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
-        run: |
-          # A version per build; npmmirror and jsDelivr serve `latest`.
-          npm version --no-git-tag-version "0.1.$(date -u +%Y%m%d%H%M)"
-          npm publish --provenance --access public
-      - name: Ask npmmirror to sync now
-        if: steps.commit.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
-        run: curl -fsS -X PUT https://registry-direct.npmmirror.com/-/package/bettersearch-rules/syncs > /dev/null || true
+      - name: Mirror to Gitee
+        # Gitee is the mirror BetterSearch tries first in mainland China.
+        env:
+          GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
+        if: env.GITEE_TOKEN != ''
+        run: git push --force "https://R3less:${GITEE_TOKEN}@gitee.com/R3less/bettersearch-rules.git" HEAD:main

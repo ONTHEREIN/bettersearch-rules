@@ -22,7 +22,7 @@ https://raw.githubusercontent.com/ONTHEREIN/bettersearch-rules/main/lookalike.tx
 BetterSearch 默认用它核对搜索结果：标题自称「官网」「官方」、域名却不在名单里的结果会显示提示；名单里注明了品牌名的域名，在搜索词提到该品牌时标上 ✓。
 
 - **来源**：Wikidata 上所有条目的「官方网站」（P856），约 120 万个域名，不区分是哪个品牌的官网；再加上 [Majestic Million](https://majestic.com/reports/majestic-million) 被链接最多的 20 万个域名，补上没有 Wikidata 条目的大网站。软件、网站、公司、品牌等常被搜索的条目，还附上了它们的中英文名称和别名。
-- **生成**：[`scripts/build.mjs`](scripts/build.mjs)，GitHub Actions 每周一运行，并发布为 npm 包 [`bettersearch-rules`](https://www.npmjs.com/package/bettersearch-rules)。脚本依次从 npmmirror、jsDelivr 和 GitHub 下载，国内一般走 npmmirror。不要手动修改这个目录。
+- **生成**：[`scripts/build.mjs`](scripts/build.mjs)，GitHub Actions 每周一运行，然后推一份到 [Gitee 镜像](https://gitee.com/R3less/bettersearch-rules)。脚本依次从 Gitee、jsDelivr 和 GitHub 下载，国内一般走 Gitee。不要手动修改这个目录。
 - **格式**：按主域名的 FNV-1a 哈希前 3 位分成 4096 个分片，每片约 2 KB。脚本只下载所查域名所在的那一片，所以请求里只透露「4096 组里的哪一组」，不透露具体域名。每行是 `域名` 或 `域名 = 名称|名称`，按 JavaScript 默认的字符串顺序排序。
 - **出错了**：官网写错或漏了，请直接到 Wikidata 修改对应条目的「官方网站」，下一次生成会自动更新。
 
@@ -43,7 +43,7 @@ BetterSearch 默认用它核对搜索结果：标题自称「官网」「官方�
 
 ## English
 
-Community rule lists for BetterSearch. `sites/` lists known sites: every domain Wikidata records as an official website, plus the 200,000 most-linked domains from the Majestic Million. It is built weekly by `scripts/build.mjs`, published to npm as `bettersearch-rules`, and split into 4096 shards by domain hash so a lookup downloads one 2 KB shard. Fix a wrong official site on Wikidata itself. `lookalike.txt` lists sites that pose as an official site and offer downloads of unknown origin. An entry needs evidence in an issue (screenshots, an archived page, or a hash comparison of the installer). Report a site or appeal a listing with the issue templates above. The list is off by default; subscribe to it in BetterSearch or uBlacklist.
+Community rule lists for BetterSearch. `sites/` lists known sites: every domain Wikidata records as an official website, plus the 200,000 most-linked domains from the Majestic Million. It is built weekly by `scripts/build.mjs`, mirrored to Gitee, and split into 4096 shards by domain hash so a lookup downloads one 2 KB shard. Fix a wrong official site on Wikidata itself. `lookalike.txt` lists sites that pose as an official site and offer downloads of unknown origin. An entry needs evidence in an issue (screenshots, an archived page, or a hash comparison of the installer). Report a site or appeal a listing with the issue templates above. The list is off by default; subscribe to it in BetterSearch or uBlacklist.
 
 ## 许可证 / License
 
