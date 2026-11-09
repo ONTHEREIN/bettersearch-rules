@@ -93,7 +93,6 @@ firefly.rs
 flugplatz-rastatt.de
 flydurango.com
 folkehjelp.no
-fondazioneravello.com
 forcegurkha.co.in
 freeworkshopmanual.net
 frontiersfoundation.ca
@@ -278,6 +277,7 @@ sysax.com
 szte.hu
 tadalafishopusa.com
 taferne.at
+talenestpulse.com
 tar.fyi
 tarrantmonkton.wordpress.com
 taylorhawkins.com

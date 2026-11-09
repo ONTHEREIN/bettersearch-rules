@@ -1,5 +1,4 @@
 6ou.org
-889993450.xyz
 aberdeencommunitytheatre.com
 abmarket.eu
 activeanimation.studio
@@ -47,7 +46,6 @@ cedarfair.com = cedar fair|cedar fair entertainment company|cedar fair, l.p.|雪
 ceti.one
 cexeci.org
 chargelab.co
-chevelles.com
 coda.org
 codepath.org
 coimeres.fr

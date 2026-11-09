@@ -100,7 +100,7 @@ franziskaneum.de
 fuji-oyama.jp
 functiondrinks.com
 gastro13.dk
-gategroup.com = gate gourmet|gate group|gategroup|佳美航空食品
+gategroup.com = gate group|gategroup|佳美航空食品
 georkesaev.com
 geracaobooks.com.br
 giseleben-dor.com
@@ -269,7 +269,7 @@ stichtingvrl.nl
 stjohnsps.co.uk
 stnicholasny.org
 stpaulsrondebosch.co.za
-stripchat.com = stripchat|stripchat.com
+stripchat.com
 surinderfilms.com
 susanegan.net
 syh.fi

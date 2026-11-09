@@ -35,6 +35,7 @@ bnrnews.bg = bnr|bulgarian national radio|保加利亚国家电台|保加利亞�
 breckenridgetexas.com
 bridgemanart.com
 bvsc.hu
+bytwerk.com
 caen-evenements.com
 cancerlifeline.org
 caricatura.ru
@@ -63,6 +64,7 @@ cityofazle.org
 cityofhogansville.org
 claude-vivier-le-got.com
 cme.ci
+cmpa-acpm.ca
 colegiodecroly.es
 colombiers-du-plessis.fr
 compilfight.com
@@ -233,7 +235,6 @@ ohiodems.org
 okumakabuto.jp
 okumaresort.co.kr
 olivemarketpoker.it
-orbitzone.ca
 orsinval.fr
 parksnorthwest.co.za
 paroquiadebarcelos.org

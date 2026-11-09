@@ -75,7 +75,6 @@ dailyastorian.com
 dav-equipements.com
 debary.org
 deedavis.com
-deep-image.ai
 designimps.com
 diamondhighroller.com
 dnapta.com
@@ -107,6 +106,7 @@ fortsaintheribert.be
 futureclimateafrica.org
 gart.org
 getawayrock.se
+globeideas.de
 gmoma.kr
 gotsu-zaidan.org
 gov.uk = alba aosmhor|british ministry of defence|british pm|british prime minister|cabinet of the united kingdom|chancellor of the duchy of lancaster|chief mouser to the cabinet office|city of london corporation|data.gov.uk|first minister and deputy first minister|first minister of wales|foreign secretary|gov.uk|gov·uk|historic scotland|london assembly|london bus routes|london buses|london river services|ministry of defence|mod|mod united kingdom|national data library|platinum jubilee of elizabeth ii|pm of the uk|prime minister of the united kingdom|ruling government of the united kingdom|scotland secretary|secret intelligence service|secretary of state for foreign affairs|secretary of state for scotland|uc, benefits|uk - ministry of defence|uk ministry of defence|uk pm|uk prime minister|uk space agency|ukmod|uksa|united kingdom mod|united kingdom prime minister|united kingdom space agency|universal credit|伊莉莎白二世登基白金禧紀念|伦敦公共汽车|伦敦议会|倫敦公共汽車|倫敦巴士|倫敦市法團|倫敦市社團|倫敦水上巴士|倫敦河流服務|倫敦河道處|倫敦游船服務|倫敦議會|倫敦遊船服務|兰开斯特公爵郡大臣|兰开斯特公爵领地事务大臣|兰开斯特公爵领地总裁|北爱尔兰首席部长和副首席部长|历史之苏格兰|历史悠久的苏格兰|国防部|國防部|外交及國協事務大臣|外交及联邦事务大臣|外交及聯邦事務大臣|外務及英聯邦事務大臣|威尔士首席大臣|影子副首相|歷史之蘇格蘭|歷史悠久的蘇格蘭|秘密情報局|秘密情报局|統一福利救濟金|英国内阁|英国副首相|英国国防部|英国外交大臣|英国宇航署|英国政府网站|英国空间局|英国航天局|英国首相|英國內閣|英國副首相|英國國防部|英國外相|英國太空局|英國太空總署;file:uk space agency.svg|英國政府網站|英國首相|蘇格蘭事務大臣|蘇格蘭文物局|蘇格蘭歷史建築保護署|蘭卡斯特公爵領地總裁|蘭開斯特公爵郡大臣|蘭開斯特公爵領地事務大臣|蘭開斯特公爵領地總裁|通用福利金
@@ -241,6 +241,7 @@ rabbitandowl.com
 rcreee.org
 reelandbrand.net
 reggel.ch
+reseauwassila-avife.com
 revzilla.com
 risbjergkirke.dk
 rlocman.ru

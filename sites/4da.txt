@@ -26,6 +26,7 @@ anvia.shop
 anythingawesome.com
 apopa.nl
 aptic.cat
+atomcentral.com
 atzberger.org
 aurillac.fr
 aviation-quality-services.com
@@ -118,7 +119,6 @@ gazgroup.ru = gaz group|高爾基集團
 gminazawady.pl
 go-sjf.com
 gocaltech.com
-goldenfinder.uk
 gorgesdusierroz.fr
 groupe-coriance.fr
 grupoenhol.es

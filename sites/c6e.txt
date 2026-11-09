@@ -111,6 +111,7 @@ gotigers.de
 grandbaby-cakes.com
 green-e.info
 greencubator.info
+greensmilies.com
 haberajans.net
 hansvaneerd.nl
 harlequintheatre.co.uk
@@ -214,7 +215,6 @@ oscommerce.com = oscommerce|the exchange project
 p-sendai.co.jp
 padarijs.be
 paraca.co.jp
-pcgalaxygalaxy.com
 pcpacers.org
 pcrisk.com
 penspen.com

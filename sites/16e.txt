@@ -66,6 +66,7 @@ daniela-hoffmann.de
 datatrace.com
 decmil.com
 diggersim.com
+divan.com.tr
 dnbogerd.nl
 dogsforbetterlives.org
 doombringer.eu
@@ -342,3 +343,4 @@ willbloomfieldmusic.com
 wolfcraft.com
 wvnet.edu
 ymcasf.org
+yukselish.az

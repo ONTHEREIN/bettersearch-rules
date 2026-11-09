@@ -163,6 +163,7 @@ kopysno.pl
 krembz.com
 kurumereha.ac.jp
 kylo.tv = kylo
+labavetta.it
 lafarga.es
 lalibre.be
 lamontagnemagique.be
@@ -263,7 +264,6 @@ sierrachest.com
 skky.fi
 skw1933.at
 slavojtrebisov.sk
-slon8-cc.at
 smartcenter.uk
 solanopharma.com
 solaris.fr

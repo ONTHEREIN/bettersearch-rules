@@ -46,6 +46,7 @@ biblioteka4ternopil.blogspot.com
 bmrecordspr.com
 borntostandout.com
 boykovassilev.com
+braeunlinger-loewenbrauerei.de
 briskteaching.com
 bsdegoedeherder.nl
 buchegg-so.ch
@@ -247,6 +248,7 @@ pfister.fi
 pmichaud.com
 powerbase.info
 ppgit.com
+practicematch.com
 primariaodobescu.ro
 proctorhonda.com
 puertodelsol.org
@@ -288,6 +290,7 @@ skotnice.cz
 slaktdata.org
 sm-energy.com
 soc-rugby.com
+soccatours.ch
 sored.hu
 spiritsofxanadu.com
 sporteducation.es
@@ -333,9 +336,9 @@ ucalgary.ca
 ucsfmissionbayhospitals.org
 udmr.ro
 uferstrasse.de
+ultraqueenlinesgo.com
 union.ai
 upra.org
-urbanspinbase.uk
 usamm.com
 vehiculedufutur.com
 vera.org
@@ -356,6 +359,7 @@ wikimedia.com = ocean of knowledge api|okapi|wikimedia enterprise|wikimedia ente
 zagarmusic.com
 zarovna.cz
 zeitschrift-fischerei.de
+zenacepc.com
 zichovice.cz
 zico.com
 zilnikzelimir.net

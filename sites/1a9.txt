@@ -113,7 +113,6 @@ gorcsony.hu
 gospeleon.com
 gov.gi
 gov.zm
-greenpromocode.com
 gregromano.fr
 grundschule-freudenburg.de
 gudinna.com
@@ -141,6 +140,7 @@ ibood.com
 imaginux.com
 innosho.co.jp
 insgc.org
+inttea.com
 ippnw.org = ippnw|国际医师预防核战组织|国际防止核战争医生组织|國際防止核戰爭醫生組織
 ironhorseresources.com
 irtio.com
@@ -245,6 +245,7 @@ sbambaren.com
 seattlefestivalorchestra.org
 seminar-rottweil.de
 semyelbissig.ch
+seoscout.com
 ses-india.in
 sexeyauxforges.fr
 sgoat.com

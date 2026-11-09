@@ -70,7 +70,6 @@ deadtoast.com = my friend pedro|我的朋友佩德罗|我的朋友佩德羅
 debolk.nl
 desertdreamdxb.com
 develier.ch
-disl.edu
 dittaguenzati.com
 dortmund-airport.de
 doublespeakgames.com = a dark room|a dark room ®|adarkroom|adr|小黑屋
@@ -226,11 +225,11 @@ priscillabaconhospice.org.uk
 protocol.com
 psa-club.com
 psrlawcollege.in
+quantumspreadx.com
 quickbase.com
 radiofreesarawak.org
 ramcharanbohra.com
 ranktracker.com
-rapidslotsplatform.com
 rasmusholm.dk
 rasva.eu
 rawcs.org.au

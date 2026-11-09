@@ -226,7 +226,6 @@ oberoninc.com
 obshetbolwerk.nl
 okanotakeshi.com
 openwall.com = john|john the ripper|jtr|openwall project|openwall项目|yescrypt
-orbitnetwork.nl
 osave.com
 otesice.cz
 overkillsoftware.com = payday 2|payday: the heist|劫新日2|劫薪日|劫薪日 2|劫薪日2

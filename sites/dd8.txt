@@ -255,6 +255,7 @@ santuariomontegazzo.it
 scahq.org
 schmidt-hamburg.de
 schoolsunited.eu
+scriboranestecho.com
 seal-pa.org
 semyonbychkov.com
 servair.fr
@@ -270,7 +271,6 @@ soerenleschmidt.com
 solcasino1.es
 solidproject.org = social linked data|solid|solid project|solid software
 sp2000.org
-speedy-wiki.win
 sps-tabor.cz
 spvgg-obersdorf.de
 spvgg07ludwigsburg.de

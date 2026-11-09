@@ -113,7 +113,6 @@ fis.edu
 fischereimuseum.de
 flaginn.co.uk
 foraspace.de
-forumhotel.net
 foster.co.jp = fostex
 frillieditori.com
 froglegfestival.com
@@ -192,6 +191,7 @@ lavaris.cz
 leigos.org
 leteckyklub-kamennymost.sk
 lierscultuurcentrum.be
+lifeboatinnstives.co.uk
 litic.cz
 lizemusic.com
 loire-sur-rhone.fr
@@ -256,7 +256,6 @@ qoos.com
 quaintcorner.net
 rbartists.at
 refugeesocialservices.co.za
-repeater-builder.com
 rhizobia.nz
 rickmer-rickmers.de
 riversofnihil.com

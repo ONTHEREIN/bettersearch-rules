@@ -28,7 +28,6 @@ baydon.org
 beautifulpeople.com = beautifulpeople.com
 belnovosti.by
 bethesda.org
-betoffice.uk
 bgklub.cz
 bibliotekanovavaros.rs
 binderblaubaeren.de
@@ -68,6 +67,7 @@ crefia.or.kr
 cril-shinshu-u.info
 cublastgame.com
 czkys.org
+d21.co.jp
 degernesil.no
 deltaplace.nl
 domkvn.ru
@@ -206,6 +206,7 @@ parafiabarnabici.pl
 parafianienaszow.pl
 patrickdwyerscholarship.com
 pazcohen.com
+physicsgurus.com
 pixelbridgejackpot.it
 pjf-herkingen.nl
 postbanken.no

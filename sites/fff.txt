@@ -59,6 +59,7 @@ codemystics.com
 concept360.ch
 cookielaw.org
 courier-tribune.com
+cratelane.us
 david-ledoux.com
 dchintulov.com
 deepin.org = deepin|deepin gnu/linux|deepin linux|hiweed|hiweed debian gnu/linux|linuxdeepin|深度linux|深度操作系统
@@ -216,7 +217,6 @@ remythequill.com
 reverepayments.com
 rokketduction.com
 rossvideo.com
-royallifetoday.co.uk
 rychlikdosenatu.cz
 sabis.net
 saint-james-paris.com

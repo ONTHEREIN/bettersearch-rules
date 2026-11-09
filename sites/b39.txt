@@ -187,7 +187,6 @@ lizardrecords.ru
 ljusbutik.se
 lmrchamberalliance.org
 lokforerskolen.no
-lovecatalina.com
 lovestoblog.com
 lundyisland.co.uk
 lux-magazine.com
@@ -233,7 +232,7 @@ oldmarketbrewery.co.uk
 onedayasalion.org
 opanal.org
 ordineavvocaticatania.it
-oscilloscope.net
+oscilloscope.net = '' we need to talk about kevin ''|el abrazo de la serpiente|embrace of the serpent|o abraço da serpente|we need to talk about kevin|我兒子是惡魔|與蛇共舞|蛇之拥抱
 overtonisd.net
 pabloair.com
 parthesius.eu

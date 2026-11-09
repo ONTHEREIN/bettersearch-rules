@@ -120,7 +120,6 @@ fransabank.by
 fukuoka-mirai.jp
 fxgz.com.cn
 gagauzia.md
-gamestorming.com
 gemeinde-dalldorf.de
 gemeindeverwaltung-mueglitzal.de
 gen-web.co.jp
@@ -133,6 +132,7 @@ gsgvelbert.de
 gyandeepinstitute.com
 hackingwithswift.com
 hamiltonairport.co.nz
+handwerkskammer.de
 hanggliding.dk
 haydensferryreview.com
 hikari-net.co.jp

@@ -134,6 +134,7 @@ h2020hydra.eu
 haneystrategy.com
 hannahalmeenpaa.fi
 healinghandsclinic.co.in
+healthofchildren.com
 helsinginkaupunginmuseo.fi
 heungkuk.co.kr
 hickorywithepc.org
@@ -300,7 +301,7 @@ togethercolorado.org
 tohonohikari.or.jp
 tonighttheband.com
 topas-gmbh.de
-tox.chat = tox
+tox.chat = tox|toxchat
 traildusttown.com
 trans-ocean.org
 trapezium-movie.com

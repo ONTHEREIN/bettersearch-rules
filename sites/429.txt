@@ -178,7 +178,6 @@ libera.chat = libera|libera chat|libera.chat
 ligos.com = indeo|indeo video|indeo video interactive|real-time video
 londonloungemarket.uk
 londonprizelink.uk
-loungelab.uk
 lsl.ie
 luckymark.ca
 luvihost.com

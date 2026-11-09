@@ -224,7 +224,7 @@ pontdarc.co.jp
 powells.com = powell's books|powell's city of books|powell's书店|powell's書店|powells books|powells' books
 premiovincenzocrocitti.com
 psb13.fr
-publicenemy.com = public enemy|人民公敵|全民公敌组合|全民公敵樂團|全民公敵組合
+publicenemy.com
 pugetsoundspianoschool.com
 purepla.net
 pwabarneveld.nl

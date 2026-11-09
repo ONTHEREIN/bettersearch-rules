@@ -109,7 +109,7 @@ greenwichlocksmiths.com
 gumuslukfestival.org
 gushers.com
 gusplc.com
-haasf1team.com = haas|haas f1|haas f1 team|haas formula|haas racing developments|moneygram haas f1 team|tgr haas f1 team|哈斯車隊
+haasf1team.com
 happyhost.at
 hassaansaleem.com
 havvaccines.com

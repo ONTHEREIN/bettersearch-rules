@@ -127,6 +127,7 @@ genealogienetz.de
 getgoods.de
 giacomoscinardo.com
 gilbereforte.com
+gjglm.com
 graniph.com
 grazermaerchenbahn.at
 hapr.org
@@ -296,7 +297,6 @@ sydansairaala.fi
 tacttv.com
 taekwondotimes.com
 team-k.eu
-tearoom7.com
 terayon.com
 tf2classic.com = team fortress 2 classic|team fortress 2 classified|tf2 classic|tf2 classified|tf2c|tf2classic
 thdl.org

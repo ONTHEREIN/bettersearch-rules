@@ -120,6 +120,7 @@ hjg-sim.de
 hoteltoliar.sk
 hpe.com = hewlett packard enterprise|hp enterprise|hp-ux|hpe|慧与公司|慧与科技|慧與公司|慧與科技
 hsfilmfest.com
+hswstatic.com
 humamulji.com
 iessaulotoron.es
 imj.org.il

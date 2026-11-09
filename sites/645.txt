@@ -175,7 +175,7 @@ latele.ch
 lauraingraham.com
 lauridanska.com
 leadershipmemphis.org
-leru.org = league of european research universities|leru|leru.org|欧洲研究型大学联盟|歐洲研究型大學聯盟
+leru.org
 les.es
 liewo.li
 lmglobal.org
@@ -262,7 +262,6 @@ reginalddhunter.com
 region-stuttgart.de
 rejithomasart.com
 rid.org
-riverfocus.uk
 ronaldmcdonaldhaus.de
 rtlbelgium.be
 rujec.org

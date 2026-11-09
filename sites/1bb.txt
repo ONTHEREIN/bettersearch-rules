@@ -96,6 +96,7 @@ fdc.fr
 feministische-studien.de
 finleyvilleboro.com
 fo.am
+foggiatoday.it
 food.com
 freshslotsstore.uk
 fsrss.com
@@ -166,7 +167,7 @@ letavertes.hu
 li.it
 liangcourt.com.sg
 liberas.net
-ligaportugal.pt = league cup of portugal|liga de honra|liga portugal|liga portugal 2|portugal league cup|portuguese football league|portuguese league cup|primeira liga|segunda divisão de honra|segunda liga|taça da liga|葡甲|葡萄牙联赛杯|葡萄牙聯賽盃|葡萄牙超級聯賽|葡萄牙超級足球聯賽|葡萄牙足球甲級聯賽|葡萄牙足球甲組聯賽|葡萄牙足球甲级联赛|葡萄牙足球超級聯賽|葡萄牙足球超级联赛|葡超
+ligaportugal.pt
 liverkick.com
 llangoedhall.com
 lohjanseurakunta.fi
@@ -214,7 +215,6 @@ nicoleoliver.com
 ninakrajnik.com
 nissan-vietnam.vn
 noiron-sous-gevrey.fr
-nomadexplore.nl
 northflow.it
 nottinghamnurseryschool.co.uk
 nuribilgeceylan.com
@@ -275,6 +275,7 @@ scoutsmuseum.be
 scts-sy.org
 seattle-bg.org
 sebbm.com
+securepalace.ca
 seminairedejeunes.com
 sethberry.org
 sfsi.org

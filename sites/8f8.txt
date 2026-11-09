@@ -6,7 +6,6 @@ abandon-hope.de
 abc-nins.jp
 abikogc.com
 acra-ratings.com
-ainu-upopoy.go.jp
 airclean.pl
 alsoccer.org
 angelmusic.co.kr
@@ -58,7 +57,6 @@ david-holt.co.uk
 davidbegbie.com
 dbs-weinheim.de
 dciff-indie.org
-devhunt.org
 diderot.cz
 djkhjgc.com
 dvniish.ru
@@ -197,7 +195,6 @@ ribchesterarms.uk
 rofelacc.org
 rogergale.com
 rolfrasmussen.dk
-round1usa.com
 ryzom.com = ryzom|the saga of ryzom
 saintperesurloire.fr
 saintpierrecalais.fr

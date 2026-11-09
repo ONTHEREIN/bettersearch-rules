@@ -73,6 +73,7 @@ domid.org
 dominionenergy.com = dominion|dominion energy|dominion resources|德敏寧能源
 dongil-steel.co.kr
 drumup.io
+drwalidsarhancenter.com
 dsrvmalad.org
 dynamite.tv
 easypower.cz
@@ -219,7 +220,6 @@ philadelphiaplaybills.com
 placesleisure.org
 prockomi.ru
 psvita.com = little deviants
-purespinpro.nl
 pv-magazine-australia.com
 pwnee.com = cloudberry kingdom|雲端莓王國
 qaiie.ir
@@ -310,4 +310,3 @@ zapatafilmes.com
 zares.si
 zdship.ru
 zee33comes.de
-zego.com

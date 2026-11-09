@@ -30,6 +30,7 @@ athensjff.org
 bacsalmas.hu
 baderc.org
 balmingilead.org
+bcbsal.org
 beagle-music.com
 benjerry.com = ben & jerry's|ben and jerry|ben and jerry's|ben and jerry’s ice cream|班傑利公司
 bentleymore.com
@@ -226,7 +227,6 @@ opco-atlas.fr
 osteoscience.org
 pallavolomotta.com
 panoraven.com
-parafianmp-ustrzyki.pl
 paroissecadillac.fr
 patricklagadec.net
 pdapune.wordpress.com

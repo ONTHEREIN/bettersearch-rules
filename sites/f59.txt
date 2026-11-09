@@ -40,6 +40,7 @@ bloggin-ads.com
 blueparadise.pl
 bookpage.com
 bulrog-music.com
+buoyant.io
 cabrillanes.com
 caellinqueno.com
 carconnectivity.org
@@ -97,6 +98,7 @@ eternalcylinder.com = the eternal cylinder|永恒圆柱
 eu-topia.org
 faeg.ad
 fals.com.br
+fanhouse.app
 fat.voyage
 fatheraintshit.com
 ferd.no

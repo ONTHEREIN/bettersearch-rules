@@ -114,7 +114,6 @@ graphiteapp.org = graphite
 greenpeace.ch
 grove-oxon.org.uk
 hardrock100.com
-hautreemenus.com
 hdv-aalten.nl
 headbangames.com
 heinzauswien.com

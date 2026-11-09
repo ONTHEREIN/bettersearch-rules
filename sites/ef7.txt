@@ -6,7 +6,6 @@ aceslots.nl
 actc-mn.org
 acutezorgnetwerk.nl
 agenceqmi.ca
-ahridirectory.org
 albertwillemetz.com
 allenandallen.com
 allgaeuland.de
@@ -219,6 +218,7 @@ parafiarudawa.pl
 paroisse-de-tarascon.fr
 pavlovskmuseum.ru
 pharmaca.com
+pid.gov.pk
 piscesfoundation.org
 pisty-nb.cz
 pogeez.info

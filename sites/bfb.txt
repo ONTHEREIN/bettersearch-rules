@@ -178,6 +178,7 @@ kopr94.net
 kristianvalen.no
 kursaal-bern.ch
 lamouretlarevolution.net
+legendarygalaxyarcade.com
 lequotidien-oran.com
 lider-reklama.pl
 lispme.de
@@ -219,7 +220,7 @@ morenoamador.com
 murraystate.edu
 naewna.com
 naomimcbride.com
-nashvillesc.com = nashville s.c.|nashville sc|nashville soccer club|拿舒維爾足球會
+nashvillesc.com
 natalieshay.co.uk
 naurex.com
 ncag.ps

@@ -76,7 +76,7 @@ darkmanix.com
 dciinc.org
 dcruzf.github.io
 delincourt.fr
-deportivoalaves.com
+deportivoalaves.com = alaves|alaves football|alaves soccer|alavés|deportivo alaves|deportivo alaves soccer|deportivo alavés|艾拉維斯|艾拉維斯體育會|阿拉維斯|阿拉維斯體育會|阿拉维斯竞技俱乐部|阿拉维斯足球俱乐部
 diamondbrands.com
 dmax-magazin.de
 docme.ru

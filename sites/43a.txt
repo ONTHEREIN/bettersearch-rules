@@ -282,7 +282,6 @@ starfox.com = star fox: assault|starfox assault|星际火狐|星際火狐 assaul
 steppypants.com.au
 streamraiders.com
 studio-directory.com
-summitcasinodaily.com
 summitwageronline.com
 suonada.co.jp
 supergiantgames.com = bastion|hades|hades 2|hades ii|hades 黑帝斯|pyre|transistor|哈迪斯|堡垒|晶体管|黑帝斯|黑帝斯2|黑帝斯ii

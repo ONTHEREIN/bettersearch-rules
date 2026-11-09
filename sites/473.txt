@@ -89,6 +89,7 @@ delifrance.com = delifrance|délifrance
 derfreiewille.com
 dhi-paris.fr
 digitalfactor.de
+disneyideologie.de
 dizalpharma.com
 dolcevitasuitespraga.com
 drurypanthers.com
@@ -165,7 +166,6 @@ leica-oskar-barnack-award.com
 lenord.de
 lewisburgtn.gov
 lifeisbeautiful.com
-londongoldcenter.uk
 lorongboys.com
 luganoairport.ch
 lwsit.org
@@ -230,6 +230,7 @@ pionerosbasket.com.mx
 pixyfilm.com
 plastinarium.de
 pocoyoracing.com
+poweruppixel.de
 prettyboydo.com
 progressional.com.au
 punkrock.fr

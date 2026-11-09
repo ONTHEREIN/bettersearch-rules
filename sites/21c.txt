@@ -318,6 +318,7 @@ userstyles.org = stylish
 vadimgarbuzov.com
 valesul.com.br
 valledeegues.com
+velotic.com
 villadealia.com
 villageofdresser.com
 ville-draguignan.fr

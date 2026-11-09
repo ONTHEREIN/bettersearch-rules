@@ -55,6 +55,7 @@ copperkingindia.com
 cryogenicsociety.org
 dangrossmanmedia.com
 datacard.com
+datakanal.de
 davidlynchfoundation.org
 davysicard.fr
 diamondvippoint.com
@@ -75,6 +76,7 @@ feelitrecordshop.com
 fotosmusik.de
 fourseasonsfilmfestival.com
 fprj.es
+fullmoonbrewworks.com
 gaffa.se
 gap-packages.github.io
 garrotxahostalatge.cat
@@ -173,7 +175,6 @@ maxus-motor.gr = maxus|maxus大通|saic maxus vehicle|上汽大通|大通|大通
 mdfairview.com
 miacar.it
 michaelpmoreci.com
-mineralseducationcoalition.org
 minix-vmd.org
 mithilahaat.org
 mzpeak.org

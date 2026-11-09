@@ -9,7 +9,7 @@ ahmadiyya.ca
 aksf.org
 aladin.co.kr
 albertadiscgolf.com
-aleagues.com.au
+aleagues.com.au = a-league|a-league men|a-league women|a聯賽|hyundai a-league|w-league|澳大利亚女子足球职业联赛|澳大利亚甲级联赛|澳大利亚甲级足球联赛|澳大利亚职业足球联赛|澳大利亚足球甲级联赛|澳大利亞職業足球聯賽|澳洲甲組足球聯賽|澳洲职业足球联赛|澳洲聯業足球聯賽|澳洲職業女子足球聯賽|澳洲職業足球聯賽|澳洲超级足球联赛|澳洲足球超級聯賽|澳職|澳超|现代甲级联赛|现代甲联赛
 alexgvo.com
 amgc.org.au
 ampproject.org
@@ -245,6 +245,7 @@ sambla.se
 satoshitomiie.com
 schoenwald.com
 scorptec.com.au
+scriboranesttrail.com
 sdcde.org
 sdhpr.org
 serpsiquiatria.org

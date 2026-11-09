@@ -66,6 +66,7 @@ commonwealth.pl
 consensys.com
 cranfieldtrust.org
 csppry.org
+dailyfrance.fr
 dailyfruithub.uk
 dailysuperagency.uk
 damarisconstituyente.cl
@@ -102,6 +103,7 @@ gasandpower.co.jp
 generalimaratonmalaga.com
 gerhardvanvuurenart.com
 germania-hauenhorst.de
+ghproxy.com
 glhs.nyc
 goinginstylemovie.com
 gps-tour.info
@@ -247,6 +249,7 @@ scc.edu.cn
 scdc.org.uk
 scheringstiftung.de
 seantucker.photography
+selligent.com
 siderweb.com
 silicon-pro.com
 silverdiner.com

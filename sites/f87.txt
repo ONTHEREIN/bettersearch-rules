@@ -349,7 +349,6 @@ x-code.pl
 yarmouthmutual.com
 yasuda-yogurt.co.jp
 yuko-sound.jp
-yxdnet.com
 z.co.nz
 zangband.org = zangband
 zbigniewajchler.pl

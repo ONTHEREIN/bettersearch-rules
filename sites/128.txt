@@ -226,7 +226,6 @@ privateinternetaccess.com = private internet access
 ptplatinas.com
 pv-venkov.cz
 pyramid-show.tv
-quantumvault360.com
 rausjodalen.no
 rctpm.com
 rd.ntt

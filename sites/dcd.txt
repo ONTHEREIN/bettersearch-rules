@@ -202,7 +202,6 @@ only-roses.co.uk
 opensiddur.org
 ornaandella.com
 otechos.no
-overheardinnewyork.com
 pammakaristos-hosp.gr
 patrickmauger.com
 pferdemuseum.de
@@ -273,7 +272,6 @@ tht.cz
 tmss-bd.org
 toewrlefence.com
 tootszynsky.com
-traqq.com
 tri6game.com
 trust.com = aashima|trust
 turnto10.com

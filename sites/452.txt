@@ -14,14 +14,12 @@ applausen.no
 art.bg
 assomption-lyon.org
 aunde.com.br
-aurorajournal.uk
 axhu.cn
 baltanas.es
 beastdiscos.cl
 bentoelgroup.com
 benus.sk
 berlinika.de
-bigam.ru
 birlasunlife.com
 blackriverpublicschool.org
 bnl.gov = computer tennis|tennis for two|双人网球|电脑网球|雙人網球
@@ -47,6 +45,7 @@ chimeraos.org
 chinhung.co.kr
 christianbayon.com
 cinemapub.com
+citc.gov.sa
 claytwpbutler.com
 cloppenburg.de
 cm-ribeiragrande.pt

@@ -311,7 +311,7 @@ tommylove.com.br
 trailer.se
 treasuremytext.com
 trombettaexpress.com
-ubisoft.com = ac mirage|ac shadows|acs|assassin's creed codename red|assassin's creed mirage|assassin's creed origins|assassin's creed red|assassin's creed shadows|assassin's creed syndicate|assassin's creed unity|assassin's creed: brotherhood|assassin's creed: codename red|assassin's creed: mirage|assassin's creed: project red|assassin's creed: rebellion|assassin's creed: sydicate|assassin's creed: syndicate|assassin's creed: unity|beyond good & evil 2|division|division 1|dunia|dunia engine|dunia引擎|far cry|far cry 3|far cry 4|far cry primal|from dust|jd 2026|jd2026|jd2026e|just dance 2014|just dance 2017|just dance 2023|just dance 2023 edition|just dance 2026 edition|just dance: disney party 2|project red|rayman mini|rocksmith +|rocksmith plus|rocksmith+|scott pilgrim vs. the world: the game|starlink: battle for atlas|steep|the crew|the division|tom clancy's ghost recon breakpoint|tom clancy's the division|ubisoft connect|ubisoft game launcher|uplay|watch dogs 2|刺客信条13|刺客信条8|刺客信条9|刺客信条: 起义|刺客信条大革命|刺客信条：兄弟会|刺客信条：大革命|刺客信条：幻象|刺客信条：影|刺客信條：兄弟會|刺客信條：起源|刺客教条：暗影者|刺客教條：兄弟會|刺客教條：大革命|刺客教條：幻象|刺客教條：暗影者|刺客教條：梟雄|大革命|孤岛惊魂|孤岛惊魂3|孤岛惊魂4|孤岛惊魂：原始杀戮|幽灵行动：断点|教條刺客13|星链：阿特拉斯之战|极限巅峰|極地戰嚎|極地戰嚎3|極地戰嚎4|極限巔峰|歪小子斯科特对抗全世界|歪小子斯科特對抗全世界|湯姆克蘭西：全境封鎖|火線獵殺：絕境|灰烬|灰燼|看門狗2|神鬼冒險2|舞力全开2014|舞力全开2017|舞力全开2026|舞力全開2014|舞力全開2017|超越善恶2|远哭3|飆酷車神
+ubisoft.com = a117: pr|a117:pr|a117pr|ac origins|ac2|ac: origins|anno 117|anno 117 pax romana|anno 117: pax romana|assassin's creed 2|assassin's creed empire|assassin's creed ii|assassin's creed iv: black flag|assassin's creed odyssey|assassin's creed origins|assassin's creed unity|assassin's creed valhalla|assassin's creed: empire|assassin's creed: origins|assassin's creed: unity|assassin's creed® 2|atomega|beyond good & evil 2|dunia|dunia engine|dunia引擎|far cry 4|far cry 5|far cry primal|fc5|for honor|ghost recon: wildlands|just dance 2016|just dance 2023|just dance 2023 edition|just dance 2025|just dance 2025 edition|just dance 舞力全開 2025|just dance 舞力全開2016|mario + rabbids sparks of hope|mario + rabbids: sparks of hope|mario+rabbids sparks of hope|pax romana|rabbids sparks of hope|rocksmith +|rocksmith plus|rocksmith+|sparks of hope|steep|the crew 2|the settlers: new allies|tom clancy's ghost recon wildlands|tom clancy's ghost recon: wildlands|ubisoft connect|ubisoft game launcher|uplay|刺客信条10|刺客信条7|刺客信条8|刺客信条ii|刺客信条大革命|刺客信条起源|刺客信条：大革命|刺客信条：奥德赛|刺客信条：英灵殿|刺客信條2|刺客信條ii|刺客信條：起源|刺客教条：起源|刺客教條2|刺客教條ii|刺客教條iv：黑旗|刺客教條：大革命|刺客教條：奧德賽|大革命|孤岛惊魂4|孤岛惊魂5|孤岛惊魂：原始杀戮|工人物語|工人物語：新同盟|工人物语|极地战嚎5|极限巅峰|極地戰嚎4|極地戰嚎5|極限巔峰|榮耀戰魂|火線獵殺：境外之地|瑪利奧+瘋狂兔子 希望之星|瑪利歐 ＋ 瘋狂兔子 希望之星|瑪利歐+瘋狂兔子 希望之星|神鬼冒險2|美麗新世界117：羅馬治世|舞力全开2016|舞力全開2016|超越善恶2|远哭5|飆酷車神2: 動力世界|马力欧+疯狂兔子 希望之星|马力欧+疯狂兔子 星耀之愿
 unedcervera.com
 unn.com.ua
 usa7evenings.top
@@ -332,6 +332,7 @@ wbul.com
 wemms.eu
 wfaa.com
 wg2019.at
+wordechotrailfeed.com
 worldofpadman.net = world of padman
 xn--sognefogedgrden-rlb.dk
 ybht.co.jp

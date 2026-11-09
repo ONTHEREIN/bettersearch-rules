@@ -67,6 +67,7 @@ chevrolet.co.in
 chmelnik.cz
 chromium.org = blink|chromium|chromium os|chromiumos|google chromium os
 chsa.com.br
+claritycenter.ca
 cleppe.fr
 clubsesso.com
 cooppatenschaft.ch

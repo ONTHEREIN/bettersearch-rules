@@ -40,6 +40,7 @@ brettlbuehne-vaterstetten.de
 brtimmermans.be
 brtlabs.com
 bsmkweb.cc
+buzzsouthafrica.com
 byethost12.com
 c-water.com.cn
 ca7beyonds.xyz
@@ -284,7 +285,7 @@ teatrobelli.it
 teces.si
 tech21nyc.com
 terrorfifest.com
-tether.to = 2200|tether|usdt|泰达币|泰達幣
+tether.to = tether|usdt|泰达币|泰達幣
 thealstonlongridge.co.uk
 thecuttingroomnycisff.com
 thehauntedyouth.be

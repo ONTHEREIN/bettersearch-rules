@@ -42,7 +42,7 @@ brafim.cat
 brechthaus-augsburg.de
 bridgetoeverywhere.org
 btschool.co.uk
-bwfc.co.uk = bolton|bolton wanderers|bolton wanderers f.c.|bolton wanderers fc|bolton wanderers football club|bwfc|the trotters|wanderers|博尔顿漫游者足球俱乐部|博尔顿足球俱乐部|博爾頓足球俱樂部
+bwfc.co.uk
 capciudaddemurcia.com
 carlespratvives.com
 catcentral.cat

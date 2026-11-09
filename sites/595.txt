@@ -6,7 +6,6 @@ abadia.es
 abaza-raion.ru
 abovethefoldgame.com
 adachikana.com
-advocaat.be
 afmuseet.no
 agvespa.be
 agwo.org
@@ -267,7 +266,6 @@ shuntaito.com
 siamschool.info
 sieniawa.pl
 signalprocessingsociety.org
-simpleonline.uk
 sinarquismo.info
 smartspaceclub.nl
 sohamray19.github.io

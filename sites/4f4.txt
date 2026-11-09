@@ -168,7 +168,6 @@ jupytools.com
 kalynnbayron.com
 kaokangaroo.com = kao the kangaroo|kao the kangaroo 4|ktk|袋鼠小天王
 kingedwardprimary.org.uk
-kingston.house
 kiso.or.jp
 kitakama.ac.jp
 kkplama-pur.si
@@ -252,6 +251,7 @@ risingms.com
 romeshg.com
 rougegoutte.fr
 roxymovietheatre.com
+royalguideline.nl
 royalmark.nl
 rue-des-scribes.com
 ruehl-racing.com

@@ -131,6 +131,7 @@ izzatullah.com
 j-inagaki.com
 jiading.gov.cn
 jillholterman.nl
+johnsoncountypost.com
 journalfees.com
 juliane-sommer.de
 junkmilesshow.com
@@ -290,7 +291,6 @@ urbanwildgroup.uk
 usf2000.com
 valfrutta.it
 vasp.at = vasp|vienna ab initio simulation package|vienna ab-initio simulation package|原子尺度材料模拟的计算机程序包|第一性原理材料模拟软件|维也纳从头算模拟软件包|维也纳第一性模拟计算包
-vectorprime.nl
 virgilpeck.com
 visang.com
 vlan.be

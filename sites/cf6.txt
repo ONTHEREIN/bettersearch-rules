@@ -80,6 +80,7 @@ cscdf.org
 csiic.com
 cubuntu.fr = cubuntu
 culturecolony.com
+curriculumworks.ae
 davidmorenoweb.com
 davitamon.nl
 der-geithainer.de
@@ -316,6 +317,7 @@ tsv-goetzingen.de
 tudorbratu.com
 u-chang.kr
 universalist.org
+urbansurvivalsite.com
 vagrus.com
 vanavil.org
 vehanoispa.com

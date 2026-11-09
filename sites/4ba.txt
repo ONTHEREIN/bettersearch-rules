@@ -23,7 +23,6 @@ aubonclimat.com
 aucklandbotanicgardens.co.nz
 avantgardet.se
 avatrade.mn = avatrade|avatrade company
-badcase.org
 badmania.fr
 baris-akarsu.com
 belichanka.com
@@ -98,7 +97,6 @@ geoapi.org
 giuseppelocati.it
 glattfelder.eu
 goafricabookings.com
-gptbots.ai
 granby-ct.gov
 grayacademy.ca
 guardiansofthefreerepublics.com
@@ -175,7 +173,6 @@ microbo.com
 midletoncollege.ie
 militaryontology.org
 mlwell.org
-moraleboost.co.uk
 moreheadplanetarium.org
 musee-arromanches.fr
 museodehistoriadearevalo.blogspot.com

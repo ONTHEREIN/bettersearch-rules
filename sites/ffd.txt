@@ -11,7 +11,6 @@ aichi-steel.co.jp
 aks-web.de
 alexisdumont.brussels
 all-languages.org.uk
-alphawagerpoint.com
 altec.gr
 alvandfc.ir
 ameyugo.es
@@ -51,7 +50,6 @@ bpascal.fr
 branszczyk.pl
 breedingcompany.com
 brightfuturettcollege.com
-britarenaproject.uk
 brucegilden.com
 brzeznio.pl
 busantel.com
@@ -186,6 +184,7 @@ linaro.org = linaro
 liskajacobs.com
 littonweekendadventure.com
 loonriver.net
+losangeles.com
 lusomondo-italia.it
 lyceedupaysdesoule.fr
 majboellevigsnaes.dk

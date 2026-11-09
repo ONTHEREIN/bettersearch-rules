@@ -100,6 +100,7 @@ elixir-portugal.org
 elvesport.no
 ennaharonline.com
 erguer.gal
+every.com
 ewb.nu
 exarchat.cz
 festivalorangerie.fr
@@ -169,7 +170,6 @@ livenation.it
 liverpooltennis.co.uk
 lkvr.cz
 lmy.de
-logicguide.nl
 logixgroup.in
 loosvanvliet.nl
 lpfilmmusic.co.uk

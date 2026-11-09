@@ -54,6 +54,7 @@ cegepmontpetit.ca
 centralresearchlaboratory.com
 cerelshop.com
 cffc.tv
+chainworld.ca
 chillygonzales.com
 chromebook-kopen.com
 cityofpilotpoint.org
@@ -82,6 +83,7 @@ emser-bergbaumuseum.de
 energia.ie
 enhance-experience.com
 enject.com
+ennerdaleconsulting.co.uk
 erinenderlin.com
 esther2000.github.io
 evangelische-akademie.de
@@ -104,7 +106,6 @@ genvec.com
 giamilinovich.com
 gigatribe.com = gigatribe|giga部族
 glennfredly.com
-goldenpalacepoint.com
 gouv.tg
 grallers.cat
 greg.technology
@@ -279,7 +280,6 @@ smallaxe.net
 snowplow.io
 solbum.ru
 sonovol.com
-spacewavesgame.io
 spcoesindgi.org
 spoffin.eu
 srividyavikas.com

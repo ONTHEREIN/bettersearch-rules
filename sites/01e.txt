@@ -142,6 +142,7 @@ harrisgeospatial.com = idl|interactive data language|互動式數據語言
 havanatimes.org
 headscan.ca
 hearth.com
+hisimon.pro
 hogeraadvanadel.nl
 honganji.net
 honghaihome.com
@@ -205,6 +206,7 @@ marrinanart.com
 mas-aktivios.cz
 matthewfox.org
 mdjdx.cn
+mediacenter.hu
 melanienichollsking.com
 metroplayfortune.it
 michaelhingston.com

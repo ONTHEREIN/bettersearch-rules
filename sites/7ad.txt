@@ -19,7 +19,6 @@ armt.fr
 arnes.si = extended operating system loader|xosl
 art-jankubicek.cz
 artmineko.com
-aurorainnovations.ca
 avanscibio.com
 badshahcric.org
 ballparkdigest.com
@@ -211,6 +210,7 @@ oceaniatennis.com
 octubreteatral.com
 oedp-hof-wunsiedel.de
 officialgenaleenolin.com
+omnibusdannenmann.de
 opstinadoljevac.rs
 osoyoos.ca
 ozbic.me

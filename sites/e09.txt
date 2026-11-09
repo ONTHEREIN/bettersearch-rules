@@ -43,6 +43,7 @@ caet.cat
 camillelenain.com
 capitalgazette.com = capital|capital gazette|capital gazette, annapolis, md.|the capital|首府新聞報|首府新闻报
 carnavalize.com
+casinovipcity.us
 catharina-school.nl
 cbmcollege.in
 ccfa.org
@@ -134,7 +135,6 @@ hussrides.com
 ikast-fs.dk
 imnf.org
 ine-aburaya.com
-insidevoa.com
 instituteforenergyresearch.org
 islamicarchitecture.wordpress.com
 it.it
@@ -223,7 +223,6 @@ nyadannekrogen.se
 nyankohime.net
 obecdolany.cz
 oceanacemedia.it
-oddsoasis.us
 ohlebinino.ru
 okkadisk.com
 opelnetworks.com.au

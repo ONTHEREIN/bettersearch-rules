@@ -101,7 +101,6 @@ fifeshirefoundation.co.nz
 filarmonicais.ro
 flex.nl
 florentmaussion.net
-fmlink.com
 fondationpassionsalsace.com
 freia.no
 fusionspark.it
@@ -126,7 +125,7 @@ han363.com
 harborliteschorus.org
 harrysergeev.com
 haugronning.no
-helloween.org
+helloween.org = helloween|万圣节乐团|萬聖節樂團
 heypinchy.com
 hidakagawa.net
 historicoldcitycemetery.org

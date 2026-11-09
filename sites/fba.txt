@@ -1,3 +1,4 @@
+10cric.website
 5dsound.bg
 929jackfm.com
 academia.md
@@ -103,6 +104,7 @@ fk-aircraft.com
 fluxlogic.ca
 forwardinfaith.com
 franckallisio.com
+freshgamblestudio.com
 futuraofficial.com
 gbich.com
 gemeinde-bokhorst.de
@@ -127,7 +129,6 @@ historische-bibliothek-rastatt.de
 hku-szh.org
 hlavkovanadace.cz
 hrfreaks.co.jp
-hyperpokerbase.com
 iaapi.org
 ibramedia.se
 ifm-bonn.org
@@ -135,6 +136,7 @@ iobit.com = advanced systemcare|driver booster|iobit driver booster|iobit malwar
 itracasa.es
 j-ax.it
 jacksons-fencing.co.uk
+jensenburgers.com
 jinshinm.cn
 jonathanluna.com
 js-xhjc.com
@@ -254,6 +256,7 @@ stephanekuthy.com
 stephen-simpson.com
 swkbank.de
 sxtianshi.com
+tadwilson.com
 taiyo-chemicals.co.jp
 tanshidai.cn
 tdb.fi

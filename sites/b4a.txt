@@ -183,7 +183,6 @@ musee-cruzy-acap.fr
 museoautosantiguoschile.cl
 museoscienzesgt.it
 myfooddiary.com
-nadiamarcinkomodel.com
 nadine-grelet-certenais-senatrice.fr
 nalench.com
 nawarddekenacademy.com
@@ -206,6 +205,7 @@ pedrofrancke.com
 photocyte.github.io
 photofiltre.com
 polgar.hu
+politicalcapital.hu
 politicallyreactive.com
 posse-mag.fr
 praesteforening.dk

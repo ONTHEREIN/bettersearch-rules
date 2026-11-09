@@ -72,6 +72,7 @@ dazranovak.com
 deaditepress.com
 decolabels.com
 deepwiki.com
+dexysonline.com
 dictionsoftware.com
 dieppe-cerf-volant.org
 digitalhappiness.net
@@ -132,7 +133,6 @@ imleagues.com
 inari.jp
 inav.ro
 inspion-agc.co.jp
-int-comp.org
 intercommunalites.fr
 jbhfoundation.ca
 jboss.org = richfaces
@@ -144,7 +144,6 @@ jungle-world.com
 justinadamsmusic.com
 justinhileman.com
 kaddouch-music.com
-kaeufersiegel.de
 kanehodderkills.com
 kansai-rinri.org
 kanto-gakuen.ac.jp

@@ -16,6 +16,7 @@ al1jup.com
 alecoleary.com
 alfa-college.nl
 allgaeu-gymnasium.de
+alphaspot.co.uk
 alvinrakoff.com
 amagerbryghus.dk
 amarinestorymovie.com
@@ -81,6 +82,7 @@ college-saintjacqueslaforet.fr
 concordiakarting.it
 cpp.hk
 crisismappers.jp
+cyberjournalist.net
 dailyplaza.co.kr
 daniellelaporte.com
 dankennygamedesign.com
@@ -279,7 +281,7 @@ sppdtci.com
 srjmahavidyalay.org
 statueofliberty.org
 stbridesprimary.org.uk
-steelydan.com = steely dan|史提利丹|史提利丹樂團|斯坦利·丹|斯迪利·丹|鋼鐵浮標|钢铁浮标
+steelydan.com
 sterlingboosters.com
 stonestorm.gg
 studioincorrect.com

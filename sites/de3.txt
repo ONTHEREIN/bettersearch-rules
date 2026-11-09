@@ -12,6 +12,7 @@ alliancefr.be
 alqadeer.in
 amiga.no
 andreachiesa.com
+angkanet38.com
 aniene.it
 anthonytwomoons.com
 arc.int
@@ -201,7 +202,6 @@ pedrocapomusica.com
 peggywho.com
 performous.org = performous|ultrastar-ng
 phareps.org
-playdigitalblog.nl
 plymouth-diocese.org.uk
 politikus.info
 primarysource.org

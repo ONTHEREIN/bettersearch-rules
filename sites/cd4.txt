@@ -72,7 +72,6 @@ d-k.no
 dailystudio.uk
 danskefilm.dk = dansk film database|danskefilm.dk
 deref-web-02.de
-destination-nancy.com
 dismember.se
 dl4eo.com
 dlnet.gov.cn

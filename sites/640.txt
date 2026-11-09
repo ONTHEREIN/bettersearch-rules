@@ -50,7 +50,6 @@ cityofcarver.com
 clinedem.com
 club41francais.fr
 cnema.se
-conexionideasplaza.mx
 cooler-online.com
 corinneheyrman.com
 coventryjets.com
@@ -321,7 +320,6 @@ xn--martin-kohn-fr-bad-mnder-7sch.de
 xoilac.com.mx
 yalecancercenter.org
 yetiintelligence.com
-z-lib.sk = z library|z-lib|z-library|zlibrary
 zemne.sk
 zengrouplab.it
 zipspace.ch

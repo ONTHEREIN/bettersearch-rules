@@ -176,6 +176,7 @@ malzhaus.de
 mapwindow.org = mapwindow gis
 marmel.com
 matjohnson.info
+meaningfuleats.com
 michi-ehon.jp
 mikamatsuno.jp
 mindanews.com = mindanews
@@ -307,7 +308,6 @@ vergleich.org
 verkstedet.com
 villederethel.fr
 vinolevice.sk
-visionspinhub.com
 visitsuupohja.fi
 vlblaha.cz
 voltacatalunyafemenina.cat

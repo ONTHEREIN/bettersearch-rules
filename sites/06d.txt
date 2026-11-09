@@ -94,6 +94,7 @@ djsackmann.com
 dodonov.ru
 dornellesmusic.com.br
 downtoearth.org
+duba.com
 dylanwesterweel.com
 eastguide.it
 eastland308.com
@@ -328,7 +329,6 @@ wavecornersmart.nl
 wellshall.co.uk
 widerspruch.com
 wiser.org = wiser.org
-wordly.ai
 xiigames.com = resonance
 xn----7sbyhieficn7a1d.xn--p1ai
 xylemlearning.com

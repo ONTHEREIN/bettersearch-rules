@@ -63,6 +63,7 @@ contaware.com
 cowchain.io
 creehealth.org
 crownplayzone.nl
+crsrecords.se
 cuiluan.gov.cn
 czszx.gov.cn
 dallasdiabetes.com
@@ -127,7 +128,7 @@ historymedjournal.com
 hool.tv
 hotsugwanji.com
 hptg.com
-hsbc.co.in
+hsbc.co.in = bital|hsbc|hsbc bank usa|hsbc holdings plc|汇丰控股|滙控|滙豐|滙豐控股|滙豐控股有限公司|滙豐集團
 hunfalvy-szki.hu
 hyundaicorp.com
 ibeammaterials.com

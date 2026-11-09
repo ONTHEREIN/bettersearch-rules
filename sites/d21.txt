@@ -74,7 +74,6 @@ elhs.org
 elm-lang.org = elm
 enmas.dz
 eunjukangarts.com
-euttaranchal.com
 everythingkitchens.com
 evofinancialgroup.com
 fanshawepioneervillage.ca
@@ -251,7 +250,6 @@ rarenoiserecords.com
 raymondharmon.com
 recruit-dc.co.jp
 redbankvalley.net
-reddigitalcinema.com
 robertpaquette.ca
 roundrockisd.org
 rove.wiki

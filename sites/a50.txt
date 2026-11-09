@@ -119,7 +119,6 @@ freeradius.org = freeradius
 g-music.com.tw
 ganhri.org
 gaysurfers.com
-getmeregistered.com
 glassdoor.es
 glockenmuseum-gescher.de
 govnet.com
@@ -317,6 +316,7 @@ unitedvolleys.de
 unsa-financesindustrie.org
 urbanauapp.org
 videniefest.ru
+visionpalacestudio.com
 vollkorn-typeface.com
 vorsite.nl
 waudru.be

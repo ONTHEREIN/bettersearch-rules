@@ -34,6 +34,7 @@ birmingham6.com
 bnet.hr
 bookscouter.com
 bregnier-cordon.fr
+brightslotsdaily.com
 bristolhospital.org
 brycoat.com
 bse-methanol.com
@@ -236,7 +237,6 @@ precisionpolyolefins.com
 pressesdesmines.com
 primegamingdirect.uk
 pydap.org
-questorbit.us
 reds.com
 religieusesdusacrecoeur.com
 renaze53.fr
@@ -339,7 +339,7 @@ wqez.fm
 wtsr.org
 yamazawa.co.jp
 yellowwagtailpub.co.uk
-zelda.com = 1998 ocarina of time|2000 majora's mask|2004 four swords|2011 ocarina of time 3d|2011 skyward sword|adventure of link|four swords adventures|legend of zelda: oracle of ages, the|majora's mask|minish cap|ocarina of time|ocarina of time 3d|oot|oot3d|oracle of ages|oracle of ages and oracle of seasons|oracle of seasons and oracle of ages|spirit tracks|steam whistle of earth|the adventure of link|the legend of zelda 2: link no bouken|the legend of zelda 2: link no bōken|the legend of zelda spirit tracks|the legend of zelda: link's awakening|the legend of zelda: majora's mask|the legend of zelda: ocarina of time|the legend of zelda: ocarina of time 3d|the legend of zelda: oracle of ages|the legend of zelda: oracle of seasons|the legend of zelda: skyward sword|the legend of zelda: spirit tracks|the legend of zelda: the minish cap|the minish cap|tloz four swords adventures|tloz spirit tracks|tloz: four swords adventures|tloz: mm|tloz: oot|tloz: spirit tracks|zelda 64|zelda four swords adventures|zelda ii: the adventure of link|zelda no densetsu: fushigi no boushi|zelda no densetsu: fushigi no bōshi|zelda ocarina of time|zelda oot|zelda spirit tracks|zelda: four swords adventures|zelda: ocarina of time|zelda: oot|zelda: spirit tracks|塞尔达传说 大地的汽笛|塞尔达传说 天空之剑|塞尔达传说 姆吉拉的假面|塞尔达传说 御天之剑|塞尔达传说 时之笛|塞尔达传说 时之笛 3d|塞尔达传说 时光之笛|塞尔达传说 时光之笛 3d|塞尔达传说 灵魂轨迹|塞尔达传说 穆修拉的假面|塞尔达传说 织梦岛|塞尔达传说 缩小帽|塞尔达传说 魔吉拉的面具|塞尔达传说-时光之笛-|塞尔达传说:时光之笛|塞尔达传说：姆吉拉的假面|塞尔达传说：时之笛|塞尔达传说：时光之笛|塞爾達傳說 時光之笛 3d|姆吉拉的假面|時之笛|時光之笛|林克的冒险|林克的冒險|梅祖拉的面具|穆修拉的假面|萨尔达传说 大地汽笛|萨尔达传说 时之笛|萨尔达传说 时光之笛|薩爾達傳說 skyward sword|薩爾達傳說 不可思議的帽子|薩爾達傳說 四人之劍+|薩爾達傳說 大地汽笛|薩爾達傳說 姆吉拉的假面|薩爾達傳說 時之笛|薩爾達傳說 時之笛 3d|薩爾達傳說 時光之笛|薩爾達傳說 神祕果實|薩爾達傳說 禦天之劍|薩爾達傳說 穆修拉的假面|薩爾達傳說 織夢島|薩爾達傳說 魔吉拉的面具|薩爾達傳說：skyward sword|薩爾達傳說：大地汽笛|薩爾達傳說：天空之劍|薩爾達傳說：姆吉拉的假面|薩爾達傳說：時之笛|薩爾達傳說：時光之笛|薩爾達傳說～時之笛
+zelda.com = 1998 ocarina of time|2000 majora's mask|2002 wind waker|2011 skyward sword|2019 link's awakening|2021 skyward sword|dreaming island|lans|legend of zelda|link's awakening|loz|loz sshd|majora's mask|master quest|ocarina of time|oot|oracle of ages and oracle of seasons|oracle of seasons and oracle of ages|skyward sword hd|sshd|tact of wind|the hyrule fantasy|the hyrule fantasy: zelda no densetsu|the legend of zelda|the legend of zelda: dreaming island|the legend of zelda: link's awakening|the legend of zelda: majora's mask|the legend of zelda: ocarina of time|the legend of zelda: skyward sword|the legend of zelda: skyward sword hd|the legend of zelda: tact of wind|the legend of zelda: the wind waker|the legend of zelda: tri force heroes|the wind waker|tloz|tloz tri force heroes|tloz: mm|tloz: oot|tloz: tri force heroes|tri force heroes|triforce 3 musketeers|triforce heroes|wind waker|zelda|zelda 1|zelda 64|zelda master quest|zelda no densetsu|zelda ocarina of time|zelda oot|zelda: ocarina of time|zelda: oot|塞尔达传说|塞尔达传说 三角力量英雄|塞尔达传说 天空之剑hd|塞尔达传说 姆吉拉的假面|塞尔达传说 御天之剑|塞尔达传说 御天之剑hd|塞尔达传说 时之笛|塞尔达传说 时光之笛|塞尔达传说 梦见岛|塞尔达传说 穆修拉的假面|塞尔达传说 织梦岛|塞尔达传说 风之杖|塞尔达传说 魔吉拉的面具|塞尔达传说-时光之笛-|塞尔达传说:时光之笛|塞尔达传说：姆吉拉的假面|塞尔达传说：时之笛|塞尔达传说：时光之笛|塞尔达传说：珍藏版|塞爾達傳說：珍藏版|姆吉拉的假面|時之笛|時光之笛|梅祖拉的面具|海拉尔幻想|海拉魯幻想|穆修拉的假面|萨尔达传说 时之笛|萨尔达传说 时光之笛|薩爾達傳說|薩爾達傳說 skyward sword|薩爾達傳說 三角神力三劍士|薩爾達傳說 姆吉拉的假面|薩爾達傳說 時之笛|薩爾達傳說 時光之笛|薩爾達傳說 神祕果實|薩爾達傳說 禦天之劍|薩爾達傳說 禦天之劍hd|薩爾達傳說 穆修拉的假面|薩爾達傳說 織夢島|薩爾達傳說 風之律動|薩爾達傳說 魔吉拉的面具|薩爾達傳說：姆吉拉的假面|薩爾達傳說：時之笛|薩爾達傳說：時光之笛|薩爾達傳說：風之律動|薩爾達傳說：風的律動|薩爾達傳說～時之笛
 zeromacho.wordpress.com
 zidovskaobecdecin.cz
 zurb.com

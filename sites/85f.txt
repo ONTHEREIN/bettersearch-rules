@@ -133,6 +133,7 @@ ijdrd.com
 imt-ip.pt
 indiebookawards.com
 inrix.com
+intelligentparameters.com
 isernhagen.de
 isle-aux-allumettes.com
 issoufsoumare.com
@@ -172,7 +173,6 @@ lusciousjackson.us
 lycos.es
 mariecurie-sceaux.live
 marnifreedman.com
-matrixigaming.co.uk
 maxtomlinson.wordpress.com
 medinet.or.kr
 medrfc.eu
@@ -238,7 +238,6 @@ rentastore.co.za
 revistafreakout.wordpress.com
 rfb.co.jp
 rgd.nl
-riverbase.uk
 robertshuresculptor.com
 rockbrigade.com.br
 rollhockey-online.de
@@ -261,7 +260,6 @@ simonthurley.com
 sita.aero = sita|国际航空电讯集团公司
 skinakiska.com
 sla.org.uk
-slamjam.com
 smartslotdesk.uk
 smashingconf.com
 smv.org

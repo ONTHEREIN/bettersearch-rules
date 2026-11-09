@@ -94,7 +94,7 @@ fcjk.me
 felixbaumgartner.com
 ffa.org
 ffbf.com
-fi.edu
+fi.edu = benjamin franklin medal|franklin institute awards|富兰克林研究所奖项
 finbandy.fi
 floridafrenchcongres.org
 foodanimalconcernstrust.org

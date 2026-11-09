@@ -152,6 +152,7 @@ illtal-gymnasium.de
 iwin.com = build-a-lot|jewel quest|宝石翻天乐系列
 jains.com
 jalava.fi
+janjan.jp
 jazzavannes.fr
 jedediahbila.com
 jennifergrassman.com
@@ -257,6 +258,7 @@ salleslasource.fr
 sarahmeiherman.nl
 satw.ch
 scoutshonour.com = digital: a love story|digital:_a_love_story|don't take it personally, babe|dtipbijays|别当真，这不是属于你的故事
+scratchgamesonline.io
 scylla.ch
 sebasdiekstra.nl
 sedgehillandsemleyparishcouncil.org.uk

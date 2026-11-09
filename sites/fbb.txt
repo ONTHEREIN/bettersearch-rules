@@ -308,6 +308,7 @@ translators.at
 travelcounsellors.nl
 trigun-movie.com
 tsjablunkov.cz
+tsouz.ru
 turningpoints.ngo
 twospiritmanitoba.ca
 uaf.edu
@@ -316,7 +317,6 @@ universemetaphysicallawsuit.com
 unogeeks.com
 urbanvaulthub.nl
 utribubnu.cz
-vallarta-adventures.com
 velazquez.press
 verifiedfirst.com
 ville-sarlat.fr

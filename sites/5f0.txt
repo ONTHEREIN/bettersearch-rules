@@ -76,6 +76,7 @@ dna-view.com
 doctorflake.com
 domotokyo.com
 dorringtonacademy.co.uk
+drancatau.com
 dungeoncrawl.org = linley's dungeon crawl
 e-onsoftware.com = e-on vue|vue
 eichenberg-bodensee.at
@@ -160,6 +161,7 @@ kdu.md
 kdys.or.kr
 kenjilopezalt.com
 kgurbanvillage.com.au
+kickoffpages.com
 kimble.fi
 kino-ebersbach.de
 kiu-yokaichiba.com

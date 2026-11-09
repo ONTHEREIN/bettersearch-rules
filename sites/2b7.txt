@@ -125,7 +125,6 @@ gordongoodwin.com
 graakallbanen.no
 hana-alice.com
 hannaandersson.com
-harborcenter.uk
 hfzcap.com
 hmdb.org = historical marker database|historicalmarkers|hmdb|hmdb.org|the historical marker database|thmdb
 hobbies-em.com
@@ -220,6 +219,7 @@ nineyardsfilms.com
 ninjareflex.com = ninja reflex
 nipr.com
 nordp.org
+norma.uz
 notredamedelunite.org
 nttsecurity.com
 numberworld.info

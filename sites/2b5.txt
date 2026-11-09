@@ -13,7 +13,7 @@ anesco.co.uk
 ansporran.at
 anuragthakur.in
 anzca.edu.au
-arirang.com
+arirang.com = arirang|arirang news|arirang tv|arirang.com|阿里郎国际广播|阿里郎国际放送|阿里郎國際放送|阿里郎新闻|阿里郎电视台|阿里郎電視台
 ars-altdorf.de
 artcraft.org.hk
 asauk.net
@@ -236,7 +236,6 @@ restaurodelduomo.org
 retobuzano.com
 robertholl.at
 robringart.com
-royalbetzone.us
 rrj.ca
 ruijie.com
 samjinpharm.co.kr

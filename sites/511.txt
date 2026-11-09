@@ -19,7 +19,6 @@ anzpremiership.co.nz
 archerhotel.com
 armadacare.com
 article36.org
-assebel.co
 asuatravessia.com
 athena-group.com
 attheraces.com
@@ -104,6 +103,7 @@ fruitonline.uk
 fuhobus.com.tw
 fukushima-med-jrc.jp
 fundphoenix.org
+g3journal.org
 gamedesigning.org
 gaychristian.net
 gedionfernandez.com

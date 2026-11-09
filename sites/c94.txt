@@ -10,7 +10,6 @@ adultswim.com.au
 af-montage.at
 africa.com
 agnitum.com = outpost firewall|outpost firewall pro
-ajaccio-tourisme.com
 ajlloretdevistalegre.net
 akcent-hotel.cz
 alberguescantabria.es
@@ -137,7 +136,6 @@ guilhermemussi.com.br
 gungho.jp = divine gate|eco creatures: save the forest|puzzle & dragons|puzzle and dragons|智龍迷城|神聖之門|龍族拼圖 超級瑪利歐兄弟版
 gurupiesporteclube.com.br
 hans-dieter-dreher.de
-harborworks.uk
 heilsarmee.ch
 hetspectrumhoorn.nl
 historisches-lexikon-bayerns.de
@@ -317,6 +315,7 @@ tvpinsk.by
 twinriver.com
 ukcloud.com
 uknowskaa.com
+unitedcore.ca
 uniti.com
 univ-djelfa.dz
 urba2000.com

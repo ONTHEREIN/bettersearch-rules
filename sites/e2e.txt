@@ -89,6 +89,7 @@ dl.ac.uk = gamess|gamess-uk
 dlohar.github.io
 dmg-lib.org
 doshisha-rugby.com
+drpeppermuseum.com
 dsh.fi
 dukanorbert.hu
 e2s.cat

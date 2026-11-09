@@ -41,7 +41,6 @@ btsz.org
 buffalonavalpark.org
 californiacoastline.org
 cattailsgame.com
-choicepulse.uk
 christiandanielmusic.com
 cinemagrandprix.com
 cinemapernambucano.com.br
@@ -252,7 +251,6 @@ sannedebakker.nl
 saragideon.com
 sarswatittcollege.com
 scepterpublishers.org
-schloka.com
 schule-am-ried.de
 scissorsforlefty.com
 scith.netlify.app
@@ -282,7 +280,6 @@ submarino.com.br
 success.edu
 sullivansgulchpdx.com
 swanandtalbot.com
-swiftgate.uk
 szeleveny.hu
 sztukatulka.pl
 tactic.net

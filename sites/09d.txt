@@ -6,6 +6,7 @@ activatedcontent.com
 aeroclub-narbonne.com
 afrobenin.org
 agglo-foix-varilhes.fr
+alethea.ai
 alfafara.es
 alibaba-damo-academy.github.io
 alpine-select.ch
@@ -269,7 +270,6 @@ siberianhealth.com
 sitzungsdienst-hildesheim.de
 skniigpsh.ru
 sledcom.ru
-slotsupdatepresshub.co.uk
 smartplayworks.uk
 smnh.org
 sommelier.bg

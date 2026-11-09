@@ -124,7 +124,6 @@ gulsanam.uz
 gut.org
 haciendanapoles.com = hacienda napoles|hacienda nápoles|納普勒斯莊園
 hallbergmoos.de
-harborview.uk
 harryzhangog.github.io
 hattemona.no
 heinekenbrasil.com.br
@@ -292,6 +291,7 @@ uni-pr.edu
 unipacgv.com.br
 unitrecords.com
 univ-montp2.fr
+usaenvivo.com
 uwrv.org
 vdst-karlsruhe.de
 vernerovice.cz

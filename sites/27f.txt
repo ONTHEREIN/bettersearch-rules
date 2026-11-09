@@ -44,7 +44,6 @@ boogarins.top
 brankocucak.com
 britarenapoint.uk
 britcoindirect.uk
-britreelsstore.uk
 brpf.org
 bullheadcity.com
 buz.at
@@ -190,7 +189,6 @@ leipziger-messe.de = leipzig trade fair|leipziger messe gmbh|莱比锡博览会|
 lenagrueber.de
 lesvictoiresdelabretagne.bzh
 lilycoxrichard.com
-livsperspektiven.se
 londonbetsworks.uk
 love-nippon.com
 lowtechmagic.ch

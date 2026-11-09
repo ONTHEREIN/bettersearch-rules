@@ -40,7 +40,6 @@ blog66author.shop
 bofaml.com = bank of america merrill lynch|美银美林集团
 boischatel.ca
 borsabcn.es
-bqgkko.vip
 brakel.de
 brianhaig.net
 britgoldcenter.uk
@@ -315,6 +314,7 @@ vik-silistra.com
 vistaroyalworld.it
 vme.hu
 vocalink.com
+weissbraeu-schwendl.de
 weverse.co
 whitestein.com
 whlingmao.cn

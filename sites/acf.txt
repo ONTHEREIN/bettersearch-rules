@@ -71,6 +71,7 @@ davidetalbert.com
 dawnchan.com
 deadmilkmen.com
 delicatebeast.com
+deusexremastered.com
 diprip.com
 dolikara.com
 dumbbellsthemovie.com
@@ -121,7 +122,6 @@ hurtarmsambergate.co.uk
 hustadvikingen.no
 igorrr.com
 inbattle.se
-insidefutbol.com
 iwm.org.uk
 jaaphoeve.com
 japatonic.com
@@ -199,6 +199,7 @@ otbremedia.com
 ottawaartassociation.ca
 parivahan.gov.in
 pashbooks.jp
+patrigsby.com
 pchell.com
 pdcurses.org = pdcurses
 pegasusacademytrust.org
@@ -228,7 +229,6 @@ seedsgrowfood.org
 sg-hage.de
 shift-tech.jp
 shootingclerks.com
-silverjackpotpro.com
 sjfkcc.org.uk
 soke-tsc.co.uk
 spaarnegasthuis.nl

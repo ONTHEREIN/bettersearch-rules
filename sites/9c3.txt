@@ -210,7 +210,6 @@ munkebjergbykirke.dk
 muskegonheritage.org
 mydentist.co.uk
 n3krozoft.com
-naruto.lg.jp
 ncjustice.org
 networkbookmarks.com
 neutron-sciences.org
@@ -240,14 +239,14 @@ peterdalescott.net
 phinnegansfactory.com
 phr00t.com
 piazzainter.it
-pokerinsight.uk
 pokerstars.eu
-polymarket.com = polymarket|polymarket.foo
+polymarket.com = polymarket
 prisonersdefenders.org
 prs.hr
 pwvas.org
 raiumanathbalicollege.org
 rapidjackpot.nl
+rebelsmarket.com
 redmond.com
 rehbergs.info
 reipeldingen.de

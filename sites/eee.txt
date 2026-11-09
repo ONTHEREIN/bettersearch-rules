@@ -108,7 +108,6 @@ generationag.org
 gilcomston.org
 gitlab.com = git lab|gitlab|gitlab.com|zoom
 gojmc.org
-goodhoodstore.com
 googlebook.google = alos|aluminium os|aluminum os|googlebook os|googlebook_os
 gpl.com
 greenfest.rs

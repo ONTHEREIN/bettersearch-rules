@@ -65,6 +65,7 @@ civ.pt
 clarendontx.com
 classicbike.co.uk
 claudiamoll.de
+clearcardshub.com
 codeship.com
 comune-castellodicisterna.it
 concaes.org
@@ -94,7 +95,6 @@ emie-official.com
 emso-eu.org
 epsilontaupi.org
 ethnoby.org
-eurobets.lt
 evelynosaso.no
 evx.hu
 eyalb.com
@@ -229,7 +229,6 @@ ofertasterracos.com.br
 officinetecnosider.it
 onesmind.co.jp
 onesse-laharie.fr
-online-casino-at-beste.space
 opencellid.org
 openqasm.com = open quantum assembly language|openqasm
 ouotecpaisii-topolovo.com

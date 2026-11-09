@@ -181,7 +181,7 @@ larsbrink.dk
 lavoixdunord.fr
 lcvonhessencv.wordpress.com
 lepharepontcroix.com
-ligamx.net
+ligamx.net = liga bbva mx|liga mx|primera división de méxico|墨西哥足球甲级联赛
 limonextreme.com
 lissacetmouret.fr
 littlev.org
@@ -251,7 +251,6 @@ repubblicatv.it
 retailcentres.se
 rev.de
 reverbico.com
-riverpulse.uk
 rof.nl
 rubamazzopiu.it
 rumkozseg.hu

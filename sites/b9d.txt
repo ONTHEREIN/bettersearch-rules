@@ -42,7 +42,7 @@ cazuza.com.br
 ceeac-eccas.org
 cesair.nl
 cesko.cz
-chainsawman.dog
+chainsawman.dog = chainsaw man – the movie: reze arc|chainsaw man: reze arc|chainsaw man: reze-hen|gekijou-ban chainsaw man: reze-hen|gekijō-ban chainsaw man: reze-hen|劇場版 鏈鋸人 蕾潔篇|劇場版鏈鋸人 蕾潔篇
 charcajadafilmfest.com
 choukadou-anime.com
 cityofmuncie.com
@@ -76,6 +76,7 @@ englandkorfball.co.uk
 enricomariasalerno.it
 epa-marnelavallee.fr
 ephysician.ir
+eventify.io
 evstadtakademie.de
 externatnotredame.fr
 fabianki.pl

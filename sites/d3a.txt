@@ -164,7 +164,6 @@ jtchinae-bank.co.kr
 junta-freg-gambia.org
 kairoseuropa.de
 kalefeld.de
-kamino.finance
 kanagawa-museum.jp
 keb-hannover.de
 keizerkarelcollege.nl
@@ -232,6 +231,7 @@ osakacastlepark.jp
 osmc.tv
 parafiasiedlimowo.pl
 parakeetsmusic.net
+parcllabs.com
 paris-roubaix-femmes.fr
 parivaar.org
 perranporthflyingclub.co.uk
@@ -307,7 +307,7 @@ ttapress.com
 typeof.net
 tyto-online.com
 ubeda.es
-ubi.com = anno 2070|armored core: for answer|assassin's creed: revelations|battle of atlantic|battle of the atlantic|chaos theory|child of eden|division|division 1|drakengard 2|driver: san francisco|dunia|dunia engine|dunia引擎|grey's anatomy: the video game|heroes 2|heroes 6|heroes of might & magic vi|heroes of might and magic ii|heroes of might and magic iv|heroes of might and magic vi|heroes vi|homm 2|homm6|jade|jade engine|just dance 2|might & magic heroes 6|might & magic heroes vi|might & magic: heroes vi|might and magic heroes vi|no more heroes 2: desperate struggle|prince of persia|rayman raving rabbids|rayman raving rabbids 2|silent hunter 5: battle of atlantic|silent hunter 5: battle of the atlantic|silent hunter v: battle of atlantic|silent hunter v: battle of the atlantic|splinter cell: chaos theory|the division|the settlers ds|tom clancy's h.a.w.x 2|tom clancy's rainbow six: vegas 2|tom clancy's splinter cell: chaos theory|tom clancy's the division|voodoo dice|ノーモア★ヒーローズ 2:デスパレート・ストラグル|伊甸之子|刺客信條：啟示錄|刺客教條：啟示錄|啟示錄|大航海世紀 2070|大航海世纪 2070|新極道車魂|极道车魂：旧金山|極道車魂：三藩市|極道車魂：舊金山|機戰傭兵 for answer|機戰傭兵 尋求答案|機戰傭兵 答案|波斯王子|湯姆克蘭西之鷹戰2|湯姆克蘭西：全境封鎖|猎杀潜航5|猎杀潜航5：大西洋战役|猎杀潜航v|猎杀潜航v：大西洋战役|獵殺潛航v：大西洋戰役|縱橫諜海：混沌理論|舞力全开2|舞力全開2|英雄不再2 垂死挣扎|英雄不再2 負隅頑抗|英雄不再2：垂死掙扎|英雄无敌6|英雄无敌vi|英雄无敌六|虹彩六號 拉斯維加斯2|装甲核心：尋求答案|装甲核心：答案|誓約龍騎士2|雷射超人瘋狂兔子|雷曼 疯狂兔子|雷曼 瘋狂兔子|雷曼：疯狂兔子|雷曼：瘋狂兔子|飛龍騎士2|魔法門之英雄無敵vi|魔法门之英雄无敌6|魔法门之英雄无敌ii|魔法门之英雄无敌iv|魔法门之英雄无敌vi|鷹戰2|鷹擊長空2|鹰击长空2|龍背上的騎兵2|龍背上的騎兵2 封印之紅、背德之黑|龙背上的骑兵2|龙背上的骑兵2 封印之红、背德之黑
+ubi.com = 1701 a.d.|2007 tmnt|anno 1701|anno 2070|anno 2205|battle for earth|brothers in arms: hell's highway|child of eden|child of light|clash of heroes|die siedler: aufbruch der kulturen|drakengard 2|dunia|dunia engine|dunia引擎|fighter within|game boy advance tmnt|gba tmnt|grey's anatomy: the video game|heroes 1|heroes 3|heroes iii|heroes of might and magic|heroes of might and magic 1|heroes of might and magic 3|heroes of might and magic i|heroes of might and magic iii|heroes of might and magic three|homm|homm 3|homm1|jade|jade engine|just dance 2|lostmagic|marvel avengers: battle for earth|marvel's avengers: battle for earth|might & magic: clash of heroes|might and magic: heroes kingdoms|no more heroes 2: desperate struggle|prince of persia|rayman game 2013|rayman legends|rayman origins|shaun white skateboarding|silent hunter 4: wolves of the pacific|splinter cell|the avengers: battle for earth|the settlers: awakening of cultures|the settlers: dawn of cultures|the settlers: rise of cultures|the settlers: traditions edition|tmnt|tom clancy's splinter cell|ubisosft platformer 2013|valiant hearts: the great war|ノーモア★ヒーローズ 2:デスパレート・ストラグル|伊甸之子|光之子|光明之子|大航海世紀 2070|大航海世纪 2070|復仇者聯盟：地球保衛戰|战火兄弟连：地狱公路|战略任务|手足兄弟连：兵临绝境|榮耀戰場：地獄棧道|汤姆·克兰西之细胞分裂|波斯王子|漫威復仇者聯盟：爭奪地球|紀元 1701|細胞分裂|縱橫諜海|纪元 1701|细胞分裂|美麗新世界 1701|美麗新世界 2205|美麗新世界2205|舞力全开2|舞力全開2|英勇之心：偉大戰爭|英雄不再2 垂死挣扎|英雄无敌1|誓約龍騎士2|雷曼 传奇|雷曼 傳奇|雷曼：传奇|雷曼：傳奇|雷曼：起源|飛龍騎士2|魔法門之英雄無敵：戰略任務|魔法門之英雄無敵：王國|魔法门之英雄无敌:王国|魔法门之英雄无敌iii|魔法门之英雄无敌：战略任务|魔法门之英雄无敌：王国|龍背上的騎兵2|龍背上的騎兵2 封印之紅、背德之黑|龙背上的骑兵2|龙背上的骑兵2 封印之红、背德之黑
 urbanupbound.org
 utu.fi
 vallentuna.se

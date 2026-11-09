@@ -127,7 +127,7 @@ hohaiyan.com
 hollandseaquarellistenkring.nl
 hostsys.ch
 hps.org
-hsbc.com = bital|hsbc|hsbc bank egypt|hsbc bank egypt sae|hsbc bank usa|hsbc holdings plc|埃及匯豐銀行|埃及滙豐銀行|汇丰控股|滙控|滙豐|滙豐控股|滙豐控股有限公司|滙豐集團
+hsbc.com = hsbc bank egypt|hsbc bank egypt sae|埃及匯豐銀行|埃及滙豐銀行
 ianbrownwriter.com
 ibi.institute
 inbox.lv

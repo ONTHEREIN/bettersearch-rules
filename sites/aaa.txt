@@ -107,7 +107,6 @@ freising.de
 freyer-ensemble.de
 g-fac.jp
 gallant.space
-gameverseempire.us
 gemeinde-lasbek.de
 generallegalcouncil.org
 genina.com
@@ -152,7 +151,6 @@ instruction-music.com
 iojs.org = io.js|node.js
 irisao.com
 jackgrunsky.com
-jackpotoasis.de
 jefflouden.com
 jivesoftware.com
 jonathandemoor.com

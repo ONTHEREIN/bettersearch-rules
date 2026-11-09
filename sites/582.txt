@@ -56,6 +56,7 @@ celsiuspro.com
 champagne-arlenoble.com
 chaophya.com
 cheungpuishan.com
+chibatech.ac.jp
 ching.tv
 chragh.com
 chrtniky.cz
@@ -295,7 +296,6 @@ souvenirpop.com
 sowefund.com
 spacejam.com = space jam|太空也入樽|怪物奇兵|空中大灌篮|空中大灌籃
 sparkasse-bochum.de
-spb-pto.ru
 sphinxonline.net
 sportno-vratsa.com
 sportweek.fr
@@ -311,7 +311,6 @@ stmartinville.org
 stockholmhalfmarathon.se
 studiocarnley.com
 stwag.gr
-suikagame.lol
 swiftcounty.com
 tadatheater.com
 taianags.com.cn

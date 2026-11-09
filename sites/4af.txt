@@ -273,7 +273,6 @@ silpada.com
 simonsenlaw.no
 slackware.com = pkgtool|slack|slackware|slackware linux
 souternon.com
-southzone.uk
 sparkasse-meissen.de
 spinational-casinos.gr
 spreckels.net

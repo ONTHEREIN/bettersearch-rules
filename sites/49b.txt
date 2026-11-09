@@ -184,6 +184,7 @@ lichtag.com
 lioznoles.by
 lipove.sk
 lit-diaspora.org
+literaturspuren.ch
 lyalovo.ru
 mai.art
 marans.eu
@@ -305,6 +306,7 @@ tsulbp.tj
 turnstyletheband.com
 tvhardheim.de
 uni-seeburg.at
+vardagsforum.se
 variety-lab.com
 ventforet.jp
 verbatim.jp
@@ -319,7 +321,6 @@ wervel.be
 wesgreen.de
 wienersingakademie.at
 wiha.com
-wirewax.com
 wkruk.pl
 wltdentertainment.com
 wpbookingcalendar.com

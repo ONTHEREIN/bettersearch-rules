@@ -1,5 +1,6 @@
 3roam.com
 adatio.es
+adtr.co
 adventuregamestudio.co.uk = adventure game studio|ags
 ajacastanheira.wordpress.com
 akihikomatsumoto.com
@@ -308,7 +309,7 @@ treehouseyokohama.com
 trespaderne.com
 trinityonhale.ca
 tristancabello.com
-tsv1860.de = 1860 munich|1860慕尼黑|1860慕尼黑足球俱乐部|1860慕尼黑足球俱樂部|1860慕尼黑足球會|tsv 1860 münchen|慕尼黑1860|慕尼黑1860足球俱乐部
+tsv1860.de
 ukurier.gov.ua
 ulsancitizen.com
 unleashedbrands.com

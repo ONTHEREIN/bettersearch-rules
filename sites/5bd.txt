@@ -150,7 +150,6 @@ hmzyet.com
 hotel-rnr.com
 hyderabadhouse.com
 hydraledger.io
-hyperroulettegroup.com
 idblogz.com
 iekalfa.gr
 ihgdf.com.br
@@ -240,6 +239,7 @@ om-digitalsolutions.com = om digital solutions|omds|om數位解決方案
 omiya-kyoritsu.or.jp
 onaironline.de
 onc66.com
+openfit.com
 opglabbeek.be
 ouhilendarski-kk.com
 oxonhoath.co.uk

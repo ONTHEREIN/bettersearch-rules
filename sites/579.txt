@@ -59,14 +59,12 @@ cimp-paris.fr
 ciroc.com
 cityprotowing.com
 cjp.co.kr
-clarionevents.com
 classiccup.pl
 colaistigaeilge.ie
 collegeofartsandcraftspu.in
 conrad.nl
 copaci.org
 cpcphoenix.org
-craftlog.au
 cryptool.org = cryptool
 ctppcp.ru
 cubiinriete.it
@@ -223,6 +221,7 @@ psychoeducationalsociety.com
 qianjiayue.com
 razer.com = r λ z ξ r|razer|razer inc.|rλzξr|雷蛇
 receiver2.com
+redeemer.com
 ringdesbuddha.de
 rlogger.github.io
 rmsbeauty.com

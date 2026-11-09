@@ -41,7 +41,6 @@ bvcsd.com
 bwanet.org
 c-r.com
 cameliaanddelgado.com
-casinocollective.uk
 cc-castelbriantais.fr
 cdcsudlibournais.fr
 cetnix.com
@@ -179,7 +178,6 @@ lipstickalley.com
 liyenchong.com
 logitren.es
 londonpromogroup.uk
-londonpromooffice.uk
 lpp-ste-genevieve.fr
 ltu.basketball
 mairie-valmont.fr
@@ -256,7 +254,7 @@ sammok.co.kr
 sandroni.it
 sangi.ac.jp
 sanpietronapoli.com
-sassuolocalcio.it = sassuolo|sassuolo calcio|u.s. sassuolo calcio|unione sportiva sassuolo calcio|us sassuolo calcio|萨索洛|萨索洛足球体育俱乐部|萨索洛足球俱乐部|薩索洛
+sassuolocalcio.it
 scenaristengilde.be
 scherzo.es
 schoenleitn.at

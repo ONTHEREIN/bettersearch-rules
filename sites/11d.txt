@@ -61,7 +61,6 @@ claspprograms.org
 codefortoda.org
 communitylivingsociety.ca
 coopmorava.cz
-corecardsdaily.nl
 corronline.com
 craigallenjohnson.com
 crcement.com
@@ -225,7 +224,6 @@ querido.pt
 rachidbathoum.github.io
 randycaliforniaandspirit.com
 reaganpasternak.com
-reducto.ai
 refunite.org
 regenboog-saks.nl
 risa-chicken.de
@@ -258,6 +256,7 @@ stadtwerke-torgau.de
 stmichaels-hamlet.org.uk
 stmichaelstorrington.org.uk
 stoneydownpark.org.uk
+sumup.io
 sv-schloesselgarten.de
 tanenbaumchat.org
 tanzpreise.ch

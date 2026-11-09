@@ -35,6 +35,7 @@ avvocatopinto.it
 ayuriart.com
 beefproject.com = beef|browser exploitation framework
 benkapulko.com
+betupdate.nl
 biagioantonacci.it
 bis.kg
 blackandpink.org

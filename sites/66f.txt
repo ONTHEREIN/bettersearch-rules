@@ -34,6 +34,7 @@ autol.org
 avenuenews.com
 bananasthemovie.com
 barsenperigord.fr
+basicview.us
 bayerischer-schwimmverband.de
 bdo.global = bdo|bdo global|bdo international|bdo国际
 belfastmuseum.org
@@ -301,6 +302,7 @@ tribalcracklingwind.ca
 trichysankaran.com
 tvweiltingen.de
 tylerray.com
+unareti.it
 unterwasser.ch
 uwua.net
 valminortv.com

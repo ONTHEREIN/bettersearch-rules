@@ -34,7 +34,6 @@ bookmooch.com = bookmooch
 borutpahor.si
 breadwig.com
 bresinski.de
-britroyalplace.uk
 bullsheadshap.wordpress.com
 cahuracan.com
 caritasetveritas.cz
@@ -54,6 +53,7 @@ clearmediarotterdam.nl
 clickn.co.kr
 clickshakegames.com
 comunasahateni.ro
+corejackpotzone.com
 cosmcs.com
 coxclassic.com
 cpntools.org
@@ -236,7 +236,6 @@ primerocolombia.com
 primitivetechnology.wordpress.com
 proloco-castrocaro.it
 prophy.science
-pulseuksite.co.uk
 puppenmuseum.ch
 raspberrypi.com = raspberry pi|raspberry pi os|raspberrypi|raspi|rpi|树莓派|樹莓派
 reiseversicherung.de

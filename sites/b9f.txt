@@ -21,6 +21,7 @@ asnr.fr
 aurorasoftwares.com
 australiannewschannel.com.au
 azidusbrasil.com.br
+bakerkarim.com
 balaklava-bru.ru
 balimelkahotel.com
 ball-spiel-club-bamberg.de
@@ -189,6 +190,7 @@ metalblade.com = metal blade records|金屬刀唱片
 michinoeki-miyama.com
 microvisk.com
 mikkeydee.com
+min-kulture.gov.hr
 misopotato.com
 moldovamare.md
 motob.net

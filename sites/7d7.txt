@@ -11,7 +11,6 @@ amchealth.com
 amzscout.net
 andreacroonenberghs.com
 angamalybasilica.com
-angkakeramat.mom
 anildash.com
 antonwohlgemuth.com
 anzhi.com
@@ -68,7 +67,7 @@ demonskin.com
 dimos-amfiklias-elatias.gr
 donaugartenschau.de
 dorneycourt.co.uk
-drautomobilesgroupe.com = dr automobiles|dr automobiles groupe
+drautomobilesgroupe.com = dr automobiles|dr automobiles groupe|dr motor company
 drogues-info-service.fr
 dumaguete.uk
 dundertaget.se
@@ -89,6 +88,7 @@ evorxtechnologies.com
 exlibrisgroup.com = aleph|aleph 500|alephino|alma|ex libris alma
 fchipica.cat
 feministes.cat
+fffuel.co
 fieldandash.com
 films.com
 foc.co.jp
@@ -302,5 +302,6 @@ wolfgang-stumph.de
 wvuden.nl
 yazib.org
 yetanotherband.com
+ysqdai.com
 zamkowymlyn.pl
 zarnetic.com

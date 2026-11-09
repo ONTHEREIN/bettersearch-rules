@@ -26,7 +26,7 @@ atelierdebandedessineemichelgrant.com
 ats.edu
 autonomy-music.com
 autoramadrivein.com
-avatar.com
+avatar.com = avatar|avatar 1|avatar 2|avatar 2: the way of water|avatar 3|avatar franchise|avatar ii|avatar iii|avatar: fire and ash|avatar: the way of water|james cameron's avatar|阿凡达|阿凡達|阿凡達2|阿凡達3|阿凡達系列|阿凡達：水之道|阿凡達：火與燼
 axistechnicalsales.com
 ayurvedacenter.org
 bagelk.jp
@@ -220,6 +220,7 @@ phoenixconventioncenter.com
 pici.hk
 polygongroup.com
 power-eng.com
+price360.co.in
 primeslotfortune.it
 princeton.ca
 profemmes.org
@@ -227,7 +228,6 @@ projectaxz.com
 provenc-halles.fr
 ptise.com
 pulana.net
-pulse360blog.nl
 pulsecasinohub.com
 rally-saudiarabia.com
 rasa.hr

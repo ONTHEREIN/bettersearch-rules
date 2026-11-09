@@ -171,7 +171,6 @@ lonelylabel.com
 lorenskogif.no
 lyijykomppania.net
 mairiechateauvieux.blogspot.com
-mapleblackjackmarket.nl
 matthewjhall.com
 mediasetdemocratie.com
 medicinex.com
@@ -235,7 +234,7 @@ rauge.ee
 reactive-streams.org
 redrockhotel-pg.com
 region15.ru
-registry.google
+registry.google = .google|dot google
 releaf.com
 rhein-mosel-bus.de
 riddell-wright.com

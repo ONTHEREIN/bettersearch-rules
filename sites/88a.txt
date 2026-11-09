@@ -36,7 +36,6 @@ bnc.cat = biblioteca de catalunya|bnc|bnc.cat|national library of catalonia|хКац
 boakyetromoshst.com
 bolsard.com
 borascancerfond.se
-borgoslow.it
 brierleyforestprimary.co.uk
 bs-bgl.de
 bulbulmovie.com

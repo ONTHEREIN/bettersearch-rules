@@ -76,6 +76,7 @@ community1.com
 comunagurghiu.ro
 continentalrail.es
 d3go.com = alien: blackout|探险活宝：因为好奇所以探索地牢|探險活寶：探索地牢，因為我不知道！
+dafdirect.org
 deboeck.com
 deertrailcolorado.org
 deutsches-apotheken-museum.de
@@ -228,6 +229,7 @@ nileharris.live
 nishogakusha-u.ac.jp
 nisko.pl
 northitalia.com
+novibet.gr
 nskk-hokkaido.jp
 objectstore.com = objectstore
 odd-meter.com

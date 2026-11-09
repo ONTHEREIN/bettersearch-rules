@@ -145,6 +145,7 @@ jonathanalter.com
 junge-kirche-speyer.de
 jzun.edu.cn
 k-press.ru
+kavitareader.com
 kearnybank.com
 keepmemoryalive.org
 klostermariazell.ch
@@ -164,7 +165,6 @@ lesikar.com
 lincolnphoenixs.com
 linden-holstein.de
 listedcompany.com
-londonroulettepulse.uk
 lucidblocks.com
 luitpoldblock.de
 magnhildwinsnes.no
@@ -266,7 +266,6 @@ theaterfreunde-pleystein.de
 thewhitaker.org
 thiagobrava.com.br
 thumpertalk.com
-tillvaxtfloden.se
 townofsawmills.com
 transport-community.org
 travistritt.com

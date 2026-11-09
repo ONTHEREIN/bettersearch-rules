@@ -35,8 +35,8 @@ bakrietelecom.com
 bartelmore.com
 bayharborislands.org
 bdrs.org.uk
+bebasket.fr
 begbyil.no
-betsnestforge.com
 bettyheidler.de
 biobase-international.com
 blackberry.com = bb10|bbm|blackberry|blackberry 10|blackberry app world|blackberry bbx|blackberry enterprise server|blackberry limited|blackberry ltd|blackberry messenger|blackberry tablet os|blackberry world|research in motion|research in motion limited|rim|the astonishing tribe|黑莓|黑莓公司|黑莓手机|黑莓手機|黑莓機|黑莓短信|黑莓行動電話|黑莓行動電話應用程式世界
@@ -86,6 +86,7 @@ dereinboge.nl
 dewagtere.eu
 dictionaryofobscuresorrows.com
 dlmmkfzd.co.in
+dssl.ru
 dsw.org
 dufcc.com
 dynamicblackjackplus.com

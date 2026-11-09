@@ -60,7 +60,7 @@ ca61cards.xyz
 ca61stars.top
 camelbak.com
 centerforautism.com
-cerezo.jp
+cerezo.jp = cerezo osaka|大阪塞雷佐|大阪樱花|大阪櫻花
 chemical-suzuhiro.co.jp
 cherraion.ru
 chickenroads.de
@@ -219,6 +219,7 @@ mediaonemarketing.com.sg
 mediplant.ch
 meeravijayann.net
 memphy.co
+mentaretail.net
 merjekagu.com
 methyleneblueultra.com
 metropolys.com
@@ -248,6 +249,7 @@ officemuseum.ir
 ollehfilmfestival.com
 ontarioarchaeology.org
 opendenmark.dk
+optery.com
 oval.media
 owc.ac.jp
 owenlib.org

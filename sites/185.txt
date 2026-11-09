@@ -59,6 +59,7 @@ comic-trail.com
 communicatemagazine.com
 conrail.com
 construction-products.eu
+coreblackjackhub.com
 cr-martinique.fr
 cynthiarylant.com
 d13publicaffairs.com
@@ -220,7 +221,6 @@ okcupid.com = okc|okcupid
 okradnickikg.com
 okskulyk.github.io
 onelook.com
-orbitcasino.ca
 ordo-militiae-templi.org
 oregoniron.com
 originwater.com

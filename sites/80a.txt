@@ -73,6 +73,7 @@ cqskxzx.com
 creative-data-engineers.com
 croix-rouge.lu
 csberkeley.org
+custeel.com
 cycc.org.tw
 darbar.org
 ddh-online.de
@@ -220,7 +221,6 @@ of.by
 onairnet.co.kr
 oncf.ma
 onehungasports.net
-opencollective.uk
 opentext.com = novell open enterprise server|novell zenworks|oes|open enterprise server|open text|open text corporation|opentext|opentext corporation|opentext open enterprise server|zenworks
 ovfalliance.com
 oxfordhealthpolicyforum.org

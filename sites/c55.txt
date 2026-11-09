@@ -3,7 +3,6 @@
 absglobal.com
 adl.ch
 adversus.com
-aerocontact.com
 afaja.com
 agalab.nl
 agatsuma.co.jp
@@ -32,7 +31,6 @@ bellonyguidera.es
 bikester.nl
 bisericanu.net
 blend.io
-boatnerd.com
 bokskogen.com
 bootcdn.cn
 breakthroughproduction.org

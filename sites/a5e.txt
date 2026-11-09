@@ -47,6 +47,7 @@ borisquercia.cl
 brlcad.org = brl-cad
 bs-schramberg.de
 bsdenotenbalk.nl
+calendardate.com
 catbus.com
 caymancompass.com
 ccmc-corp.com
@@ -229,7 +230,7 @@ ping0.cc
 piyussh.com
 playtrailmakers.com
 polska-zbrojna.pl
-ponycanyon.biz
+ponycanyon.biz = ponican|pony canyon|pony canyon inc.|pony canyon, inc.|波麗佳音
 portagemi.com
 pqi.pt
 psy-hs.com

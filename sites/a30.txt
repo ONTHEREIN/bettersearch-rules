@@ -129,7 +129,7 @@ hydrastark.com
 ibmpan.pl
 icapelliventura.com
 ices.dk
-iczn.org = iczn|国际动物命名委员会|国际动物命名法委员会|國際動物命名法委員會
+iczn.org
 igelu.org
 ignaciopeyro.es
 inflate.review

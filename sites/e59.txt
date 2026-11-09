@@ -91,7 +91,7 @@ elhuyar.eus
 elitehybridcats.com
 emercostello.blogspot.com
 empresstheatre.com
-encasedgame.com
+encasedgame.com = encased|encased: a sci-fi post-apocalyptic rpg|圆顶
 enghoejkirke.dk
 envegypt.com
 enwada.es
@@ -163,7 +163,6 @@ kansai-dengyo.co.jp
 kaomfr.org
 kevinhewick.co.uk
 kjack.org
-koehntopp.info
 korbanblake.co.uk
 kourijima.info
 kristal.az
@@ -282,7 +281,6 @@ sinfonicanacional.cl
 skeptics.nz
 skintone.google
 skychaintechnologiesinc.com
-smartgambleonline.com
 snscratchpad.com
 spacephotonics.com
 spartawisconsin.org

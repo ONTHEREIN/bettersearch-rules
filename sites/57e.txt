@@ -241,7 +241,7 @@ sontheim-brenz.de
 spbniif.ru
 spiespubliclibrary.org
 spring.me
-square-enix-games.com = balan wonderworld|boukenka elliot no chitose monogatari|bōkenka elliot no chitose monogatari|chocobo gp|dragon quest tact|dragon quest xi|ff 9|ff ix|ff13|ff15|ff7|ff7r|ff9|ffix|ffvii|ffviir|ffxv|final fantasy 15|final fantasy 7|final fantasy 7 rebirth|final fantasy 9|final fantasy ix|final fantasy nine|final fantasy seven|final fantasy versus xiii|final fantasy vii|final fantasy vii rebirth|final fantasy vii 重生|final fantasy xiii|final fantasy xv|final fantasy xv windows edition|final fantasyix|foamstars|life is strange 2|life is strange true colors|life is strange: reunion|life is strange: true colors|lifeisstrange3|lis true colors|lis: true colors|live a live|octopath traveler ii|outriders|paranormasight file23: honjo nanafushigi|paranormasight: seven mysteries of honjo|saga emerald beyond|sifac hm|siren|star ocean: the divine force|the quiet man|the quite man|theatrhythm: final bar line|tqm|trials of mana|true colors|先遣戰士|先遣戰士outriders|先驱者|冒险家艾略特的千年奇谭|冒险家艾略特的千年物语|冒險家艾略特的千年奇譚|勇者鬥惡龍 戰略指揮家|勇者鬥惡龍xi 尋覓逝去的時光|史蒂芬·金瑞契|太空戰士 versus xiii|太空戰士ix|太空戰士vii|太空戰士xiii|奇妙人生2|奇妙人生：重逢|奇异人生：重逢|奇異人生：本色|巧可啵gp 大賽車|巴兰的异想奇境|巴蘭的異想奇境|时空勇士|星海遊俠6|星海遊俠6：神聖力量|最終幻想 versus xiii|最終幻想ix|最終幻想vii|最終幻想xiii|最終幻想xv|最终幻想 versus xiii|最终幻想13|最终幻想9|最终幻想ix|最终幻想vii|最终幻想vii 重生|最终幻想xiii|最终幻想xv|歧路旅人ii|灵异视界 file23 本所七大不可思议|灵视异闻 file23 本所七大不可思议|狂飆騎士|狂飙骑士|節奏劇場 final bar line|聖劍傳說3 瑪娜試煉|陆行鸟gp|靜人
+square-enix-games.com = avengers|chocobo gp|dffoo|dissidia final fantasy opera omnia|dissidia final fantasy: opera omnia|double exposure|dq11|dqxi|dragon quest 11|dragon quest 11 echoes of an elusive age|dragon quest xi|dragon quest xi echoes of an elusive age|ff 7 remake|ff vii remake|ff13|ff7|ff7 remake|ff7r|ffvii|final fantasy 7|final fantasy 7 remake|final fantasy seven|final fantasy vii|final fantasy vii remake|final fantasy xiii|just cause 4|lgts|life is strange 2|life is strange before the storm|life is strange true colors|life is strange: before the storm|life is strange: double exposure|life is strange: true colors|lifeisstrange3|lis true colors|lis: true colors|little goody two shoes|marvel's avengers|murdered: soul suspect|opera omnia|outriders|s:eb|saga emerald beyond|saga: emerald beyond|seb|seiken densetsu 3|seiken densetsu: visions of mana|sg:eb|sgeb|sifac hm|siren|sopffo|star ocean 6|star ocean the divine force|star ocean: tdf|star ocean: the divine force|stranger of paradise|the avengers project|the awesome adventures of captain spirit|the divine force|the quiet man|the quite man|tqm|trials of mana|true colors|visions of mana|vom|先遣戰士|先遣戰士outriders|先驱者|勇者鬥惡龍xi 尋覓逝去的時光|勇者鬥惡龍xi 追尋逝去的時光|史蒂芬·金瑞契|天堂的陌生人 最终幻想起源|太空戰士vii|奇妙人生2|奇妙人生：風暴之前|奇异人生：暴风前夕|奇異人生：本色|奇異人生：雙重曝光|巧可啵gp 大賽車|星海遊俠6|星海遊俠6 神授之力|星海遊俠6：神聖力量|最終幻想7 重製版|最終幻想vii|最終幻想xiii|最终幻想vii|最终幻想xiii|樂園的異鄉人 最終幻想起源|正当防卫4|正當防衛4|死案：靈魂追兇|漫威復仇者聯盟|聖劍傳說 瑪娜幻象|聖劍傳說3|超能隊長|超能隊長的奇異冒險|陆行鸟gp|靜人
 srz-rdeca-dvorana.si
 st-bernadette.org
 stanleypaul.com
@@ -303,7 +303,6 @@ winnebago.com
 winorosl.pl
 wizarbox.com
 wjxvtc.cn
-xn--b1afbjd5aap7b7ap.xn--80asehdb
 yogoko.com
 yuchikuo.org
 yui-asaka.com

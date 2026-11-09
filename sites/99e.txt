@@ -23,6 +23,7 @@ appmakr.com
 assisifoundation.org
 athletico.com
 baggesen.org
+bariwellness.it
 basecamp.com = 37signals|basecamp|basecamp classic
 bcmetallurg.ru
 beachklub.cz
@@ -70,6 +71,7 @@ drbeilin.fr
 dummenorange.com
 dylanleblanc.com
 dynamicluckyplus.com
+earth911.org
 ecoinfo.ru
 edec.mx
 editions-norma.com

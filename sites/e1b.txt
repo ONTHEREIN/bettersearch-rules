@@ -146,7 +146,7 @@ inv.si
 isdg-site.org
 iupat.org
 jacksonslane.org.uk
-jaguar.co.uk = jaguar f1 team|jaguar formula one team|jaguar racing|panasonic jaguar racing|捷豹車隊|松下捷豹车队
+jaguar.co.uk = jaguar f1 team|jaguar formula one team|jaguar racing|jaguar racing f1 team|panasonic jaguar racing|捷豹車隊|松下捷豹车队
 jcba.jp
 jecool.net
 jenschilner.se

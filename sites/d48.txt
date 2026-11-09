@@ -119,7 +119,6 @@ generateprivacypolicy.com
 german-brand-award.com
 ghostwork.info
 goldeneslamm-vorderweidenthal.de
-goldenshop.uk
 gracevilleunitingchurch.com.au
 grandvalley.org
 grindelwaldbus.ch
@@ -187,7 +186,6 @@ miliseum.com
 mitre.com = mitre|mitre sports international|mitre sports international ltd.|迈塔|邁塔
 modernamuseet.se
 mondorf.lu
-moneydigest.com
 monkhouseprimary.co.uk
 montroy.fr
 moon-cresta.com

@@ -21,6 +21,7 @@ asmatmuseum.org
 aspasp.org
 asti.org.uk
 atmosphere.ca
+atto.com
 badmintonpanamcalgary.com
 balad.ir
 baseballstats2011.jp
@@ -52,10 +53,11 @@ chickasaw.net
 chlistov.org
 cmbussento.it
 collistar.it
-comme-des-garcons.com
+comme-des-garcons.com = cdg|comme des garçons|若童
 compositetheatre.org
 corediceonline.nl
 cultureconsultancy.com
+da-vinci.com.tw
 dahner-felsenland.net
 damotus.ch
 damourband.com
@@ -88,6 +90,7 @@ fantastic-talks.com
 fathomarchitects.com
 fdcla-texas.org
 findjonathanhoang.com
+firmiamo.it
 fontivillie.fr
 frootsmag.com
 fujinnotomo.co.jp
@@ -113,6 +116,7 @@ holycrossraiders.com
 iddportugal.pt
 ifad.dk
 inboxxa.com
+indeema.com
 innosfera.org
 intune-alliance.eu
 irsina-arte.com

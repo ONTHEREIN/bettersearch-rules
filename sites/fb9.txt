@@ -1,7 +1,6 @@
 21sextury.com
 4cantons.cat
 aahd.us
-abugarcia.com
 acadsol.eu
 adelinemollard.ch
 admir-analysis.com
@@ -104,7 +103,6 @@ fcnenzing.at
 fdk.hu
 feel-kobe.jp
 filippomariabressan.com
-focusroom.us
 foindecrau.com
 fonderie-clementi.fr
 forium.net
@@ -336,3 +334,4 @@ yvya.nl
 zajezdnia.org
 zivinice.ba
 zrc-online.de
+zum-loewenbraeu.de

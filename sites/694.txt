@@ -208,7 +208,7 @@ orujmusayev.com
 ottomanjournal.com
 p-aurora.co.jp
 parafiaciachcin.pl
-pdvsa.com
+pdvsa.com = pdvsa|petroleos de venezuela|petroleos de venezuela sa|petroleum of venezuela|petróleos de venezuela|委內瑞拉石油公司|委内瑞拉石油公司
 pearlinternationalfilmfestival.com
 penrithcricketclub.com.au
 pgapolska.com

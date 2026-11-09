@@ -55,6 +55,7 @@ cornillelescaves.fr
 cpb.nl
 cph.ch
 cscquetta.com
+ctdn.com
 davidgerard.co.uk
 debbiezapata.com
 deoncole.com
@@ -216,7 +217,7 @@ omegachem.com
 onebillionhappy.org
 oneofthemdays.movie
 oneshotpodcast.com
-openmandriva.org = oma|omlx|openmandriva|openmandriva lx|openmandriva rome
+openmandriva.org = mandrakesoft|mandriva|oma|omlx|openmandriva|openmandriva lx|openmandriva rome
 openprocessing.org
 opoka.pl
 pailanworldschool.com
