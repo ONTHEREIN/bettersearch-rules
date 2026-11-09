@@ -2,7 +2,7 @@
 //
 //   - every domain Wikidata records as some item's official website (P856),
 //     with no regard to whose: a site Wikidata knows is not a throwaway copy;
-//   - the 200,000 most-linked domains from the Majestic Million, for big sites
+//   - every domain in the Majestic Million, for sites without a Wikidata item
 //     without a Wikidata item.
 //
 // A domain is a registrable domain as the userscript's url.ts computes it, so
@@ -34,7 +34,7 @@ const USER_AGENT = 'bettersearch-rules/0.1 (https://github.com/ONTHEREIN/betters
 const NAME_LANGS = ['mul', 'en', 'zh', 'zh-hans', 'zh-cn', 'zh-hant', 'zh-tw', 'zh-hk'];
 const BATCH = 2000;
 /** Majestic domains included; Wikidata covers the long tail. */
-const POPULAR_COUNT = 200_000;
+const POPULAR_COUNT = 1_000_000;
 /** Names kept per domain; portals like google.com are official for hundreds of products. */
 const MAX_NAMES = 100;
 const SHARD_DIR = 'sites';
@@ -148,9 +148,10 @@ async function sparql(query) {
       error ??= e;
       if (error.message.startsWith('HTTP 4') && !error.message.startsWith('HTTP 429')) throw error;
     }
-    if (attempt === 3) throw error;
+    if (attempt === 6) throw error;
     console.error(`retrying: ${error.message.slice(0, 120)}`);
-    await new Promise((r) => setTimeout(r, 10_000 * attempt));
+    // QLever answers 429 while its query threads are busy, sometimes for minutes.
+    await new Promise((r) => setTimeout(r, 20_000 * attempt));
   }
 }
 
