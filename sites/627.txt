@@ -6,10 +6,9 @@ aarnekoskelonsaatio.fi
 aasmundnordstoga.no
 abc-culture.ch
 abscbnmobile.com
-academy-fahrschule-driveandmore.de
 academypublication.com
 adam-mcmaster.com
-adobe.com = .fla|3dphotoshop experiences|acrobat|acrobat distiller|acrobat reader|adobe acrobat|adobe acrobat dc|adobe acrobat distiller|adobe acrobat reader|adobe air|adobe animate|adobe animate cc|adobe audio|adobe audition|adobe audition cc|adobe authorware|adobe bridge|adobe camera raw|adobe captivate|adobe cc|adobe creative cloud|adobe creative suite|adobe cs|adobe director|adobe distiller|adobe dreamweaver|adobe echosign|adobe encore|adobe experience design|adobe firefly|adobe fireworks|adobe flash|adobe flash builder|adobe flash player|adobe flash professional|adobe flash 播放器|adobe flex builder|adobe for business|adobe framemaker|adobe freehand|adobe golive|adobe illustrator|adobe incopy|adobe integrated runtime|adobe livemotion|adobe marketing cloud|adobe prelude|adobe premiere|adobe premiere elements|adobe premiere pro|adobe reader|adobe shockwave|adobe sign|adobe story|adobe xd|air|audition|audition cc|authorware|cool edit|cool edit pro|cooledit|creative cloud|creative suite|dgxl|dreamweaver|echosign|firefly|firefly ai|fireworks|fla|flash|flash 4 linux|flash cs3|flash mx|flash player|flashmx|framemaker|freehand|futuresplash animator|golive|illustrator|macromedia authorware|macromedia captivate|macromedia director|macromedia dreamweaver|macromedia fireworks|macromedia flash|macromedia flash player|macromedia freehand|macromedia shockwave|macromedia studio|magento|photoshop ai|robodemo|shockwave|shockwave flash|swf|uira|xtra
+adobe.com = .fla|3dphotoshop experiences|acrobat|acrobat distiller|acrobat reader|ade|adobe acrobat|adobe acrobat connect pro|adobe acrobat dc|adobe acrobat distiller|adobe acrobat reader|adobe acrobat reader dc|adobe authorware|adobe bridge|adobe cc|adobe character animator|adobe connect|adobe contribute|adobe creative cloud|adobe digital editions|adobe dimension|adobe dimensions|adobe distiller|adobe dreamweaver|adobe edge|adobe experience design|adobe express|adobe firefly|adobe flash|adobe flash builder|adobe flex builder|adobe for business|adobe framemaker|adobe fresco|adobe fuse|adobe illustrator|adobe indesign|adobe livecycle designer|adobe livemotion|adobe marketing cloud|adobe media server|adobe photoshop|adobe photoshop album|adobe photoshop extended|adobe prelude|adobe presenter video express|adobe reader|adobe shockwave|adobe soundbooth|adobe source libraries|adobe version cue|adobe xd|authorware|connect|contribute|creative cloud|dgxl|dimension|dimensions|display|dreamweaver|edge|firefly|firefly ai|fla|flash|flash 4 linux|flash cookie|flash cs3|flash mx|flashmx|framemaker|fuse character creator|futuresplash animator|illustrator|imagepro|indesign|local shared object|lso|macromedia authorware|macromedia breeze|macromedia contribute|macromedia dreamweaver|macromedia flash|macromedia homesite|macromedia shockwave|magento|photoshop|photoshop ai|p图|shockwave|shockwave flash|spry framework|supercookie|swf|uira|xtra|本地共享对象|本地共享物件|貝爾動畫公司
 advantagecap.com
 advizeo.io
 aklarkwood.com
@@ -44,7 +43,6 @@ bitgert.com
 blackforestdecor.com
 blountstownhigh.org
 bnsenerjidogalgaz.com
-bolpianos.nl
 booxi.com
 box.nl
 bozice.cz
@@ -83,7 +81,6 @@ codebeat.co
 coffeeandcake.org
 comebackmomma.com
 comunitapastoralesanbenedetto.it
-congyouzs.com
 cookingwithjanica.com
 coolpad.us
 corebetpro.nl
@@ -111,6 +108,7 @@ dengxstudio.com
 deontbranding.nl
 derunglaublicheheinz.de
 dipc.org
+diziwo.com
 doktorabc.com
 dongrusin.com
 donsgaragedoorsco.com
@@ -131,7 +129,7 @@ f-gh.jp
 f-ire.com
 fabricacycles.com
 fairfueluk.com
-fashionchingu.com
+famousfoxes.com
 fedihum.org
 fhb.hu = fhb mortgage bank
 fibrant52.com
@@ -142,7 +140,6 @@ foerderverein-marienkirche.de
 folkestonedocumentaryfestival.co.uk
 fsie.es
 fsin.gov.ru
-garretthoyos.com
 geopolitechs.org
 giraffe.com.cn
 gochojunet.com
@@ -153,6 +150,7 @@ grandenord.org
 grifolsusa.com
 gumlinkcc.com
 guptacollege.org
+h55b4.cn
 hacklinkcomtr.com
 harbourplayhouse.com
 hardrockcafecasino.com.de
@@ -162,13 +160,11 @@ hatten.de
 hazenandsawyer.com
 hca.org
 healingcancernaturally.com
-hebeicfst.com
 helbiz.com
 highlyopinionated.co
 holocaust-denkmal-berlin.de
 homeserveplc.com
 hpjansson.org
-hwhtgroup.com
 iapbelarus.org
 iccnrdc.org
 icountbites.com
@@ -210,7 +206,6 @@ kgbbar.com
 kingsize.co
 kizuna-pub.jp
 klokus.com
-koispins.org.uk
 komikermohammed.com
 koutou-mamoru.com
 kp.by
@@ -241,6 +236,7 @@ lunolife.com
 madonnadelmiracolo.it
 magicbytes.nl
 mamicode.com
+maozhanchangjia.com
 marianacapkova.cz
 marijkeboon.nl
 marine-e.net
@@ -256,7 +252,6 @@ metheband.com
 miamiworkerscenter.org
 microsoft.fr
 mikefc.com
-millwardbrowndigital.com
 milosgras.com
 mimosarootsbarkstore.com
 minerva.at
@@ -327,6 +322,7 @@ radiokenai.net
 rallism.fi
 ralphvarcoe.com
 recommended-online-casinos.com
+refco.ch
 rescare.com
 restaurant-lyons.fr
 restaurantbalthazart.com
@@ -348,7 +344,6 @@ samirbannout.com
 sandrasangiao.com
 saudieleagues.com
 sbc.org.br
-sbc.org.nz
 schwartzman.org.br
 scottgroupstudio.com
 sdmc.edu.cn
@@ -380,7 +375,6 @@ sostenica.com
 spela-utan-spelpaus.org
 spinmamaspiel-casino.co.at
 sportinglife.ca
-springbok-casino.at
 stdyhwhbwg.com
 steelhome.cn
 steeplejack.de
@@ -388,12 +382,14 @@ stmaryswindermere.co.uk
 stoeckerkunst.de
 stopwaitingstartdating.com
 storyforgetrail.com
+sugarrush1000-slot.ro
 sundaysun.co.uk
 superbcasino-de.com
 superphones.com.br
 superyachttimes.com
 susannerottenbacher.de
 swocc.nl
+syqjmy.com
 szns.edu.cn
 tamarlazare.com
 tanlib.com
@@ -419,7 +415,6 @@ trendtodaynews.co.uk
 trionfi.com
 tropicarium.se
 truereligionjeans-canada.com
-tvspoileralert.com
 uber-assets.com
 unedpamplona.es
 unionactoresregionmurcia.es
@@ -466,6 +461,7 @@ xcski.org
 xn----8sbehdcbvawrjvxsl.xn--p1ai
 xn--quintanaortuo-tkb.es
 xpornkit.com
+yaojm6.cn
 yasyadong02.tv
 yogitimes.com
 yokohamatirelpgaclassic.com
@@ -478,3 +474,4 @@ zmxra.shop
 zs-cheb.cz
 zsido.com
 zupnijasvlovrencjursinci.blogspot.com
+zzye7.com

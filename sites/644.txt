@@ -22,7 +22,6 @@ afrojack.com
 aifilmfest.ae
 aim-ij.com
 aioos.ai
-ajna.finance
 albert-dess.de
 americanexchangeproject.org
 amicimusicafirenze.it
@@ -65,7 +64,6 @@ bigtimerushofficial.com
 biomedad.ae
 birdwatchersdigest.com
 bisiafilm.it
-bjydfm.com
 blastwave.org
 bloggalot.com
 blueinvoice.net
@@ -129,7 +127,6 @@ cseimathura.com
 cu-amiga.co.uk
 cu-portland.edu
 cultura.gov.it
-curvecalm.shop
 cyndium.com
 dagsland.no
 dailydetroit.com
@@ -170,7 +167,6 @@ explore-mag.com
 fam.cx
 festa.bg
 festivalsandevents.com
-fhers.com
 firstenergycorp.com
 fisherplows.com
 fluxfinance.com
@@ -209,6 +205,7 @@ gundlach.de
 gut-wahlstorf.com
 guyism.com
 gwm.com.cn = great wall|great wall motor|great wall motor company limited|great wall motors|gwm|长城汽车
+hanguweb.com
 hanskrull.dk
 helijet.com
 hencigoer.com
@@ -284,6 +281,7 @@ lp-interentreprises.com
 luckyhills-ca.ca
 lutheranchurchcharities.org
 madameclaude.de
+mafeia.com
 mahouritsu.com
 main-cn-lol.com
 maioe.org
@@ -325,6 +323,7 @@ nanamensah.com
 nashfm1033.com
 natalieshuff.com
 natashabrock.dk
+nausetlight.org
 nauticgear.nl
 navarcles.cat
 necativesaykolar.com
@@ -362,7 +361,6 @@ personalledarskap.se
 peterlor.com
 piax.org
 playtoro-casino.se
-pmworldjournal.com
 praxifinance.fr
 presbyview.fr
 primariahangu.ro
@@ -370,6 +368,7 @@ primelistingsgh.com
 profel-europe.eu
 professorgilescritchley.co.uk
 prometheus-nakl.cz
+ptrbwsd.com
 q2ebanking.com
 qiblanco.com
 quadfellowship.org
@@ -386,7 +385,6 @@ readthedocs-hosted.com
 realultimatepower.net
 recreanice.fr
 reel-big-fish.com
-referendum-ofe.pl
 regulyarchivum.hu
 reichmannlab.com
 renataeastlick.com
@@ -420,6 +418,7 @@ softplayband.com
 spingoport.us
 spira.com
 sport-fuer-sachsen.de
+ssyucxprw.cn
 staatsbibliothek-bamberg.de
 standrewshanover.org
 starbuckmn.org
@@ -429,6 +428,7 @@ streakrealm.co.uk
 streetartistbambi.com
 striderknives.com
 studentenkarwei.nl
+superbaby521.com
 supuration.fr
 suslony.ru
 suttonschools.net
@@ -458,6 +458,7 @@ threatsys.co.in
 thriftycomputer.com
 thw-marktschwaben.de
 tieku.fi
+tihkee.com
 tij.co.jp = sys/bios|ti-rtos|ti‐rtos
 tjk.gr.jp
 toledooldwestend.com
@@ -484,6 +485,7 @@ virtualczech.cz
 visitthevale.com
 visitwhitemountains.com
 vladmuseum.ru
+vlinsys.com
 waveproject.co.uk
 widgetsatchel.com
 wild-park.de
@@ -491,6 +493,7 @@ wing-kariya.jp
 woking.ac.uk
 workingforkansas.com
 wskbsdeg.de
+wucehua.com
 wurkfanfryslan.nl
 x-y.tokyo
 xingzi.blue
@@ -499,6 +502,5 @@ yarom.org
 yichamao.com
 z43mes2a.com
 zh-offlcial-bsports.com
-zhongyuanns.com
 zonnewijzer-bussum.nl
 zoobioparqueamaru.com

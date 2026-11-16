@@ -26,6 +26,7 @@ aplusdev.org = a plus|a plus programming language|a＋
 arminia-ochtrup.de
 artivate.org
 asbikeracing.com
+astrodon.com
 atat.jp
 aula-ee.com
 autolivjobs.ro
@@ -93,7 +94,6 @@ cjsinstitute.com
 clipartmag.com
 cloudnews.tech
 cochinstockexchange.com
-coindirect.com
 collectionnelson.fr
 collegedgm.fr
 coloradoranger.org
@@ -110,6 +110,7 @@ creativeprime.co.uk
 criamais.com
 cusancona.it
 cylburn.org
+czydhb.com
 daniel-fraser.co.uk
 danielobasi.com
 daszelt.ch
@@ -126,7 +127,6 @@ dionysislampiris.com
 domains4less.co.nz
 domasinec.hr
 drjordannguyen.com
-dsoskotarembang.org
 dspretoria.co.za
 duckysinoes.com
 dynamicspinbase.com
@@ -154,10 +154,10 @@ fhiky.com
 fifteenminutesuntilfame.wordpress.com
 finishing.com
 fishin-frenzy-play.com
-focaljet.com
 forextantra.com
 fortunacasino-cz.cz
 fortunescope.de
+framework.eu
 freshstream.ca
 freudenstadtsport.de
 frichs.com
@@ -198,7 +198,6 @@ ieiri.co
 ijhad.org = woman on web|women on web|womenonweb.org|wow
 ikosik.com
 incredge.com
-india-press-release.com
 informatesalta.com.ar
 intactforests.org
 interviewcoder.co
@@ -223,7 +222,6 @@ justmortgages.co.uk
 kandle.ie
 kapelleveld.be
 karatebosna.com
-kazinopromokod.ru
 kitone.github.io
 kjmycology.or.kr
 klosterkammer.de
@@ -278,13 +276,13 @@ muratorplus.pl
 murprotec.fr
 museumofcthistory.org
 myagent.site
-nachhaltig.at
 nagb.gov
 naklo.si
 natalie-brown.com
 natcap.org
 naukaran.ru
 nazaret.org
+net88.boutique
 neustadt-marien-bielefeld.de
 nevsun.com
 newcinemaschool.com
@@ -336,6 +334,7 @@ plainlyinsight.us
 polinema.ac.id
 politiet.no
 portlandspenceracademy.co.uk
+portxpress.co.in
 postwagen.nl
 povmasters.com
 premium-platform.jp
@@ -403,8 +402,8 @@ stefvandijk.nl
 stephanelediraison.com
 stlucia.org
 stpaulrcc.com
+straussesmay.com
 sue-c.net
-sunwin.science
 supertalkms.com
 tacticfarm.com
 taixin-semi.com
@@ -438,6 +437,7 @@ tuoitrenews.vn
 tv25.mn
 tvnzondemand.co.nz
 twjsp.com.tw
+ufa-mon.com
 ulricbrowne.com
 unam.na
 unicen.edu.ar
@@ -452,7 +452,6 @@ verdestation.com
 veroniquetristram.com
 victoriashoppingcentre.com
 videologygroup.com
-vipleague.vg
 visitredsea.com
 vmrack.net
 vongreyerz.gold

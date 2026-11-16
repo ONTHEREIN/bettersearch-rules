@@ -18,6 +18,7 @@ ace-film.eu
 acherner-buergerstiftung.de
 acsireizen.nl
 actgsn.com
+adafdd.com
 addup.com
 adelereinhartz.com
 adobeconnect.com = adobe acrobat connect pro|adobe connect|connect|macromedia breeze|presedia publishing system
@@ -43,6 +44,7 @@ apachefriends.org = xamp|xampp|xampp lite|xampp portable|xapm
 appchina.com
 appliedcompute.com
 appraise.net
+arcticpublications.com
 areasaludtalavera.es
 arobuddhism.org
 artblart.com
@@ -67,6 +69,7 @@ belasco-associates.co.uk
 bespokeinvest.com
 bestfutureglobeworld.nl
 betareads.us
+betbonusu.com
 betnerocasino.it
 better-systems.org
 betwave.us
@@ -87,6 +90,7 @@ briancmoses.com
 brpfoundation.org
 bureaustoel24.nl
 burtsbees.ca
+bwuhfai.com
 caesarsgames.com
 calor.co.uk
 capitalpunishmentuk.org
@@ -124,18 +128,15 @@ dekom.nl
 denisonyachtsales.com
 destinet.eu
 deutsche-startups.de
-dfdianz.com
 diaryofdreams.de
 dicios.com
 die-moewe.at
-die-schwanenseite.de
 digitalinfinizy.com
 dinosaurier.nu
 djouher.com
 donjbacon.com
 dronesvision.com
 drs-hn.de
-dsoskecsukabumi.org
 dspmediaonline.com
 dualpixels.com
 duowenlvshi.com
@@ -188,10 +189,10 @@ gfxile.net
 go021506.com
 goasia.net
 goldfingers.cz
-gotiny.co
 grafzyx.at
 grangeprimaryacademy.org.uk
 grayspropertyservices.com
+gree.pl
 greenbayhotelstoday.com
 grierandpartners.co.uk
 gszdcm.com
@@ -257,11 +258,11 @@ knotel.com
 kokopelli-inc.com
 konicaminolta.com.au
 kortradio.com
-kremlinks.com
 ksthky.fi
 lacisterniga.es
 laubrsport.cz
 leguano.eu
+lenam.cl
 lennyletter.com
 leroxybrasserie.fr
 liaotuo.org
@@ -294,8 +295,8 @@ moog-suspension-parts.com
 morlandparishcouncil.org
 mrgreencasino-fi.com
 ms-zarepour.com
+mtz9wu.com
 mubet.fun
-mundoavisos.co
 muniquesada.com
 museoasolo.it
 nahemshoa.co.uk
@@ -342,7 +343,6 @@ paycomcenter.com
 pc-helloworld.com.cn
 peaches.se
 penninewaterways.co.uk
-pereplanirovka-kvartir9.ru
 playslots.pt
 plymouthareademocrats.org
 posb.com.sg = posb bank|新加坡邮政储蓄银行|新加坡郵政儲蓄銀行
@@ -380,7 +380,6 @@ russiaherald.com
 russification.ru
 sahambank.com
 saintolaves.net
-salzburgerhof.eu
 samanthasmith.info
 sanpietroinlamosa.org
 saosilvestre.com.br
@@ -393,6 +392,7 @@ secec.com
 securityflag.de
 sekaiisan-wakayama.jp
 semba-navi.com
+seoelite.es
 sequoiastate.com
 sexwax.com
 seydelmann.com
@@ -405,7 +405,6 @@ skibob-dsbv.de
 slotprimeplus.co.uk
 smartluckybridge.uk
 snccoin.dev
-solarcards.info
 sommersko.dk
 soorts-hossegor.fr
 soundtrackinfo.com
@@ -427,6 +426,7 @@ taftu.edu
 teleretratos.com
 termux.dev = termux
 thc6.com
+the-incredible-machine.com
 thebeachshop.biz
 theclassicalstation.org
 thedanceawards.com
@@ -435,7 +435,6 @@ thegoneapp.com
 themesdle.ru
 themoneyillusion.com
 thescene.nl
-timetodating.com
 tiogatheater.com
 tistory.com = tistory
 tiszadob.hu
@@ -444,6 +443,7 @@ tokem.fi
 tokyo-pop.com
 torrejonyvelasco.com
 truebalance.io
+trustautomobiles.org.in
 tsukanovartcollection.com
 tsv-sulzbach.com
 twospoons.ca
@@ -485,13 +485,13 @@ xn--42ch4bnkw4ad9d0a3c4kcwz7fyc.com
 yemenembassy.ca
 yooouuutuuube.com
 ytashawomack.com
+yut1e.cn
 ywboston.org
 zaramcfarlane.com
 zencall.ai
 zenspherepro.site
 zepperstudios.com
 zgora.pl
-zhongchengshiji.com
 ziniu104.com
 zncmjt.com
 zsbrandysno.cz

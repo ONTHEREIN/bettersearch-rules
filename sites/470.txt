@@ -1,5 +1,6 @@
 10b.site
 1121slotglobal.lol
+1win-bet.help
 2doc.nl
 4wall.pl
 6zpg.asia
@@ -10,7 +11,6 @@ abkmaastricht.nl
 acpsd.net
 acsiel.fr
 actilingua.com
-adidasoutdoor.com
 aether.com
 afrofuturism849.org
 aheil.de
@@ -48,7 +48,7 @@ blackbayasylum.com
 blagsobor.ru
 bluenilelivery.com
 bnaijacobiowa.org
-bnrnews.bg = bnr|bulgarian national radio|保加利亚国家电台|保加利亞國家電台
+bnrnews.bg
 board.net
 breckenridgetexas.com
 bridgemanart.com
@@ -122,11 +122,9 @@ dishhome.com.np
 dixons.co.uk
 dizileroyuncular.com
 dlgtriallaw.com
-dongjinyujz.com
 dosyaupload.com
 drdazbynek.cz
 drs.sr
-dsoskotademak.org
 dstation-racing.jp
 dublin-bet.com.de
 dumskaya.net
@@ -156,7 +154,6 @@ fad.cat
 fajar.tv
 falknerei-katharinenberg.de
 fargomarathon.com
-fedoraunity.org
 filescdn.com
 firstreserve.com
 fogeatercafe.com
@@ -197,6 +194,7 @@ high-endrolex.com
 highspeedhayride.com
 highspeedtraining.co.uk
 hleqk.cn
+hm888.net
 houtensteenhandelkortenhoef.nl
 houtmanensander.nl
 hrasovik.sk
@@ -226,7 +224,6 @@ jeromecouture.net
 jiaxiangshi.cn
 joachimhuveneers.com
 josephcassara.com
-jrbxhu.com
 jumbula.com
 jumpradio.ca
 karnfilm.se
@@ -242,6 +239,7 @@ knc-ac.in
 konis-hupen.at
 kpl20.com
 krasu.ru
+ksagv.com
 ksk-kusel.de
 ktf.kz
 kulturring.berlin
@@ -282,6 +280,7 @@ martikmusic.com
 martin.edu
 mastv.cc
 mcpmuzeum.hu
+mdmt3.com
 mechaplantlab.org
 medeohealth.com
 melbetweb.ru
@@ -290,6 +289,7 @@ merelboers.nl
 meritkingbets-girisi.com
 metsera.com
 michelbouvet.com
+milkman.it
 mindstick.com
 mj6hg8k.com
 mnyouthsymphonies.org
@@ -299,7 +299,6 @@ mozellamusic.com
 mttnl.com
 muelverstedt.net
 municipalityoftoboso.com
-murcigran.es
 museeregionaldargenteuil.ca
 mycodelesswebsite.com
 nativebio.org
@@ -405,7 +404,6 @@ shahapur.co.in
 shahinshahrbus.ir
 sharpusa.com
 shotcut.org = shotcut
-shotokanofgardengrove.com
 siegersuarez.com
 siete24.mx
 simchahyman.co
@@ -499,9 +497,9 @@ wmmc.com
 wmmr.com
 womenarehuman.com
 woodbrass.com
+woodroofe.net
 writing-pad.ac.uk
 x-rayaudio.com
-xapartmentlocators.com
 xcc.cn
 xcum.com
 xdjgw.cn
@@ -514,6 +512,7 @@ xterrafitness.com
 yannrehberg.de
 yjylg.com
 youplanetpictures.com
+yph555.cn
 zbnc.edu.cn
 zdm.ru
 zekond.com

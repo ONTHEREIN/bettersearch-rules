@@ -18,7 +18,6 @@ akairibon.com
 akbayan.org
 alexfergus.com
 ally.io
-allyoutubes.com
 alokmusic.com
 alphagroupstudio.nl
 alternaweb.org
@@ -34,6 +33,7 @@ arslonga.nl
 artart.com.tw
 artistsequity.org
 asmaaguedira.com
+atlaspay.life
 atzeberlin.de
 auticon.com
 aviatrix-vn.com
@@ -95,6 +95,7 @@ centredecreationdiffusiondegaspe.com
 centreinoui.com
 centrointernazionalefumetto.it
 cept.org
+ceri168.net
 charmsville.com
 chicagodispatcher.com
 childrenslawcenter.org
@@ -226,6 +227,7 @@ indt.org
 infraestructurapublica.cl
 insha-osvita.org
 inspai.cat
+intjb.com
 iprc.org
 isds.org.uk
 izia.at
@@ -249,7 +251,6 @@ kathbroadcasting.com
 kaz-teatr.kz
 kdgvs39.cn
 keithraffel.com
-kidejyj.com
 kidstravel2.com
 kingdomrushfrontiers.com = kingdom rush 2|kingdom rush frontiers|kingdom rush frontiers hd|kingdom rush: frontiers
 kitaqport.or.jp
@@ -288,7 +289,6 @@ mahn.ch
 mai.gov.md
 mairie-quenne.fr
 mairie-veron.fr
-malostratos.org
 margenzero.com
 marina-fp7.eu
 mauricejean.ca
@@ -299,7 +299,6 @@ mentholatum.com
 mescindia.org
 mfd.se
 mikolajwlen.pl
-mingningdianzi.com
 mininet.org
 miricrocodilefarm.com
 mischkadevon.com
@@ -327,7 +326,6 @@ nekomew.cat
 netfabb.com
 niigata-atago.jp
 nis2directive.eu
-njschj.com
 nok-nark.ru
 nomadicnotes.com
 nonfiction.com
@@ -366,6 +364,7 @@ primecasinoplus.com
 primereelview.uk
 princess-casino-hu.com
 promotie.nl
+proxyserver.com
 psiref.com
 pt3pz.com
 pueblobonito.com
@@ -407,12 +406,11 @@ seattlefoundation.org
 secondcopy.com
 severance.healthcare
 sfg-salzdetfurth.de
-sfkadr.com
+sfkadr.com = filmstudio kadr|kadr|kadr工作室|studio filmowe kadr|zespół filmowy kadr|卡德爾電影製作公司
 sgyy.cn
 sheridan.com.au
 shopbeergear.com
 shuanglin.sg
-shyajm.com
 simoney.cl
 sirc.org
 sirjaron.ir
@@ -421,7 +419,6 @@ smarthospitalityllc.com
 smartluckyservice.uk
 soccerage.com
 somethingsweetsomethingsavoury.com
-southwest.com.au
 spreadmatrixhub.com
 stakeline.co.uk
 stakevault.co.uk
@@ -441,18 +438,20 @@ stshenoudajc.org
 studiopev.it
 sv-roehrenhof.de
 sylviahjanicki.com
+synthetic-cannabis-cafe-met.site
 tamriel-rebuilt.org
 taxcalc.com
 tcra.fr
 teaming.net
 tennis-infinity.com
 terahard.org
+tfug.world
 tgamcballari.org
 thecrescentpub.co.uk
-thedsgnblog.com
 theodoreandpringle.ca
 thesietch.org
 thetigernews.com
+thhwhw.com
 thinkbusiness.ie
 thisislealea.de
 top10onlinecolleges.org
@@ -506,3 +505,4 @@ zdrofit.pl
 zencardsace.it
 zentralflughafen-thf.de
 zivink.com
+zvibonj.com

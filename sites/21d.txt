@@ -1,4 +1,3 @@
-029alipay.com
 0dvis.com
 1800eg.com
 23-am-ufer.de
@@ -19,6 +18,7 @@ akzonobel.com = akzo|akzo nobel n.v.|akzo nobel nv|akzonobel|阿克苏诺贝尔|
 aleson-shipping.com
 alfianonatta.it
 allesvan.nl
+almondfilms.tv
 altassets.net
 alyac.co.kr
 ambriola.com
@@ -31,6 +31,7 @@ annebroeksma.nl
 anneingram.com
 ansons.de
 anthonylegion.com
+aoda.org
 arbus.fr
 arntbirkedal.no
 ashcroftcachecreekjournal.com
@@ -69,6 +70,7 @@ brightvipdaily.nl
 bryting.no
 burnhamonsearfc.org.uk
 burnsfamilystudios.com
+byrcb.com
 cafoodlink.org
 candicharity.co.uk
 candycrush.com
@@ -162,13 +164,13 @@ fishin-frenzy-free-game.co.uk
 fishweb.com
 flexitricity.com
 flyinghorsefarms.org
+fmurbclu.com
 fontaines-saint-martin.fr
-forbes88.com
+forms.yandex.ru
 fotonostrummag.com
 fqas-2017.org
 francescafuchs.com
 fransoo.com
-free-translator.com
 freedback.com
 freeradionetwork.eu = free radio network
 fryndz.com
@@ -221,7 +223,6 @@ houstonbeerfestival.com
 hrbitovytabor.cz
 htsql.org
 hullnats.org.uk
-hxnsdlo.com
 hztudor.com
 ibet-sv.com
 ihwc2016.com
@@ -270,7 +271,6 @@ kozani.gr
 kpp-gr.com
 kroev.de
 kubice.cz
-kuhni-spb-ytr.ru
 kunskapsverket.org
 kunsten.nu
 kureha-shrine.com
@@ -375,7 +375,6 @@ premiata.it
 primereelsworld.com
 prodetur.es
 prolifetraining.com
-proreferral.com
 pvsps.cz
 rabbitwin-casino.com
 radio-city.it
@@ -386,9 +385,9 @@ remont-imac-mos.ru
 rentredi.com
 retrooasisempire360.com
 revistacontextos.es
-richy-reels.co.uk
 riksrevisionen.se
 rkybusinesshub.com
+robinaskitchen.com
 rocksfestivals.com
 rokebypark.com
 romkoffie.be
@@ -413,9 +412,7 @@ sfawardswatch.com
 shdias.com.br
 shion.tv
 siedah.com
-simpsonsmalt.co.uk
 slotmines-at.com
-slotplus.online
 smartaceinsight.uk
 smartmedialucky.it
 socialeconomics.org
@@ -432,6 +429,7 @@ steckwaldschlarber.de
 suoyatu.net
 surgeon-elise.com
 surgical-dressing.com
+szbajs.com
 szergeny.hu
 tailoredswift.co
 tambourinestudios.com
@@ -443,6 +441,7 @@ teologiafossano.it
 testecs.vip
 thebatterysf.com
 theberkshiremall.com
+theexpertcfo.com
 thekitchen.tv
 themodernpantry.co.uk
 thewomansclubofsa.org
@@ -451,7 +450,6 @@ tijdloos-lingerie.nl
 timesgazette.com
 tomstern.at
 tonybabalu.com
-tonyspinsde.de
 tourmyindia.com
 townofparrish.org
 traviscottrell.com
@@ -470,24 +468,25 @@ uvrsnadrazi.cz
 uwkc.org
 vapemonk.in
 varoulko.gr
+velt.dev
 veto-records.ch
 victoriaclarkonline.com
 viewoniq.org
 vigoe.es
 virusvivo.com
 visitors-abc.ru
+vitastudio.ai
+vomi.io
 vskogsvardsforbundet.se
 vtcdispatch.fr
 wakegov.com
 walkleyprimaryschool.org.uk
-watershedmg.org
 wehaverights.us
 wickedlocal.com = somerville journal|wickedlocal.com/somerville
 wild-sino-canada.com
 willowbirdbaking.com
 wirelesspowerconsortium.com = qi inductive charging|qi interface|qi standard|qi wireless charging|qi標準|氣標準
 woodlawnfoundation.org
-wtuti.com
 xinux.uz = uzbek linux community|uzinfocom oss|xinux
 xuzhoujob.com
 yachiyo.com.tw

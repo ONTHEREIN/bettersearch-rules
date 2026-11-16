@@ -25,7 +25,7 @@ analog-lab.com
 andalsnesif.no
 andresenlegal.de
 anthc.org
-apache.org = activemq|activemq classic|ant|apache|apache accumulo|apache activemq|apache allura|apache ant|apache attic|apache batik|apache bloodhound|apache cayenne|apache click|apache cocoon|apache continuum|apache couchdb|apache derby|apache directory|apache druid|apache fop|apache groovy|apache guacamole|apache hbase|apache http server|apache jena|apache jmeter|apache kafka|apache lenya|apache mahout|apache mxnet|apache myfaces|apache netbeans|apache nifi|apache nutch|apache nuttx|apache portable runtime|apache roller|apache shale|apache sling|apache struts|apache subversion|apache superset|apache tapestry|apache traffic server|apache web server|apache webserver|apache wicket|apache xalan|apache xerces|apache可移植运行时|apache可移植运行时库|apr|ats|batik|bloodhound|click framework|cloudscape|continuum|couch|couchdb|deltacloud|druid|fop|formatting objects processor|groovy|hbase|httpd|ibatis|ibm cloudscape|inktomi traffic server|java db|kafka|lotusxsl|mahout|mix-net|mod_perl|mxnet|netbeans|netbeans ide|nutch|nuttx|struts|subversion|svn|tapestry|the apache attic|traffic server|wicket|xalan|xalan c++|xalan java|xerces|一个修补的网页服务器|格式化对象处理器|连续体|阿帕奇|阿帕奇服务器|阿帕奇网页服务器|阿帕奇超文本协议服务|阿帕契網站伺服器
+apache.org = ambari|apache|apache accumulo|apache airflow|apache allura|apache ambari|apache apex|apache arrow|apache aurora|apache axis2|apache beam|apache bloodhound|apache brooklyn|apache calcite|apache chemistry|apache cloudstack|apache commons ognl|apache cordova|apache cxf|apache directory server|apache etch|apache flink|apache flume|apache freemarker|apache giraph|apache guacamole|apache hadoop|apache hbase|apache helix|apache http server|apache ignite|apache impala|apache james|apache jena|apache kafka|apache kudu|apache kylin|apache marmotta|apache maven|apache mesos|apache mxnet|apache mynewt os|apache netbeans|apache nifi|apache nutch|apache parquet|apache pdfbox|apache phoenix|apache rocketmq|apache roller|apache samza|apache singa|apache solr|apache spamassassin|apache thrift|apache tika|apache traffic server|apache uima|apache web server|apache webserver|ats|axis2|bloodhound|brooklyn|cloudera impala|cloudstack|cordova|formatting objects processor|freemarker|giraph|hbase|httpd|ibatis|inktomi traffic server|kafka|log4j|maven|mix-net|mod_perl|mxnet|nutch|object-graph navigation language|openmeetings|pdfbox|solr|spamassassin|thrift|traffic server|uima|一个修补的网页服务器|对象导航图语言|格式化对象处理器|阿帕奇|阿帕奇maven|阿帕奇服务器|阿帕奇网页服务器|阿帕奇超文本协议服务|阿帕契網站伺服器|非结构化信息管理架构|马文
 apollogamescasino-cz.com
 ares.com
 ark-ikt.nl
@@ -40,7 +40,6 @@ avadhnama.com
 awa-bus.ch
 awilcolng.no
 aya-universe.com
-ayboga.av.tr
 babybio.fr
 backlinkanalysistool.space
 balicasinoworld.com
@@ -49,10 +48,10 @@ barbian-duisburg.de
 beanbox.com
 begijnendijk.be
 bethcullensculpture.co.uk
+betmax168.casino
 betsstackpulse.com
 bienno.info
 bitlaunch.io
-bjtopu.com
 boldnestfeed.com
 bomberosqueretaro.com
 boneandjointtn.org
@@ -82,13 +81,13 @@ centminmod.com
 cerem-review.eu
 cflpump.com
 charlesquentin.com
+checkindex.ru
 chrisclaremont.com
 chubouake.com
 cig.cz
 cinediagonal.com
 cinemasphere.ru
 civitanovafilmfestival.it
-classicopenair.de
 clusterhq.com
 cmpco.com
 cnis.ca
@@ -119,7 +118,6 @@ doinitdreckly.com
 doko.jp
 dreamtimefarm.com
 dremio.com
-dsosboyolali.com
 dynastyempire.de
 e-osago.ru
 earthdancer.co.uk
@@ -140,7 +138,7 @@ eurodressage.com
 explorebookmarks.com
 faithinstitutions.org
 falsalarma.com
-fanyueera.com
+fecode.edu.co
 fivestargames.com.au
 followthemoney.org
 forbes-online.cz
@@ -157,7 +155,6 @@ gambitscheme.org = gambc|gambit|gambit-c
 garbo.io
 gatzone.com
 gautschy.ch
-giovang.love
 giuseppeottaviani.com
 glamnews.tv
 gmmhc.or.kr
@@ -173,7 +170,6 @@ gvi.co.uk
 hallucinations-collectives.com
 hamsters-uk.org
 happy-de.de
-harlequin.sh
 harvestergames.org
 havenlauwersoog.nl
 hearts81.com
@@ -183,6 +179,7 @@ his-mobile.com
 homelink.org
 horizonzone.co.uk
 hydromajestic.com.au
+ia7v53.cn
 iamdave.ai
 icbsp.org
 ids-cargo.cz
@@ -214,7 +211,6 @@ katarinazatovicova.cz
 kath-shn.de
 keinbockaufnazis.de
 kimbino.fi
-kitchenaid.it
 klaus-groth-schule-husum.de
 kniferights.org
 komodoide.com
@@ -295,6 +291,7 @@ nicolaroma.com
 nieuwbouw.nl
 nikacasino-nederland.nl
 ninja9.jp
+ninolegal.com
 nmusafvirtualtour.com
 nnhezpq.com
 noranett.no
@@ -344,6 +341,7 @@ rivergame.net
 riyadhjps.jp
 roa.org
 roger-edgar-gillet.com
+rootcrm.in
 rudingemann.com
 ruffatti.com
 rugratsinparis.com
@@ -387,7 +385,6 @@ spielfilmhaltlos.de
 spin-kings.org.uk
 spinplusrush.us
 spinsworks.nl
-ssyteachina.com
 stadesupreme.fr
 starburstgame.it
 startupdonut.co.uk
@@ -422,7 +419,6 @@ topcon.co.jp
 tristandupuis.com
 tritontools.com
 turisotway.cl
-tus-altenbeken.de
 tv5.ir
 ufasports.com
 uhlsport.com
@@ -454,6 +450,7 @@ webagregator.ru
 webboard.pl
 werzers.at
 whatmatrix.com
+whiirn.com
 wiki-babylonsignalis.org
 wilsonaudio.com
 winerackconcepts.com

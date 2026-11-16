@@ -28,6 +28,7 @@ allgame.com = agg|all game guide|allgame|allgame.com
 alliedhpi.com
 alohagas.com
 amandusblikkfang.no
+americangateways.org
 americanjourneys.org
 amunmontcada.wordpress.com
 anacs.com
@@ -44,6 +45,7 @@ athertonracing.co.uk
 athsdelco.org
 audentius.cz
 autorepairnewsinburlingtonvt.com
+ayshmdq.com
 ayuntamientodecorullon.org
 azmiu.edu.az
 bad-freienwalde.de
@@ -99,6 +101,7 @@ chicken-subway.se
 ciee-icee.ca
 claudioluglishirts.com
 clerlande.com
+cloveraperez.com
 cm-graciosa.pt
 coinsgamecasino.pl
 conf-irm.org
@@ -112,6 +115,7 @@ csgcc.ac.uk
 ctyun.cn
 customs.gov.ph
 cvwriting.co.nz
+czyxsp.com
 dailybetdirect.uk
 datlahuman.com
 dchcollege.in
@@ -126,6 +130,7 @@ dietwee.nl
 digioffice.nl
 dinity.net
 diocesedecoxim.com.br
+dlsgranite.in
 dock.us
 dos.lol
 dosedmovie.com
@@ -185,7 +190,6 @@ ggbm.ae
 ghanahospitals.org
 glennwheeler.com.au
 glowvita.nl
-glsbjnep.cc
 gnss-sdr.org
 gntv.tv
 gonnawantseconds.com
@@ -197,6 +201,7 @@ gymnasium-brake.de
 hachi-ceme.jp
 hacklinksatinal.help
 hackmageddon.com
+hallpub.com
 hanamarvanova.cz
 haribo.de
 harnosandsff.se
@@ -218,6 +223,7 @@ houseofillustration.org.uk
 houseofroseblog.com
 hullcivicsoc.info
 hytha.eu
+i8m0ph.cn
 idg.se
 ijemp.com
 ijsa.net
@@ -269,14 +275,12 @@ lextenso-editions.fr
 lgservice.co.kr = lg electronics|lg electronics inc.|lge|lg電子
 lheath.net
 liatberdugo.com
-lightingtheweb.com
 lightorganrecords.com
 lightstepchronicles.com
 lilwayne-online.com
 lind.com
 littlebloomhub.baby
 littleshelter.com
-littlevintagecottage.com
 lmdctour.com
 locallya.com
 londoncasinofocus.uk
@@ -320,7 +324,6 @@ newcasinos-canada.top
 nicholsschool.org
 nightowl.ph
 nongfuspring.com = nongfu spring|农夫山泉|农夫山泉股份有限公司|農夫山泉|農夫山泉股份有限公司
-noobgains.com
 normanrockwellvt.com
 northernfalconsfc.com
 novabasecraft.nl
@@ -335,9 +338,11 @@ onerpm.link
 orc.ru
 organoesis.org
 otbramptonclinic.com
+otx.me
 ou5sz.com
 outtherecolorado.com
 ovocnarska-unie.cz
+oxgzbi.com
 ozarkactorstheatre.org
 papodearquiteto.com.br
 papplaszlo.hu
@@ -353,6 +358,7 @@ pkuph.cn
 pnautonomouscollege.in
 ppwr-qrcode.de
 primevoice.us
+prontobetscasino.com
 propochemu.ru
 proshika.org
 ptune.io
@@ -371,6 +377,7 @@ robbaetens.be
 robinson.nu
 saltent.co.kr
 sapca.org.uk
+sbykls.cn
 scfederal.org
 scottkeim.com
 scrapbooking-mm.se
@@ -387,7 +394,6 @@ silverreview.uk
 simonbouisson.com
 simpleupdates.us
 sitehub.io
-sldmw.com
 smartpractice.com
 smartsuite.com
 sochiem.cl
@@ -450,13 +456,13 @@ vipprime.nl
 virtualtek.co.kr
 visionpointgaming.it
 visitgulf.com
-vodkatotozz.com
 voidtr.com
 wafusa.org
 waitbutwhy.com = wait but why|waitbutwhy.com|wbw|为什么等待|為什麼等待
 wals-siezenheim.at
 warnersdriveinwv.org
 wbxnykj.com
+wdsalam168.live
 web-sollet.io
 webidea.pl
 webplanner.de

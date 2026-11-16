@@ -7,7 +7,6 @@
 a-porta.dk
 a3e.cl
 aafa.org
-abbeymortgages.co.uk
 academa.ai
 academynet.org
 accorhotels.com
@@ -149,7 +148,6 @@ geely-global.com
 georepublic.info
 giz-nord.de
 globalsurgeryfoundation.org
-gly.co.il
 gnss-centre.cz
 golbe-s15.com
 goldzinocasino1.at
@@ -193,6 +191,7 @@ jewelrycharms.us
 jobsintown.de
 johneddie.com
 johnleonlaw.com
+jrspd.cn
 jsabm.org
 judasarrieta.com
 kaisernetwork.org
@@ -256,6 +255,7 @@ modernsuperbase.uk
 monkeystales.xyz
 mp3licensing.com
 msmobiles.com
+mtrolin.com
 muehldorf.org
 muhumuuseum.ee
 mumabusinessreview.org
@@ -319,7 +319,6 @@ primariasighisoara.ro
 primevue.dev
 prizyvanet.ru
 purewish-game.com
-queenwinreview.com
 raco.cat
 radioplay.fi
 raffaellasilvestri.com
@@ -339,6 +338,7 @@ rs-feucht.schule
 ruminahui.org
 rutherfordhill.com
 ryugaku.com
+s-orange.com
 sacredheartpri.com
 salesforcesearch.com
 salisburylibrary.org
@@ -412,14 +412,13 @@ understandlegacycode.com
 unisparkuae.com
 upjimi.org
 uptodateinteriors.com
-vegazonecasino.guru
 viagraeshop.com
+vimgmtdf.cc
 vinicius-junior-cz.biz
 viplink.uk
 visitpaganella.it
 vliehors-expres.nl
 vniioz.ru
-volunteerdayton.org
 vueweekly.com
 vulnhub.com
 webapoteket.dk
@@ -437,10 +436,10 @@ xznu.edu.cn
 yanggoon.com
 yar-zoo.ru
 yeng.co.jp
+ynsksw.com
 youliao.xyz
-younganimal.com
+younganimal.com = 3-gatsu no lion|3月的狮子|3月的獅子|berserk|march comes in like a lion|sangatsu no lion|sangatsu no raion|三月的狮子|三月的獅子|剣風伝奇ベルセルク|烙印勇士
 ytgmf.com
-yuguangongsi.com
 yunnanpedia.com
 zainrizvi.io
 zamek-velkelosiny.cz

@@ -4,6 +4,7 @@
 aavs.org
 abouthungary.hu
 absolutbleu.com
+absorbwell.com
 achillebonitoliva.com
 admiralbet-it.it
 adu.edu.az
@@ -103,7 +104,6 @@ docload.ru
 donaldgoines.com
 donnaleahy.com
 dreamscometrue-pp.com
-dsoskecmagelang.org
 dsq.gov.cn
 dulala.fr
 earlthomasconley.com
@@ -156,12 +156,10 @@ grandbourg.fr
 greenevi.com
 greggs.com = greggs|greggs plc
 gwlr.org
-hay88apps.com
 heimatmuseum-geversdorf.de
 heimatverein-lockwitz.de
 hejopapi.hu
 helvete-magazine.com
-hinducollege.ac.in
 hoganassessments.com
 holmogori.ru
 honfordstar.com
@@ -181,6 +179,7 @@ insidecrm.com
 intershop.de
 isa-j.co.jp
 isfana.kg
+isportconnect.tv
 itcencloit.com
 jackpotfishing.co.uk
 janeaustens.house
@@ -202,10 +201,12 @@ keplers.com
 ketquabongdaa.io
 keylumapro.com
 khaanflix.com
+kinglucky88.bet
 kingshalltaunton.co.uk
 kingsopening.co.uk
 kipwise.com
 klassiekspel.nl
+koari.net
 komdir.dk
 komecho.co.jp
 komedija.hr
@@ -304,7 +305,6 @@ perfektowood.lt
 pgpli.com
 phaseaustria.org
 phpshe.com
-pinco-casinoru.ru
 pitstopdaily.co.uk
 plasticfreeonlus.it
 pointwellslibrary.co.nz
@@ -319,6 +319,7 @@ pulsecorex.com
 pwnets.com
 radioroks.ua
 rateiosdeconcursos.com.br
+raumatisands.co.nz
 razorreturns-fr.com
 realwap.net
 rebuild-foundation.org
@@ -327,7 +328,6 @@ regentcinemas.com.au
 relaxlikeaboss.com
 restaurantnormandin.com
 retrohax.net
-rexbionics.com
 rkvvdendungen.net
 rmc.tv
 robertheffley.com
@@ -351,6 +351,7 @@ sestsenat.org.br
 sfgirlbybay.com
 shanejacobson.com.au
 shkola-onlajn-fro.ru
+shsbsharks.com
 sif.dk
 sisterlouisaschurch.com
 skhynix.co.kr
@@ -423,7 +424,6 @@ ushev.com
 usktdigital.com
 v2charge.com
 vaxholm.se
-vegashunter.mobi
 velly.org
 vendoeuvres.fr
 verse.me
@@ -444,7 +444,7 @@ wojciech-krol.pl
 womensaid.scot
 worldedge.co.uk
 wur.eu
-xinyuezhilian521.com
+xinyunchuan.com
 xn--jeanfranoispiege-jpb.com
 xuhuiintelligent.com
 ybg.com.au

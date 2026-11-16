@@ -6,7 +6,6 @@
 98win.properties
 a-office.com.ua
 aaargh.be
-ac-toutiao.com
 accountor.com
 acmezzocorona.it
 acronyms.co.uk
@@ -17,6 +16,7 @@ alfapharm.am
 alkinoos.gr
 allamericanappliancerepairs.com
 allergia.fi
+altersend.com
 amandacooksey.com
 ambiente.gov.ar
 analytify.io
@@ -39,7 +39,6 @@ awlaxemk.cc
 baccaratsite.win
 bakingamoment.com
 barguzin-istok.ru
-bartinbayanlariyiz.xyz
 bathingfranky.com
 bearsmart.com
 becontreeprimaryschool.com
@@ -119,6 +118,7 @@ doverbay.ca
 downcastgames.com
 drgasparriglobalnutrition.com
 drtolgaeryilmaz.com
+dzgkzx.com
 easeus.co.kr
 echohouse.ca
 ecoledemusiquedelauris.fr
@@ -188,7 +188,6 @@ himalayabon.com
 hinoemata.lg.jp
 historyforsale.com
 holyfamilyvancouver.ca
-hronboard.me
 humanvaccinesproject.org
 hysensbio.com
 ieeexplore.org
@@ -208,10 +207,10 @@ jamescauty.com
 jameshdickerson.com
 janineturner.com
 jawahar.tech
+jcmy.net.cn
 jellyjelly.com
 jgdcollege.com
 jipea.or.jp
-jj37076.vip
 josemanuelballester.com
 judoisr2018.com
 jxck.io
@@ -297,6 +296,7 @@ netz-barrierefrei.de
 netzstrategen.com
 newlynartgallery.co.uk
 nextspinmarket.com
+nick-gravgaard.com
 ninja-blade.com = ninja blade|ニンジャブレイド|忍者之刃|忍者狂刀
 northstarmeetingsgroup.com
 novaromusic.com
@@ -394,6 +394,7 @@ sdacollegeofeducation.in
 segelflug-hofgeismar.de
 seilforeningen.no
 senridrums.com
+seoservicedelhi.com
 shikoku-tohcello.co.jp
 shitposter.world
 shockingbritain.com
@@ -406,13 +407,11 @@ skiamade.com
 slipshot.io
 slothub777.vip
 slotsignal947.de
-slotsrankstream.co.uk
 smartbill.ro
 smartfruitdesk.uk
 sneekdigital.co.uk
 sorina-nwachukwu.de
 soundboard.com
-spanishto-english.com
 sparkmatrixplay.com
 speakout.hk
 spectrum-instrumentation.com
@@ -437,7 +436,6 @@ theblast.com
 thebookofthegame.com
 theequityone.com
 theindia.info
-theparisianmacao.cn
 thepowerbase.com
 thepracticinghomesteader.com
 therelics.ca
@@ -449,6 +447,7 @@ tokyo-rinnetu.co.jp
 toth-illustration.com
 towatariyota.com
 toyandrailwaymuseum.com.au
+tpschc.com
 transforma.global
 tranzit.org
 trustmypaper.com
@@ -471,7 +470,6 @@ visitlesotho.travel
 visitliptov.sk
 visitsandemetrio.it
 vivian.co.za
-vivu88.you
 vladmama.ru
 vliet.be
 vojujezd-libava.cz
@@ -501,6 +499,7 @@ ww2today.com
 xn--servios-yxa.com
 xqsdzm.com
 yasayanmuze.net
+yhkn0i3ixt.cn
 yody.vn
 yok.ee
 yoseigo.net

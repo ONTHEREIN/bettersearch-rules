@@ -58,7 +58,6 @@ blackfishpublishing.com
 blackstonetechnology.ch
 bluebellunitedfc.com
 bluelucky.it
-bms-833923.com
 bobassett65.com
 bonus.ch
 bootlegger.coffee
@@ -131,6 +130,7 @@ dnevenred.eu
 download-pinup-apk.ru
 dragonspice.de
 dramsallem.org
+dream-on-company.com
 dreamdoors.co.uk
 dsposal.uk
 dsuhornets.com
@@ -150,6 +150,7 @@ esjob.jp
 eurogate.de
 europia.org
 eventiletterari.swiss
+fastmirrors.org
 feadship.nl
 fh-rosenheim.de
 filtonavenue.org
@@ -188,7 +189,6 @@ hafi.com
 hannahbahng.com
 harrywootliff.com
 hctallinn.ee
-hdarea.tv
 hdsitalia.org
 hemlane.com
 hemp.com
@@ -204,11 +204,9 @@ hysitron.com
 ictaindiana.org
 idahovotes.gov
 identityireland.org
-iex88898.com
 imi.ir
 immi.gov.bt
 industrialpecas.com.br
-innovatcn.com
 insolvenzrecht-steuerrecht.de
 intercars.com
 intersense.com
@@ -238,10 +236,10 @@ kinonotabi-anime.com
 kirienomori.jp
 kishkinta.in
 kmmb.cz
-kobraprint.com
 kpup.info
 lacymjohnson.com
 lancers.co.jp
+landhaus-sonne-bodensee.de
 laquillane.fr
 lascribe.net
 latinatumusica.com
@@ -266,6 +264,7 @@ longbeachsymphony.org
 longy.com.au
 lottercommunications.com
 ltdesigns.pl
+lvcrft.net
 lynnrippelmeyer.com
 m33access.com
 maidlamois.ee
@@ -275,6 +274,7 @@ makeamouve.com
 malching.de
 malciputracibubur.com
 marinafranklin.com
+martellotech.com
 maryannkeller.com
 matrixinstitute.org
 mcadvair.online
@@ -305,6 +305,7 @@ nationalbank.kz = national bank of kazakhstan|哈萨克斯坦国家银行
 nationalbusinessleague.org
 naturcymru.org.uk
 ndmch.org
+nenahod-amf-24-karta.online
 nenkersdorf.de
 nilparent.com
 ninjacrashgame-tr.com
@@ -380,6 +381,7 @@ rheingauer-volksbank.de
 rhmpw58.cn
 richearthinstitute.org
 riminiqueofficial.com
+rollerhouse.co
 romanianculture.us
 royalerides.co.uk
 rsrosela.com
@@ -415,7 +417,7 @@ smith-magenis.org
 speechify.com
 spgcl.com
 sportmkbet.com
-spotahome.com
+spotahome.com = sah|spotahome
 staedelschule.de
 stanthonymilwaukee.org
 steelnet.org
@@ -490,10 +492,12 @@ x-beat.com
 xmshumeng.com
 xn--12--5cd3ceac0a0alw0d.xn--p1ai
 xn--55-jlcxv2a.xn--p1ai
+xt6zn8.cn
 xtreamblog.com
 xuezhizhou.com.cn
 yanso.cn
 yarnbirdknits.com
+ychdhf.com
 yipp.nl
 yourquote.in
 zastavatapacirnica.rs

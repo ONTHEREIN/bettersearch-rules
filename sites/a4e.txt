@@ -30,7 +30,6 @@ asicon.org
 athena-security.com
 atorcoppe.com
 autanabooks.com
-auto.qa
 avahi.org = avahi
 avrilhaines.xyz
 bacrc.com
@@ -57,6 +56,7 @@ blaye.fr
 bloggerboutique.online
 bodospower.de
 bongdaluscore.com
+bottledrop.com
 boulonnaisautop.com
 brightpost.au
 bushoojapan.com
@@ -200,6 +200,8 @@ humantechnopole.it
 hvidstengruppenfilmen.dk
 ibrahimieh.edu
 idcsmart.com
+if6pl.cn
+ig60t.cn
 ilovebobfm.com
 imitrex123.com
 incredibleorissa.com
@@ -384,7 +386,6 @@ someonelikeyoumovie.com
 spero.financial
 spgh.net
 spinbetter-fr.com
-spinsy-casino.life
 srherald.com
 stampederock.com
 stayorgo.nl
@@ -439,6 +440,7 @@ vegalonghorn.com
 vegasworld.us
 versicherungsriese.de
 victoraviat.com
+viesiejipirkimai.lt
 visitethiopia.et
 vloerenmantegels.nl
 wandr.me
@@ -455,6 +457,7 @@ wilhelmportlandmemorial.com
 wweishh.com
 xazx.net
 xn--hollnderturm-jcb.de
+yellowdogeats.com
 yychongwu.com
 zapardieldelacanada.es
 zapsibkombank.ru

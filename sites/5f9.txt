@@ -11,7 +11,6 @@ advanstar.com
 afop.com
 afriboom.eu
 airselfiecamera.com
-alanyabayanlari.xyz
 alertra.com
 alnour.com.lb
 alphadesigner.com
@@ -28,7 +27,6 @@ bandirma.edu.tr
 baseballism.com
 bauer.com = bauer hockey
 bbqhost.com
-bcsdfy.com
 bdi-bioenergy.com
 belarusenc.by
 benel.nl
@@ -93,6 +91,7 @@ cleanmindset.fr
 clearjackpotnetwork.com
 cm-bombarral.pt
 cmcva.org
+cnuu.net.cn
 collectif4ailes.fr
 coloradocrisisservices.org
 columbushosp.org
@@ -104,6 +103,7 @@ craftstud.io
 createsend5.com
 crownstalbans.com
 crystalspot.co.uk
+ctgdqz.com
 dali-discount.com
 davidessig.com
 dblacklive.com
@@ -241,7 +241,6 @@ kh-freiburg.de
 kikuchi-college.ac.jp
 klinikum-klagenfurt.at
 knitpicks.com
-konyayerelhaber.com
 koopf.de
 kostal-solar-electric.com
 kps.com.hk
@@ -275,7 +274,6 @@ mattcusson.com
 maximus.com
 maxmeta.io
 mbpp.gov.my
-mccormickfona.com
 mck.co.in
 mckinneyfirearmstraining.com
 mediasocieteonline.fr
@@ -305,6 +303,7 @@ mosaicartsupply.com
 moviola.jp
 mpeg.org = 1177015934|moving picture experts group|mpeg|动态图像专家组|動態圖像專家小組|動態圖像專家組|動態影像專家小組|运动图像专家组
 murosdenalon.com
+music.yandex.ru
 muzeumpulaski.pl
 nagatajinja.jp
 nagiyamasugi.com
@@ -325,6 +324,7 @@ ohohlfeld.com
 oideas-gael.com
 olaf-lehne.de
 ollikortekangas.com
+onlinecasinoboniguide.com
 opcinaklakar.hr
 openinstall.io
 openvpn.org
@@ -337,6 +337,7 @@ ottobrunn.de
 owox.com
 pairteam.com
 palestinefacts.org
+pantyhosexpress.com
 parcocollinemetallifere.it
 parcosuasa.it
 partei-whv.de
@@ -457,7 +458,6 @@ truemonitor.de
 tsunami.org
 tylerkeevil.com
 ufxro.cn
-unicreditbank.si
 univmgandhiguinee.com
 univnet.jp
 utopiaeditore.com
@@ -466,7 +466,6 @@ vakilint.in
 variety-detroit.com
 vdgn.de
 veggipedia.nl
-veneerdesigns.com
 videotoolbox.com
 villageofbitternlake.ca
 villageofthearts.com

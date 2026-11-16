@@ -11,7 +11,6 @@ activeingredients.online
 adera.fr
 admalik.com.pk
 aexylium.it
-aftershokz.jp
 agriexpo-tokyo.jp
 agronegocionoticias.com.br
 aitofit.io
@@ -39,13 +38,13 @@ apuestasperu678.com
 apurla.com
 arakaki-kunio.com
 archivekabinett.org
-ariadental.net.au
 armed-guard.com
 aruba-travelguide.com
 asdd.com
 ase-conferences.org
 atapine.com
 atheism.ru
+atlantaseoteam.com
 atlasofms.org
 avie-records.com
 awwapp.com
@@ -75,7 +74,6 @@ burnpurcement.com
 burntbag.com
 c-siamoonlus.it
 campjamp.org
-canlishow.site
 carretechnologies.com
 cbs-rehoboth.nl
 cc-cdm.lu
@@ -117,7 +115,6 @@ devicefonts.co.uk
 devimex.cz
 dft.ba
 die-mark-brandenburg.de
-disciplestoday.org
 djk-eberhardsberg.de
 dlengineer.com
 doinggood.hu
@@ -137,8 +134,8 @@ elevatebaby.com
 elnuevodia.com.co
 emporio-gastro.at
 enco.com
+end.pl
 endless.com
-energykasynasite.com
 enpress-publisher.com
 ensembleintercontemporain.com
 episcopado.org
@@ -161,8 +158,10 @@ forestagencyexpert.nl
 forestsangha.org
 foreverbamboo.com
 fred-mayer.eu
+freshfast.co.uk
 fritz-wunderlich-ges.com
 funkydonniefritts.com
+fxcoin.trade
 garykeith.com
 gemwin.blue
 genandthedegenerates.com
@@ -294,6 +293,7 @@ nescac.com
 newtradition.org
 nexianlabs.com
 nexomongame.com
+niaopou.com
 nicedoggie.net
 nicholasmolencupp.com
 nickvoice.com
@@ -332,7 +332,6 @@ pingquan.gov.cn
 piratenpartei.ch
 playmodern.nl
 plelan-le-grand.fr
-plinko-casino-polska.net
 plumbingdunnright.com
 pm-studios.com
 podravske-sesvete.hr
@@ -348,7 +347,6 @@ quicktrail.ca
 quierolicitar.com
 quinnysacks.com
 rachelmahler.com
-rajamahjong88.org
 raskwame.co.uk
 rayhanasat.com
 razorreturns-hu.com
@@ -418,6 +416,7 @@ stp-bandung.ac.id
 strideglobal.co.uk
 strikersfc.com
 sulphurokla.com
+sumoheng.club
 sunmismartcole.com
 swiatczytnikow.pl
 swytnm.cn
@@ -490,6 +489,7 @@ winsrolla.es
 wizer-training.com
 wooricasino.top
 worldmime.org
+wq852.cn
 wuag.wordpress.com
 wz.cz = .srt|2014年4月20日 布道会赞美|subrip
 wzgz.com
@@ -506,4 +506,5 @@ zelenykruh.cz
 ziar.md
 zonapagos.com
 zpskoda.cz
+zshua20.cn
 zuyderland.com

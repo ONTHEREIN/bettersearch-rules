@@ -40,7 +40,6 @@ arpa.mil
 asciimw.jp
 asha-kiran.org
 asmbs.org
-athletejournal.net.ua
 atta.network
 atticcomfort.com
 aupairqueensland.com
@@ -60,7 +59,6 @@ bhutanpostalmuseum.bt
 biblioteka-kd.com
 biz-info-uz.com
 blocquebecois.org
-bloggerslogic.com
 bloomfieldinfo.org
 blueplus.it
 bluestreamfiber.com
@@ -79,7 +77,6 @@ byaki.net
 ca61stays.de
 ca7hotelss.shop
 campgooddays.org
-carinsurancecenter.co
 catchinglives.org
 centralbase.co.uk
 centrodeeconomiacreativa.com
@@ -129,8 +126,6 @@ dreamwater.org
 drewhaydentaylor.com
 drivingeco.com
 drparkavebrick.com
-dsosasahan.com
-dsoskecbanyumanik.org
 dubaijobhunt.com
 duckcolor.com
 duluthplayhouse.org
@@ -157,7 +152,6 @@ eventective.com
 fancsal.hu
 fazbulous.com
 fem-eur.com
-ffp-agentur.ch
 ffri.hr
 fhvl.es
 filmsontrial.co.uk
@@ -171,7 +165,6 @@ fortworthzoo.org
 frostwire.com = frostwire
 ftis.org.tw
 g-miass.ru
-gaetranslations.com
 gain.se
 galan.co
 game-game.com
@@ -252,11 +245,11 @@ ksdf.or.kr
 kspace.com
 kss.rs
 kumagaigumi.co.jp
-kupit-web-hosting.ru
 kyokuto.co.jp
 lasido.de
 laterpay.net
 laurent-millet.com
+lbxzm.com
 lebedyn.org
 leedsmet.ac.uk
 legendairymilk.com
@@ -287,6 +280,7 @@ mathrice.org
 mattioli1885journals.com
 mazzellacompanies.com
 mbergdorf.com
+mc2188.com
 mcafeeinstitute.com
 meadowreview.uk
 medersabenyoussef.ma
@@ -388,7 +382,6 @@ sevhortolandia.com.br
 sfrockers.com
 shakespearesglobe.org
 shareourselves.org
-shitaihulan.com
 silbadk.com
 siltzheim.fr
 simit.org.co

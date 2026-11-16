@@ -2,7 +2,6 @@
 1xbetpromocode.so
 2sqyzy.vip
 38p.asia
-45yuedu.com
 4players.de = 4p.de|4players|4players.de
 5sim.net
 aalnc.org
@@ -85,6 +84,7 @@ casadehiram.art
 castlehoward.co.uk
 ceer.eu
 celcaa.eu
+cenforeds.com
 cffcm.com
 chal.org
 charizma.ru
@@ -144,6 +144,7 @@ esl-bits.net
 esstrellatvsf.com
 exakta.se
 ezidi-islah.net
+ezuvrhkjx.cc
 f8betaa.com
 fbvh.ch
 ffvc.com
@@ -197,7 +198,7 @@ honorflight.org
 html5-templates.com
 hyonteisseura.fi
 hzwmhp.com
-ibm.com = aix|ami|ami pro|amí|analyst's notebook|bigfix|bluemix|connect:direct|cp-370|cplex|datastage|gpfs|hcl bigfix|hcl sametime|hlasm|ibm aix|ibm big fix|ibm bigfix|ibm bluemix|ibm cobol|ibm cognos 8 business intelligence|ibm domino|ibm engineering rhapsody|ibm general parallel file system|ibm high level assembler|ibm home page reader|ibm i|ibm ilog cplex|ibm information management system|ibm informix|ibm infosphere datastage|ibm lotus approach|ibm lotus domino|ibm lotus freelance graphics|ibm lotus organizer|ibm lotus sametime|ibm lotus smartsuite|ibm lotus word pro|ibm rational application developer|ibm rational appscan|ibm rational clearcase|ibm rational doors|ibm rational rose xde|ibm rational software architect|ibm spss statistics|ibm tivoli storage manager|ibm viavoice|ibm websphere|ibm websphere application server|ibm websphere portal|ibm信息管理系統|ibm資訊管理系統|ibm通用並行檔案系統|ibm通用并行文件系统|ims|informix dynamic server|k42|lotus approach|lotus domino|lotus organizer|lotus sametime|lotus smartsuite|lotus superoffice|lotus word pro|lotus wordpro|maximo|mvfs|pacbase|rational appscan|rational clearcase|rational doors|rational rhapsody|rational synergy|sametime|security appscan|spss|spss软件|ssps|synergy|telelogic doors|tem|tivoli endpoint manager|tivoli software|transaction processing facility|tsm|unix system services|vm/370|vm／cms|vse|was|websphere|websphere application server|websphere portal|wordpro|z/os|z/vm|كيف اخبارك|社会科学统计包|統計產品與服務解決方案|统计产品与服务解决方案
+ibm.com = aix|ami|ami pro|amí|analyst's notebook|bigfix|bluemix|connect:direct|cp-370|cplex|datastage|dos/vse|gpfs|hcl bigfix|hcl sametime|hlasm|ibm aix|ibm big fix|ibm bigfix|ibm bluemix|ibm cobol|ibm cognos 8 business intelligence|ibm domino|ibm engineering rhapsody|ibm general parallel file system|ibm high level assembler|ibm home page reader|ibm i|ibm ilog cplex|ibm information management system|ibm informix|ibm infosphere datastage|ibm lotus approach|ibm lotus domino|ibm lotus freelance graphics|ibm lotus organizer|ibm lotus sametime|ibm lotus smartsuite|ibm lotus word pro|ibm rational application developer|ibm rational appscan|ibm rational clearcase|ibm rational doors|ibm rational rose xde|ibm rational software architect|ibm spss statistics|ibm tivoli storage manager|ibm viavoice|ibm websphere|ibm websphere portal|ibm信息管理系統|ibm資訊管理系統|ibm通用並行檔案系統|ibm通用并行文件系统|ims|informix dynamic server|k42|lotus approach|lotus domino|lotus organizer|lotus sametime|lotus smartsuite|lotus superoffice|lotus word pro|lotus wordpro|maximo|mvfs|pacbase|rational appscan|rational clearcase|rational doors|rational rhapsody|rational synergy|sametime|security appscan|spss|spss软件|ssps|synergy|telelogic doors|tem|tivoli endpoint manager|tivoli software|tpf|transaction processing facility|tsm|unix system services|vm/370|vm／cms|vse|websphere portal|wordpro|z/os|z/virtual system environment|z/vm|z/vse|كيف اخبارك|社会科学统计包|統計產品與服務解決方案|统计产品与服务解决方案
 icecasino-no.top
 ichijinsha.co.jp = ichijinsha|issaisha|studio dna|yuru yuri|yuruyuri|一迅社|摇曳百合|摇曳百合♪♪|輕鬆百合|輕鬆百合♪♪|轻松百合|轻松百合♪♪
 ihmiset.fi
@@ -218,7 +219,6 @@ jardin-botanique-lyon.com
 jbaconsulting.com
 jcfm.kr
 jeol.com.cn
-jesr.io
 jewishbookcouncil.org
 jpg.sh
 kaff.hu
@@ -230,7 +230,6 @@ kinodiana.pl
 kinzler.org
 kollegienkirche.at
 koningbetscasino.com
-koppejanautos.nl
 kostomlatypm.cz
 kovacek-zetter.at
 kubota-airconditioner.co.jp
@@ -240,6 +239,7 @@ kws.at
 laguna-seca.com
 lanawilson.net
 langdonplace.com
+laoerda.com
 laurentsandoz.com
 lazarushouse.org
 learning.ua
@@ -263,12 +263,10 @@ luckyreels.nz
 lycee-jean-lurcat.com
 lycee-leopold-bissol.com
 lydiajardon.com
-lytcsps.com
 maaslandradio.nl
 maibeeldbank.nl
 mail333.com
 mangaberg.com
-maniaofficial.it
 marinepia.or.jp
 marubouro.co.jp
 matildajaneclothing.com
@@ -301,6 +299,7 @@ museumofindianculture.org
 muzeubuzau.ro
 muzey-sevastopol.com
 mvau.lt
+mx24.com.mx
 mzkopole.pl
 napaonline.com
 narita-airport.or.jp
@@ -308,6 +307,7 @@ navbul.com
 neadune.com
 neospinsmatrix.com
 nickitrench.com
+njbeiyk.com
 nk-valpovka-valpovo.hr
 nochesdelbotanico.com
 noelshaw.co.uk
@@ -319,13 +319,11 @@ npo2.nl
 ntoa.org
 nwhealthin.com
 o1015.ca
-oakmapper.org
 ocotillogolf.com
 oeft.at
 officinegaribaldi.it
 oitasymphony.com
 olivefieldmedia.it
-onepagefree.com
 oneshotleft.com
 orik.cz
 palhistory.com
@@ -371,7 +369,6 @@ resmihat.kz
 rexel.be
 rigonidiasiago-usa.com
 rivals.space
-riverviewcommons.com
 roadtohana.com
 robertbryndza.com
 robertcaplin.com
@@ -382,6 +379,7 @@ rqyz.com
 rsd407.org
 rtx.com = raytheon|raytheon technologies|raytheon technologies corporation|rtx|rtx corporation|雷神技术公司|雷神科技公司|雷神科技集团
 rubius.com
+ruris.ro
 rvh.dk
 saashub.com
 salon-education.com
@@ -498,13 +496,13 @@ wissentank.de
 wiza.co
 worldthrombosisday.org
 wraithmind.com
-wrongfuelrecovers.co.uk
 wwwcinemapolis.org
 wxrks.com
 xiclassadmission.gov.bd
 xrossdreams.com
 yakuyoke.or.jp
 yellow.com.mx
+yibaiweifs.com
 yokohamashakyo.jp
 yourclassical.org
 zamek-film.com

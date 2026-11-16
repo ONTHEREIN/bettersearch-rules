@@ -2,12 +2,13 @@
 19thcenturyscience.org
 2haywin.art
 3eflow.com
-4c98873bc7911ee6d8f31cd55e897f83.w2rt6byl5nf1opmc-a.com
 59r.website
+633timebet.com
 7467c0yb.com
 7arts.nl
 7host.com
 aaai.org
+aamendt.com
 abcdin.cl
 able2know.com
 aiph.org
@@ -31,7 +32,6 @@ beetleuprising.com
 bergfinken.de
 berluki.ru
 berserktcg.ru
-betterbroadbandnorfolk.co.uk
 bfnp.hu
 bga.nl
 bibliofiilienseura.fi
@@ -68,7 +68,7 @@ chrisfarnsworth.com
 cilt.ca
 cinicafestival.com
 claremarfarms.com
-cloud.microsoft = microsoft 365|microsoft 365 copilot|microsoft copilot for microsoft 365|microsoft office 365|microsoft office powerpoint|microsoft office word|microsoft powerpoint|microsoft word|ms 365|ms powerpoint|ms word|multi-tool word|office 365|powerpoint|ppt|word|微軟詞彙|微软文字|微软文字处理|微软文档|微软能量点
+cloud.microsoft = m 364|microsoft 365|microsoft 365 copilot|microsoft copilot for microsoft 365|microsoft office 365|microsoft office powerpoint|microsoft office word|microsoft powerpoint|microsoft word|ms 365|ms powerpoint|ms word|multi-tool word|office 365|powerpoint|ppt|word|微軟詞彙|微软文字|微软文字处理|微软文档|微软能量点
 colombiainmyarms.com
 communale.at
 comunaipatele.ro
@@ -79,7 +79,6 @@ cornhusker.net
 corrugated.org
 cosmicleaguepointpro.com
 costco.com.au
-craftdirect.com
 credosystemz.com
 csg-lahr.de
 dancemadeincanada.ca
@@ -93,7 +92,6 @@ dexp.in
 dezeyp.be
 docknyc.com
 dorchestercountysc.gov
-dsoskablebak.org
 dwbuffa.com
 ecem.org
 ecoliwiki.net
@@ -176,10 +174,8 @@ ikejiriseiji.jp
 indopacificsecurity.org
 inger-gammelgaard-madsen.dk
 institutodechile.cl
-ipcook.com
 irmandadedalapa.pt
 israeledelson.com
-itzcaribbean.com
 iunwybi.cn
 ivfcenterhawaii.com
 jeanmarcmorandini.com
@@ -214,7 +210,6 @@ layerxsecurity.com
 legendszone.de
 leusderkrant.nl
 lewisbradleyofficial.com
-leylijnen.com
 liarus.li
 libre-entreprise.com
 livegoodtour.com
@@ -224,6 +219,7 @@ lollywollydoodle.com
 londonspinmarket.uk
 londonwheeldesk.uk
 lpplus.net
+lsd-b-aek-ice.site
 magsimpleonline.fr
 maldral.pt
 malekozmalovce.sk
@@ -325,7 +321,6 @@ rafcom.bzh
 rainforestjournalismfund.org
 ralfoficial.com
 rapidhousechoice.it
-ratebe.com.au
 reachoutandread.org
 redstorm.com.tw
 regionchupa.ru
@@ -347,7 +342,6 @@ samba.gr.jp
 sandicn.com
 scarrettesplazacinema.com
 sddermyy.com
-sdzdsljbj.com
 seanpatrickmcgraw.com
 seedvaluemarketing.com
 seenplatte-ferien.de
@@ -383,7 +377,6 @@ stragi.it
 suenosyesperanzas.org
 superbet-online-hu.com
 sv-schwaig.de
-sxxylhj.com
 symbiozoo.com.au
 syniverse.com
 t-port-kousei.or.jp
@@ -424,14 +417,17 @@ vbnh.de
 vd-brumovice.cz
 vegasdelcondado.com
 velo-badminton.nl
+vgrem.com
 videosprechanlagen.info
 virtualheroes.com
 visittheusa.mx
+vitaelia.fr
 vividstudiobingo.it
 vladimirmau.ru
 vn8886.com
 voltaire-musik.de
 voyages-vizet.fr
+w2r6h.cn
 wallowsmusic.com
 walsallhealthcare.nhs.uk
 waynemaxwell.com.au
@@ -443,9 +439,10 @@ williamboughton.com
 wodunyq.com
 workforgood.co.uk
 wretham.net
-wysework.com
+wwfintegration.nl
 xhronos.org
 y9freegames.com
+yhlzzc.com
 yokod73.ru
 yorkwallcoverings.com
 yourlocalpantry.co.uk

@@ -2,8 +2,6 @@
 3dbuzz.com
 4investors.de
 500affiliates.com
-6.gp
-8hcp08.com
 99images.com
 a-a-r-s.org
 aapanel.com
@@ -52,7 +50,6 @@ biekra.de
 bistro-marktkueche.de
 blueboxx-kino.de
 boldgaminglounge.nl
-bonuskong.at
 bostonga.com
 brio.de = brio
 britbonusinsight.uk
@@ -86,7 +83,9 @@ clausthaler.de
 cloudfi.app
 coalexit.org
 cobalagidong.com
+coders.org.cn
 concertarc.co.uk
+conect.news
 coreblackjacklab.nl
 count-on-us.co.za
 cr-asia.com
@@ -144,7 +143,6 @@ form2fab.com
 foweyriver.co.uk
 franchettis.com
 frantoiodimontalcino.com
-fredsranch.co.ke
 frequenceterre.com
 fundacionalco.org
 gakutoresort.jp
@@ -190,7 +188,6 @@ imft.de
 infinance.nl
 infinityfree.io
 inforcapital.com
-innervisions.com
 innisfree.cn
 intercommunaleinhumation.eu
 interviewbit.com
@@ -214,7 +211,6 @@ kaspikazino.com
 katapacti.gr
 kearsleyacademy.org
 kelsey.co.uk
-keramika-tula.ru
 kevineastmanstudios.com
 kfsr.org
 kihnumaalammas.eu
@@ -254,6 +250,7 @@ lucky-seven.ca
 lutherancore.org
 lyxdsb250.cn
 lzkbw.de
+magazif.com
 mamontovas.lt
 maplezone.us
 margaritav.com
@@ -281,7 +278,6 @@ mushroomangelsgames.com
 mygogi.org
 mythologyworldwide.com
 nantiat.com
-necinsurance.co.zw
 netelastic.com.pk
 neuss-mitte.de
 newgateschool.org
@@ -297,7 +293,6 @@ nuovaacropoli.org
 nwsnet.or.jp
 nynjtc.org
 obcina-crensovci.si
-ocfuq.com
 oconnorforsenate.com
 officialjessicaclark.com
 ogrodydankiewicz.pl
@@ -383,6 +378,7 @@ shoshanafoundation.org
 silvinagarcialarraburu.com
 simmonsfoods.com
 sleeplessbeastie.eu
+slot-1234.com
 slotcentralonline.co.uk
 slotsfinder.uk
 slotvault24.de
@@ -435,6 +431,7 @@ threebridgesfc.co.uk
 threecamellodge.com
 tmb.tv
 tmconnect.co.th
+topdownloads.ru
 toshimagaoka.ed.jp
 transit.ne.jp
 treptowerpark.de
@@ -474,7 +471,6 @@ whiteheart.com
 wienerberger.fr
 wirbelwind-kayh.de
 woodstockga.gov
-ws.apache.org
 wythall.org.uk
 xnec2c.org
 yaoxiaotong.cn
@@ -482,5 +478,4 @@ youthranches.org
 z93hits.com
 zengroupplus.nl
 zoogletools.com
-zsqjkj.com
 zxhyzl.com

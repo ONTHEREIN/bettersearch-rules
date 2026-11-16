@@ -20,6 +20,7 @@ anasali.school
 andyimm.wordpress.com
 annalinder.se
 anyamarina.com
+apste.eu
 archdioceseofshillong.org
 ardittiquartet.com
 arkopharma.com
@@ -56,10 +57,10 @@ bronchoband.com
 btwifi.com
 budweiser.com = bud|budweiser|百威
 buildfastwithai.com
+bulldoggin.com
 bunkyo.ac.jp
 burlingtonnc.gov
 caiga.cn
-camping-falaise.com
 camrose.ca
 capitalimprovementboard.org
 cardtopia.de
@@ -101,7 +102,6 @@ cud.ac.ae
 cugri.it
 cyclingfilms.de
 cymsjournal.com
-czgzhongxing.com
 d-booker.fr
 daihatsu-japan-open.com
 dailycashconnect.uk
@@ -117,6 +117,7 @@ digitalnc.org
 diversitat.org
 djfhh.com
 djsava.ro
+domaineplessisgallu.fr
 dotnetkicks.com
 douglas.it
 dreifaltigkeitskirche-worms.de
@@ -171,6 +172,7 @@ frituurels.be
 ftzlejsenliberec.cz
 fullcoffeeroast.com
 gagweekly.co.uk
+gameplaynetwork.com
 garticphone.com = gartic phone
 gbreb.com
 german-elections.com
@@ -184,13 +186,12 @@ gruberpopp.de
 grueningen.ch
 h-nakano.jp
 hadleygroup.com
-hauwertconsulting.com
 healthcareguys.com
 heathrow.com
 heysriplantations.com
+hfxydjd.com
 hicarquitectura.com
 hjartstartarregistret.se
-hmhybj.com
 hoefenhaag.nl
 holmenif.no
 horizonweekly.ca
@@ -254,6 +255,7 @@ lib.ge
 libertycity.ru
 lillylashes.com
 linou.gr
+linuxxyz.com
 livecareer.pl
 localliquor.com.au
 loquillo.com
@@ -316,7 +318,6 @@ operavision.eu
 orbitmarketx.com
 oscg.me
 osteopathe-syndicat.fr
-otchet-pozicii.ru
 pa3fwm.nl
 padabum.com
 pakistanidol.com
@@ -442,13 +443,14 @@ twowanderingsoles.com
 ucp.edu.co
 ufal.org
 ultaangames.com
-ultra-remonttelefonov.ru
 unclekam.com
+unibetcasino-gr.com
 unios.hr = osijek university|sveučilište j.j. strossmayera|university of osijek|奧西耶克大學
 unstoppablerobotninja.com
 unstrung.com
 urbanisticainformazioni.it
 varomodi.de
+vedpjwd.com
 vegasluckworld.us
 velesto.com
 verabreheda.com
@@ -466,7 +468,9 @@ waikikirecord.com
 westport-ma.com
 wolframpaulus.at
 worldchangers.us
+xafjwl.com
 xn--80aaapkmjfey8b1l.xn--p1ai
+y32h75.cn
 yarnovosti.com
 yeahlifestyle.com
 yit.fi = yit|yit corporation|yit oyj

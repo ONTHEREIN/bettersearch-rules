@@ -4,6 +4,7 @@
 7generations.org
 888spielen.com.de
 8xbeti.com
+9606v6x.com
 abperformance.co.uk
 adaptiveadventures.org
 adidasyeezys.com
@@ -115,7 +116,6 @@ dowjones.com = dow jones|dow jones & co.|dow jones & company|dow jones & company
 dramalikethedj.com
 dratenik.cz
 drquay.com
-dsoskablampungtengah.org
 dvdtalk.com = dvd talk|dvdtalk.com|dvd交談|dvd交谈|dvd談論
 e-copies.ru
 eaemaq.com.br
@@ -137,12 +137,12 @@ ethelcentral.org
 februaristaking.nl
 federarco.es
 fengptz.com
-fiizp.com
 filibrary.org
 fireplace-remotes.com
 firstactionbureau.com
 fischen.de
 fitrevolutionzone.com
+flevoboys.nl
 fond-detyam.ru
 fondazionelapelucca.org
 fotografia.it
@@ -161,6 +161,7 @@ gaiaose.com
 game-bean.com
 gamevoyage.co.uk
 gbiz.go.jp
+gdwmy.com
 gebco.net
 gemwin.family
 geojit.tech
@@ -198,7 +199,6 @@ htsemi.net
 huitema.net
 hybriditymusic.com
 hygool.com
-ice-casino-mobile.com
 icompario.com
 idrocefaloidiopatico.it
 ignitiongaming.net
@@ -229,6 +229,7 @@ johnmorganmusic.com
 jozefschool-schiedam.nl
 jung-pumpen.de
 justfuckinggoogleit.com
+kaiyifj.com
 katolskkolding.dk
 kdi-kosova.org
 kelloggschools.org
@@ -315,11 +316,12 @@ nullsechser.de
 nvk.nl
 nye.dk
 officetopper.com
+offrun.dev
 ogrtorino.it
 oifp.eu
 okte.sk
 oliversieber.de
-onalun.com
+omc57.cn
 ot-avignon.fr
 packaginglaw.com
 parafiaujsoly.pl
@@ -374,7 +376,6 @@ saintrays.org
 saintsisterband.com
 salomelamas.info
 salzburger-landestheater.at
-samsud.ru
 sandakelum.com
 sangamoncountyhistory.org
 saribremer.net
@@ -440,12 +441,14 @@ thecpl.com
 thednlbureau.com
 thehillpostonline.com
 thenorthface.co.uk
+thoughtleaders4.com
 thrill-casino-dk.com
 tomsachs.com
 townscoffee.com
 tradernew.pro
 trimondi.de
 trygvebarstad.no
+tscjt.com
 tucoo.com
 unicon.co.jp
 unifood-inc.jp
@@ -465,6 +468,7 @@ vilemov.cz
 vivacom.bg = btc|bulgarian telecommunications company|vivacom
 voicesfromthebalcony.com
 vsegdapoputi.ru
+vyikj.com
 wagerabet.co.uk
 wearehometown.com
 wearelumos.org
@@ -492,5 +496,5 @@ yggdrasil-studio.github.io
 zagorifictiondays.com
 zankeystudio.com
 zjzjtl.net
-ztjun.com
+zszh36.cn
 zubr39.ru

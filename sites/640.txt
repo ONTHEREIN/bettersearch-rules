@@ -25,7 +25,6 @@ arkansaspreservation.com
 associazionesangemiliano.it
 astromeditions.com
 autodidacts.io
-aviator-game-play.com
 ayanaife.com
 aytopadules.com
 azurhospitality.com
@@ -69,7 +68,6 @@ cityofcarver.com
 clinedem.com
 club41francais.fr
 cnema.se
-codingport.in
 condesdebarcelona.com
 conexionideasplaza.mx
 cooler-online.com
@@ -95,12 +93,14 @@ doublehboots.com
 dougmccune.com
 doviz.com
 dragerarchitecture.com
+dustfall.xyz
 dvvbw.de
 eatorhours.org
 ebyb.co.id
 ebzw.be
 echoculturesite.co.uk
 eco-points.jp
+eduxbd.com
 ehg-rottweil.de
 ekebyholm.se
 elizakiss.com
@@ -112,7 +112,6 @@ evernym.com
 fashnerd.com
 fastly.net
 fcwn.de
-fengxin.me
 fens.me
 fi.cr
 fifaworldcupnews.com
@@ -161,6 +160,7 @@ hengtaibz.com
 henrystonemusic.com
 here.now
 hetspaarne.nl
+higherinstituteofbusiness.com
 hmipemkotacehjaya.id
 hnrft.com
 holzenergie.ch
@@ -225,6 +225,7 @@ kuis.ac.jp
 kurimskejestrabi.cz
 ladesbet.net
 lagery.fr
+lambdax.io
 landesintegrationsrat.nrw
 lappatelier.com
 lasengle.co.jp
@@ -236,7 +237,7 @@ lightonconspiracies.com
 likovrisipefki.gr
 lincolndiocese.org
 lindeeclimo.com
-line56.com
+liongrouphl.com
 locomotivegame.com = loco motive
 lorainehutchins.com
 lorenzo-rovigatti.github.io
@@ -255,7 +256,6 @@ max-biaggi.com
 mediaprosite.co.uk
 medvedivka.tk
 memcat.org
-mennekes.com
 messika.com
 mheffernan.com
 miniatuurmuseumamsterdam.nl
@@ -300,7 +300,6 @@ peachstateaero.com
 peoplespartyofarunachal.com
 perryvsdanis.com
 physiciansadvocacyinstitute.org
-pimp-ur-face.de
 pincoyukle.com
 pintrest.com
 pnmlibya.org
@@ -314,7 +313,6 @@ proenergy.hr
 profura.se
 promegadubai.com
 puyaonline.com
-qiche365.org.cn
 qq88qs.com
 qualenergia.it
 quickmoderncraftzone.nl
@@ -327,6 +325,7 @@ randershfvuc.dk
 rbmschool.net
 readarr.com
 repositoriodigitalonemi.cl
+rhydolabz.com
 rinka.co.jp
 roditecnia.com
 rogue-operatives.co.uk
@@ -419,7 +418,6 @@ thinkblog.co.uk
 threestones.tv
 ticketic.org
 tidemarktheatre.com
-tippmixpro1.com
 tlcthai.com
 tmpsantafe.org
 todaywatch.co.uk
@@ -449,19 +447,21 @@ verloskunde-academie.nl
 veson.com
 vexlira.com
 ville-colomiers.fr
+violinmusics.com
 vloerenlifestyleroden.nl
 voegol.com.br = gol air|gol air transport|gol linhas aéreas|gol linhas aéreas inteligentes|gol transport air|gol transportes aereos|gol transportes aéreos|vrg linhas aéreas s.a. - grupo gol|戈爾航空|高尔航空|高爾航空
 volna-spb.ru
 vuepp.sk
 vvoj.org
+w736z8.cn
 walesvoiceover.com
 web-check.xyz
 whereestar.com
 whs.ie
 williamadolph.com
 winnersd.org
-wintopiacasino-gr.com
 wiolettakulpa.pl
+wixdjgz.cn
 wlrfm.com
 womenlifthealth.org
 wonkywonderful.com
@@ -472,7 +472,7 @@ xn--martin-kohn-fr-bad-mnder-7sch.de
 xoilac.com.mx
 yalecancercenter.org
 yetiintelligence.com
-yingyangdaican.com
+z-lib.sk = z library|z-lib|z-library|zlibrary
 z1.mk
 zemne.sk
 zengrouplab.it

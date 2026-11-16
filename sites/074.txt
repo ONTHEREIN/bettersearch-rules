@@ -113,8 +113,6 @@ domegame.cn
 domzala.pl
 doncaster.gov.uk
 dowjoneslmg.com
-dsoskeccimahi.org
-dsoskecrokanhulu.org
 dstyleweb.com
 duizendeneen.be
 dvdforum.org = dvd forum|dvd論壇|dvd论坛
@@ -320,7 +318,6 @@ onyxplus.co.uk
 openjurist.org
 opoona.com = opoona
 optimusonderwijs.nl
-optiwebmarketing.ca
 orabote.net
 oysm-hologram.com
 pacificseafood.com
@@ -361,7 +358,6 @@ revnoir.com
 revue-rsr.com
 rhum-clement.com
 ribesvikinger.dk
-rivercreecanada.com
 rootschat.com
 roymordechay.com
 ruan.com
@@ -379,6 +375,7 @@ shanehoward.com.au
 shelovesbiscotti.com
 shopcameronvillage.com
 shpost.com.cn
+shyhahp.com
 sillim-karaoke.com
 simplynoise.com
 smartslotmedia.uk
@@ -405,7 +402,6 @@ tg-odenwald.de
 thebiblejourney.org
 thecasinachocasino.de
 thecivilians.org
-thehappyhealthcare.in
 theifab.com = ifab|international football association board|the ifab|国际足球协会理事会|国际足球联合理事会|國際足球協會理事會|國際足球聯合理事會
 themodernquiltguild.com
 tiaozhanbei.net
@@ -471,5 +467,4 @@ yone-yama.co.jp
 yszwa.com
 zenkakyo-ex.or.jp
 zizobetuk.com
-zuimeimudan.com
 zvolenadpernstejnem.cz

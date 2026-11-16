@@ -19,14 +19,14 @@ allconferencealert.net
 allkem.co
 almascale.pt
 andrewdurkinauthor.com
-android.com = adb|android|android 1.1|android 1.5|android 1.5 cupcake|android 10|android 11|android 12|android 12.0|android 13|android 14|android 15|android 16|android 17|android 2.0|android 2.1|android 2.2|android 2.3|android 2.3 gingerbread|android 2.3.3|android 2.3.7|android 3.0|android 3.1|android 3.2|android 4.0|android 4.1|android 4.4|android 5.0|android 6.0|android 6.0 marshmallow|android 6.0.1|android 7.0|android 9|android cupcake|android debug bridge|android donut|android eclair|android froyo|android gingerbread|android go|android honeycomb|android ice cream sandwich|android jelly bean|android key lime pie|android kitkat|android l|android lollipop|android m|android marshmallow|android nougat|android open source project|android os|android petit four|android pie|android runtime|android studio|android éclair|android开源计划|android调试桥|android開源專案|aosp|art|baklava|cinnamon bun|compose|cupcake|dalvik|dalvik vm|dalvik虚拟机|dalvik虛擬機|dalvik虛擬機器|eclair|froyo|gingerbread|google android|ice cream sandwich|jelly bean|jetpack compose|kitkat|lollipop|nougat|petit four|shahriar|snow cone|snow coner|tiramisu|upside down cake|vanilla ice cream|安卓|安卓 16|安卓11|安卓13|安卓工作室|安卓棉花糖|安卓棒棒糖|安卓牛軋糖|安卓系统|安致|谷歌安卓|안드로이드 4.0
+android.com = adb|adk|android 1.1|android 1.5|android 1.5 cupcake|android 12|android 12.0|android 13|android 14|android 15|android 16|android 17|android 2.0|android 2.1|android 2.2|android 2.3|android 2.3 gingerbread|android 2.3.3|android 2.3.7|android 3.0|android 3.1|android 3.2|android 4.0|android 4.1|android 4.2|android 4.3|android 4.4|android 5.0|android 6.0|android 6.0 marshmallow|android 6.0.1|android 7.0|android 9|android auto|android cupcake|android debug bridge|android donut|android eclair|android froyo|android gingerbread|android honeycomb|android ice cream sandwich|android jelly bean|android key lime pie|android kitkat|android l|android lollipop|android m|android marshmallow|android nougat|android open source project|android petit four|android pie|android runtime|android sdk|android studio|android things|android tv|android xr|android éclair|android原生开发套件|android开发套件|android开源计划|android调试桥|art|baklava|bionic|bionic libc|cinnamon bun|compose|cupcake|eclair|find my device|froyo|gingerbread|google find my device|ice cream sandwich|jelly bean|jetpack compose|kitkat|lollipop|nougat|petit four|project brillo|project jandycane|quick share|renderscript|shahriar|snow cone|snow coner|tiramisu|upside down cake|vanilla ice cream|安卓 16|安卓13|安卓工作室|安卓棉花糖|安卓棒棒糖|安卓牛軋糖|안드로이드 4.0
 apartamentomagazine.com
 arborright.com
 archeter.co.uk
-aricepto.com
 artemisiacollege.com
 arthurleipzig.com
 astropcx.com
+astrophysicsspectator.com
 aventa.ca
 bad-schussenried.de
 baixadaanimada.com.br
@@ -45,7 +45,6 @@ binario7.org
 bioprocesscontrol.com
 biowillie.com
 bitcoinknots.org
-blackbox.co.uk
 blagodrevo.com
 blueprintit.co.uk
 bms.kr
@@ -67,7 +66,6 @@ bund-ruhr-karneval.com
 business-accounting.net
 buyredditpro.com
 buzascsaba.hu
-c6tuiu.com
 ca33muchs.xyz
 ca61betweens.top
 callapexnow.com
@@ -144,6 +142,7 @@ error300.com
 etcbooks.co.jp
 etnikproduction.com
 ettorebuchi.com
+eu6y56.cn
 euro-casinos.org
 everyday.photo
 evidence-based-ophthalmology.com
@@ -167,10 +166,10 @@ foodora.fi
 forrestpritchard.com
 frankwelker.net
 frf.at
+fscasino.edu.pl
 fsfe.org = free software foundation europe|free software foundation europe e.v.|fsf europe|fsfe|fsfe.org|欧洲自由软件基金会|歐洲自由軟件基金會|歐洲自由軟體基金會
 fundacionzaber.org
 fusionww.com
-gadgetsteria.com
 gagagasp.jp
 gamesforbusiness.com
 gamesgridstackx.com
@@ -230,6 +229,7 @@ jtc.org
 jump-xl.com
 jvm.com
 jyu.edu.cn
+karypis.org
 kawasoft.fr
 kekexili.com
 kfcvietnam.com.vn
@@ -245,6 +245,7 @@ kra33--at.at
 ksenijasidorova.com
 kubotekkosmos.com
 kudamas11.com
+kuri007.com
 laikovima.com
 lakewoodcityschools.org
 lalignerouge.be
@@ -288,6 +289,7 @@ me.nu
 meadowsource.uk
 melomed.co.za
 melumisc.com
+mgoxtcyt.cn
 michaelhead.net
 miguelcarabajal.com
 mihoaonline.org
@@ -324,6 +326,7 @@ org.jo
 organicaromas.com
 ornans.fr
 orzens.ch
+osvr.online
 otomate.jp = 7'scarlet|bad apple wars|collar x malice|cupid parasite|hiiro no kakera|homura: the crimson warriors|kurenai no homura: sanada ninpou chou|kurenai no homura: sanada ninpō chō|libra of nil admirari|norn 9|norn9|norn9 命運九重奏|norn9: var commons|nθrn9|olympia soiree|olympia soirée|piofiore: fated memories|piofiōre no banshō|psychedelica of the black butterfly|reine des fleurs|共生邱比特|冷然之天秤|奧林匹亞的晚宴|真紅之焰 真田忍法帳|緋色的碎片|翡翠之雫 緋色的碎片2|翡翠之雫 绯色的碎片2|花之女王|苍黑之楔 绯色的碎片3|蒼黑之楔 緋色的碎片3|虔诚之花的晚钟|黑蝶之psychedelica|黑蝶幻境
 ou-senokos.com
 pages.xyz
@@ -394,7 +397,6 @@ sif-fisioterapia.it
 silanrasch.com
 sisvel.com
 skogshistoria.se
-skostr.com
 skunkforce.org
 skupinaplatana.com
 sleepingpanda.games
@@ -428,6 +430,7 @@ summitxstudio.co.uk
 sunplaza-kochi.co.jp
 sunshineholdings.lk
 super-groupies.com
+surga11-best.club
 survivorlibrary.com
 suzanneoudehengel.com
 szorosad.hu
@@ -447,7 +450,6 @@ theorphys.org
 thesameyetinn.com
 thevintagestore.uk
 thomas-anders.com
-thuananpc.com.vn
 timvf.ca
 tmcapital.com
 tokofuruuchi.com
@@ -495,11 +497,12 @@ www.carbonmetrics.uk
 x8.limited
 xisu.edu.cn
 xn-----6kcalbbrfn0iijf7msb.xn--p1ai
-xsomall.com
 yaxin878.com
 yfldubai.com
+yingtao9771.cn
 yoo.social
 youngsdairy.com
+yrgs365.cn
 yumebutai.org
 zarnetskelab.com
 zhubai.love

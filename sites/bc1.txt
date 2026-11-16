@@ -67,6 +67,7 @@ broweryouthawards.org
 btc.com
 burg-runkel.de
 business-sha.co.jp
+bysazar.com
 ca33powerss.xyz
 ca61hards.top
 cagalogluhamami.com.tr
@@ -100,6 +101,7 @@ comics-house.com
 company7.nl
 concordehotel-am-leineschloss.de
 conic.al
+contract.mil.ru
 coreldraw.com = corel designer|coreldraw
 costadelmar-radio.com
 cplan.com
@@ -130,6 +132,7 @@ earni.fi
 easydmarc.com
 economistas.es
 editions-melibee.com
+elever.org.cn
 ellenzijm.nl
 embrno.cz
 emqx.com
@@ -311,10 +314,10 @@ nextory.se
 niepceparis.com
 nikkei-bookdirect.com
 ninlabs.com
-nmclmy.com
 nmsua.edu
 nochecerrada.com
 nocknjige.hr
+nohken.com
 nonsolofitness.it
 noshandbottle.com
 novasignaldelft.nl
@@ -326,7 +329,6 @@ omnara.com
 one10gallery.com
 oneducation.net
 onilo.de
-openboxcle.com
 opengeodata.org
 openworkbench.org
 orbitsignal.de
@@ -351,13 +353,13 @@ planetdds.com
 plantingpower.nl
 plasticclub.org
 platon.network
+playnhost.com
 podcasts-online.org
 pole-mer-bretagne-atlantique.com
 porozmawiajznotariuszem.pl
 pricesseptictankservice.com
 projetodraft.com
 promtehinvest.ru
-ptolemee.com
 publicdelivery.org
 puffer.fi
 pulsepoker12.com
@@ -365,7 +367,6 @@ puppeteers.org
 pvtpvt.net
 ra-sante.com
 rabkoland.pl
-racingandsports.com
 radiocafe.jp
 randomhacks.net
 razorreturnsgame-pl.com
@@ -411,7 +412,6 @@ srdcomvychodniar.sk = šariš brewery
 stake-casino1.fr
 stakede.de
 stalbanscamden.co.uk
-statonline.ru
 steamspy.com = steam spy|steamspy.com
 stittebo.com
 storiesig.info
@@ -441,6 +441,8 @@ toshicon.or.jp
 toumanian.am
 tvnet.com
 tvoyhod.online
+u40fc.cn
+u8f6.cn
 ubercomp.com
 uk-betticasino.co.uk
 unoentrecienmil.org
@@ -448,6 +450,7 @@ unreal2.com
 upaerospace.com
 urbanzoneweb.nl
 urvashibahuguna.com
+v12kg.cn
 vail.gov
 vakbeursenergie.nl
 velasresorts.com
@@ -471,7 +474,6 @@ websun88.win
 weeatatlast.com
 weigaoholding.com
 wellandlibrary.ca
-weltkulturschule.at
 westmonktonprimaryschool.co.uk
 who2.com
 whyathens.com
@@ -487,6 +489,7 @@ yinhangzhaopin.com
 yoorrookjusticecommission.org.au
 youngs.co.uk
 yzpc.edu.cn
+yztype.com
 zalaba.sk
 zee7produces.de
 zmc-amicitia.ch

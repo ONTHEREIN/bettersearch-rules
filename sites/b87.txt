@@ -15,7 +15,6 @@ adeninepress.com
 admixer.com
 adyfe.eu
 aemiliapapaphilippou.com
-airav.io
 airetos.gr
 airportbus-muenchen.de
 airports.com.mv
@@ -81,12 +80,11 @@ cchnvy.fr
 cdfracing.co.uk
 cedarmont.com
 cfpj.com
+cghvj035.cn
 chapelhillnews.com
 charlottegann.wordpress.com
-chickenroad-resena.com.es
 chinesepython.org
 chobenationalpark.co.za
-chonglinhe.com
 cinqueterrelakes.it
 citha.eu
 civic.jp
@@ -110,6 +108,7 @@ daiteng.com
 danieldebourgofficial.com
 dargoron.com
 datasolut.com
+dbr.bg
 deadhorde.com
 defengcorp.com
 dentaltime73.ru
@@ -128,6 +127,7 @@ dreamlinux.com.br
 drezyny.org
 dtj-online.de
 dynamic-rockers.com
+dysruptionhub.com
 earthworksaudio.com
 eca.ir
 echeckcasinos.ca
@@ -233,6 +233,7 @@ janmabhoominewspapers.com
 janpara.co.jp
 japanexpress.co.jp
 jedlicze.pl
+jquand.com
 jrenet.jp
 juc.com.mx
 jxgzy.cn
@@ -347,7 +348,6 @@ pixelpoint.at
 plunkettresearch.com
 pont-croix.fr
 poscocnc.com
-prettyke-blog.ru
 primedaily.de
 prixdulivredegeographie.blogspot.com
 psy-cast.org
@@ -419,11 +419,11 @@ svaltluedersdorf.de
 sviv.se
 swissbeeraward.ch
 sydneypools.website
-tbdodx.com
 tedfest.org
 tegelspreuken.nl
 telesinstore.com
 teleworkdays.jp
+tengloniwq.cn
 tgct.gov.in
 thayyeni.tk
 the-bigclash.com
@@ -439,7 +439,6 @@ timurboguslavskiy.com
 tnsglobal.com = kantar tns|taylor nelson sofres|特恩斯市场研究公司|索福瑞集团|索福瑞集團
 tomio.cz
 torsten-herbst.de
-tototogel4dmacau.com
 townofmadge.com
 trendbritblog.co.uk
 trucesoftware.com
@@ -483,10 +482,12 @@ wok-express69.fr
 woordenboek.nu
 xghsm.top
 xiangtatech.com
+xiong3d.cn
 xn--13-jlc5al4a.xn--p1ai
 xn--strungsauskunft-9sb.de
 yazaki-net.co.jp
 yehudagreen.com
+yn70l.cn
 yoshitomi.lg.jp
 yourcsd.com
 yuteair.net
@@ -496,3 +497,4 @@ zacksmedleyauthor.com
 zaymika.ru
 zee33simplys.shop
 zekibc583.com
+zg6xt.cn

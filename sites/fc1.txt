@@ -34,6 +34,7 @@ avleddha.it
 ayeletcarmi.com
 aza.ca
 baguerpican.fr
+ballfcclub.xyz
 bansheeforce.com
 barbara-ruetting.de
 bastian-gallery.com
@@ -57,7 +58,7 @@ brafim.cat
 brechthaus-augsburg.de
 bridgetoeverywhere.org
 btschool.co.uk
-bwfc.co.uk
+bwfc.co.uk = bolton|bolton wanderers|bolton wanderers f.c.|bolton wanderers fc|bolton wanderers football club|bwfc|the trotters|wanderers|博尔顿漫游者足球俱乐部|博尔顿足球俱乐部|博爾頓足球俱樂部
 calmtopics.us
 capciudaddemurcia.com
 carlespratvives.com
@@ -150,16 +151,15 @@ giacintofacchetti.org
 gigadevice.com.cn
 gmc.or.jp
 go-zh.org
-godstonefarm.co.uk
 goldlifemag.co.uk
 goodbyekansas.com
 gracefuldecay.com
-grandcafeorient.cz
 grandfallswindsor.com
 granny2.io
 grassrootseast.org
 greatheartsamerica.org
 greenscreenadventures.tv
+groupup.me
 gunnarwiklund.se
 gymnasium-nippes.de
 halfhalftravel.com
@@ -190,6 +190,7 @@ innovationjournalism.org
 institutocerebroemente.com.br
 intelivisto.com
 intifada-palestine.com
+iptvpros.ca
 iramps.be
 irfringette.com
 isabelprovoost.nl
@@ -222,7 +223,6 @@ krhs.net
 kronos42.news
 kryptonportal.co.uk
 ktc-holdings.co.jp
-kunsthandwerkstage.de
 kupic-prawojazdy.com
 kvint.dk
 kyotofu.co.jp
@@ -246,7 +246,6 @@ luquet-duranton.fr
 lzgdjt.cn
 m2guard.de
 magoturbonucleo.it
-mahawin.co
 mallofgiftmy.vip
 mamziz.com
 manaratitech.com
@@ -273,6 +272,7 @@ mgplzen.cz
 millionaire-nl.com
 mineralwasser.com
 mirkart.ru
+mirzercal.ru
 mix997.com
 mixnyc.org
 moduni.de
@@ -292,6 +292,7 @@ nacholibre.com
 neatnotes.us
 nevmenandr.net
 newtontexas.org
+nextgen.co.jp
 nitro.download
 nivialroy.net
 nobawc.org
@@ -381,7 +382,6 @@ spaceops.org
 spinshouseaussie.com
 sportflevo.nl
 spykercars.com = spyker|spyker cars|世爵汽車|世爵汽车
-stall.com.ua
 stcenter.net
 stihl.com.br
 stormpc.com
@@ -458,7 +458,6 @@ vukovarskivodotoranj.hr
 wavemage.com
 wbtv.com
 websprabhala.com
-weijiatekeji.com
 wgtw.co.uk
 wholehogtheatre.com
 wings-apart.ru
@@ -467,7 +466,6 @@ xmpp.org = jabber|xmpp|可延伸訊息與存在協定|可扩展消息与存在�
 xotira-muzey.uz
 xypex.com
 ymca.cz
-yunyi-sms.com
 yusuge.co.jp
 zagorovahana.cz
 zenduty.com

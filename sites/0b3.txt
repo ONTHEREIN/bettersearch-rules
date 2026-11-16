@@ -1,5 +1,4 @@
 38p90.com
-58zdt.com
 911dispatch.com
 9inj.com
 aaxiswildlife.com
@@ -9,7 +8,6 @@ abre.bio
 abzac-16.fr
 adamgyenge.gitlab.io
 aera.net
-aestheticsbyannaliserose.com
 afundacion.org
 agsn.site
 aignermunich.de
@@ -36,6 +34,7 @@ associationjetaide.org
 astro.com.my = astro|astro malaysia|astro控股私人有限公司|astro頻道|寰宇电视|馬來西亞astro集團|马来西亚astro电视台
 atikstadion.nl
 audiothing.net
+aupyhqn.cn
 australiagambler.com
 auto-zimmermann24.de
 aviatrixslot-no.com
@@ -107,6 +106,7 @@ conservatoire.pf
 coquegsm.com
 coyotepoint.com
 cpspuri.org
+cqqdccx.com
 cravant-les-coteaux.com
 crosswordsolver.com
 ctcc.no
@@ -164,7 +164,6 @@ freeseoauditchecker.store
 freetubeapp.io
 freshjackpotreview.uk
 fusomusic.com
-futurefriends.lol
 futuretechinsights.co.uk
 futurewagerhub.com
 gabrielcelaya.com
@@ -193,6 +192,7 @@ goodinside.com
 grabert-verlag.de
 greenlogger.blogspot.com
 greenthrottle.com
+gw8r3.cn
 ha-channel-88.com
 hackerschool.com
 hamuniverse.com
@@ -223,6 +223,7 @@ isa-augsburg.com
 ivermectin12info.com
 iwatchtx.org
 jessicaotis.com
+jilinqingnian.com
 jingchengyue.com
 jnaf.org
 joannebrackeenjazz.com
@@ -253,7 +254,6 @@ ldtk.io
 learntechlib.org
 literom.nl
 liuwei-network.github.io
-lnljgg.com
 londonprizemarket.uk
 longbeachcomicexpo.com
 longtermresilience.org
@@ -293,6 +293,7 @@ musis.at
 mywebs.su
 namoromusic.com
 nancyrubinstuart.com
+naturgut.net
 ndm-marseille.org
 netgate.sk
 newmenband.com
@@ -311,7 +312,7 @@ ossabawisland.org
 osttimorkommitten.se
 oulovchanci.org
 oxcp.com
-pacwasteplus.org
+oxybasket.in
 parafiadomatkow.pl
 parafiasonsk.pl
 parikkrama.com
@@ -323,7 +324,6 @@ pauljebanasam.com
 pcpulsegrid.com
 pentagon.mil
 pixelshopkeeper.com
-pizzaandmorerc.com
 pjvalencianista.org
 platoon.one
 play.works
@@ -331,7 +331,6 @@ playbunny.casino
 playon.tv
 pmh.hu
 pokerdiscover.com
-pompeiana.org
 powerflexweb.com
 printwhatyoulike.com
 probatestars.com
@@ -432,6 +431,7 @@ trueresq.co
 turna.com = skyscanner|skyscanner.net|skyscanner.ru|tianxun.com
 txtcartapp.com
 uecbarcelona.org
+ugz28.cn
 uhczugerland.ch
 ui1.es
 unityworldwiderecords.com
@@ -446,7 +446,6 @@ visacenter.bd
 visconte.nl
 visionwagerhub.nl
 vistanode.us
-vitaminhaat.com
 vmro.bg
 vouchercodes.co.uk
 voxelstorm.com = advertcity|广告城市

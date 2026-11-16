@@ -10,6 +10,7 @@ abr.ge
 ad4x.com
 aeroport.pm
 agrocs.cz
+aiboyaweb.com
 aimskadaba.com
 aioti.eu
 airchina.com = air china|air china limited|cca|中国国际航空|中国国际航空公司|中国国际航空股份有限公司|中國國際航空|国航|國航
@@ -33,7 +34,6 @@ asterix-bus.pl
 asuntospublicos.tv
 atarigames.com = mace: the dark age
 attractio-game.com
-auroraforecast.is
 auto-und-uhrenwelt.de
 autogespot.com
 autowashmachine.com
@@ -151,7 +151,6 @@ fundacionananta.org
 futureofflight.org
 gamejolt.com = game jolt|gamejolt.com
 garteneden.de
-garudaku138.com
 generalcoffee.com
 genoss.com
 georgewgrahamjr.com
@@ -214,7 +213,6 @@ jimdero.com
 jin10.com
 joanbraderman.com
 joelally.com
-joi.org
 judanali.com
 judygrahn.org
 juliedeluz.de
@@ -255,6 +253,7 @@ les-essards.fr
 lexington1.net
 lifegate.it
 lime.com
+livedrawsgp.boutique
 liveinsurancenews.com
 lochnessfilmfestival.co.uk
 logintrade.pl
@@ -395,10 +394,10 @@ slotsignal1157.de
 slv-nord.de
 smartaceworks.uk
 snell.zone
-snitch.co.in
 sntba.com
 socola-sc.jp
 softwareplant.com
+solecity.co.uk
 splendourinthegrass.com
 splintermind.com
 spot.com
@@ -472,6 +471,7 @@ vernontx.gov
 viajoporeuropa.com
 victorelberse.nl
 videomaker.me
+villagetheatrewaterdown.ca
 virtgram.com
 visitrimini.com
 vkusnolubov.ru
@@ -497,6 +497,7 @@ wroclaw-trend.eu
 xb110.org
 xn----7sbecrobcgeaekietkh2d4m4b.xn--p1ai
 ya-kyim.com
+yiq5p.cn
 yiso.fun
 yukonassembly.ca
 zbftkj.top

@@ -111,6 +111,7 @@ darksitefinder.com
 deepfakesweb.com
 deutscheweinkoenigin.de
 dhtstudios.com
+diburros.com
 dilbeek.be
 djangowexler.com
 dm-folien.com
@@ -123,7 +124,6 @@ dpcfrontier.com
 dracy-les-couches.fr
 drlisadamour.com
 droitsquotidiens.be
-dsoskecagam.org
 duranduran.com = duran duran|duran-duran|杜兰杜兰|杜蘭杜蘭|都蘭都蘭
 dzsmktrans.sk
 e-akashi.jp
@@ -137,6 +137,7 @@ elektro-stanzel.de
 elokuvateatteristar.fi
 elynah.com
 emagonline.com
+emilianomessiez.com
 emiliopiazzamemorial.com
 emprom.com
 endeavouros.com = endeavour|endeavouros|eos
@@ -145,7 +146,6 @@ escuelaj.com
 esr.gr
 evo.ca
 eyetricks.com
-fanxianba.com
 farnost-dolni-pocernice.cz
 federicocolli.eu
 fiocchi.com = fiocchi munizioni|fiocchi弹药公司|菲奧基彈藥公司
@@ -228,7 +228,6 @@ jw-holdings.co.kr
 k-kb.or.jp
 kaasmarkt.nl
 kabarettpreis.at
-kapelnicza-ot-zapoya-kalyazin-1.ru
 kazusafm.net
 keokeninteractive.com
 kfn.or.kr
@@ -238,10 +237,10 @@ kjme.kr
 klsovremennik.ru
 kmk-kerch.com
 kodai-ht.co.jp
+konigchain.com
 koninklijkhuis.nl = king's day|koninginnedag|koningsdag|monarchy of the netherlands|queen's day|女王日|荷兰君主列表|荷兰君主制|荷兰女王日|荷兰王室|荷蘭君主|荷蘭王室
 konzerthaus.at
 kosashvili.com
-krwjdz.com
 kt.fi
 kwcdn.com
 laroverken.se
@@ -311,8 +310,10 @@ omahasymphony.org
 onigokko.net
 openpanel.dev
 orbicolare.it
+oriyentir-muka-avto-sbp.ru
 ortilos.hu
 oucirs.org
+oxdoggzi.cc
 oxfordbibliographiesonline.com
 ozzfest.com
 pacura-med.de
@@ -335,6 +336,7 @@ ponticelli.com
 primeblackjackpoint.com
 primevolleyballleague.com
 prohelvetia.ch
+proseogram.com
 qdpb.gov.cn
 reverautomotive.com
 rhadc.bm
@@ -367,7 +369,6 @@ simplitrain.com
 sj-r.com
 skillnation.online
 skoda-vw.co.in
-slotonline65.com
 smartluckyzone.it
 smutgremlins.com
 snrbaudouin.com
@@ -419,6 +420,7 @@ tyroneboropa.com
 uetr.eu
 ufcwetten.com.de
 urbanfruithouse.uk
+vendi-app.com
 veronicaromero.es
 vertexgamblehub.com
 vertoz.com
@@ -432,7 +434,6 @@ vizkultura.hr
 vojnik.si
 voxel.net
 vrsce.cz
-vurgerguyz.com
 waida.co.jp
 wald-institut.de
 wfeo.net

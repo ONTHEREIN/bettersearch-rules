@@ -13,7 +13,6 @@ acessocultura.org
 acloud.cn
 acsinternational.com.sg
 activitypub.blog
-adult-townpage.com
 advance.com
 aemma.org
 ahavaxthuset.se
@@ -48,7 +47,6 @@ arrowbenjamin.com
 asterix-avo.be
 astralmasters.com = astral masters
 astrosafor.net
-asuiteatkitsilanocottage.com
 ataquilla.com
 atlantiscomputing.com
 atlascinemas.net
@@ -68,7 +66,6 @@ beary-bears.de
 bedjet.com
 bernard-richter.ch
 bestself.co
-biblioteka-poeta.ru
 bigpeace.com
 bingx.com
 bisa.org
@@ -205,7 +202,6 @@ geoglobus.ru
 geologypage.com
 gewoge-aachen.de
 gilleyslasvegas.com
-gingerwithspice.com
 glhf.online
 go88.jewelry
 gooding.de
@@ -215,7 +211,6 @@ groove.co
 grundschule-nittel.de
 gurudroanmahavidyalay.org
 gwv-fulda.de
-gznatawei.com
 hacker.com.cn
 haisen-petcage.com
 hammerandnailsgrooming.com
@@ -324,7 +319,6 @@ moverparla.com
 mrfreezersc.wordpress.com
 mt-heavens.com
 muddypawsrescue.org
-mudrasalon.ru
 mulhouse-mustangs.fr
 museodelfiore.it
 musicalartists.org
@@ -371,6 +365,7 @@ poolwerx.com.au
 popcornnews.ru
 portabilis.com.br
 postjorion.wordpress.com
+practicallyfamily.co.uk
 primacasino-ro.ro
 profootballhistory.com
 pusatsitusterpercaya.com
@@ -429,7 +424,6 @@ steurer-seilbahnen.com
 styletread.com.au
 sueper.koeln
 sunreportermedia.com
-superviral.io
 surginno.com
 swe.de
 sweetme.com.tw
@@ -456,12 +450,12 @@ tjrc.com.cn
 tommyhabeeb.com
 toniszoo.ch
 triblio.com
-triflux.io
 uhrice-vy.cz
 ukrzoloto.ua
 umple.org
 unfoldinglive.co.uk
 uno-en-ligne.com
+unti58.cn
 urb-it.com
 usualwant.com
 uu1001.com
@@ -492,6 +486,7 @@ wszp.pl
 xmecard.com
 xpose.co.za
 yamiepanda.com
+yohe-auto.com
 yy-tx.com
 zdn-j.com
 zecomplex.fr

@@ -2,7 +2,6 @@
 10080.hk.cn
 1616.net
 1819news.com
-30percesfinomsagok.hu
 55ganhe.asia
 5sos.com
 767fm.com
@@ -46,6 +45,7 @@ banderolieren.de
 bandsjapan.com
 banshee.fm
 barbrutal.com
+barlxf.cn
 barnstorm.ca
 belem.br
 beppebornaghi.com
@@ -103,7 +103,6 @@ dogchannel.com
 dororo.jp
 douglas.ro
 dreadtides.com
-dsoskotapontianak.org
 duck-duck-bingo.co.uk
 e-kjs.org
 ebigear.com
@@ -114,7 +113,6 @@ el-mouradia.dz
 elboalo-cerceda-mataelpino.org
 en25.com
 enchante-music.net
-enpositivo.com
 enriqueornelas.com
 escuelagante.com
 esq.org.au
@@ -156,6 +154,7 @@ gseart.com
 guangzhouaward.org
 gurukulcollegekhatu.com
 gwojcik.com
+halafeek.com
 halfway2halloweendetroit.com
 hamiltonmahistoricalsociety.org
 harrylevya.com
@@ -227,10 +226,10 @@ lesleybarber.com
 lets-sing.net
 lindabury.com
 lomutuc.com
+londoninternationalskafestival.co.uk
 loodsman.ru
 lossedge.com
 lubedog.shop
-luckybay-at.com
 maartenpaulides.nl
 mainichikirei.jp
 maitrisecathedraletoulouse.org
@@ -261,6 +260,7 @@ naive.fr
 narayanaschools.in
 nattilikheritage.ca
 ncto.org
+nealweichel.com
 newbyprimary.co.uk
 nhgazette.com
 nicholasvreeland.com
@@ -300,7 +300,7 @@ philip-davies.org.uk
 pidapipo.com
 pigna.it
 pinpinteam.com
-piratpartiet.se = pirate party|pirate party of sweden|piratpartiet|swedish pirate party|盜版黨
+piratpartiet.se
 plainlyheadline.us
 postmuenster.de
 powiatwegorzewski.pl
@@ -313,6 +313,7 @@ provideo.hu
 pulseblackjackplus.com
 punktum.dk
 pupsandyoga.es
+qnow.io
 qq88z.net
 rabatottos.hu
 radio3cadenapatagonia.com.ar
@@ -344,6 +345,7 @@ selwynprimarywaltham.co.uk
 senato.it = italian senate|senate of italy|senate of the italian republic|senate of the republic|意大利共和国参议院
 seobookmarkpro.com
 sep-neko-ya.github.io
+she-owns.de
 shiplake.org.uk
 shocklach.com
 siba.se
@@ -385,6 +387,7 @@ tce.co.in
 tchsbrandywine.org
 td-chirpan.com
 tengshiauto.com
+tennis-championships.xyz
 the-base.at
 thebab.co.uk
 thegirlfriendsinc.org
@@ -409,6 +412,7 @@ turtmann.ch
 tusmecklenheide.de
 tvma.org
 tylerwalker.org
+u9r2n8.cn
 ug88.study
 uk2uk2.com
 ultrabrightroutespace.nl
@@ -437,6 +441,7 @@ weareengland.org
 westagency.uk
 willa-cecylia.pl
 with.in
+wo73d.cn
 wojdak.com
 wollo.com
 wrbzradio.com
@@ -445,6 +450,7 @@ xx812.top
 xxlong.xyz
 yamamura-tandai.ac.jp
 youxmj.com
+yuiqwe.com
 yvonjansen.de
 zagorodny.net
 zavvi.nl

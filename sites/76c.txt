@@ -75,7 +75,6 @@ caribbeanstudies.org.uk
 carlyleinfantschool.org.uk
 carteretschools.org
 caxinocasino-ca.com
-cfa-soa-frm-cma.com
 chateaudebrague.com
 chercheursdelawallonie.be
 chiphistory.org
@@ -106,7 +105,6 @@ csvoss.com
 ctvc.co
 cutefigurehk.com
 dakinigompa.cz
-daojiaodashi.com
 darussalamfoundation.org
 dbexpertise.fr
 dctjapan.com
@@ -123,7 +121,6 @@ dreikon.de
 druaga-anime.com
 drzzs.com
 dsg168.com
-dsosnaganraya.org
 dutchdwcon.nl
 dynisco.com
 dynmcfilms.com
@@ -222,7 +219,6 @@ jimstef.org
 jojobetvip-giris2026.vip
 jordanshapiro.org
 josefuvdul.eu
-jrpedras.com.br
 jsdcgb.cn
 kaasahealth.com
 kadnikov.ru
@@ -244,7 +240,6 @@ lanl.gov = ibm roadrunner|mcnp|monte carlo n-particle transport code|roadrunner|
 latinatop.ru
 lauramadeleine.com
 lavidadelospeces.cl
-lawealthplan.com
 leokino.at
 lesitinerantes.fr
 leufstabruksarkiv.se
@@ -253,7 +248,6 @@ litoffsl.com
 littleblackdress.co.uk
 lluviarojo.es
 lnpu.edu.cn
-logo132.com
 lokaltapiola.fi
 losalamitosmedctr.com
 loveherfeet.com
@@ -279,6 +273,7 @@ miki-taxi.co.jp
 mintpit.us
 misled.us
 misty-app.com
+mnynet.com
 moederikwilbijderevue.nl
 mohamedelhayani.com
 momentovision.es
@@ -306,7 +301,6 @@ norafilma.com
 nordingraforsamling.se
 notre-dame-de-lourdes.ca
 nove-straseci.eu
-nqytpeb.com
 nudm.org
 obeckralovany.sk
 offenegesetze.de
@@ -386,10 +380,9 @@ sarahburke.com
 schnelldorf.de
 schumann.com.au
 scienceweek.net.au
-sega.com = aka-chan wa doko kara kuru no?|anarchy reigns|chunithm|comix zone|condemned: criminal origins|crazy taxi: world tour|dreamcast collection|ecco the dolphin|ecco the dolphin: the tides of time|ecco the dolphin: tides of time|ecco: the tides of time|ecco: tides of time|eternal champions|fatal labyrinth|fist of the north star: lost paradise|hokuto ga gotoku|iron man 2|iron man 2: the video game|jump fever|kid chameleon|labyrinth of death|light crusader|loop8 summer of gods|loop8 降神|loop8: summer of gods|maimai|otogi 2: immortal warriors|persona 6|ryu ga gotoku: kiwami 2|ryū ga gotoku 5|sega 3d classics collection|sega 3d fukkoku archives 2|sega 3d reprint archives 2|sega 3d復刻檔案室|shi no meikyuu: labyrinth of death|shining force ii|snk heroines|snk heroines tag team frenzy|snk heroines: tag team frenzy|snkh|snk女傑狂熱大亂鬥|sonic free riders|sonic jump fever|sonic rivals|sonic rumble|sonic rumble party|sonic's ultimate genesis collection|soul hackers 2|space harrier ii|super monkey ball: banana rumble|super monkey ball: step & roll|tembo the badass elephant|the rub rabbits!|the tides of time|tides of time|toejam & earl in panic on funkotron|unicorn overlord|wonder boy iii: monster lair|yakuza 0|yakuza 5|yakuza kiwami 2|yakuza kiwami two|yakuza: kiwami 2|中二|中二节奏|为你而生|人中之龍 極2|人中之龍0 誓約的場所|人中之龍5 夢 實踐者|人中北斗|光明力量ii 古代的封印|圣兽之王|坏象坦博|壞象坦博|太空哈利2|太空哈利ii|女神异闻录6|女神異聞錄6|如龙：极2|小寶寶從哪來?|御伽〜百鬼討伐繪卷〜|極度混亂|死亡迷宮|永恆鬥士|海豚歷險記|漫畫地帶|灵魂骇客2|為你而生|索尼克sega mega drive终极合集|索尼克終極創世合集|索尼克终极创世合集|聖獸之王|舞萌|變色龍小子|超級猴子球 香蕉大亂鬥|超级猴子球 香蕉大乱斗|鋼鐵人2|鐵甲奇俠2|靈魂駭客2|音速小子自由滑板競速
+sega.com = 2006 sonic the hedgehog|aliens vs. predator|comix zone|crazy taxi: world tour|demon slayer - the hinokami chronicles|iron man|iron man 2|iron man 2: the video game|kimetsu no yaiba: hinokami keppuutan|lad infinite wealth|lad iw|lad: infinite wealth|lad: iw|like a dragon 8|like a dragon 8: infinite wealth|like a dragon infinite wealth|like a dragon: infinite wealth|like a dragon: pirate yakuza in hawaii|loop8 summer of gods|loop8 降神|loop8: summer of gods|lost judgment|maimai|metaphor: refantazio|persona 3 reload|persona 4 revival|persona 5 tactica|persona 6|ryu ga gotoku 8|sonic '06|sonic 06|sonic 2006|sonic frontiers|sonic heroes|sonic lost world|sonic racing: crossworlds|sonic rumble|sonic the hedgehog|sonic the hedgehog '06|sonic the hedgehog 06|sonic the hedgehog 2006|soul hackers 2|super monkey ball banana mania|super monkey ball: banana mania|super monkey ball: banana rumble|the hinokami chronicles|thor: god of thunder|unicorn overlord|yakuza 8|人中之龍8|人中之龍8 外傳 pirates in hawaii|人中之龍8 外傳夏威夷海盜|人中之龍8外傳 夏威夷海盜|人中之龙8|人中之龙8外传 夏威夷海盗|圣兽之王|女神异闻录3 reload|女神异闻录4 revival|女神异闻录5 战略版|女神异闻录6|女神異聞錄3 reload|女神異聞錄4 revival|女神異聞錄5 戰略版|女神異聞錄6|如龙8|审判之逝：湮灭的记忆|審判之逝：湮滅的記憶|暗喻幻想：refantazio|漫畫地帶|灵魂骇客2|现尝好滋味 超级猴子球|現嚐好滋味！超級猴子球 1&2 重製版|瑪利歐&音速小子 at 溫哥華奧運|異形戰場|索尼克 失落世界|索尼克未知边境|索尼克未知邊境|索尼克賽車 交叉世界|索尼克赛车 交叉世界|聖獸之王|舞萌|超級猴子球 香蕉大亂鬥|超級猴子球：香蕉狂熱|超级猴子球 香蕉大乱斗|超音鼠英雄|鋼鐵人2|鐵甲奇俠2|雷神托尔|雷神索爾|靈魂駭客2|音速小子|音速小子 2006|音速小子 the hedgehog|音速小子 未知邊境|音速小子未知邊境|音速小子羣雄|音速小子群英會|音速小子群雄|鬼滅之刃 火之神血風譚|鬼灭之刃 火之神血风谭
 selffoundation.org
 sertoes.com
-sexvkl.tv
 shannonmurphy.com.au
 shbet.info
 shermanhoward.com
@@ -412,12 +405,11 @@ stephiecooks.com
 stmu.edu.pk
 storebyweb.com
 sundogsolar.net
-supersprings.com
 sustainolive.eu
 swordcoast.com = sword coast legends|劍灣傳說
 sxccti.com
 syl.fi
-szdair.com
+szyftn.com
 tajmeds.top
 tamasvarga.art
 taraboulsi.com
@@ -489,11 +481,10 @@ xosemiguelez.com
 yaimacarrazana.com
 yoast.com
 yongqing.gov.cn
+yourboatclub.com
 yujiantianfu.cn
-yunistroizavod.ru
 zatu.com
 zeevee.com
 zeromagazine.se
-zhongxiaoweiyue.com
 zorghulpatlas.nl
 zueblin-nederland.com

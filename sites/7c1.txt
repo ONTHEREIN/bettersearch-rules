@@ -117,7 +117,7 @@ entrecampos.pt
 epsg.org
 essentialhome.eu
 ettika.com
-europa.eu = cedefop|celex|cepol|ceta|civil service tribunal|copernicus programme|cordis|cordis.europa.eu|data.europa.eu|digital euro|e-euro|ec data portal|ehds|ema|enisa|esm|eu battlegroup|eu bg|eu medicines agency|eu odp|eu open data portal|eudravigilance|eunis|eur-lex|eures|eurocode|eurogroup|europa|europa.eu|europarltv|europass|european anti-fraud office|european capital of culture|european city of culture|european commission data portal|european data portal|european employment services|european health data space|european medicines agency|european nature information system|european research council|european stability mechanism|european union agency for cybersecurity|european union civil service tribunal|european union satellite centre|european university information systems|european youth portal|europeandataportal.eu|formerly european police college|health-eu portal|inter-active terminology for europe|iuclid|olaf|prado|traces|trade control and expert system|vat information exchange system|vies|全面經濟貿易協定|公共旅行和身份证件在线登记中心|公共旅行和身分证件在线登记中心|哥白尼计划|數位歐元|欧元集团|欧洲数字|欧洲文化之都|欧洲研究委员会|欧洲稳定机制|欧洲职业培训发展中心|欧洲联盟公务员法庭|欧洲联盟立法数据库|欧洲自然信息系统|欧洲药品管理局|欧盟特遣队|欧盟立法数据库|欧盟网络安全局|歐元集團|歐洲代碼|歐洲反詐欺辦公室|歐洲文化之城|歐洲文化之都|歐洲研究委員會|歐洲穩定機制|歐洲聯盟公務員法庭|歐洲聯盟立法數據庫|歐洲藥品管理局|歐洲藥物管理局|歐洲警察學院|歐盟公務員法庭|歐盟戰鬥群|歐盟特遣隊|歐盟立法數據庫|歐盟網絡安全局|歐盟網路安全局|歐盟藥物安全檢測機構|歐盟藥物警戒系統|歐盟衛星中心|社区研发信息服务|綜合性經濟貿易協議|綜合經濟與貿易協定
+europa.eu = cedefop|celex|cepol|ceta|civil service tribunal|copernicus programme|cordis|cordis.europa.eu|data.europa.eu|digital euro|e-euro|ec data portal|ehds|ema|enisa|erc|esm|eu battlegroup|eu bg|eu medicines agency|eu odp|eu open data portal|eudravigilance|eunis|eur-lex|eures|eurocode|eurogroup|europa|europa.eu|europarltv|europass|european anti-fraud office|european capital of culture|european city of culture|european commission data portal|european data portal|european employment services|european health data space|european medicines agency|european nature information system|european research council|european stability mechanism|european union agency for cybersecurity|european union civil service tribunal|european union satellite centre|european university information systems|european youth portal|europeandataportal.eu|formerly european police college|health-eu portal|inter-active terminology for europe|iuclid|olaf|prado|vat information exchange system|vies|全面經濟貿易協定|公共旅行和身份证件在线登记中心|公共旅行和身分证件在线登记中心|哥白尼计划|數位歐元|欧元集团|欧洲数字|欧洲文化之都|欧洲研究委员会|欧洲稳定机制|欧洲职业培训发展中心|欧洲联盟公务员法庭|欧洲联盟立法数据库|欧洲自然信息系统|欧洲药品管理局|欧盟特遣队|欧盟立法数据库|欧盟网络安全局|歐元集團|歐洲代碼|歐洲反詐欺辦公室|歐洲文化之城|歐洲文化之都|歐洲研究委員會|歐洲穩定機制|歐洲聯盟公務員法庭|歐洲聯盟立法數據庫|歐洲藥品管理局|歐洲藥物管理局|歐洲警察學院|歐盟公務員法庭|歐盟執法訓練機構|歐盟戰鬥群|歐盟特遣隊|歐盟立法數據庫|歐盟網絡安全局|歐盟網路安全局|歐盟藥物安全檢測機構|歐盟藥物警戒系統|歐盟衛星中心|社区研发信息服务|綜合性經濟貿易協議|綜合經濟與貿易協定
 expressplocki.pl
 ezonnerecruit.com
 falco3d.com
@@ -152,6 +152,7 @@ gioconews.it
 globalrefugeenetwork.org
 goinggear.com
 gokulmohanty.com
+goldengatelodging.com
 gooddinnermom.com
 gordonsondland.com
 grahamlynch.uk
@@ -189,7 +190,6 @@ jenmuellerexperttalker.com
 jirikuhn.cz
 johnsteelegordon.com
 jonathanlittlepoker.com
-jongmanagement.nl
 jordanmaxwellshow.com
 jwcmedia.com
 k-junshin.ac.jp
@@ -298,7 +298,6 @@ oberbergkirchen.de
 obut.info
 oceanariumkrd.ru
 ocqqir.cn
-oftwpyg.com
 olegmyrzak.de
 oncecasinos-es.es
 online-australia.com
@@ -452,8 +451,6 @@ winkleburyfederation.com
 wireworldcable.com
 worldhotels.com
 yimi.org
-yxd04.com
-zakvvtvsl.cc
 zaplysend.com
 zee7happys.xyz
 zenvectorlogic.nl

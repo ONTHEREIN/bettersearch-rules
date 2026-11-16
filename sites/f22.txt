@@ -30,9 +30,11 @@ atlas-der-globalisierung.de
 atp-cgpharm-group.com
 autodoc.nl
 avitishospital.com
+avive.com
 awesomemitten.com
 azumahouse.com
 ba-auslandsvermittlung.de
+badifoto.com.cn
 baerenreiter.com
 banda.agency
 beit-hanan.com
@@ -66,8 +68,8 @@ cal2.eu
 calalerts.org
 calmstories.us
 campagnesartois.fr
+candidandannabakes.com
 canoncollins.org
-castercity.com
 castlecroftprimaryschool.com
 ccarchives.ca
 cervoty.website
@@ -110,7 +112,6 @@ deionsanders21.com
 deliciousnotgorgeous.com
 delitosinformaticos.com
 dentalleadcrm.com
-depotstudent.de
 desertcherokees.com
 deveryware.com
 diariodoscampos.com.br
@@ -123,7 +124,6 @@ drsmarancladius.com
 dynamiccasinohub.com
 dynaphar.be
 east.im
-eatatplow.com
 ecit.com
 ecomuseodeiterrazzamenti.it
 econo-ecolo.org
@@ -162,7 +162,6 @@ ge-norf.de
 genshin.guide
 getfirepush.com
 giant-ojosama-anime.com
-gmajormusictheory.org
 goagencypartners.com
 gobufalini.it
 gransta.jp
@@ -189,6 +188,7 @@ huellhorst.de
 huertodelcura.com
 hvezdarna-vsetin.cz
 hysdqx.com
+hzjqx.com
 iaru-r2.org
 icccnow.org
 ifc-pointenoire.com
@@ -250,7 +250,6 @@ mastersofhorror.net
 mataharimall.com
 mathwithbaddrawings.com
 mauniver.ru
-meihuabc.com
 metalprices.com
 mevoisins.fr
 mga.edu
@@ -260,7 +259,6 @@ mitech.co.kr
 mjbha.org
 mobiliteitsraad.be
 modernspins869.com
-modninja.co
 molotok.ru
 monroe.edu
 morfeo-project.eu
@@ -288,6 +286,7 @@ nmgcd.com
 nmml.org
 npes.org
 nt.no
+nupyvezi.cn
 obituary.cc
 oceanic-air.com
 oldchicago.com
@@ -356,7 +355,6 @@ sdbrjc.top
 seijin.org
 selinawamucii.com
 semmering.com
-sentaro.co.jp
 sergioyestibaliz.com
 shelbyia.com
 shorten.so
@@ -371,7 +369,6 @@ sivmlonguenee.fr
 snoutcraft.com
 sollibk.no
 solvatten.org
-somaleather.com
 sonisphere.co.uk
 sosofreshrecords.com
 south-carolina-plantations.com
@@ -393,14 +390,12 @@ superiorcathedral.org
 superiorcoaches.com
 svah.be
 svetlana-bojkovic.com
-tabi-susume.com
 taipeicycle.com.tw
 tandd.co.jp
 tc5j.cn
 teachfloor.com
 techovedas.com
 tek-ker.com
-tgpmachine.org
 thaneofeastcounty.com
 theaigrid.com
 thebaum.co.uk
@@ -445,6 +440,7 @@ vietnampost.vn
 vikendotevrenychzahrad.cz
 visitoxelosund.se
 vk.se = västerbottens-kuriren|西博滕信使報
+vnhking.com
 volksblatt.li
 vpizza.com
 vsuo.cz
@@ -467,6 +463,7 @@ youthsquare.hk
 yvesflorenne.fr
 zaim52.ru
 zangerliga.kz
+zc-zyp.cn
 zegluga.com.pl
 zerkalo.fr
 zh-cn-yootv.com

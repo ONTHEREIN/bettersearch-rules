@@ -31,6 +31,7 @@ araglegal.com
 arlboston.org
 aronfeld.com
 article-home.com
+asszs.com
 astoria.rs
 asulvolley.com
 atakanmedya.com
@@ -44,7 +45,6 @@ bathandbeyondfixes.com
 bbt007.top
 bbwawardsshow.com
 bdnews55.com
-bdshengben.com
 belloflostsouls.net
 betwildcasino.co
 bikefm.org
@@ -128,10 +128,10 @@ energeticcity.ca
 entrance-exam.net
 epiteszforum.hu
 eryajf.net
+essentials.com.es
 eu-egee.org
 euinsider.eu
 eurendodj.com
-eva.ai
 executableoutlines.com
 f1s6z8w.com
 farnostmoutnice.cz
@@ -158,6 +158,7 @@ ghienphim.studio
 giovannialabiso.com
 godofcoinscasino.org
 goodmorning-sleepingliontwo.com
+gxgbs.com
 h-ref.de
 h2omidstream.com
 hampepartiet.dk
@@ -178,6 +179,7 @@ hotelness.it
 hotlinedoc.com
 hrg.co.jp
 hsbctrinkaus.de
+hsoiol.cn
 htmlacademy.ru
 huisartsengeldersevallei.nl
 ifive.kr
@@ -247,7 +249,6 @@ mathleaks.se
 maureenjennings.com
 mexicocity-lottery.com
 michelgrall.fr
-millies.ie
 mistressminxy.co.uk
 mkssindia.org
 mnhn.lu
@@ -264,8 +265,6 @@ naplesstartup.it
 naturkunde-chemnitz.de
 newassignmenthelp.com
 nima.edu
-ninecasino-francais.com
-nnbuujn.com
 noobpatch.co.uk
 ns-esports.com
 nunscrosschurch.ie
@@ -333,7 +332,6 @@ runsociety.com
 ruthfilms.com
 salemhealth.org
 sanbishi.co.jp
-santaclaracountylib.org
 santafepenedes.cat
 sarasotagardenclub.org
 scallop-lang.github.io
@@ -344,8 +342,11 @@ segurcaixaadeslas.es
 seiden.co.jp
 semnal24.ro
 shelbypublicschools.net
+shimmerwood.com
 shoppinglight.com.br
 shortterm12.com
+shxyl88.com
+slot3333.org
 snask.com
 sobokatamuki-br-council.org
 soiernhaus.de
@@ -404,7 +405,6 @@ unique-personal.de
 unitedutilities.com = united utilities|联合公用事业
 uofupress.com
 urbandiceplace.uk
-v160.de
 valenciainnovationcapital.com
 vanitytron.io
 varazdinski.net.hr
@@ -423,7 +423,6 @@ villedewarwick.quebec
 visco.co.jp = breaker's|breakers|vasara|婆裟羅
 visiscience.com
 volchok.ru
-voyeurhit.me
 vpara.com
 vrbenskymichael.cz
 vrwa-meentheena.org
@@ -439,6 +438,7 @@ withinthegrove.com
 wohlenberg-werkzeugmaschinen.de
 xemacs.org = lucid emacs|xemacs
 xerispharma.com
+xh2r.cn
 xiaoyou456.cn
 xit.edu.cn
 xn------8cdjcndavecaddduciie9afgeaxcbyl0ezjla5y.xn--p1ai
@@ -447,6 +447,7 @@ xppatch.de
 yditc.com.cn
 ymhubei.com
 youku.com = youku|youku inc.|youku.com|优酷|优酷土豆|优酷网|优酷视频|優酷|優酷土豆|優酷網|優酷視頻
+za61w.cn
 zaraspor.com
 zareksilberschmidt.com
 zbet.codes

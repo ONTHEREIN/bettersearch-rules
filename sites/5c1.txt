@@ -88,6 +88,7 @@ deka-tuin.nl
 dgadr.gov.pt
 die2nite.com = die2nite
 digital-euro-association.de
+dinarrecaps.com
 divinity.edu.au
 diyfunideas.com
 dkk-kz.org
@@ -129,6 +130,7 @@ foodnetwork.com = food network|foodnetwork|foodnetwork.com|美国食品网络|�
 freezone.org
 freron.com
 fursanaqsa.com = fursān al-aqṣā|فرسان الأقصى
+gaiawines.gr
 gamesmarkt.de
 genericwpthemes.com
 geoconsult.eu
@@ -175,6 +177,7 @@ javiersarabia.es
 jeanninegaspar.com
 jhilburn.com
 jimmiespheeris.com
+jinhuism.com
 jl.gov.cn
 joeydalemusic.com
 jofish.com
@@ -182,7 +185,6 @@ johnsnowmemo.com
 jovanafarms.com
 jurnaljiebi.org
 justdial.com
-kagayagumi.co.jp
 kamdarphysiotherapy.com
 kamenergo.ru
 kamvol.by
@@ -207,7 +209,6 @@ lactogal.pt
 laiyuan.gov.cn
 lakecityschools.net
 lapremiere.be
-lchdjs.com
 lesbonnesetapes.fr
 leverrevole.fr
 levkeiser.com
@@ -239,7 +240,6 @@ matsumin.com
 matternow.com
 maybelline.com = maybelline|maybelline new york|媚必臨|媚比琳|美宝莲|美寶蓮
 medaustron.at
-mednavigatorpharmacys.com
 menshairstylesnow.com
 merchantduvin.com
 merrell.com = merrell
@@ -304,11 +304,10 @@ powerupfilms.org
 prettymuchamazing.com
 pride.fi
 primeslotsstudio.com
-prometec.net
 providencehospitals.com
 pulsezone.de
 punterlink.co.uk
-qq88o.org
+qiangjingxi.com
 rainforestconcern.org
 razak.com.my
 rebellion.com = ser|sniper elite resistance|sniper elite: nazi zombie army 2|sniper elite: resistance|zombie army trilogy|僵尸部队三部曲|殭屍部隊三部曲|狙击精英：抵抗|狙擊精英：抵抗者
@@ -334,6 +333,7 @@ se7en.ru
 sealonline.com = seal online|希望online
 secretseattle.co
 securityonlinesolution.com
+seearch.info
 seha.ae
 sentrumslopet.no
 servebox.org
@@ -344,7 +344,7 @@ shinjiro.info
 shortq.link
 shortsinfest.com
 simonbekaert.be
-sin88vn.me
+sin88.viajes
 skytide.com
 slotcraft817.de
 slydigs.co.uk
@@ -360,6 +360,7 @@ stellarplayer.com
 stocktontownfc.com
 stogramm.ch
 stoq.com.br
+sunwinplay.club
 super-shimadaya.com
 sustainableaviation.org
 sv-unterreichenbach.de
@@ -375,11 +376,9 @@ theaisa.com
 theatergruppe-berg.de
 theaterverein-isen.de
 thebabel.net
-thebikeinsurer.co.uk
 thehouseofrare.com
 thenorthbritish.co.uk
 thk.com
-thrivetracker.com
 tizimeng.com
 tmgdhm.com
 tnttheband.com
@@ -423,7 +422,6 @@ viticusgroup.org
 vopnafjordur.com
 vorwerk.de = folletto|vorwerk|vorwerk se & co. kg|福維克|福维克
 vtxcafe.com
-vwalker.com
 waukeshacivictheatre.org
 waynecojournalbanner.com
 webkrauts.de
@@ -439,10 +437,8 @@ wmpeyewear.com
 worldxinheyuan.com
 wortfilter.de
 worthy.com
-wuhudancestar.com
 xn--gillbachbhne-llb.de
 ymcasouthflorida.org
-yuhuyu.com
 yunyunchong.cn
 yzhisheng.top
 zackenberg.dk

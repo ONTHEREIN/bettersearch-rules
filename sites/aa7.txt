@@ -47,6 +47,7 @@ bgpthk.by
 bgv-gesamtverein.de
 bigskymovieranch.com
 birddogflightservices.com
+bizby.ca
 bizkaibizi.eus
 brainlag-games.com
 bravo365.lol
@@ -66,12 +67,12 @@ catholicsun.org
 cello-square.com
 cerritoshs.com
 ceva.ch
+cfdtcheminotscentre.org
 changle.gov.cn
 chantalgrimm.com
 chantecigale.com
 chinastroke.net
 chopz.top
-chuanxinqj.com
 cial.it
 cinemaprague.com
 claranet.com
@@ -81,7 +82,6 @@ clemensleitner.at
 cnrmstudies.org
 colegiovaldeserra.com
 concretecentre.com
-contadordepalavras.online
 coorum.jp
 corehandf.com
 corradinomineo.it
@@ -104,12 +104,12 @@ delley-portalban.ch
 derzibet.com
 design-radiator.eu
 deviliangame.com
-dh88s.com
 dialogos.com.cy
 digift.io
 digitalwomen.live
 diplostudy.online
 dirrrtyfranz.de
+dizilla40.com
 doctorklaper.com
 dolna.org
 domu.com
@@ -192,7 +192,6 @@ iamxavienhoward.com
 ideasurban.de
 idomains.co.za
 igennus.com
-imbaxslot.com
 in60seconds.nl
 incaspinpl.com
 infraestruturasdeportugal.pt = infraestruturas de portugal|infraestruturas de portugal s.a.
@@ -217,17 +216,16 @@ kauainownews.com
 kett.co.jp
 kibsd.org
 kickasstorrents.to
+kikiseo.com
 kimbertonwholefoods.com
 klace.sk
 klas.ba
 kobesteakhouse.com
 koeitecmoeurope.com = a.o.t. 2|aot 2|attack on titan 2|samurai warriors 5|sengoku musou 5|shingeki no kyojin 2|戰國無雙5|進擊的巨人2
-koweoso.com
 kun.no
 kyustendil.bg
 lazzarettiveneziani.it
 lechateaudoleron.fr
-liberali.ge
 lisagershwin.com
 livewatch.com
 lko.at
@@ -258,6 +256,7 @@ megaroyalhub.com
 meiguoshenpo.com
 meirieu.com
 mens-folio.com
+mentaritx.com
 mesto-trebenice.cz
 metaspinscasino-fi.com
 miclub.com.au
@@ -266,6 +265,7 @@ migrationandasylumproject.org
 mikexgorman.com
 milanhouser.com
 min-breeder.com
+mindshiftseo.com
 mingeikan-osaka.or.jp
 mirvaux.fr
 mlh.by
@@ -310,7 +310,6 @@ nvh-medicinal.com
 nwgabsa.org
 obecratkova.sk
 odbiorcyenergii.pl
-odooebc.com
 ohiomusicscene.com
 ontariobusinesscentral.ca
 openidee.fr
@@ -326,6 +325,7 @@ parafiakorzkiew.pl
 parkhotel-czech.eu
 payspace.com
 pengshuiwaimai.com
+ph777a.bet
 philippehartz.fr
 photovideotrend.com
 pintodamadrugada.org
@@ -406,7 +406,6 @@ stubenberg.de
 studentdo.org
 successgrowth.fr
 surf-bev.com
-surga55.com
 svpaulcar.es
 svyat-olga-lyublino.ru
 t45am.com
@@ -467,7 +466,6 @@ winonaradio.com
 wolf-be.com
 woodhouse-domki.pl
 worldviewweekend.com
-x2y5b.com
 xn--80aaafqbvn4a2aene0pc.xn--p1ai
 xocdia123.fun
 xxxfollow.com
@@ -478,7 +476,6 @@ ycmc.com
 yourhealthinmind.org
 zeitschrift-fuer-balkanologie.de
 zemesdraugi.lv
-zhihuimeike.com
 zien.pl
 zonedstorage.io
 zope.dev = zope

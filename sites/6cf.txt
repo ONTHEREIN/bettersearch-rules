@@ -71,7 +71,7 @@ chattlab.org
 cheerfulweather.com
 chemistscollege.com
 chengyuan01.com
-chinesedefu.com
+cheyanlun.com
 chloethomson.com
 cimac.com
 cinematictitanic.com
@@ -87,6 +87,7 @@ connectedhomecare.com
 conti-online.com
 cornerlife.uk
 countryandtownhouse.co.uk
+cpqkkj.com
 creativemusicexpress.nl
 cs-neuville.com
 cttqh.com
@@ -101,11 +102,11 @@ deerjourney.com
 dekkersmakelaars.nl
 depeppels.nl
 derhamcole.com
-derouw.nl
 desa.id
 dev-werks.com
 digitalresponsibility.org
 docelavelkedivadlo.cz
+dongfangqishun.com
 doradobetappnicaragua.com
 drymou.org
 dslk.si
@@ -121,9 +122,11 @@ elegantcosmetics.my
 endlessvideo.com
 entlastungsdienst.ch
 entp.dz
+epbest.com
 erc-hannover.de
 ericfinzi.com
 ericklinenberg.com
+escuelitabitcoin.org
 esg-landau.de
 esiwace.eu
 espaitexas.cat
@@ -161,7 +164,6 @@ fruitcocktailjuego.mx
 fundacioneliasdetejada.org
 funkyimg.com
 fyu.se
-gannanshuo.com
 garage48.org
 gattonpark.co.uk
 gccpros.com
@@ -207,7 +209,6 @@ idabelps.org
 ifqm.info
 igamingcollective.co.uk
 ignitis.lv
-imiglioricasinononaams.com
 incendiaryed.com
 innovationgames.com
 interac.co.jp
@@ -220,7 +221,6 @@ jazgym.cz
 jbpub.com
 jeanlucpriano.com
 jesc.eu
-jmpbonderdelen.nl
 joelkosche.com
 joeroman.com
 jogamp.org = java openal|java opengl|jogl
@@ -242,6 +242,7 @@ khimjipoonja.com
 kingjoyusa.com
 kobylanski.pl
 kodata.co.kr
+kolaice.com
 krwinclub88.com
 ksep.or.kr
 kshouse.jp
@@ -258,7 +259,6 @@ laoshifudiandongche.top
 laspilitas.com
 laterallink.com
 laughlab.co.uk
-lautaro-martinezar.biz
 leffcommunaute.fr
 leitner.com = leitner ag|leitner group公司|莱特纳索道|萊特納集團
 lepinecloutier.com
@@ -319,7 +319,6 @@ oaklandcounty115.com
 obecvestec.eu
 okiben.org
 olimp-casino-online-tr.com
-omfbeer.com
 omnicomgroup.com = omnicom|omnicom group|omnicom group inc|omnicom集团
 once-and-future.com
 onocastle.net
@@ -442,6 +441,7 @@ t-d-poche.com
 taoist.tv
 teamsters413.com
 tech-group.com.ua
+tfcd32.cn
 tga.gov.tr
 thebuilder.studio
 thecoffeemom.net
@@ -485,6 +485,7 @@ voyagerco.com
 vsc.edu
 vuplus.com
 wdchelsinki2012.fi
+web-toto.com
 welovepulp.info
 wgc-catholics.org.uk
 wilcoxon.com
@@ -496,4 +497,5 @@ xvlo.pl
 yamato-japan.jp
 youngwomenforchange.org
 zenpetroleum.com
+zhenkongbeng8.com
 zhijianlife.cn

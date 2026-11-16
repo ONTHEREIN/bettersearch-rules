@@ -2,7 +2,6 @@
 1024cores.net
 1599-2466.com
 1businessworld.com
-2beeg.mobi
 3kingshauling.com
 4dd.uk
 7aban.org
@@ -18,11 +17,11 @@ alekseyfedorov.ru
 alexkurtagic.info
 align.com.tw
 alisonruttan.com
+allnaturalsavings.com
 alpsee-bergwelt.de
 alvynncasino.org
 amd-research.de
 ammado.com
-ampool.fr
 amsus.org
 andorraendavant.info
 aniuta.co.jp
@@ -39,7 +38,6 @@ authorhouse.co.uk
 avanir.com
 ayuminohako-or.jp
 azcleanelections.gov
-bak-economics.com
 bali-catamarans.com
 bandim.org
 basicmedia.us
@@ -67,6 +65,7 @@ cccaasports.org
 ccetegucigalpa.org
 ccjuandiego.org
 celebrate-creativity.com
+cementech.com
 ceskehermanice.cz
 ch-villefranche-rouergue.fr
 chathamdemsnc.net
@@ -76,7 +75,6 @@ chewboom.com
 chgpu.edu.ru
 christianescuredo.com
 chuohakuzen.com
-citisumma.com
 click-vision.com
 clinipace.com
 clydebankpost.co.uk
@@ -103,10 +101,9 @@ discount-drugmart.com
 distinct.ro
 drdermonline.com
 drnazmulhuq.com
-dsoskecnias.org
-dsosminahasatengah.org
 dsrcorp.com
 dynastyquest.de
+easymew.com
 ebecri.org
 ebetsu-t.com
 ecoaccord.org
@@ -125,7 +122,6 @@ escalaeducacional.com.br
 escuelademusicadelapalma.es
 esmorzarsdeforquilla.cat
 essingen.de
-excent.eu
 ez3.uk
 fairtrendhouse.nl
 familydentistryelpasotexas.com
@@ -143,7 +139,6 @@ freemedicaljournals.com
 fundacionoteropedrayo.org
 fuwafuwanokuma.com
 fuze.com
-g2gbetvip.casino
 ganong.com
 gdekk.de
 gecareers.com
@@ -184,7 +179,6 @@ hjcr.cn
 hksjmepp.com
 hollandptc.nl
 hotelcisterna.it
-hotspotonlinenaprawdziwepieniadze.com
 huaxi100.com
 huntresskills.com
 hxdiandian.com
@@ -219,6 +213,7 @@ kiino4k.ru
 kingdom-gold.com
 kingkamventures.com
 kinkaid937.com
+kinto.xyz
 kirche-blankenburg.de
 kiwislots.nz
 kjf-werkstaetten.de
@@ -231,6 +226,7 @@ labienal.com
 lafabriqueecologique.fr
 lakewoodhealthsystem.com
 lanremalaolu.com
+lansunrrs.com
 larevue.info
 lascenelebourgneuf.com
 lastentautientutkimussaatio.fi
@@ -299,6 +295,7 @@ noripcord.com = no ripcord
 northpine.com
 notasperiodismopopular.com.ar
 notepoint.co.uk
+nowrelax.me
 nsmbl.nl
 oacb.cz
 obec-lieskovec.sk
@@ -359,6 +356,7 @@ rideapart.com
 rietlko.in
 riscotel.it
 rism.ac.th
+rmszcp.com
 robertvisoiu.ro
 rogalowemuzeum.pl
 rookiemoms.com
@@ -414,7 +412,6 @@ teatrodibudrio.it
 techuk.org
 thalazur.fr
 the-independent.com = independent|independent.co.uk|the independent|独立报|獨立報|英国独立报
-thebirdincologne.com
 thebritishacademy.org
 thecanonbury.com
 thechessstore.com
@@ -456,6 +453,7 @@ visitperalada.cat
 vitalfitlabs.id
 vitalpkofficial.com
 vonmisesinstitute-europe.org
+vpkn1.cn
 vulkanvegas50freispiele.com
 wavves.net
 weatheronline.co.uk
@@ -467,10 +465,10 @@ whitemagnoliabridal.com
 wimborst-ceramics.nl
 wjpls.org
 wjss.com.cn
-wmbggkyfc.cc
 word-detective.com
 wuchanggame.com = fallen feathers|wff|wuchang|wuchang fallen feathers|wuchang: fallen feathers|wuchang:fallen feathers|明末：淵虛之羽|明末：渊虚之羽
 wwincasino-de.de
+x1i7.cn
 xiangshu.com
 xiaoleng123.cn
 xjbs.com.cn
@@ -485,7 +483,9 @@ zak-kikinda.org
 zd.gl
 zee7nices.de
 zh-index-lol.com
+zihaiyishu.com
 zjyqjc.org.cn
 zokei.ac.jp
 zoobaq.org
 zupa-stenjevec2.hr
+zurvzhz.com

@@ -12,7 +12,6 @@ ablebits.com
 acquios.ai
 acrubin.ru
 activeterrace.com
-adaptiveoutdoorsman.com
 adelheid.ca
 adrian-ils.de
 aerodromponikve.rs
@@ -55,7 +54,6 @@ biblioteka-bochnia.pl
 bijuviswanath.com
 billycan-tenby.co.uk
 bininn.co.nz
-birdsend.co
 blascomillan.es
 bluewater.com
 bonito777.website
@@ -71,7 +69,6 @@ bridgingandcommercial.co.uk
 brillancefashiontalent.sk
 brinsonpaolini.com
 bs-t.eu
-bukagaming.com
 burwellphotography.com
 butzfoundation.org
 buurthuislydia.nl
@@ -123,6 +120,7 @@ crown3ds.com
 crunchbanglinux.org
 cso.com.kz
 customwheel.com
+cusumano.it
 cyc.com = cyc|opencyc
 dailyideas.site
 darthjadea.com
@@ -130,6 +128,7 @@ datalottohk.org
 davidamitinteatro.com
 dcrcoc.org
 dedoles.sk
+desktopreview.com
 desunhospital.com
 deutsche-alpenstrasse.de
 deutsche-pensionen.de
@@ -148,6 +147,7 @@ ec-lyon.fr = centrale lyon|centralien de lyon|ec-lyon|ecl|ecole centrale de lyon
 ecforsf.com
 ecole-francaise-bujumbura.com
 economic-policy.org
+ecstasy-daum-speed.site
 editionsheliotrope.com
 editionslatribu.fr
 elektrum.ee
@@ -155,7 +155,6 @@ elgrafico.mx
 elserike.nl
 empireabrasives.com
 entrearchitect.com
-equipment-statt-power.de
 ergolutions.de
 esc-plus.com
 eugeniotorre.it
@@ -166,6 +165,7 @@ exchangemagazine.com
 fanzara.es
 fbin.com
 febus-optics.com
+fgauthierreining.com
 fitbodybootcamp.com
 flowonhouse.co.uk
 flowplayer.org
@@ -218,7 +218,6 @@ ides-inc.com
 iemlabs.com
 ieslasgalletas.org
 igeo.pt
-iji9k7.shop
 incomeaccess.com
 indiatoday.in = india today|india today fact check|indiatoday.in|今日印度|印度今日
 innotek.de
@@ -227,7 +226,6 @@ itlearning-bg.com
 jaktak.cz
 jameskennedy.com
 jchexpress.com
-jinxitrade.com
 jjyosh.com
 jkcvhl.com
 johli.com
@@ -257,8 +255,8 @@ lejourguinee.com
 lemmymovie.com
 leplaisirdapprendre.com
 lindapeaches.com
-line382.com
 linkmee.nl
+livinnx21.com
 llanddoged-maenan.org.uk
 lola-jackuk.uk
 magnoliahouseinn.com
@@ -328,7 +326,6 @@ paycor.com
 paziresh24.com
 pcgeshi.com
 petrofac.com = petrofac|派特法
-pilotprojectbrewing.com
 pinfangw.com
 piotrlukaszewski.pl
 playdeb.net
@@ -338,7 +335,6 @@ polarr.co
 pomfret.org
 popcorntime.app = popcorn time|爆米花時光
 potok.ua
-ppgoob2.mom
 primariacotusca.ro
 primariapancesti.ro
 projectliberty.org
@@ -347,6 +343,7 @@ pwtw.pl
 questtactics.de
 radioamerica.hn
 radiohartlepool.co.uk
+rbvuvb.com
 reach-iraq.org
 readingrumi.com
 recambioscoches.es
@@ -357,6 +354,7 @@ renew.de
 resynthgame.com
 revolvegame.com
 rezidencejicinska.cz
+rkmtfsy.cn
 rm.it
 rmfc.hu
 rochelleterman.com
@@ -377,12 +375,10 @@ sistersofstannewimbledon.org.uk
 skreconskyzabak.cz
 skyscrapernews.com
 slamitpinball.com
-slotsmarketreport.co.uk
 smrv-journal.com
 snee.org
 snowmobile.com
 soobakc.com
-sottovocebrooklyn.com
 spatio.jp
 spd-kulmbach.de
 spec-india.com
@@ -429,6 +425,7 @@ tvo.fi
 uberrunter.ch
 ugovirtual.com
 ukrkarta.ua
+univiseu.pt
 usemonarc.com
 utler.no
 vbf.no
@@ -453,6 +450,7 @@ wildtokyo.it
 wiseleed.cn
 worldbycharlie.com
 worldnettoday.co.uk
+wpyears.com
 writinguniverse.com
 wtmelon.com
 xjbet.website
@@ -460,6 +458,7 @@ xlpack.nl
 xn--48-6kca8bec2aic7b.xn--p1ai
 yacht-top.com
 yaoyangly.com
+yielddesk.co
 yingbitou.cn
 yokohama-kanazawakanko.com
 youronlineroots.com

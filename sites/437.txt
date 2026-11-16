@@ -1,5 +1,4 @@
 10jinja.tokyo
-120fast.com
 1848.nl
 33windy.com
 365days.ru
@@ -72,7 +71,6 @@ britcasinoguide.uk
 britprizenetwork.uk
 britslothouse.uk
 buecherei-stelle.de
-businessplans.africa
 carbeau.ca
 casinonovaflow.us
 cassiefindlay.com
@@ -81,7 +79,6 @@ cdl.com.br
 cellularnews.com
 cg58.fr
 chat-mag-bingo.co.uk
-chateauarlens.com
 chaussure-nike-pas-cher.fr
 chevreulblancarde.com
 chickenroadspiel.com.de
@@ -114,7 +111,6 @@ douglas-budget.com
 dugaldmb.ca
 dupephotos.com
 ecuabet.cc
-eishockeywmwetten.com
 eliteesportszone.us
 epcgroup.net
 epru.org
@@ -177,7 +173,6 @@ hndayz.cn
 hogwa.com.au
 hokennomadoguchi.com
 hoolala.co.kr
-hoster.solutions
 hudsonboatworks.com
 hyperagent.com
 i-hitclub.fun
@@ -203,15 +198,16 @@ jdxracing.com
 jennahaze.com
 jimpryor.net
 journeyvipvans.com
-jxywl6.com
 jzyofa.com
 kaneellis.com.au
 kanes.cymru
 kansil.jp
 kathapollitt.blogspot.com
 kentonhoward.com
+kinghowon.com
 kiz.ru
 kobelcocm-global.com
+kochkorata.kg
 kokkikartano.fi
 kpphysiciancareers.org
 lamantaylaraya.org
@@ -319,6 +315,7 @@ portobello.com.br
 poznatsvet.cz
 predin.cz
 premayin.com
+premium.bg
 presidentialprayerteam.org
 prmstowarzyszenie.org
 pro-linuxpl.com
@@ -350,7 +347,6 @@ santacole.com
 sarahedonaldson.com
 sazka-hry-casino.cz
 scneuhaus.de
-scookievent.com.co
 sdcverifier.com
 secondpreschattanooga.org
 seemless.link
@@ -360,6 +356,7 @@ sfidapershqiperine.com
 sfmission.com
 sharonrobinsonmusic.com
 sharpschool.com
+shoppriceless.com
 silkandsonder.com
 sitkol.pl
 slotlairs.co.nl
@@ -413,7 +410,9 @@ tubasket.sk
 tuckeverlastingfarms.com
 tveitasenter.no
 twincasino.org
+typisch-lidl.ch
 tzarsimeon.bg
+u27age.cn
 ucar.edu = weather research and forecasting model|天气研究和预报模式
 uhmob.eu
 ukkbet.website
@@ -436,6 +435,7 @@ vonbrauchitsch-fotografie.de
 wattis.org
 webeconomy.co.kr
 welovewords.com
+wenzhoulianhaibag.com
 westmeathcoco.ie
 whckuban.ru
 wmich.edu
@@ -448,6 +448,8 @@ wwleam.com
 wzmz.org.cn
 xerath.net
 y7p7m8x9.com
+yangdany.com
+yghoiz.com
 ylutagproductpromotion.shop
 yukinumata.com
 zamilindustrial.com

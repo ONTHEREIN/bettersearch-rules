@@ -1,7 +1,6 @@
 1winaz777.com
 21degrees.com
 315.com.cn
-365casino-affiliate-programs.com
 50canale.tv
 aaravindha.com
 aaronnieh.com
@@ -94,7 +93,6 @@ climatefiles.com
 club-upset.com
 clubexpress.com
 clubofthree.org
-cluc.cat
 cobot.me
 cobrapost.com = cobrapost
 coess.org
@@ -170,9 +168,7 @@ gavi.org = 2019冠状病毒病疫苗实施计划|covax|covax facility|covax glob
 gedankeupdate.de
 geelectromedico.com
 genus.se
-ghf.gl
 giallozafferano.it
-glab.kr
 grandeastbourne.com
 guillermopfaff.wordpress.com
 hatebase.org
@@ -252,8 +248,8 @@ linearb.io
 linuxquestions.org = linuxquestions.org
 lisacouwenbergh.nl
 litvinoffdance.ua
-llmonitor.com
 loanfactory.com
+lucapierleoni.it
 luretaametshistorian.eus
 luxexpose.com
 mackenziehoran.com

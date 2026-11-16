@@ -34,12 +34,12 @@ appveyor.com = appveyor
 aquawater.com
 arabeunido.com
 arar.it
+arza2.com
 asphan.fr
 asst-crema.it
 assupol.co.za
 astronaut.io
 audiojunkies.com
-audiosolutions.pk
 auroralittleones.ca
 autohotkey.com = ahk|auto hot key|auto hotkey|autohotkey
 ayuntamientodeledesma.com
@@ -53,6 +53,7 @@ bandierearancioni.it
 basirat.ir
 baxendale.co.uk
 bbm.de
+bcatoday.org
 beersel.be
 behprozoo.cz
 belgianbeerboard.com
@@ -86,6 +87,7 @@ calpro.no
 cambiare-rotta.org
 campus-savona.it
 carineroitfeld.com
+carlospinat.com
 carnetexpress.fr
 carsontueller.com
 cbsdrijber.nl
@@ -117,7 +119,6 @@ crownpress.co.uk
 dailysanin.com
 damcom.com.br
 damian.ru
-dangeloandsons.com
 dannysteve.fr
 davehaasmusic.com
 davidalangrier.net
@@ -131,7 +132,6 @@ deripaska.com
 dimmath.com
 dn42.dev
 dreadlocks.cz
-dsoskotasukabumi.org
 dubaiairports.ae
 ducdeslombards.com
 dunarit.com
@@ -170,7 +170,6 @@ gerstenfield.com
 gervelislaw.com
 getparentalcontrols.org
 giannidalerta.com
-gibusclub.fr
 gkd.edu.cn
 glfb-vglb.be
 glinicke.de
@@ -260,6 +259,7 @@ leveluplabhouse.com
 lighthouseartscentre.ca
 limpa.ru
 lindafredrikssonmusic.com
+logo.samandehi.ir
 lolly-spins-casino.net
 lostseagame.com
 ltsp.edu
@@ -323,6 +323,7 @@ osakaben.or.jp
 oslobachkor.no
 outletstoreonlineshopping.us
 paarshuis.nl
+paradisespringswinery.com
 paroissesperchesud.fr
 pedrazadecampos.es
 pharmacyreth.com
@@ -337,7 +338,6 @@ powered-by-mom.com
 pragerzeitung.cz
 prepaidsimkaarten.nl
 proteusthemes.com
-pswoleads.nl
 radiopetrov.com
 rafaelian.com
 raspap.com
@@ -365,6 +365,7 @@ sebastienconard.be
 securitylab.ru
 selectbaseballteams.com
 seo-fast.ru
+seocrib.com
 sfr.fr
 sgwallauonline.de
 sheffield.sch.uk
@@ -440,6 +441,7 @@ underware.nl
 venenliga.de
 victor-hugo.org
 videochatforum.ro
+visitorebro.se
 vistasolutions.us
 vividbusinessagency.nl
 vme.no

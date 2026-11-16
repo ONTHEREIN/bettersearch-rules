@@ -9,6 +9,7 @@
 7mmon3ss.com
 a-musik.com
 abbavoyage.com = abba voyage
+activeandfitdirect.com
 acutepeturgentcare.com
 aelf1er-lehavre.fr
 aevac.org
@@ -84,7 +85,6 @@ chinkan.jp
 chocomuseo.com
 christianhoerl.com
 cinando.com
-cincominutos.org
 cinecolorfilms.com
 cinefabrique.fr
 cityofsabinal.org
@@ -131,6 +131,7 @@ elgallito.com
 ellsworthcountykansashistory.org
 elveflow.com
 emg.hu
+empresaplana.cat
 encoreungateau.com
 engelsbergideas.com
 enterprisemonkey.com.au
@@ -150,6 +151,7 @@ fieldofscreams.com
 filmmakinesi.sh
 finalrentals.com
 fineassgirls.com
+fktzjy.com
 flipping.rocks
 florencebourget.com
 flowonslots.co.uk
@@ -187,7 +189,6 @@ henschel-schauspiel.de
 hkcert.org
 hokislot88cp.top
 holstenschule.de
-hot-bet-at.com
 hotel-absheron.com
 huffnpuffsllot-france.fr
 huihuxicom.com
@@ -284,7 +285,6 @@ microsandbox.dev
 mikkeller.com
 min-cultura.pt
 minkblau.com
-mitrratogel.net
 mmtm.net
 mogosesti-primaria.ro
 moorecoinc.com
@@ -299,6 +299,7 @@ nevisnews.com
 next2ch.net
 nextindiatimes.com
 njmuseum.com
+njrnzs.com
 njsportswriters.org
 nofirezone.org
 nomurakougei.co.jp
@@ -334,6 +335,7 @@ pinco.systems
 pinrepair.com
 pltenergia.it
 poker-bitcoin-de.de
+poker88plus.com
 polinya.cat
 polskaparafia.org
 polydaylondon.uk
@@ -366,9 +368,7 @@ ripplefoods.com
 rmpbs.org
 rockcenternbc.com
 royalinstituteofpaintersinwatercolours.org
-rphl.io
 rqac.com.au
-rrjvdw.com
 rtwilson.com
 rubyhall.com
 ruralhistory.at
@@ -377,7 +377,6 @@ salinacity.org
 sallandslandbier.nl
 salon1999.com
 sammykershaw.com
-sbobet88.cx
 schiestlhaus.at
 schultesfrankarchitekten.de
 scottarboretum.org
@@ -385,7 +384,6 @@ seance.ru
 sebrov-katerina.cz
 seda.org
 servilloart.com
-sexysonal.com
 shalomsuriname.com
 shichida.co.jp
 shitdhebli.com
@@ -405,6 +403,7 @@ sphb.re
 spielbudenplatz.eu
 spingranny-casino24.com
 sportkreis-mos.de
+spravka.ua
 spy.ne.jp
 spykidsmovie.net
 staffelstein.de
@@ -413,7 +412,6 @@ stenbackeskolan.se
 sti-group.com
 stonejackpotsolution.it
 stonesoup.com
-stream2watch.cc
 stteilos-olol.co.uk
 sursumcorda.it
 sustainablecommodities.eu
@@ -424,7 +422,6 @@ tancoholdings.com
 tarbagatay.ru
 teatrearta.cat
 teatrinoclandestino.org
-techally.io
 tesovo4adm.ru
 testkingit.com
 text-generator.io
@@ -455,6 +452,7 @@ voerwijzer.com
 volden.no
 volkswagenag.com = volkswagen|volkswagen ag|volkswagen aktiengesellschaft|volkswagen group|vw ag|大众汽车股份公司|大众股份公司|大众集团|大眾集團|福士伟根|福士集團|福斯集團
 vpnuthavi.me
+vqppdj.com
 w3perl.com = w3perl
 watari-edu.jp
 watir.com = watin|watir
@@ -471,7 +469,9 @@ wsiworld.com
 xiongzhuafishing.com
 xn--58-dlcho7bap5k.xn--p1ai
 xn--glcksmomente24-hsb.at
+xn--nadelhrle-47a.de
 xzbl.gov.cn
+yae888.com
 yanakazuo.net
 yaojuichung.com
 yelp.co.jp

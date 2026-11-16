@@ -67,7 +67,6 @@ bjyyme.xyz
 blackwatervalleyoperafestival.com
 blagulabilen.se
 bld.com.my
-bluewater.org
 botranrums.com
 brw108.com
 buglas.de
@@ -89,7 +88,6 @@ cemu.info = cemu
 centretownchc.org
 cesvasf.com.br
 chagrinfilmfest.org
-chartle.com
 chateau.co.nz
 christinespiten.com
 christophstocker.com
@@ -119,9 +117,7 @@ damixa.se
 davbathinda.com
 deborgh-hgl.nl
 deltapsu.com = delta|delta electronics|delta electronics, inc.|台達電|台達電子|台達電子工業|达电子
-devis-msk.ru
 diana-paxson.com
-diaocthongthai.com
 digiworlds.org
 discoverphl.com
 discoverytowerhouston.com
@@ -159,6 +155,7 @@ fdcommercial.co.uk
 fearlessleague.com
 fiatstilo.com
 finning.de
+flow.team
 flytjenesten.net
 fondazionecorazzin.it
 fondodelsol.org
@@ -185,6 +182,7 @@ gfpp.fr
 gies-kerzen.de
 giesswein.com
 giveaday.be
+givvnchat.com
 globis.jp
 goldenunicornrestaurant.com
 greatwincasino-pl.pl
@@ -276,6 +274,7 @@ literasinusantara.com
 liverpoolarms.co.uk
 londonvaultcenter.uk
 londresmag.com
+lucabet168.online
 luckcasinos-unitedkingdom.uk
 luckypays-casino-uk.net
 luongson161.tv
@@ -304,7 +303,6 @@ mostbetcasinoonline-cz.com
 motoclubmanresa.com
 mr-mega-casino-uk.com
 mrprice.ie
-multimeta.com
 musubujinja.jp
 mutualofomaha.com
 muyseguridad.net
@@ -329,7 +327,7 @@ officialdogma.com
 oldenburger-onlinezeitung.de
 onikon.com
 onstandup.ru
-opengl.org = glsl|glslang|glut|opengl shading language|opengl utility toolkit
+opengl.org = glsl|glslang|glut|ogl|open gl|open graphics library|opengl|opengl shading language|opengl utility toolkit|开放图形库|開放圖形庫|開放式圖形庫
 optixarena.co.uk
 orkelljunga.se
 osakagasusa.com
@@ -357,6 +355,7 @@ progressiveparty.co.nz
 prokatavtomobil.by
 proteomexchange.org
 pulpinternational.com
+qhwmail.com
 quadcities.com
 quarterup.co.uk
 queenstownairport.co.nz
@@ -375,6 +374,7 @@ retatrutide-uk.co.uk
 richardtexier.com
 ringbell.co.uk
 ritualdynamik.de
+s094.com
 sage-growth.com
 saint-martin-valmeroux.fr
 salonduvintage.com
@@ -390,7 +390,9 @@ seen.de
 seminariodimantova.it
 seoking.top
 seri.de
+sevudbilx.cc
 sfeirlab.com
+shakori.co
 shapeofharmony.com
 sherborneqatarprep.org
 shopnex.nl
@@ -403,7 +405,6 @@ sirmspa.com
 skorstensfejare.se
 slingo-game.es
 smartbethub.nl
-sohtvt.com
 somlalit.org
 soulpattinson.com.au
 soundmindinvesting.com
@@ -428,7 +429,6 @@ superdelnorte.com.mx
 surmet.com
 sushiizu.com.au
 tagesschau24.de
-talkspeaker.net
 tandemnederasselt.nl
 techprincess.it
 tedxseeds.org
@@ -473,6 +473,7 @@ vistapathspace.it
 vit.edu
 vorwaerts.ch
 vpah.de
+vqltsb.cn
 waca.or.jp
 wadgassen.de
 waldgaststaette-weinbiethaus.de
@@ -482,15 +483,16 @@ webascender.com
 welwynarchaeologicalsociety.wordpress.com
 wereport.fr
 whatsgaming.net
+wheelz-casino-ca.ca
 woobx.cn
 worldcargonews.com
 wyeradio.com
 xiandaimuye.com
+ya19m.cn
 yl.fi
 ynlib.cn
 yywgj.com
 zamekczerna.pl
 zee7saves.shop
 ziegfeldballroom.com
-znaci.org
 zolotoisofit.ru

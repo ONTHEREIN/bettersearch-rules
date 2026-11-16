@@ -18,6 +18,7 @@ alenahron.cz
 allcontributors.org
 allegacy.org
 alphapalace329.com
+altitudetickets.com
 ameghiniana.org.ar
 amerdingen.de
 andreamunaro.github.io
@@ -45,7 +46,6 @@ bebop-festival.com
 belniilit.by
 bertelsmann.com = bertelsmann|bertelsmann ag|博德曼|貝塔斯曼|贝塔斯曼|贝塔斯曼基金会|贝塔斯曼集团
 best4u.top
-betflix2day.com
 beweggrund.org
 bfhistorical.org
 billquayfarm.org.uk
@@ -84,7 +84,6 @@ cinemas-lumiere.com
 cinematerna.org.br
 citics.com
 cityofmillvalley.org
-cjdentalcalifornia.online
 cla-net.org
 cleobetracasinoo.ca
 clubedoautor.pt
@@ -105,6 +104,7 @@ dali-gallery.com
 damarislewis.com
 davidakenny.net
 dawncareerinstitute.edu
+daxinyt.com
 db-eco.com
 dbvtechnology.com
 dclv.fr
@@ -113,6 +113,7 @@ degem.de
 dehradunnyt.in
 denislobkov.ru
 derevyannye-lyustry.ru
+designsolutions.pl
 desprenger-echternach.lu
 detottekantedeforsamlingshus.dk
 deutsche-glasfaser.de
@@ -152,7 +153,6 @@ evolyutsiya-finansov.ru
 excogigirls.com
 eyepoint.bio
 faxekirke.dk
-fcgsen.ru
 febnet.org.br
 felistella.co.jp
 festivalcineeuropeo.cl
@@ -162,7 +162,6 @@ finvygo.com
 fishtv.com
 fisp.org
 fjellstrand.no
-fjlbjc.com
 flightradar24.com = flightradar|flightradar24|flightradar24.com|fr24|全球航班雷达|飛行雷達24
 flolikethis.com
 floodbase.com
@@ -189,6 +188,7 @@ gloriosa-bloemen.nl
 gnomiartas.gr
 goken-global.com
 goldriverchallenger.com
+goomiacademy.com
 greenbayblizzard.com
 greenleafown.tv
 groupe-provalliance.com
@@ -241,6 +241,7 @@ jonathanwhiting.com
 jordanembassy.gr
 josephbrunet.fr
 journalofpoliticalscience.com
+jrspjs.com
 jswwl.com
 kaqun.sk
 karinarad.com
@@ -389,7 +390,6 @@ rg168.tw
 richardhorvitz.com
 rifugiolecave.it
 robertkruzik.cz
-rollingtogo.com
 ronlevinephotography.com
 rotuworld.com
 rowndprecision.com
@@ -408,6 +408,7 @@ scmplima.pt
 scottbot.github.io
 scottdalelibrary.com
 scottishsquash.org
+sejnet.com
 seomatic.ai
 sernapesca.cl
 sfg-schwenningen.de
@@ -449,6 +450,7 @@ tomblewis.com
 toro-restaurant.com
 townofbrookneal.com
 trinity-mp.org
+trip-kruglyye-t-me-btc.ru
 tweemaster.nl
 twr.org
 tylekeo.lol
@@ -487,5 +489,4 @@ yvbonnierviger.com
 zaq.jp
 zeelandia.nl
 zhiding.cn
-zhmvip.com
 zombiegirlthemovie.com

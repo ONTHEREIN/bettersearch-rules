@@ -1,7 +1,5 @@
 123telugu.com
 163yun.com
-1enrollment.com
-21analytics.ch
 4dpaito.com
 52-runs.com
 6106li.cn
@@ -100,7 +98,6 @@ covid19-christmas.com
 craftpulse.au
 creditcounsellingcanada.ca
 crisispregnancycentermap.com
-crossroadsrv.com
 cside21.com
 cukurovaarastirmalari.com
 cvrcnm.com
@@ -117,6 +114,7 @@ dobrenice.cz
 dolci-architectes.ch
 dr-doerr.de
 drjazzmusic.com
+drsavard.com
 dualcitizeninc.com
 duchyofcornwall.org
 dvlt.ai
@@ -220,10 +218,11 @@ johncanemaker.com
 johneverson.com
 johnjunior.ro
 jonatanbohrbrask.dk
-jtb.co.jp
+jtb.co.jp = japan travel bureau|jtb|jtb corporation
 juliopreciado.mx
 jupiterrisingmusic.net
 jvfg-cham.de
+jxgzez.com
 jztxl.cn
 kamibakocube.com
 kartodromofasano.it
@@ -276,7 +275,6 @@ meritking-gunceladresin.icu
 metaclassofnil.com
 mexicanpharm.store
 miamisprings-fl.gov
-mientrungtaynguyen.vn
 mikedumbleton.com.au
 mineharmony.cc
 miyamanavi.net
@@ -330,6 +328,7 @@ opusofanangel.com
 osaka-daiichi-hosp.org
 oureagame.com
 ozarkscancerresearch.org
+pacifiko.com
 parafia-wieprz.pl
 parisot-tarn.fr
 parnelliawards.com
@@ -343,6 +342,8 @@ pittsfoundation.org
 placedesignfocus.nl
 planninghistory.org
 platinums-slot.com
+plumeria-viersen.de
+plzhengtai.com
 police-supplies.co.uk
 polsri.ac.id
 ponoc.jp
@@ -350,6 +351,7 @@ ppgun.com
 ppt.or.jp
 princewilliamvirginiaduilawyer.com
 pushpaclubgame.games
+qtsjc.com
 queue-pro.com
 rabanne.com
 radioislam.org.za
@@ -373,6 +375,7 @@ ronald-hertog.nl
 rqzbssxdz.cn
 rr88.center
 rsc-linden.de
+rtmkj.cn
 rudolf-wissell-grundschule.de
 rueibinchen.com
 saimaastadiumi.fi
@@ -406,6 +409,7 @@ smile.io
 soderenergi.se
 sofukuji.net
 sogotaxi.co.jp
+solamedia.org
 solana.org
 solarww.nl
 somogyszil.blogspot.com
@@ -432,6 +436,7 @@ techwelike.fun
 telarc.com
 terryburrus.com
 testingxperts.com
+tesye.cn
 texarkanabowl.com
 theatre-thouars.com
 thebestshop.ca
@@ -457,6 +462,7 @@ ukbets.org
 ultrahighrollerclub.com
 upantool.com
 usea2.net
+va88.cash
 valleyclothes.com
 vcolemanmusic.com
 vebozba.cc
@@ -490,9 +496,10 @@ worleygig.com
 x8.energy
 xj0760.xyz
 xn--pohjoiskylt-u8a.fi
+yb62pc.cn
 yokokanno.ch
 yookyoung.org
 yourchoicecaregivers.com
 yourdiyfamily.com
 yunxiakeji.com
-yxet-cn.com
+zzeldl.com

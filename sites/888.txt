@@ -27,6 +27,7 @@ amiabogados.com.ar
 andst.info
 angkorbutterfly.com
 annie-burrows.co.uk
+anthonygeisler.com
 antiguafootball.com
 antje-rommelspacher.de
 archwitchgames.com
@@ -54,7 +55,7 @@ biko24.com
 birsenaltuntas.com
 bkzx.com.cn
 blackwomentalktech.com
-bloomberg.com = bloomberg|bloomberg businessweek|bloomberg l.p.|bloomberg markets|bloomberg news|bloomberg television|bloomberg terminal|bloomberg tv|business week|businessweek|商业周刊|商業周刊|彭博|彭博商业周刊|彭博商業周刊|彭博新聞|彭博新聞社|彭博新闻|彭博新闻社|彭博有限合伙企业|彭博有限合夥企業|彭博电视|彭博社|彭博終端|彭博终端|彭博電視
+bloomberg.com = bloomberg|bloomberg businessweek|bloomberg l.p.|bloomberg markets|bloomberg news|bloomberg television|bloomberg tv|business week|businessweek|商业周刊|商業周刊|彭博|彭博商业周刊|彭博商業周刊|彭博新聞|彭博新聞社|彭博新闻|彭博新闻社|彭博有限合伙企业|彭博有限合夥企業|彭博电视|彭博社|彭博電視
 bluemanhoop.com
 bostonironsides.org
 bravis.nl
@@ -81,7 +82,6 @@ ccbcu.edu
 cdc-benybocage.fr
 cebelcor.org
 ceipadeje.com
-centralconsultinggroup.com
 cesm.com.cn
 ceuma.br
 charlottesville.gov
@@ -122,7 +122,6 @@ doublemoon.de
 dragoniacasino.ch
 duch.com
 duel-pl.com
-dulceninaatc.com
 e-tudomany.hu
 ectaco.co.uk
 edmylett.com
@@ -165,7 +164,6 @@ gatlinburgchurchofchrist.org
 gcdharampur.com
 georgia-archaeology.org
 gepomay.fr
-gesecurity.com
 gfos.com
 glencoveny.gov
 gmanz.com
@@ -175,6 +173,7 @@ goobr.asia
 goodthing.cz
 grandviewc4.net
 grangerhs.com
+greatbearpark.com
 greenfuturebox.co.uk
 greenwichlibrary.org
 grossstadtengel.de
@@ -202,13 +201,13 @@ icpn.hr
 ietf.org = asf|atom|atom syndication format|ietf|internet engineering task force|互联网工程任务组|互联网工程工作小组|互聯網工程任務組|原子聯合格式|網際網路工程任務組|網際網路工程工作小組
 ijevangroup.am
 immigrationtounitedstates.org
+immunologic.org
 indiartscollective.com
 instantlychristmas.com
 ipmall.info
 ironmouse.com
 iscreenapp.com
 ismartkids.vn
-iwin5.app
 izhgsha.ru
 japan2daydietlingzhi.com
 jeffburningham.com
@@ -234,10 +233,8 @@ kayakstarvedrock.com
 kayalapublishing.com
 kbbreview.com
 keatonapplebaum.com
-keralapareekshabhavan.in
 kfaks.de
 kinderarzt-in-goettingen.de
-kingswood.co.uk
 knucklesandwich.biz
 kongsbergautomotive.com
 kontornewmedia.com
@@ -346,8 +343,8 @@ pavlina-tcherneva.net
 photo-studio9.com
 pietstockmans.com
 playboyclub.com
+playojocasino-de.de
 playshift-games.com
-plx-4720.com
 podfeed.net
 polarzauber.ch
 portalmorada.com.br
@@ -403,7 +400,7 @@ sparcc.org
 sportsengineplay.com
 springe.de
 stageview.co.uk
-starwars.com = 1977 star wars|a new hope|angry birds star wars|kinect star wars|kinect 星際大戰|kinect星球大战|knights of the old republic|kotor|lego star wars: skywalker saga|lego star wars: tcs|lego star wars: the complete saga|lego star wars: the skywalker saga|lego star wars: tss|lego star wars：天行者傳奇|lego sw: tcs|lego sw: the complete saga|lsw: tss|mandalorian & grogu|skeleton crew|star wars|star wars - the force unleashed|star wars databank|star wars episode i|star wars episode i - the phantom menace|star wars the force unleashed|star wars the force unleashed 2|star wars the force unleashed ii|star wars: a new hope|star wars: episode iv|star wars: episode iv a new hope|star wars: episode iv – a new hope|star wars: episode iv: a new hope|star wars: episode viii – the last jedi|star wars: galactic battlegrounds|star wars: knights of the old republic|star wars: kotor|star wars: skeleton crew|star wars: the force unleashed|star wars: the force unleashed 2|star wars: the force unleashed ii|star wars: the mandalorian and grogu|star wars: tiny death star|star wars：最後的絕地武士|sw: knights of the old republic|sw: kotor|the mandalorian & grogu|the mandalorian and grogu|the phantom menace|乐高星球大战：天行者传奇|乐高星球大战：完整的传奇|原力釋放|塔斯肯人|塔斯肯袭击者|塔斯肯襲擊者|憤怒的小鳥星球大戰版|星战|星球大战|星球大战ii：克隆人的进攻|星球大战i：幽灵的威胁|星球大战i：魅影危机|星球大战vi：绝地归来|星球大战v：帝国反击战|星球大战：原力释放|星球大战：旧共和国武士|星球大戰|星球大戰前傳i|星球大戰前傳ii：複製人侵略|星球大戰前傳：魅影危機|星球大戰資料庫|星球大戰首部曲：鬼魅危機|星球大戰：原力釋放|星球大戰：原力釋放 ii|星球大戰：帝國反擊戰|星球大戰：新的希望|星球大戰：最後絕地武士|星球大戰：武士復仇|星球大戰：舊共和國武士|星球大戰：銀河戰場|星球大戰：骷髏兵團|星际大战：旧共和国武士|星際大戰|星際大戰: 帝國戰場|星際大戰二部曲：複製人全面進攻|星際大戰五部曲：帝國大反擊|星際大戰六部曲：絕地大反攻|星際大戰四部曲：曙光乍現|星際大戰首部曲:威脅潛伏|星際大戰首部曲：威脅潛伏|星際大戰：原力對決|星際大戰：原力釋放|星際大戰：帝國戰場|星際大戰：舊共和國武士|星際大戰：銀河戰場|星際大戰：骨幹兵團|星際大戰：骨幹小隊|曼達洛人與古古|樂高星球大戰：天行者傳奇|樂高星際大戰:天行者傳奇|樂高星際大戰：the complete saga|樂高星際大戰：天行者傳奇
+starwars.com = a new hope|angry birds star wars|kinect star wars|kinect 星際大戰|kinect星球大战|knights of the old republic|kotor|lego star wars: skywalker saga|lego star wars: tcs|lego star wars: the complete saga|lego star wars: the skywalker saga|lego star wars: tss|lego star wars：天行者傳奇|lego sw: tcs|lego sw: the complete saga|lsw: tss|mandalorian & grogu|skeleton crew|star wars|star wars - the force unleashed|star wars databank|star wars episode i|star wars episode i - the phantom menace|star wars iv|star wars the force unleashed|star wars the force unleashed 2|star wars the force unleashed ii|star wars: a new hope|star wars: episode iv|star wars: episode iv a new hope|star wars: episode iv – a new hope|star wars: episode iv: a new hope|star wars: episode viii – the last jedi|star wars: galactic battlegrounds|star wars: knights of the old republic|star wars: kotor|star wars: skeleton crew|star wars: the force unleashed|star wars: the force unleashed 2|star wars: the force unleashed ii|star wars: the mandalorian and grogu|star wars: tiny death star|star wars：最後的絕地武士|sw: knights of the old republic|sw: kotor|the mandalorian & grogu|the mandalorian and grogu|the phantom menace|乐高星球大战：天行者传奇|乐高星球大战：完整的传奇|原力釋放|塔斯肯人|塔斯肯袭击者|塔斯肯襲擊者|憤怒的小鳥星球大戰版|星战|星球大战|星球大战ii：克隆人的进攻|星球大战i：幽灵的威胁|星球大战i：魅影危机|星球大战vi：绝地归来|星球大战v：帝国反击战|星球大战：原力释放|星球大战：旧共和国武士|星球大戰|星球大戰前傳i|星球大戰前傳ii：複製人侵略|星球大戰前傳：魅影危機|星球大戰資料庫|星球大戰首部曲：鬼魅危機|星球大戰：原力釋放|星球大戰：原力釋放 ii|星球大戰：帝國反擊戰|星球大戰：新的希望|星球大戰：最後絕地武士|星球大戰：武士復仇|星球大戰：舊共和國武士|星球大戰：銀河戰場|星球大戰：骷髏兵團|星际大战：旧共和国武士|星際大戰|星際大戰: 帝國戰場|星際大戰二部曲：複製人全面進攻|星際大戰五部曲：帝國大反擊|星際大戰六部曲：絕地大反攻|星際大戰四部曲：曙光乍現|星際大戰首部曲:威脅潛伏|星際大戰首部曲：威脅潛伏|星際大戰：原力對決|星際大戰：原力釋放|星際大戰：帝國戰場|星際大戰：舊共和國武士|星際大戰：銀河戰場|星際大戰：骨幹兵團|星際大戰：骨幹小隊|曼達洛人與古古|樂高星球大戰：天行者傳奇|樂高星際大戰:天行者傳奇|樂高星際大戰：the complete saga|樂高星際大戰：天行者傳奇
 statetheatre.info
 stephenrussellvoice.com
 stormhubhq.com
@@ -419,6 +416,7 @@ sustainablerice.org
 sverok.net
 svetikliment.com
 tabaccai.it
+tacticoneseopro.com
 taqueriaelgallorosa.com
 taupont.fr
 techedt.com
@@ -469,7 +467,6 @@ vmzvrn.ru
 volejbal-ostrava.cz
 voltexlights.com
 walstad.biz
-wdwczx.com
 weismain.de
 welfareinfo.org
 wesleyallison.com
@@ -481,7 +478,6 @@ wiskonenergy.com
 wmconnolley.org.uk
 wolfskin.ws
 worcestermusicfestival.co.uk
-wpt.co.in
 xn--90aevhf.xn--p1ai
 xn--baw-joa.social
 xn--eebamk3bedg.com

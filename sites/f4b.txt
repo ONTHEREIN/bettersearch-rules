@@ -7,7 +7,6 @@
 321talk.com
 515alive.com
 6855.website
-93cky.com
 abahouse.co.jp
 abebe-next.com
 achs.edu
@@ -21,7 +20,6 @@ agentekit.digital
 ak-creative.ru
 alderslystkirke.dk
 alimapure.com
-alltogethernow.ie
 americanoffroads.com
 angelarasmussen.org
 animationhalloffame.org
@@ -51,6 +49,7 @@ brue-auriac.fr
 bryankeiththomas.com
 caarrive-lefilm.com
 cadoolacesko.cz
+candivore.io
 capenews.net
 caroliendriessen.nl
 casino-royaltiger.com
@@ -86,7 +85,7 @@ cwa1839.org
 darlingtonwi.org
 datascripmall.id
 davidbercot.com
-davidoff.com
+davidoff.com = 大卫杜夫|大衛杜夫|大衞杜夫
 dayanzai.me
 dbgate.org
 dctimberwolves.at
@@ -105,7 +104,7 @@ dontevenreply.com
 dosgatitosgames.com
 dparadise.fr
 drjohnbizon.com
-dsoskabpringsewu.org
+dthyjx.com
 duckpuns.com
 duel.tech
 dyhfuiy.top
@@ -118,6 +117,7 @@ eid.gov.it
 electionz.com
 elementalrides.com
 embnamibia.at
+emhqzjgc.com
 emileewallace.com
 eos.ru
 epleny.hu
@@ -155,7 +155,9 @@ grandslotworld.com
 gtd.cl
 guggenheimarc.com
 guiomarpuerta.com
+gzjxjz.com
 hal-allergy.com
+hambasteginews.com
 hameedshahid.com
 hamiltonartsfestival.co.nz
 hamsterkombatgame.io
@@ -205,9 +207,9 @@ joanroigdiggle.com
 joel-laplane-lutherie.com
 jolleroelofs.blogspot.com
 joska.com
+jssygc.com
 judithhansonlasater.com
 jurablogs.com
-jxlhsj.com
 k2free.com
 kaitori-daikichi.jp
 kartoman.ru
@@ -255,7 +257,6 @@ mizumadera.or.jp
 mnhistoryalliance.org
 mo-zelenokumsk.ru
 mollyburkeofficial.com
-mr-bit-official.de
 mstreetnashville.com
 mugshots.com
 musee-mosaique.com
@@ -269,6 +270,7 @@ nationalsecurity.news
 nauticus.org
 necfcuganda.com
 needassignmenthelp.com
+nemoslot88.me
 netcoins.com
 neumedinc.com
 neurofitcenter.com
@@ -295,6 +297,7 @@ opcina-brela.hr
 openlims.org
 opensrs.cn
 operacijagrad.net
+opnlttr.com
 osloby.no
 otto-fi.com
 ourm.org
@@ -308,6 +311,7 @@ pddovje-mojstrana.si
 perasdorf.de
 pet-mag.com
 petersonguides.com
+pgzeed168ss.co
 ph777casino.vip
 phoenixwi.com
 pic-invest.com
@@ -331,10 +335,10 @@ proton.me = lumo|lumo ai|lumo by proton|proton|proton ag|proton drive|proton lum
 prozvezd.info
 pyhajarvenseurakunta.fi
 qh88rr.com
-qicsjfs.com
 quilliamfoundation.org
 quino.ai
 rajasthanmetals.co.in
+raphaeloliver.com
 rapidpoker598.com
 realestateskills.com
 refikanadol.com
@@ -360,6 +364,7 @@ schussboombrewing.com
 schwaigen.de
 seoadvicer.ru
 sergioricooficial.com
+serkle.me
 sheep.horse
 shikoku-aquarium.jp
 shkp-icc.com
@@ -447,6 +452,7 @@ x88.social
 xlabsoft.com
 xn--balkessimitbckerei-wtb.de
 xt-pcb.com
+y6k5ri.cn
 yailinrd.com
 ygtour.kr
 ynnh.gov.cn
@@ -454,4 +460,5 @@ yui-rail.co.jp
 zee61twos.de
 zeeska.cz
 zeetelevision.com
+zhonghongjucai.cn
 zoomtorino.it

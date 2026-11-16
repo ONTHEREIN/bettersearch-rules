@@ -1,6 +1,5 @@
 222wincom.com.br
 3-sci.com
-51nawei.com
 aarhuskortet.dk
 abigcandycasino-au1.com
 adammathes.com
@@ -8,7 +7,6 @@ aftral.com
 agni-age.net
 aimarketingugynokseg.hu
 aincolorado.org
-al-iletaitunefois.fr
 als-delmenhorst.de
 amazon.com = alexa amazon|alexa bot|amazon|amazon alexa|amazon alexa app|amazon app store|amazon appstore|amazon aurora|amazon bedrock|amazon documentdb|amazon dynamodb|amazon echo|amazon elasticache|amazon fba|amazon fbm|amazon fire os|amazon fire tv stick|amazon fireos|amazon firestick|amazon fresh|amazon glacier|amazon kindle|amazon kindle product line|amazon lex|amazon lumberyard|amazon luna|amazon marketplace|amazon mp3|amazon music|amazon neptune|amazon pharmacy|amazon prime music|amazon rds|amazon redshift|amazon relational database service|amazon s3 glacier|amazon sagemaker|amazon silk|amazon simple notification service|amazon simple queue service|amazon simpledb|amazon sns|amazon sqs|amazon web services|amazon weirdo stick|amazon.com|amazon.com, inc.|amazon简单队列服务|amzn|aurora|aws bedrock|aws elastic beanstalk|aws glue|aws neptune|bedrock|bedrock model|cloud9 ide|cloud9 ide, inc.|dynamo|dynamodb|echo|echo buds|echo dot|echo frames|fire os|fire tv stick|fire tv stick 4k|fire tv stick with alexa voice remote|fireos|firestick|kdp|kindle|kindle direct publishing|kindle product line|kindle自助出版|lumberyard|luna|luna cloud gaming|luna gaming|music.amazon.com|silk browser|simpledb|sns|亚马孙公司|亚马逊|亚马逊alexa|亚马逊kindle|亚马逊mp3|亚马逊云计算服务|亚马逊公司|亚马逊生鲜|亚马逊集市|亚马逊音乐|亞馬遜|亞馬遜kindle|亞馬遜mp3|亞馬遜公司|亞馬遜生鮮|亞馬遜集市|亞馬遜音樂
 americantennisassociation.org
@@ -22,7 +20,6 @@ apicout.org
 apidog.com
 arkadak.ru
 aspispronia.gr
-assemblepapers.com.au
 assumptionwalkinstown.ie
 atlanticpower.com
 autolineeromano.net
@@ -41,7 +38,6 @@ beautifulpublicdata.com
 bedifferentactnormal.com
 beer100.com
 bellracing.com
-betgar.ink
 bimu.it
 birach.com
 bitcoin-poker-sites.de
@@ -73,6 +69,7 @@ cbsichthuszeist.nl
 cc-chalaronne-centre.org
 ccsd66.org
 cesdonbosco.com
+cfores.ru
 champniers-et-reilhac.fr
 channelislandsfilmfestival.com
 chelmervalleyhighschool.co.uk
@@ -91,7 +88,6 @@ crown-plays.ch
 dagmar-freitag.de
 danslelakehouse.com
 deana.com
-debootverzekering.nl
 delawareestuary.org
 demopolischamber.com
 deutsche-handwerks-zeitung.de
@@ -212,7 +208,6 @@ kolbovce.sk
 kukuriku.org
 kurokishimai.com
 kutuzovskaja-riviera.ru
-l-ma.jp
 lacroixauxmines.net
 ladromemontagne.fr
 lafiancee.com
@@ -236,7 +231,6 @@ madballnyhc.com
 magnum188official.com
 mairie-bilieu.fr
 mairieapremontsurallier.fr
-makemoney.bet
 malechoir.com
 manuelmaqueda.org
 manumayr.com
@@ -343,6 +337,7 @@ rdyo.ca
 recoilweb.com
 reelpoint.nl
 regnskabsstyrelsen.dk
+renovainvest.com.br
 reown.com
 response-o-matic.com
 returnandearn.org.au
@@ -386,6 +381,7 @@ spiseforstyrrelse.dk
 stacion.org
 stadia.com
 starcityglobal.com
+stfblaw.com
 stirnet.com
 stormywellington.info
 streaminity.com
@@ -400,6 +396,7 @@ sweetpower.jp
 swimpool.de
 syndicat-speleo-canyon.org
 synthite.com
+szfmli.com
 taiko-en.com
 taiyuan.gov.cn
 tazfin.ru
@@ -411,10 +408,9 @@ themagsantafe.com
 thermes-aulus.fr
 thevoidz.com
 thisisloupe.com
+thrivecoachings.com
 thrivingivorymusic.com
 tickebo.jp
-tikescollege.com
-tk88.casino
 toho.ed.jp
 tolo.ro
 toranoana.shop
@@ -423,7 +419,6 @@ trickyrock.com
 triggerfinger.net
 trinitinture.net
 triplecrownofsurfing.com
-trtjkhd.com
 tru-thoughts.co.uk
 ttc.cn
 tucsonmall.com
@@ -434,6 +429,7 @@ uploadpic.org
 urbanvipmarket.uk
 vake.ge
 valstpierre.fr
+vandenoever.info
 vashstoma.ru
 vaxjomontessori.se
 veckio.io
@@ -447,7 +443,6 @@ vov-ommen.nl
 vvsneekwitzwart.nl
 wae.com
 wanderon.in
-webdevsimplified.com
 welojets.com
 werbejunge.de
 wigbertschule.de
@@ -461,6 +456,7 @@ www.lockright.uk
 xixona.es
 xn--50-wg2du59ik3f.tw
 zeeemedia.com
+zenom.in
 zimnistadionmb.cz
 zirkonzahn.com
 zlotow.eu

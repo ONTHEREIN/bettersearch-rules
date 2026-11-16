@@ -36,7 +36,6 @@ associations-blanquefort.fr
 astra-bier.de
 atlantarealtors.com
 auterretrato.es
-b52club.ninja
 banesto.es
 barabino-lab.org
 barotekhis.ir
@@ -54,7 +53,6 @@ bj148.org
 blauerusa.com
 blogodisea.com
 blogsvirals.com
-bluearticles.com
 blueoakranchreserve.org
 bnmusicdoo.com
 bnote.de
@@ -62,6 +60,7 @@ bostonpizza.com = boston pizza
 brondbyif.net
 bronuzywana.pl
 bt5.me
+bthrmc.com
 bunndjcompany.com
 bursa.com
 caldicotesprimaryacademy.org
@@ -145,6 +144,7 @@ flccc.net
 fluorocarbons.org
 flyingdoctor.org.au = rfds|royal flying doctor service|the flying doctor|澳大利亚皇家飞行医生服务|澳大利亞皇家飛行醫生服務|皇家飞行医生服务
 forexmart.com
+foto-kruglyye-bot-karta.online
 fpaff.top
 franceuniversites.fr
 fredagain.com
@@ -175,6 +175,7 @@ guardsteelrun.co.uk
 gudule-winery.brussels
 gureirratia.eu
 gwptcekm.org
+gzongwb.com
 hachette.com.au
 hacker101.com
 hadjivangeli.com
@@ -200,6 +201,7 @@ imm.ac.cn
 infoa.cz
 inme-ras.ru
 inobal.com
+insdown.net
 iqsh.de
 isabelvoices.com
 iss.co.jp
@@ -210,7 +212,6 @@ jcgjd.org.cn
 jdsarchitects.com
 jeanmariemartin.com
 joelfreedman.com
-jogo2025-1.com
 joy-games.it
 jpsathas.com
 judgejerry.com
@@ -251,6 +252,7 @@ lomec.cz
 loriwriter.com
 lslf.org
 luberonnature.fr
+lycmzs.com
 magic-pony.com
 mamaafrikafilmfestival.org
 mammalwatching.com
@@ -334,7 +336,6 @@ profaneexistence.com
 pubnative.net
 purpose-economy.org
 qdjmyc.cn
-qq45545.com
 radioprogrammzeitschrift.de
 ralcocorp.com.my
 ramen-butakin.com
@@ -347,7 +348,6 @@ rkibbw.de
 rlzrq.cn
 rodabernethy.com
 romeomidnight.com
-rosarionoticias.net
 royalcafedining.com
 rv.lv
 saduband.ee
@@ -364,6 +364,7 @@ seiservices.com
 selsdonprimary.com
 sendandreceive.org
 serigering.lol
+shanguangfilm.com
 sharemyspace.space
 shaundaveymusic.com
 sheltonherald.com
@@ -372,14 +373,12 @@ sidneyscho.com
 siikalatva.fi
 simplesimonspizza.com
 slprogamer.com
-sokrovischa-imperatora-3-sezon.top
 soloadsguide.com
 soudermiller.com
 southcoast.org
 southwesthealth.org
 spd-kreisverband-roth.de
 spin-dog.casino
-spinaura-fr.fr
 spinmama-app.co.at
 spiritenergy.co.uk
 spokast.ru
@@ -400,7 +399,6 @@ surga11.buzz
 taharbenammar.com
 takakyu.co.jp
 talroo.com
-tamaratattles.com
 tart.run
 tasc.ie
 teenslivingwithcancer.org
@@ -408,7 +406,6 @@ tehnomagazin.com
 terrorbullgames.co.uk
 teslanote.net
 texasenergymuseum.org
-thebestoptions.net
 themovation.com
 thesquarephx.org
 thestorysofarca.com
@@ -420,7 +417,6 @@ tomlab.com
 toshima-mfg.jp
 tosmana.net
 towamencin.org
-towerrushcasino.pt
 treasuredays.com
 troutunderground.com
 twocircles.com
@@ -430,6 +426,7 @@ usa61overs.xyz
 usagishima.net
 utorederi.se
 varingen.no
+vegazonecasino.fun
 vietnamairportassistance.com
 villaarena.nl
 village-justice.com
@@ -452,12 +449,12 @@ wingbreakers.com
 winnerbridge.uk
 womboflight.com
 wooncontact.nl
+workmanlayout.org
 worldlife360.co.uk
 worldnewsdna.com
 worldoneradio.org
 wwquartet.com
 wxic.edu.cn
-yadecuo.com
 yunchanlimofficial.com
 zee7faces.shop
 zhongyehuanbao.com

@@ -34,6 +34,7 @@ artnome.com
 asa-samfundet.se
 ascentsolar.com
 asiatimes.com = asia times|asia times online|亞洲時報|亞洲時報在線
+astur-olidmultiservicios.com
 atribecalledred.com
 auriscollegeleiden.nl
 aussiehousesitters.com.au
@@ -45,13 +46,14 @@ bannercoop.net
 barathegy.com
 barry.edu
 baseballoceania.org
+basecg.com
 basketball-regensdorf.ch
 bci.nc
 bcj.ch
+bdb.de
 beinconnect.es
 bentonvillek12.org
 berean.bible
-betibetcasino.si
 betnationcasinonl.com
 bibliosip.it
 bibliotekuppsala.se
@@ -65,7 +67,6 @@ boldpalace.de
 boldvippro.com
 boroume.gr
 bpremium-casino.com.de
-bravodeal.com
 breakingcatnews.com
 britpokershop.uk
 brittanyforce.com
@@ -142,7 +143,7 @@ dunailline.org
 e-co.no
 e-marchespublics.com
 eardrop.nl
-earobics.com
+easoncode.com
 ecologic.org
 econs.online
 ecosense.me
@@ -225,6 +226,7 @@ huaxculture.com
 hyattsville.org
 hypercombostudio.com
 hystra.com
+hzhbhs.com
 iccadubai.ae
 icdx.co.id
 idg.es
@@ -238,6 +240,7 @@ ipmplat.com
 iriskroes.com
 isotic.org
 issa.int
+iwinclub.land
 jamesholvay.com
 janinepearson.ca
 jcccw.org
@@ -367,18 +370,18 @@ sabsa.aero
 safov.cz
 saitamacity-sports.or.jp
 sanofi.com.br
-santosstore.com.br
 saramolin.com
 saseball.lol
 satio-gunma.co.jp
 saveacat.org
 saygercharity.org
-sc2funding.com
 scm-pereira.pt
 scmcastrodaire.com
 scmm.pt
+searchacg.cn
 sebastianblume-photography.de
 selfstudys.com
+seoladen.com
 shepherdscare.org
 siamed.ru
 sidma.gr
@@ -416,11 +419,9 @@ tabloproject2-2.com
 takip2018.com
 talentum.com
 teamspeedkills.com
-tehnolab62.ru
 telegraf.al
 tepper-aufzuege.de
 textar.com
-tguus.com
 thefoodieaffair.com
 thefosteringnetwork.org.uk
 thehrdc.org
@@ -452,6 +453,7 @@ videomusicawards.gr
 vnebet-it.com
 voodoorhythm.com
 votedenitaveras.com
+wangf3.cn
 webnewswire.com
 weller-tools.com
 westmidlandshospital.co.uk
@@ -460,6 +462,7 @@ who.com.au
 wikinvest.com
 winchesterva.gov
 wissenschaftscampus-tuebingen.de
+wnl50.cn
 workabroad.ph
 workzone.com
 worldarchitecture.org
@@ -469,6 +472,7 @@ xn----9sbdnncale2afxfp6g.xn--p1ai
 xn--sborgkirke-0cb.dk
 xoilacxcd.tv
 ychuafenchi.com
+yhw6t.cn
 yl91888.com
 ymcadallas.org
 youngdemocrats.eu

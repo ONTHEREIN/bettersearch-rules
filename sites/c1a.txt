@@ -1,4 +1,3 @@
-0xbetlogin.com
 2emarnixschool.nl
 30dayweather.com
 333casinouk.net
@@ -26,6 +25,7 @@ annafriel.org
 annasheffield.com
 apollomicsinc.com
 appartsmarina.com
+applio.org
 appsflyer.com
 archemed.org
 arheologpskov.ru
@@ -73,7 +73,6 @@ casinokrypto.ch
 casinomaxspot.us
 casinowizards.uk
 cathedralsquare.com.au
-catkasino.icu
 cdscoonline.gov.in
 centralmarket.com
 cercacasa.it
@@ -105,6 +104,7 @@ csincse.hu
 cujammu.ac.in
 currenttime.tv
 cwa.ac.uk
+d16candidates.com
 dahaeboo.net
 daltonboro.com
 datasentics.com
@@ -123,9 +123,9 @@ dreamchrist.com
 dreamup.com
 drjillianroberts.com
 drygelworld.com
-dsoscilegon.org
 eaa-online.org
 earth-auroville.com
+easyfixscaffoldingbirmingham.co.uk
 eauk.org
 echum.com
 edelstahl-rostfrei.de
@@ -177,12 +177,12 @@ gityrazaz.com
 goldenfighter.ro
 goldenspreadbankx.com
 good-tea.tw
-gorgeoussalon.net
 granadamusik.com
 grazynabakiewicz.pl
 grotkop.de
 guannantech.com
 guitars101.com
+gyhaisheng.com
 gymnasiumgars.de
 hairkiller.com
 halblaine.com
@@ -211,7 +211,6 @@ ihrjournal.com
 imsgroup.jp
 inceptionlabs.ai
 inesventura.com.br
-info-sportkz.ru
 innotecfood.com
 insightbb.com
 inspirationde.com
@@ -248,7 +247,6 @@ kloofstreethouse.co.za
 kmradhakrishnan.com
 kocorestaurant.com
 kolotev-art.com
-komatsu-kaikan.co.jp
 komoot.fr = komoot
 konstantinpalace.ru
 kormany.hu
@@ -314,7 +312,6 @@ ncme.org
 ndclist.com
 neauthy.com
 neppas.jp
-netc.ne.jp
 newbacklinkchecker.store
 newipnow.com
 ng-seehasen-konstanz.de
@@ -340,6 +337,7 @@ oregonauctioneers.org
 oucreate.com
 pachl.de
 pajzsmirigy.org
+paul-natterer.de
 pcpro.co.uk
 pensionen-weltweit.de
 pentlandbrands.com
@@ -390,7 +388,6 @@ server.com
 sgngirlscollege.com
 she.st
 shellhospitality.com
-simasslot.top
 simonosiashvili.ru
 skandia.se
 skaureipurth.com
@@ -416,6 +413,7 @@ supercell.com = brawl stars|squad busters|supercell|supercell ltd|supercell oy|ç
 superoffice.nl
 superslots.ag
 svpechbrunn.de
+swiftnas.com
 synchrolife.org
 syntekabio.com
 takeyaseipan.jp
@@ -437,10 +435,12 @@ toplo.bg
 tracym.com
 trojovsky.cz
 trufax.org
+trumptube.in
 trygalaxy.com
 tutin.rs
 ubinig.org
 ufo-1.cn
+ujohl8.cn
 ultraspinplatform.com
 underconstructionpage.com
 unifycoop.org
@@ -448,6 +448,7 @@ up-biz.ru
 uptexas.org
 urasoe.lg.jp
 vadehraart.com
+valedream.com
 vativision.com
 vinivwine.com
 vispas.nl
@@ -456,7 +457,6 @@ voiceplug.ai
 vortexnestgg.com
 votadamico.eu
 watertonparkhotel.co.uk
-whatsupusana.com
 whcvvnfz.cc
 wild-wick.org
 winwin-bez-depozytu.xyz
@@ -470,6 +470,5 @@ xyaz.cn
 yihui.name = knitr
 yinmiquan.cc
 yourabt.com
-yuanyungou.com
 zekitchengalerie.fr
 zhaomucx.com

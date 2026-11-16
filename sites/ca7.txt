@@ -48,7 +48,6 @@ backlinkdachecker.online
 bancobpi.pt = bpi|bpi lisboa|bpi lisbon|bpi银行|portuguese investment bank
 baptistu.edu
 barberi.cat
-barnebys.se
 baronnechaney.space
 barrelhorseworld.com
 beeg-movies.net
@@ -65,6 +64,7 @@ blackmountainnews.com
 blinkschool.nl
 blue-crush.com
 blueskyathomevetcare.com
+bluestemprairie.com
 boijmans.nl
 bonesthefilm.com
 bonuszone.ca
@@ -100,11 +100,13 @@ ciganyhaz.hu
 cjbuzau.ro
 cleancitiescampaign.org
 cm-sardoal.pt
+cnfgc.com
 coag.es
 cofoe.org
 colebrown.com
 comparative-hepatology.com
 concretelevelingdetroit.net
+conservatorioviladoconde.pt
 continuum-blue.com
 corpus.tatar = corpus of written tatar|corpus of written tatar language
 costadeglietruschi.eu
@@ -130,7 +132,6 @@ dinerbros.com
 divinefortunecasino-vn.com
 dmodeejay.com
 doctorhook.com
-documentation.ubuntu.com
 dod.mil = lightweight portable security|lps|轻量级可移植安全性
 dogetalusa.com
 dominternet.ru
@@ -200,6 +201,7 @@ hells-spins-au.com
 helpthechildren.org
 hipdysplasia.org
 hollywoodbets.io
+hoteljulesetjim.com
 hs-alliance.org
 huntingtonbankfield.com
 huoma.peach-av.com
@@ -210,7 +212,6 @@ ideone.com
 igaltex.com
 imagely.com
 innovacion.cl
-intellnet.org
 itasoftware.com
 itn.ac.id
 itv.org
@@ -218,6 +219,7 @@ izh-ls.ru
 izu-np.co.jp
 jazzinduketown.nl
 jetbingocasino-ca.com
+jewishbreakingnews.com
 jonathan-walker.co.uk
 jpba.or.jp
 jpgrm.com
@@ -261,6 +263,7 @@ lutz-lienenkaemper.de
 machi0323.com
 madalabo.com
 madden-school.com
+mahaaa4d.com
 mailley-chazelot.fr
 malters.ch
 mamutweb.com
@@ -295,7 +298,6 @@ montvilleschools.org
 moon61authorss.xyz
 mountaincrestgardens.com
 muybet.website
-nat-test.com
 nato-veterans.org
 nebraskamovie.com
 neopost.com
@@ -303,7 +305,9 @@ neufchatel-sur-aisne.fr
 neversonggame.com
 nicolaslapentti.com
 nobackhome.com
+nodejsdesignpatterns.com
 nortonshores.org
+o2yn48.cn
 obecnetin.cz
 office365itpros.com
 ohiochallenge.com
@@ -339,7 +343,6 @@ rachel-long.com
 radio8.ba
 raintaxi.com
 randers-skyttekreds.dk
-ratherhot.com
 ratzeburg.de
 rc.fr = cdars|radio courtoisie
 redbirdsskiclub.com
@@ -350,7 +353,6 @@ robincarolan.com
 rokland.com
 rolex-replica-uk.co.uk
 rotarylift.com
-ru-bride.org
 rusal.ru
 rwl.io
 s-model.com.pl
@@ -378,7 +380,6 @@ sisswap.com
 skyseaclientview.net
 smcatholicschools.org
 snibe.com
-soapidea.com
 som.org.uk
 soteria-project.eu
 soulaction.co.za
@@ -454,7 +455,6 @@ visitwalnutcreek.org
 viviangottheim.com
 vivien-leue.de
 vmcekarauli.org
-vom77.com
 votealexlee.com
 vrsdg.cn
 vuadieu.com
@@ -486,6 +486,5 @@ yumeshin.co.jp
 zazaliez.com
 zeb.at
 zigiz.com
-zimmerbiometdental.com
 zimmerer-teufelsbrut.de
 zims.de

@@ -1,5 +1,4 @@
 10daily.com.au
-13av1.one
 171charz.com
 1go-casinos-germany.com
 1win-app-sn.com
@@ -14,6 +13,7 @@
 6789club.co
 7ewellness.com
 8xbetgr.com
+aaoce.com
 abelcine.com
 abramsonlaborgroup.com
 accounts-marketplace.live
@@ -45,6 +45,7 @@ attcnetwork.org
 autorin-carmen-mayer.com
 avivamishmari.wordpress.com
 azanidianda.com
+b221vu.cn
 bachchor-hannover.de
 bartechnologies.uk
 bartowlibraryonline.org
@@ -56,6 +57,7 @@ bbhc.com
 beehiveegham.co.uk
 benjaminlamberth.dk
 bereavedparentsusa.org
+bergische-krankenkasse.de
 bifteck.co.jp
 bkfk-sport.online
 bktv.com
@@ -83,6 +85,7 @@ ccbp.cat
 ccsct.org
 cdsa-taguig.blogspot.com
 cellinoandbarnes.com
+cenjiey.com
 ceyssat.fr
 changemaker.no
 chateauneuf-la-foret.fr
@@ -101,13 +104,10 @@ cmalivingwater.org
 cmhheli.com
 cn-homesupplier.com
 collectifoeil.com
-combles.com
 commseed.net
 communederai.fr
 conspiracyofarsonists.com
-coolzinobonus.org
 coz.es
-crossads.space
 ctprobate.gov
 cyberprmusic.com
 daeh.info
@@ -148,6 +148,7 @@ fhadimac.org
 finanzamt-memmingen.de
 fjcpc.edu.cn
 fluxus.in
+focusuniversal.com
 freshbets-unitedkingdom.uk
 frotcom.com
 fstcdoma.com
@@ -165,6 +166,7 @@ ginban.co.jp
 gmund.de
 goldencake.co.uk
 gruene-kreis-steinfurt.de
+gwbgej.com
 gxfilter.com
 gxhaidi.top
 gxlzjy.edu.cn
@@ -216,6 +218,7 @@ khoramabad.ir
 kimscravings.com
 kingsfreelines.com
 kirche-ahrensburg.de
+kitbag.io
 klaus-lederer.de
 kohanaphp.com = kohana
 konectbus.co.uk
@@ -261,7 +264,6 @@ meh.ro
 mejorinformado.com
 menphis.cn
 meskwaki.org
-meubelbaas.nl
 mgmgrand-uk.com
 misswyoming.org
 modalfoundation.org
@@ -312,9 +314,9 @@ peplink.com
 pernod-ricard-winemakers.com
 peterlieps.dk
 pfiyml.cn
-pghflight.com
 pgs-kardjali.net
 pierre-vandamme.fr
+pilotandcar.ae
 pingba.gov.cn
 piotrbudniak.pl
 pkpneu.cz
@@ -339,7 +341,6 @@ rabona-es.es
 rapaport.com
 rapidnetworkworld.nl
 rapperswil-jona.ch
-redproductions.com
 redzet.lv
 refrigeratedfrozenfood.com
 restore-research.org.uk
@@ -351,6 +352,7 @@ road.cc
 robcrombie.com
 robinsonterminal.com
 ronco.com
+ruijyc.com
 rupamarya.org
 rutanslot88.com
 saint-seglin.fr
@@ -388,9 +390,8 @@ sozialbank.de
 sp2.or.jp
 specialcontainer.dk
 spojniastargard.com
-square-enix.co.jp = bravely default|crystal defenders|dissidia 012 final fantasy|dragon quest viii|drakengard|ff2|ff2 snes|ff2 us|ff3|ff3 us|ff4|ff6|ffii|ffii us|ffiii|ffiii us|ffiv|ffvi|ffⅲ|ffⅵ|final fantasy 2|final fantasy 4|final fantasy 6|final fantasy ii|final fantasy iii|final fantasy iv|final fantasy type-0|final fantasy type-0 hd|final fantasy v|final fantasy vi|final fantasy ⅲ|final fantasy 零式|final fantasy: the 4 heroes of light|front mission series: gun hazard|front mission: gun hazard|fullmetal alchemist and the broken angel|heavy metal thunder|infinite undiscovery|karuizawa yūkai annai|kh 1.5|kingdom hearts -hd 1.5+2.5 remix-|kingdom hearts 1.5|kingdom hearts hd 1.5 remix|kingdom hearts hd 2.5 remix|kingdom hearts hd ii.5 remix|kingdom hearts iii|musashi: samurai legend|nanashi no game: me|sigma harmonics|theatrhythm final fantasy|スライムもりもりドラゴンクエスト 衝撃のしっぽ団|元气史莱姆|光之4战士|光之4战士 最终幻想外传|光之4戰士 太空戰士外傳|光之4戰士 最終幻想外傳|前線任務系列：槍之危機|勇氣默示錄|勇者斗恶龙 元气史莱姆 冲击尾巴团|勇者斗恶龙 少年杨格斯与不思议的迷宫|勇者斗恶龙viii 天空、海洋、大地与被诅咒的公主|勇者斗惡龍 元氣史萊姆 衝擊尾巴團|勇者鬥惡龍viii 天空、海洋、大地與被詛咒的公主|太空戰士iv|太空戰士v|太空戰士：紛爭012|小小国王与约定之国 最终幻想水晶编年史|无尽探险|最終幻想 節奏劇場|最終幻想 紛爭012|最終幻想 零式|最終幻想iv|最終幻想v|最終幻想：紛爭012|最终幻想 零式|最终幻想 零式hd|最终幻想iv|最终幻想v|最终幻想vi|最终幻想水晶编年史 时之回声|最终幻想：纷争012|武藏传ii 剑圣|水晶守卫者|無名遊戲：目|無盡探險|王國之心 hd 1.5 remix|王國之心 hd 2.5 remix|王國之心 hd i.5 remix|王國之心 hd ii.5 remix|王國之心 hd ii.8 final chapter prologue|王國之心hd 2.5 remix|王國之心hd 2.8 final chapter prologue|紛爭 012：最終幻想|西格玛和声|西格瑪和聲|誓血龍騎士|輕井澤綁架指南|重金屬閃電|鋼之鍊金術師 無法飛翔的天使|鋼之鍊金術師2 紅色靈藥的惡魔
+square-enix.co.jp = before crisis -final fantasy vii-|before crisis: final fantasy vii|bravely default|bravely default: flying fairy|crystal defenders|dissidia 012 final fantasy|dq8|dqviii|dragon quest 8|dragon quest viii|drakengard|dream drop distance|ff13-2|final fantasy adventure|final fantasy type-0|final fantasy type-0 hd|final fantasy xiii-2|final fantasy 零式|front mission 5: scars of the war|front mission series: gun hazard|front mission: gun hazard|fullmetal alchemist and the broken angel|grandia|it's a wonderful world|itadaki street ds|karuizawa yūkai annai|kh ddd|kingdom hearts -hd 1.5+2.5 remix-|kingdom hearts 3d dream drop distance|kingdom hearts 3d: dream drop distance|kingdom hearts coded|kingdom hearts dream drop distance|kingdom hearts hd 2.5 remix|kingdom hearts hd ii.5 remix|kingdom hearts hd: dream drop distance|kingdom hearts re:coded|kingdom hearts: dream drop distance|lightning returns: final fantasy xiii|musashi: samurai legend|mystic quest|nanashi no game: me|seiken densetsu|seiken densetsu: final fantasy gaiden|the world ends with you|twewy|人生街道ds|前線任務5 戰爭傷痕|前線任務5 戰爭的傷痕|前線任務5 ～scars of the war～|前線任務5：戰爭傷痕|前線任務系列：槍之危機|前线任务5 战争伤痕|前线任务5 ～scars of the war～|勇氣默示錄|勇者斗恶龙viii|勇者斗恶龙viii 天空、海洋、大地与被诅咒的公主|勇者斗恶龙viii 海与空与大地与被诅咒的公主|勇者鬥惡龍viii 天空、海洋、大地與被詛咒的公主|危机之前 -最终幻想vii-|天空、碧海、大地与被诅咒的公主|太空戰士 agito xiii|太空戰士 零式|太空戰士xiii-2|太空戰士：紛爭012|小小国王与约定之国 最终幻想水晶编年史|最終幻想 紛爭012|最終幻想 零式|最終幻想：紛爭012|最终幻想 agito xiii|最终幻想 零式|最终幻想 零式hd|最终幻想13：雷霆归来|最终幻想xiii-2|最终幻想零式|最终幻想：纷争012|格兰蒂亚|武藏传ii 剑圣|水晶守卫者|無名遊戲：目|王国之心 3d ［dream drop distance］|王国之心 编码|王國之心 3d|王國之心 3d ［dream drop distance］|王國之心 coded|王國之心 hd 2.5 remix|王國之心 hd ii.5 remix|王國之心 hd ii.8 final chapter prologue|王國之心 編碼|王國之心hd 2.5 remix|王國之心hd 2.8 final chapter prologue|美妙世界|聖劍傳說 ～最終幻想外傳～|誓血龍騎士|輕井澤綁架指南|這個美妙的世界|鋼之鍊金術師 無法飛翔的天使|雷光歸來 final fantasy xiii|雷光歸來 最終幻想xiii|雷霆任務5 戰爭的傷痕|雷霆归来 最终幻想xiii
 srinainadeviji.com
-sritto.com
 staffordmsd.org
 steen1.com
 stichtingedwinavanheek.nl
@@ -402,7 +403,6 @@ sundaypaint.co.jp
 superawesome.com
 superlutas.com.br
 sv-schwandorf-ettmannsdorf.de
-sxzddn.com
 szentesi-korhaz.hu
 tampep.eu
 tangentsoft.com
@@ -449,6 +449,7 @@ vipflow.nl
 visionworldonline.co.uk
 visitdartmoor.co.uk
 vrilissia.gr
+wa53g.cn
 waltersmith3.com
 warwickpost.com
 watami-takushoku-direct.jp
@@ -457,7 +458,6 @@ wearetheevidence.org
 website44view.shop
 welzijnlelystad.nl
 wheregoesrose.com
-whisperingoaksterrace.com
 who.int = 2019冠状病毒病疫苗实施计划|covax|covax facility|covax global vaccines facility|covax initiative|covax programma|covax全球新冠疫苗计划|covax机制|covax联盟|covid-19 vaccine allocation plan|covid-19 vaccines global access|covid-19疫苗全球取得|covid-19疫苗全球取得機制|covid-19疫苗全球获取|covid-19疫苗全球获取机制|covid-19疫苗取得及分配倡議|fctc|framework convention on tobacco control|iarc|icd|icd 10|icd 11|icd-10|icd-10列表|icd-11|icd-o|icd10|icdo|icf|international classification of diseases|wntd|world blood donor day|world blood donor day, wbdd|world health day|world hepatitis day|world malaria day|world no tobacco day|world tuberculosis day|世界不吸煙日|世界健康日|世界卫生日|世界无烟日|世界无烟草日|世界無煙日|世界無煙草日|世界無菸日|世界献血者日|世界结核日|世界肝炎日|世界衛生日|国际健康功能与身心障碍分类系统|国际疾病与相关健康问题统计分类第十版|国际疾病分类|国际疾病分类第十一次修订本|国际癌症研究机构|国际肿瘤学分类法|国际肿瘤学疾病分类|國際健康功能與身心障礙分類系統|國際功能、殘障與健康分類|國際癌症研究中心|國際癌症研究機構|國際癌症研究署|國際腫瘤學分類法|國際腫瘤學疾病分類|新冠肺炎疫苗全球取得機制|新冠肺炎疫苗全球获取机制|新冠肺炎疫苗实施计划|无烟日|武漢肺炎疫苗全球取得機制|烟草控制框架公约|煙草控制框架公約|疫苗全球取得機制|疫苗全球获取机制|疾病和有关健康问题的国际统计分类|疾病和有關健康問題的國際統計分類
 whobombedjudibari.com
 wielerweekendgilze.nl
@@ -474,7 +474,6 @@ yazarmediagroup.com
 yearsaroundthesun.com
 yepcasinogreece.com
 yoomovie.com
-youslot88s.co
 zagzag.co.jp
 zaharovskiymuzey.ru
 zamek-duchcov.cz

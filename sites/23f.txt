@@ -17,7 +17,6 @@ airv.pt
 ajocsa.com
 ajutorlucrarelicenta.ro
 akagi.fr
-al-lighting.de
 allwomenstalk.com
 alpinecity.org
 alucast.cz
@@ -68,7 +67,6 @@ booklounge.co.za
 boostriders.com
 bornholm.nu
 bracketcaptain.co.uk
-breastcancerhellas.gr
 breitenfelder-sv.de
 bristolsomaliforum.org.uk
 brucehaack.com
@@ -93,6 +91,7 @@ cfhl8.com
 charlesandersonart.co.uk
 chickensrun.co.uk
 chipotle.com = chipotle|chipotle mexican grill|chipotle墨西哥大玉米饼快餐店|奇波雷墨西哥燒烤
+cimarronesdeljoropo.com
 cluster.org
 cm-viladobispo.pt
 coko-sochi.ru
@@ -155,7 +154,6 @@ ericdaigle.ca
 euregio.net
 eurofil.com
 exasol.github.io
-faire-part-elegant.fr
 fat-joe.com
 fcpe2m.fr
 felidaefund.org
@@ -252,6 +250,7 @@ kullaflyg.se
 kuredu.com
 kzklyj.com
 ladendorf.at
+laikmetazimes.lv
 landesarchiv-nrw.de
 lanegarrett.net
 largomedical.com
@@ -268,6 +267,7 @@ libreriasopralapenna.it
 liceoalessi.org
 lightboxinteractive.com
 littlecaprice-dreams.com
+lndapeng.com
 lorenzolivier.ch
 luckymobile.ca
 lunarluckyplatform.com
@@ -349,12 +349,12 @@ powerbetuk.co.uk
 ppa.hr
 proacomunicacion.es
 procar-automobile.de
+prorider-gt-cruising.com
 proxis.be
 psnas.com
 pspfrance.org
 ptckillarney.com
 punchfork.com
-purelogics.com
 purusoni.com
 qe2foundation.ca
 queendom.com
@@ -408,7 +408,6 @@ solfridgavang.com
 solisluna.com.br
 southbayschool.org
 spellsofmagic.com
-spindragons-casino.nl
 spjain.org
 sprachennetz.org
 standtallforamerica.com
@@ -422,7 +421,6 @@ superstreetbike.com
 susanabod.com
 sweetbonanza1000slot-th.com
 taillaventure.com
-tainqu.com
 tamara-tippler.com
 tbkf.de
 telekom.com = deutsche telekom|deutsche telekom ag|dtag|german telecom|telekom|telekom net|德国电信
@@ -484,7 +482,6 @@ werkswelt.de
 wpv-bayern.de
 wren.co
 xoso66apps.com
-xsmafnxsr.com
 xxxfilm.bond
 yaitou.com
 yiwen.com.cn

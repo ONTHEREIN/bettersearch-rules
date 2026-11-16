@@ -58,7 +58,6 @@ camarasogamoso.org
 cancerbrc.org
 cansa.org.za
 carlosciriza.com
-casamuseoratonperez.es
 casopisvjestak.com
 catapultdesign.org
 categorypulse.co.uk
@@ -126,6 +125,7 @@ eldiariocba.com.ar
 eleizmuseoa.com
 emmalinebride.com
 englishturn.com
+enjoe.in
 entomology.sk
 erandioclub.com
 es-poir.co.jp
@@ -230,7 +230,6 @@ liberiachristiancollege.com
 libertyhaven.com
 lifenow.org.au
 lindseymiddleton.ca
-localcoffeemontclair.com
 lottevandrunen.nl
 lowellnc.com
 lowknox.de
@@ -261,7 +260,7 @@ metalmerchantsfestival.com
 metrosulut.com
 mge.com
 mgeeducation.com
-microsoft.com = .net|.net core|asp.net core|asp.net vnext|aspnetcore|azure active directory|azure ad|azure cosmos db|azure cosmosdb|azure documentdb|c++/winrt|copilot|copilot in windows|cortana|cosmos|cosmos db|cosmosdb|creature house expression|devil|hyper-v|hyper-v server|maps|media foundation|mfc|microsoft 365 copilot|microsoft azure active directory|microsoft azure 目錄服務|microsoft classroom|microsoft copilot|microsoft copilot for microsoft 365|microsoft cortana|microsoft entra id|microsoft expression|microsoft expression design|microsoft foundation class library|microsoft hyper-v|microsoft mesh|microsoft photodraw|microsoft power platform|microsoft safety scanner|microsoft sharepoint|microsoft sharepoint designer|microsoft virtual server|microsoft whiteboard|microsoft.windows.cppwinrt|msbuild|mstsc|rds|remote desktop services|sharepoint|snipping tool|sysedit|system copilot|terminal services|wdf|windbg|windows copilot|windows driver foundation|windows driver frameworks|windows dvd maker|windows dvd制作程序|windows dvd制作程式|windows dvd製作程式|windows essentials|windows live essentials|windows live installer|windows live 程式集|windows live程式集|windows malicious software removal tool|windows maps|windows media|windows presentation foundation|windows search|windows server hyper-v|windows server virtualization|windows 恶意软件删除工具|windows剪取工具|windows地圖|windows截图工具|windows搜索|windows程序集|windows程式集|wpf|伊娃|剪取工具|小娜|微軟hyper-v|微軟sharepoint系統|微软hyper-v|微软伊娃|微软基础类库|微软小娜|微软科塔娜|截图和草图|截图工具|科塔娜|虚拟化視窗服務器|远程桌面服务|远程桌面连接|遠端桌面服務
+microsoft.com = .net compact framework|.net framework sdk|age of mythology: the titans|cairo|core fonts for the web|cryptographic api|ddk|disk cleanup|driver development kit|enhanced mitigation experience toolkit|hyper-v|internet explorer for unix|kernel-mode driver framework|kmdf|media foundation|microsoft 365 copilot|microsoft academic search|microsoft azure sql database|microsoft copilot for microsoft 365|microsoft cryptoapi|microsoft dynamics gp|microsoft interconnect|microsoft loop|microsoft mesh|microsoft money|microsoft office 2003|microsoft office 2021|microsoft office 3.0|microsoft office 92|microsoft office accounting|microsoft office forms server|microsoft office interconnect|microsoft platform sdk|microsoft power platform|microsoft safety scanner|microsoft sharepoint designer|microsoft small business accounting|microsoft visual c#|microsoft visual c♯|microsoft whiteboard|microsoft windows sdk|microsoft windows server 2022|microsoft works|ms office 3.0|office 2021|s.u.r.f.|surf|system restore|wdk|windbg|windows 11|windows azure sql database|windows copilot|windows ddk|windows driver development kit|windows driver foundation|windows driver frameworks|windows driver kit|windows dvd maker|windows dvd制作程序|windows dvd制作程式|windows dvd製作程式|windows embedded ce 6.0|windows embedded compact 7|windows embedded standard|windows firewall|windows messenger|windows mobile device center|windows mobile装置中心|windows mobile裝置中心|windows mobile设备中心|windows nashville|windows server|windows server 2003|windows server 2008|windows server 2008 r2|windows server 2012|windows server 2022|windows vista|windows workflow foundation|windows xp embedded|windows 防火墙|windows 防火牆|增强的缓解体验工具包|微軟hyper-v|微軟學術搜索|微软hyper-v|微软学术搜索|磁盘清理|磁碟清理|神話世紀：泰坦|神話時代：泰坦|神话世紀：泰坦|神话时代：泰坦|系統還原|系统还原|網頁核心字型|視窗體驗嵌入式|驅動程序開發工具包|驱动程序开发工具包
 mikomole.com
 minamankarious.com
 mindsopen.com.tw
@@ -288,7 +287,6 @@ nemolighting.com
 nespokojeni2023.cz
 newsverse.kr
 nicholemcauley.com
-nitorinfotech.com
 njaard.no
 njelections.org
 nodutdol.org
@@ -296,6 +294,7 @@ noendinsightmovie.com
 nomspeutetre.wordpress.com
 notional.finance
 npc-cn.com
+nq6135.cn
 ns.org.cn
 nsg.nl
 nuuo.com
@@ -317,6 +316,7 @@ parkinson-vereinigung.de
 parqet.com
 partidoporlaintegracionregional.cl
 patientadvocate.org
+patrol4x4.com
 pcg.or.jp
 pdet.org.uk
 pef.pt
@@ -329,7 +329,6 @@ pkcollegecontai.org
 playbetboom.com
 playingwithfire-themovie.com
 pledgie.com
-pokjiuhs.com
 poppen.de
 powbet-it.it
 prixvo.be
@@ -360,7 +359,8 @@ roccafortedelgreco.info
 rodjosephforcongress.com
 rolldorado-bet.com.gr
 rollino-casino-se.com
-rule34.us
+rxpeh.com
+ryde-technology.com
 sallyforth.nl
 salmanov.one
 santabarbararoma.it
@@ -376,7 +376,6 @@ servamp-movie.jp
 setonshrine.org
 shahrzadmusic.com
 shecodes.io
-shpl-mall.com
 silex3dprint.fr
 sitiosespana.com
 sivasfilmfestivali.com
@@ -394,6 +393,7 @@ stellarbettingcentral.com
 strathmorefc.com.au
 stsaviours.academy
 studiods.nl
+sukabecekwin.org
 supercasinoonline.nl
 sweethome3d.com = sh3d|sweet home 3d
 sweetlittlebluebird.com
@@ -437,6 +437,7 @@ tuesdaymorning.com
 twin-angel.com
 uaelementor.com
 uglychristmassweater.com
+ukez9j.cn
 ukh.ac.id
 ultimatecasinoplus.com
 uluresorthotel.com
@@ -472,7 +473,8 @@ worldelectricvehicleassociation.org
 xn--cksr0a.tw
 xn--h1aannku.xn--p1ai
 xssling.com
-ygjiaotong.com
+yguonf95185.cn
+yiweishaokao.com
 youconvertit.com
 yzcolder.com.cn
 z104.com

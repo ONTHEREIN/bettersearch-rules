@@ -6,7 +6,6 @@
 accesshc.org.au
 ace-initiative.org
 acta.ca
-actionclarifiespath.click
 actiuneaconservatoare.ro
 ad-nagata.com
 adro.co
@@ -32,6 +31,7 @@ anastasiasalter.net
 angueras.com.br
 aninconvenienttax.com
 anist-seven.com
+anjagatu.se
 antiwarsongs.org
 antoineverglas.com
 aopen.com = aopen|建碁
@@ -53,9 +53,7 @@ babscon.com
 backipetrovac.rs
 baghdadcollege.net
 balqon.com
-baoshilang.com
 basilicaorsiniana.it
-bcnails.nl
 bellevuecrossroadsveterinariananimalhospital.com
 bellshillcentral.wordpress.com
 betplaycasino-ca.com
@@ -124,12 +122,14 @@ datakolektiv.com
 davidarielszauder.com
 dcschool.org
 dddcommunity.org
+debjitmahalanobis.com
 dianehelentjaris.com
 die-wertschaft.de
 diocesisdecabimas.com
 directnewsloop.com
 discountfootballkits.com
 div2000.com
+dkylx.com
 dokh.nl
 dou35-orel.online
 dplast.cz
@@ -179,6 +179,7 @@ flotte-berlin.de
 flowermag.com
 flybosnia.ba
 fmafalcon.com
+fnixhpj.com
 fondationfrances.com
 fracknation.com
 free2move.com
@@ -198,6 +199,7 @@ goldenenergymines.com
 gordola.ch
 gordonstuart.co.uk
 government.fo
+gq00.me
 griechenbeisl.at
 grindanddesign.com
 gruene-nord.de
@@ -224,6 +226,7 @@ hradistenadberounkou.cz
 htc.net
 hubzilla.de
 ibj.com
+ichunnuanhuakai.com
 ifcn.info
 igrekgames.net
 ikb-international.de
@@ -241,13 +244,11 @@ jiriprihoda.cz
 jkgs-berlin.de
 johnbrownpaintings.com
 johnkoetsier.com
-jototheworld.com
 juabsd.org
 juancamacho.biz
 justlikeheaven-themovie.com
 jxqszy.cn
 kamcord.com
-kaya33keren.com
 kazachiy-theatre.ru
 kelvindiesels.co.uk
 kibblesworthacademy.org.uk
@@ -287,6 +288,7 @@ mahnazafkhami.net
 mans.io
 marcquinn.com
 marionlennox.com
+markhorseo.com
 markthal.nl
 marshallhouse.com
 masozambo.com
@@ -327,6 +329,7 @@ negicco.net
 netpayadvance.com
 netvoice.my
 newportrestoration.org
+ngntech.com.cn
 nicolethemathlady.com
 nj-cook4you.nl
 nog.co.uk
@@ -448,7 +451,6 @@ tamoi.ru
 tapestrybrewery.com
 tasteofthesouthmagazine.com
 tcjgxt.com
-te-food.com
 teeball.com
 teenslovehugecocks.com
 templin.de
@@ -477,8 +479,10 @@ understandquran.com
 unreal-heroes.com
 upniamey.com
 urbanmediaarena.nl
+uwniga21074.cn
 valeriemartinez.net
 veem.com
+vegas-hero.com.gr
 vehiclesjourney.com
 velocitylotto.co.uk
 vertexspot.ca
@@ -509,7 +513,6 @@ yelp.ie
 yushuzhou.gov.cn
 yzerc.edu.cn
 yzzshop.cn
-z-lib.im = z library|z-lib|z-library|zlibrary
 zebtab.com
 zinsbaustein.de
 zrece.si

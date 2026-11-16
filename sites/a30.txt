@@ -84,6 +84,7 @@ cindycallaghan.com
 cisa.org.br
 cityofheroes.ca = city of heroes|coh|英雄之城|英雄城市
 clairedegans.com
+clear-fashion.com
 clvpsych.com
 coalignment.com
 coast1011.com
@@ -100,6 +101,7 @@ cryptorino-uk.uk
 ctnsy.ca
 cvs-avocats.com
 cyclebeads.com
+cykfzy.com
 dailyflowworld.com
 dailyknicks.com
 daregal.fr
@@ -117,7 +119,6 @@ diyarmirza.ir
 dmband.com
 dorpshuiszuidwolde.nl
 drce.org
-duxcasinoonline.nl
 eaglewingtours.com
 echos.pl
 edenvt.org
@@ -144,13 +145,11 @@ freedomcenter.org
 freefinga.com
 funtrailx.com
 futurespot.nl
-gaming-insider.com
 gastunk.com
 gaz-time.ua
 gdnonline.com
 gezitter.org
 glassdoor.ca
-glsuniversity.ac.in
 gobrockport.com
 golfburnaby.ca
 gonnekehuizing.nl
@@ -167,7 +166,6 @@ hihowareyou.com
 hillo-casinos.com
 hollyfrontier.com
 homelinux.net
-hoteloo.id
 hotspotsmagazine.com
 hsc-wels.at
 humanrousseau.com
@@ -176,7 +174,7 @@ hydrastark.com
 ibmpan.pl
 icapelliventura.com
 ices.dk
-iczn.org
+iczn.org = iczn|国际动物命名委员会|国际动物命名法委员会|國際動物命名法委員會
 igdf.org.uk
 igelu.org
 ignaciopeyro.es
@@ -214,6 +212,7 @@ kaist.edu
 karakters.nu
 kimballne.org
 koinolog.io
+kp04a7.cn
 krifa.no
 krosenberger.ch
 ksl.my
@@ -271,6 +270,7 @@ mortiviventi.com
 mozello.lv
 mums.cl
 museum-fotokopie.de
+mylocalbusinessdirectory.com
 mynigma.org
 mystride.pt
 n-m-a.no
@@ -306,8 +306,8 @@ pd-glasfaser.de
 perpetua.de
 peugeot.nl
 photosynth.net
+pierreyvesroydesmarais.com
 pietervandewaterbeemd.nl
-pips.at
 pixbet-br.org
 plasmaspende.at
 plataformadepacientes.org
@@ -329,6 +329,7 @@ publiceye.org
 puyvert.fr
 quikplace.io
 quintanilladelamata.es
+radhikastudyspace.com
 radiogwen.ch
 raresloth.com
 rcca.org
@@ -366,10 +367,8 @@ scstars.net
 secretsunshine.co.kr
 serienoldies.de
 setur.com.tr
-sevmeteo.ru
 share-now.com
 shilpaotc.com
-ship-ship.ru
 shub.club
 signode.com
 silviaolari.it
@@ -378,7 +377,6 @@ sinanogan.com
 sinkscanyonstatepark.org
 sixma168.co
 skiworld.co.uk
-slotsshinegb.org.uk
 sonnschied.de
 sorin.com
 souternon.fr
@@ -431,12 +429,14 @@ tijdschriftdepsycholoog.nl
 tomswoon.com
 tonyvacca.com
 topsoe.com
+tpnfb.com
 tripzilla.ph
 trixi-park.de
 trv.dk
 trypura.com
 tsna.com
 tv48erlangen.de
+tw94love.net
 u-k-i.co
 uhbw.nhs.uk
 ukrainerelief.pl
@@ -472,9 +472,9 @@ wzlp.pl
 xtep.com.hk
 yancey-theatre.com
 yodapress.co.in
+yrjssh.com
 zelenyuk.art
-zhiyusuo.com
-zhongqi001.com
+zhoukouhq.com
 zishu.me
 zuendbuch.de
 zuno.tv

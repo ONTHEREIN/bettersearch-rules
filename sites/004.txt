@@ -26,6 +26,7 @@ annabrown.nz
 anneachenbach.com
 annefrankhousevr.com
 apt.fr
+arcade.gov
 arcan-fe.com
 arenachampszone.us
 art-works.it
@@ -48,8 +49,6 @@ belaobec.cz
 bergondo.es
 bernardos.es
 bernardweber.be
-bet200slot.org
-betandwin.best
 betnovaedge.us
 betsara.com
 bibleatlas.org
@@ -76,6 +75,7 @@ buchstadt.at
 ca7fires.top
 cacmijas.info
 candyspinz.com
+cantinaschiavi.com
 carolinacat.com
 casino-candyland.co.uk
 catsys.jp
@@ -106,7 +106,6 @@ crockerhousemuseum.org
 cryptominer.services
 crystalcardsnetwork.com
 csaduh.cz
-csrf.ac.uk
 cyberpunkreview.com
 cyborium.com.au
 czdam.com
@@ -116,7 +115,6 @@ deanechurch.org
 dedeurleeuwarden.nl
 dence.de
 deungchon.com
-dgdjrq.com
 dgreetings.com
 djk-winden.de
 doghouse-casino-wiki.ru
@@ -146,7 +144,6 @@ estherschipper.com
 eupati.eu
 eurojackpot-cz.com
 f168.tools
-f9vw1o.com
 fairlife.com
 fairmonthotsprings.com
 fairpari-ar.com
@@ -186,6 +183,7 @@ gulfstreamair.com
 gurra-pdsh.org
 gvrseduinst.com
 hand-ivry.org
+hanlvkr.com
 hansvandermeer.nl
 harstad-cykleklubb.no
 harvestriverside.org
@@ -214,6 +212,7 @@ iasil.org
 iesalbayzin.es
 ifpe.edu.br
 ignatius.org
+ihatethefuture.com
 iipm.edu
 iirp.edu
 ijnhrjournal.com
@@ -248,7 +247,6 @@ kanzaki.co.jp
 kariasikainen.fi
 kaspercollin.com
 kellywood.com.au
-keotructuyen.tv
 kevin-indig.com
 kfb-polska.pl
 killereringaa.com
@@ -263,7 +261,6 @@ kuvshinovoadm.ru
 lakehavenbeachresort.com
 landrethun-le-nord.fr
 lasalette.org
-lavalofficial.com
 lcaction.org
 lesportswear.com
 level3.net
@@ -310,6 +307,7 @@ nemo-ocean.eu
 newiridium.com
 news965.com
 newslaundry.com = newslaundry
+newvocations.org
 newyorkclassicalreview.com
 nfhs.org
 nicolefiorentino.net
@@ -387,6 +385,7 @@ sangerhausen.de
 schlehenbeisser.de
 schloss-laubach.de
 sdr-kits.net
+sec-api.io
 secretcv.com
 seojen.com
 serfim.com
@@ -436,6 +435,7 @@ syzran-drama.ru
 taalunie.org
 talschenke-eppingen.de
 telecity.it
+temancuan.net
 testclear.com
 theatrepasta.com
 thebollands.com
@@ -447,7 +447,6 @@ thesimon.com
 thesocialpost.it
 thought.is
 tianjinticaiwang.cn
-tianqiaoyishuzhongxin.com
 tibetnc.org
 tjgp.com
 tjsokolusti.cz

@@ -7,6 +7,7 @@ acdc-fc.com
 adapalmer.com
 afpmb.org
 aichi-kiwami.ac.jp
+aicnp.pt
 airjordan8retro.com
 alcudia.net
 alessandrolatif.com
@@ -92,10 +93,10 @@ danbornemark.se
 danielgoldhaber.com
 dannahgaray.com
 day.ru
+dazed.games
 dcpresidents.com
 dei.gov.ua
 delmamarineuae.com
-dentistindwarka.in
 deovr.com
 designresearchsociety.org
 dictionary-spanish.info
@@ -162,7 +163,6 @@ gulugulucafe.com
 gzslfk.cn
 harman2xdadon.com
 harriman.house
-hatayescortgo.com
 hayativapeportugal.com
 hbl.or.jp
 hesd.net
@@ -172,6 +172,7 @@ hp-cnc.de
 hpa.org.nz
 hrc.co.uk
 hudco.org.in
+i95vv.cn
 iaba.us
 idagio.com
 idice.io
@@ -197,16 +198,18 @@ jarabedepalo.com
 jdzx.net.cn
 jefferson.co.us
 jespermechlenburg.com
+jiebiyongshi.com
 jobstore.com
 johanneksenklinikka.fi
 jokefm.de
 jrslimnica.lv
 jservo.com
 jteme.pl
+jxxiachang.com
+jykpltq.com
 kakaobank.com = kakaobank
 kakaocorp.com = daum kakao|kakao|kakaotalk|katalk
 kashakelley.com
-keskinwheels.com
 key3media.com
 kls.org
 kokott.pl
@@ -265,6 +268,7 @@ nansin.co.jp
 napozzholddal.com
 naraksk119.jp
 nashvillebluegrassband.net
+navjeevanschool.in
 nb12.ru
 neko.co.jp
 nelnetbank.com
@@ -278,6 +282,7 @@ opidor.fr
 orenbasket.ru
 orioaishin.ac.jp
 p-production.jp
+padctn.org
 pagecrawl.io
 palihigh.org
 pambianconews.com
@@ -403,7 +408,6 @@ vivianlynn.com
 vykopalova.com
 wadopp.com
 wallpublicschools.org
-wartobiokominki.pl
 widthsum.co.uk
 windstream.net
 wna-berlin.de

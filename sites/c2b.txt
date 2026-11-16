@@ -15,6 +15,7 @@ aguacastello.com
 aguainmaculada.com
 aiemh.com
 aier.co.in
+aiyouxizhenrenguanwang.com.cn
 akanoid.de
 alinecorrea.com.br
 almont-les-junies.fr
@@ -34,6 +35,7 @@ asahifoodcreate.co.jp
 asi.org.ru
 asmagentafootball.com
 aspeedtech.com
+astrumfarm.ru
 atmholdings.com
 autoecoleautoroute.com
 autumnreeser.com
@@ -182,7 +184,6 @@ hccertiostrov.cz
 hechicc.top
 helle-oase.de
 helse.dk
-henan258.com
 historischesmuseum-bayreuth.de
 hitsujibungaku.info
 holmestrail.org
@@ -200,6 +201,7 @@ ihc.ru
 iks-photo.de
 impeller.net
 informativostelecinco.com
+inkexp.com
 io-scooter.com
 isabellegeorges.com
 iscm.edu
@@ -231,7 +233,6 @@ korea-ngo.org
 korea.net = korea.net|koreanet|韓宣網
 kristina-depaulis.fr
 kurtzimmermann.com
-kyoeiseicha.co.jp
 laanlane.ee
 lab-nl.com
 laiatutzo.com
@@ -305,7 +306,6 @@ ngx.com
 nhrc.com.cn
 nmg.com
 novibecej.rs
-novu.systems
 nrg.co.il
 ntguchi.cn
 nuoangyb.cn
@@ -343,6 +343,7 @@ promjene.org
 psychiatr.ru
 publisherqu.com
 qicaiyungou.com
+qzccsd.com
 radioeli.ru
 radiosavonasound.it
 rajapattaimovie.com
@@ -431,6 +432,7 @@ suwa.lg.jp
 sws.co.jp
 sxrtv.com
 synapsoft.co.kr
+szlsyst.com
 tacchialti.ch
 teatrodelucia.com
 tecosmart.com.tw
@@ -449,16 +451,19 @@ thinklikeanengineer.org
 thronelabs.co
 ticketpro.ca
 tiemo-woelken.de
+tokki.com.au
 tomomiitano.jp
 tonrohde.nl
 toodledo.com
 toontoon.top
 top1xbetegypt.com
+topnewstarseo.com
 totalgames.net
 toxiclibs.org
 tremouille-saint-loup.fr
 trzemeszno.pl
 twnic.net
+u7o2vs.cn
 ucstv.com.br
 uiclap.bio
 ule.com
@@ -471,6 +476,7 @@ usaonlinecasinowith20minimumdeposit.com
 usb.org = universal serial bus|usb|wireless usb|wusb|微型数据线接口|无线通用序列总线|無線usb|無線通用序列匯流排|通用串列匯流排|通用串行总线|通用串行接口|通用串行總線|通用序列匯流排
 usro.net
 utalkmarketing.com
+v8ry3e.cn
 vbg.ch
 velocity-limburg.nl
 verkeerscentrum.be

@@ -81,6 +81,7 @@ cardstoncounty.com
 castellvila-seca.cat
 cathalbreslin.com
 cbrc.net
+cbsenotes.co.in
 cbsnews.com = 60 minutes|60分鐘|60分鐘時事雜誌|60分钟|cbs news|cbs news 60 minutes|cbs新聞|cbs新闻|六十分鐘時事雜誌
 cccaac.com
 celtictennis.co.uk
@@ -102,7 +103,6 @@ coregaming.it
 cos-mania.net
 cpp-russia.ru
 craftexpert.nl
-craftsportswear.co.uk
 craigbrann.com
 crex24.com
 cyber-gamers.org
@@ -118,7 +118,6 @@ dorporat.com
 dowbor.org
 drjou.com
 drtheoharides.com
-dsoskecsamosir.org
 dt.no
 dulv.de
 dunescience.org
@@ -130,7 +129,6 @@ ecoo.info
 eftuniverse.com
 eigasha.com
 elvedeninn.com
-embedditor.ai
 en-vention.com
 eska.tv
 euroalliages.com
@@ -158,6 +156,7 @@ galleoninn.co.uk
 gansbrauerei.de
 gbc.gi
 gccwaterpolo.com
+genethisches-netzwerk.de
 gibraltarcasinolicense.com.hr
 gimv.org
 girlguides.ca
@@ -177,6 +176,7 @@ gundogar-news.com
 guzdial.com
 hdwoodson.org
 heart-ray.jp
+heijnen-witgoed.nl
 hendungen.de
 hetlang.nl
 hfd.digital
@@ -223,6 +223,7 @@ kazakhgold.com
 kerzhenskiy.ru
 kgenetics.org
 kgok.ru
+kingofgamesny.com
 kirkrimer.com
 knowroaming.com
 koalanet.ne.jp
@@ -241,6 +242,7 @@ lavorincasa.it
 lawasia2022.com
 lawnfawn.com
 laxfieldprimaryschool.co.uk
+layarslotjago.com
 lb-spins.org.uk
 leh.fr
 lestmartinmontreal.com
@@ -254,9 +256,9 @@ logixboard.com
 londongamingworks.uk
 loricarson.com
 lot18.com
+lotusespritworld.com
 lsc.edu
 luckeracasinoo.pl
-lusharing.com
 luxflux.net
 mac52ipod.cn
 madamofficiel.com
@@ -360,6 +362,7 @@ scu.edu
 selc.org
 selfcarefederation.org
 selfkey.org
+sensand.com
 seo-methodes.com
 sergiobellucci.it
 sestroretsk.org
@@ -377,6 +380,7 @@ slsdc.in
 sokolkbely.cz
 solaroids.com
 sonkwo.cn
+speakinggrief.org
 spinogambino-jeux.fr
 sportygreen.fr
 springfieldsfirstschool.org.uk
@@ -397,10 +401,12 @@ svpatelcsbm.org
 swatchgroup.com = swatch|swatch ag|swatch group|swatch group ltd.|the swatch group|史華曲|斯沃琪|斯沃琪集团|斯沃琪集團
 synovate.com
 szstrebic.cz
+tailwinds.to
 takasago-inc.co.jp
 tanksounds.org
 tecno-mobile.in
 teks.eus
+tellmeproject.com
 teresian.ie
 tesauromuseus.com.br
 thanachartbank.co.th
@@ -465,8 +471,7 @@ yayatoy.com
 yepits.ai
 ynpxrz.com
 yoshizuya.com
-yqxxs.com
 zee33avoidss.shop
-zgfxpg.com
 zidani.be
 zjdx.gov.cn
+zrih3.cn

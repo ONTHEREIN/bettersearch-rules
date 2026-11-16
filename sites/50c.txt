@@ -125,7 +125,6 @@ drjasonfox.com
 droschl.com
 dubaischolars.com
 ductape.info
-eboniivoryblog.com
 ei286c.vip
 elifelet.org
 elplazas.com
@@ -151,13 +150,13 @@ fornleif.is
 forsage.net
 forumoceano.pt
 forward.com = forverts|forward|forward.com|the forward|the forward - פֿאָרווערטס|the jewish daily forward|前方報|前进报|前锋报|猶太前進日報
-fpcu.org
 freenationspace.nl
 freeworlds.us
 fresh-tamaya.jp
 fresharenazone.nl
 fundacao.bradesco
 fundwildnature.org
+gardenvalleynursery.com
 geoinfo-lab.org
 gim.ac.in
 gkbm.com
@@ -207,7 +206,6 @@ inglab.github.io
 innospire.com
 iotaas.org
 isepnet.com.br
-itsmarc.com
 jaumeclaretmuxart.com
 jaymanuel.com
 jazzdiscography.com
@@ -247,6 +245,7 @@ loc8.us
 localhero.ru
 lokaalbelangdoetinchem.com
 londonspinchoice.uk
+longhuachuanre.com
 losanjealous.com
 losmassadores.it
 lovingwomen.org
@@ -274,6 +273,7 @@ mishelik.ru
 missysue.com
 momiji-yamadaya.co.jp
 moonjuiceshop.com
+mp-reborn.de
 munilaja.cl
 muratses.com
 n-o-r.ro
@@ -315,18 +315,19 @@ peakandnorthern.org.uk
 pegi.info = pan european game information|pan-european game information|pegi|泛欧洲游戏信息组织|泛歐遊戲信息組織|泛歐遊戲資訊組織
 petasys.com
 peterliechti.ch
-pfdzsw.com
 philanthropysouthwest.org
 philhey.com
 pini.com.br
 plinkojeuapp.fr
 pobeice.com
+portalarlequin.com.ar
 postfinancearena.ch
 prateektiwari.com
 principalolot.com
 prosama.no
 publicinterestlegal.org
 pusulabet-giris.online
+pywkj.cn
 quantumlog.us
 quartiersdanses.com
 ramsgate-society.org.uk
@@ -360,7 +361,8 @@ sanfredianolucca.com
 scooterproducts.com
 scotiaportal.co.uk
 sduivf.com
-se.zhangyue.com
+sdzhongkao.com
+se77k.cn
 seacaptains.com
 secureinc.co.jp
 sempreinter.com
@@ -455,12 +457,11 @@ viperaclub.co.uk
 visitoceanside.org
 vpforums.org = visual pinball|visual pinmame
 vral.li
-vulkan-platinumclubs.com
 waldorfschule-chemnitz.org
-wankayizhan.com
 wardennest.com
 warrenentner.com
 watchesofswitzerland.com
+wazehell.io
 wctjp.org
 webador.pl
 webd.pro
@@ -473,7 +474,6 @@ wolfhomeproducts.com
 wolker.ae
 www.coinpoker-casino.uk
 xavierperon.com
-xn--0913-9j5fnog72o914d.xbjbnpe.com
 yu-ams.jp
 yunwuxian.com
 yzeron.fr

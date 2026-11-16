@@ -61,7 +61,6 @@ bratz.com
 breadtopia.com
 brickken.com
 brokis.cz
-bulacinno.com
 bulldoginteractive.com
 busmakmur.com
 caller.com = caller-times|corpus christi caller-times|the corpus christi caller-times|科珀斯·克里斯蒂时报
@@ -102,6 +101,7 @@ coop-breizh.fr
 cosmicarmchair.com
 cyrillebrotto.com
 dabetvn.net
+daedongcmc.com
 dampfeisbrecher-anna.de
 dancemarathon.com
 darenberg.com.au
@@ -122,7 +122,7 @@ doyoureallywanttoknowfilm.com
 dramadesk.com
 dreamjackpot.com
 drk-tbb.de
-dsoskablampungutara.org
+drsylvainmouraret.com
 ducaticlub.nl
 duinbehoud.nl
 dynamicjackpotnetwork.com
@@ -131,6 +131,7 @@ ecomuseoaddadileonardo.it
 ekcit.eu
 embaleo.com
 enageo.com
+encouragementccc.com
 englishdistrict.org
 epsilon.com
 epsilonminus.com
@@ -160,9 +161,9 @@ fourseasonscinema.com
 freebeer.org
 froyail.no
 fsm.com.au
+fsyqw.com
 fudokaku.com
 fuller.moe
-funnyjokesmania.com
 funx.nl
 futsalolimpico.com.br
 futureplatform.ca
@@ -176,7 +177,9 @@ gocrvenikrst.rs
 grahamarms.com
 grammarhow.com
 gransinocasinoo.gr
+graphistamp.com
 guestplan.com
+guoyusj.com
 halcyonbiomedical.com
 hamadamami.com
 harvardcrcl.org
@@ -187,6 +190,7 @@ hebamme.ch
 hi-aspect.com
 hidetotomabechi.com
 hightowerlowdown.org
+hlfluid.com
 holinessandunity.org
 hometownnewsnow.com
 hongyoji-kawaguchi.net
@@ -258,10 +262,10 @@ listasite.pw
 liveuamap.com = live map|live ua|live ua map|live universal awareness map|liveuamap|liveuamap.com
 loblaws.ca
 lokniti.org
+lolajack.com
 londonwildlink.uk
 lowpricebud.co
 lubosjanota.com
-lucky31casino366fr.com
 lunescape.com
 lyterecords.com
 macarts.co.uk
@@ -277,13 +281,13 @@ mcmillanhotels.co.uk
 michaelstrahan.com
 militaryindexes.com
 missbc.ca
-mmmqk.com
 mockery.io
 modalshop.com
 moku-moku.com
 moovkart.com
 munising.org
 myartsonline.com
+myoldmaps.com
 nacoluan.com
 nanobrick.co.kr
 nantes-citoyennete.com
@@ -304,7 +308,6 @@ nikai.jp
 nishikei.co.jp
 noahconrad.com
 novagamblecentral.com
-nprajb.com
 nsri.co.uk
 o-s-s.org
 oasisanbenedetto.it
@@ -372,7 +375,7 @@ runtheplanet.com
 rvbar.ru
 salemchamber.org
 sannevaassen.com
-sarahah.com
+sarahah.com = sarahah
 savingslifestyle.com
 sawdf.org
 scholistico.com
@@ -458,7 +461,6 @@ whivfm.org
 widef.global
 wienberg.nl
 wienerphilharmoniker.at = vienna philharmonic|vienna philharmonic orchestra|vpo|wiener philharmoniker|wpo|維也納愛樂樂團|維也納愛樂管弦樂團|维也纳国家歌剧院管弦乐团|维也纳爱乐|维也纳爱乐乐团|维也纳爱乐管弦乐团
-wm-casino-online.com
 worldestate.homes
 wowcook.net
 xawl.edu.cn
@@ -472,4 +474,3 @@ zeus.bingo
 zhuchaoa.cn
 zion-lutheran.com
 zjjfgf.cn
-zyngai.com

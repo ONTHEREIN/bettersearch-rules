@@ -42,7 +42,6 @@ bambimonroe.com
 bamec.org
 baneweb.co.uk
 barr.org
-bassbet-cad.com
 bcahsn.ca
 bemo.net
 bender-stiftung.ch
@@ -71,6 +70,7 @@ carlespachon.com
 cars-hourtoule.fr
 castelldevilafortuny.com
 castellodicarpineti.it
+cdhdlp1.com
 cdnis.edu.hk
 cecobois.com
 celestialbeerworks.com
@@ -86,6 +86,7 @@ choyo-cc.jp
 chrisbrunet.com
 cidarieducation.co.uk
 cityofwarden.org
+clickseguros.lat
 clustdoc.com
 cnlamination.com
 cnogacare.co
@@ -95,7 +96,6 @@ collegesoflaw.edu
 command.ai
 communityenterprisefoundation.com.au
 controlledvocabulary.com
-coops.tech
 corkcon.ie
 credifin.nl
 crestedbuttenews.com
@@ -111,7 +111,6 @@ denachtzusters.nl
 deoratuohy.space
 dgnum.eu
 di.dk
-digitallaunchpad.net
 dlatv.net
 dmtcl.gov.bd
 dongehman.com
@@ -136,6 +135,7 @@ english.gov.taipei
 essencestory.co.uk
 everydayeileen.com
 eyam-museum.org.uk
+f77u7.cn
 fairplay-casino.net
 fanderson.org.uk
 fapa.com.br
@@ -150,7 +150,6 @@ fmiindo.com
 fontainebleau.fr
 fortisbeton.al
 franciscocespedes.com
-freecampgrounds.com
 freesat.co.uk = freesat|免費衛星服務
 freshvistaway.com
 friberger.com
@@ -158,7 +157,6 @@ fundacionesru.org
 gabar.org
 gastroclick.es
 gastrogate.com
-gates-of-olympus-slot.ro
 gatineau.ca
 gaudriault.com
 gemeinde-heidesee.de
@@ -252,6 +250,7 @@ lninstitute.org
 lodgingowners.com
 lookalike.com
 lotto-casinoo.eu
+lrxie.com
 lucjodet.com
 lycee-cordouan.fr
 macdougallauction.com
@@ -300,9 +299,10 @@ nysemusic.com
 obecradvanovce.sk
 ofr48.com
 okmmagazin.hu
+omniafausta.com
 omniva.ee
 oneheartministries.com
-opendnssec.org
+opendnssec.org = opendnssec
 oralroberts.com
 osteopathy.org.au
 ot-nancy.fr
@@ -380,7 +380,6 @@ slaa.sl
 smallsinsmusic.com
 smartslotworld.com
 smokace-casino.cz
-socolive8386.live
 spencersutherland.com
 spentamexico.org
 spimunologia.org
@@ -392,6 +391,7 @@ startupprofessionals.com
 stauntonarms.co.uk
 stcuthbertsinfantswells.co.uk
 sterrinswildworld.nl
+stigmaindex.org
 stpt.edu.cn
 stren.cz
 studio-nibble.com
@@ -412,7 +412,6 @@ tipaw.com
 tiveden.se
 tmart.com
 tomastichy.cz
-topeandtunde.com.ng
 townofrobbinsville.com
 tradehome.com
 trailrunproject.com
@@ -436,7 +435,6 @@ vectorcore.nl
 verwaltungsmanagement.at
 vgs.no
 vilde-blomster.dk
-visitskylinedrive.org
 viticabrol.fr
 vivacar.fr
 voipbuster.com
@@ -456,9 +454,12 @@ worldjob.or.kr
 writer.com
 wrth.com
 wtiqradio.com
+wu18h.cn
 wupperinst.org
 wwmindia.com
+xhjygy.com
 xn--michle-laure-rassat-tyb.fr
+xue-edu.com
 yamithakur.com
 yuecheers.com
 yurgved.ru

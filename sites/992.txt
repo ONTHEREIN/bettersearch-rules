@@ -26,7 +26,7 @@ amra.org.au
 andrey-dobrynin.ru
 ankama-music.com
 aprilnaokoheck.com
-aqibx.com
+apshenbo.com
 arquidiocesisdetuxtla.org
 arsenaledipalermo.it
 artesalvavidas.org
@@ -66,12 +66,14 @@ boldglowblog.com
 bon.com.na
 bpthemovie.com
 bramjnet.com
+brancabarao.com.br
 breederscup.com
 breeraitz.com
 brfamha.org
 britroyalbase.uk
 buddytuckerassociation.org
 buergerrat.de
+bxlcbl.com
 byterover.dev
 caca-cetsd.org.cn
 caitlinscrossroad.com
@@ -79,6 +81,7 @@ canal18.tv
 cappuccino.org
 cartomatic.pl
 casinokingzone.us
+casinorewardsca.com
 castellodimorsasco.it
 cdht.gov.cn
 cegedim-sante.com
@@ -107,6 +110,7 @@ crizzly.com
 croutelle.fr
 csfhome.org
 cubeecraft.com
+cxhrokt.cn
 cybersports-bets.ru
 dadecityswildthings.com
 daichimirai.co.jp
@@ -130,8 +134,6 @@ dornyaymuzeum.hu
 drancy.fr
 dresage.la
 ds-barranquilla.org
-dsosgarut.org
-dsoskintap.org
 dssresources.com
 dumasmusique.ca
 dutch-online.com
@@ -173,7 +175,6 @@ forest-lawn.com
 francoisbrunelle.com
 fredericksburgparent.net
 freecom.de
-freshcoins.io
 freshroyalhouse.nl
 friendspdx.org
 ftbb.com.br
@@ -215,12 +216,14 @@ hsiehwenyee.com
 htcconglb.org
 huyckpreserve.org
 iacsp-nctn.org
+ibingchong.com
 iborrowdesk.com
 idual.co.kr
 ifatwa.info
 igs-remagen.de
 ik-h.de
 inanna.beauty
+inaples.it
 infinitology.net
 info-ler.fr
 inforeg.ru
@@ -237,13 +240,14 @@ jdsports.be = jd group|jd sports|jd sports fashion plc
 jdsports.ie
 jeffkesslerforgovernor.com
 jessicashy.lt
-jethost.com
 johnjakes.com
 johnnymarr.com
 jolergaan.com
 josephineroberto.com
 jppt.org
+julzwest.com
 justinmyers.net
+justonweb.be
 juyeecasa.com
 jyxhdb.com
 k8s.af
@@ -288,11 +292,11 @@ loopnews.com
 lostwithpurpose.com
 louderstudios.com
 lovn1world.com
+lsd-hub-ice.site
 luki-eparhia.ru
 lycee-lacompa.fr
 mackinternational.de
 madriduniversal.com
-mafiagun.com
 magdalenwainfleet.co.uk
 majic959.com
 manset.fr
@@ -313,24 +317,24 @@ michaelwallis.com
 midsummermozart.org
 midwestexpress.com
 mileshield.co.uk
-mingsbistro.net
 mira.be
 missy-makeupartist.com
 mnbc.ca
 modernmusicschool.com
 monro-casino.eu
 moon33backss.shop
-moonwealth.io
 morisushila.com
 msccrociere.it
 muhouderovka.ru
 museum-boezberg.ch
 mynewhitman.com
+nalandacollegepup.com
 nanabunnonijyuuni-mobile.com
 nandedairport.co.in
 narkologicheskaya-clinika-v-rostove19.ru
 natalie-rauch.com
 natalyakusch.com
+nbfl.gov
 ncsem.org.uk
 neinver.com
 neoassist.com
@@ -367,7 +371,6 @@ pakozd.hu
 panduit.com
 paolopreite.net
 patronus.ai
-pawnbet.sk
 pc.co.il
 pfd.org.hk
 pgb.nl
@@ -390,6 +393,7 @@ proporta.com
 pugliapositiva.it
 pvld.org
 px-sunmake.org.tw
+qranhe.com
 qualificaportugal.pt
 queen-of-theme-party-games.com
 queertheology.com
@@ -438,6 +442,7 @@ somersetcinemas8.com
 somersvilletownecenter.com
 sonacaremedical.com
 sparkthedarkradio.com
+specialistid.com
 spectrumnews.org
 spincoreonline.co.uk
 spinelligroup.eu
@@ -460,7 +465,6 @@ swedrad.com
 talendig.com
 tallur.org
 te.ge
-teamoffice.tn
 termii.com
 thedreamshake.com
 theenergymix.com
@@ -482,7 +486,6 @@ trendpress.de
 trtarabi.com
 tv3network.com
 tvoikirpichi.ru
-uea8web.com
 umbhost.net
 umek.si
 uninta.edu.br
@@ -490,7 +493,7 @@ upsideliving.com
 urbancoinmarket.uk
 usa7cans.shop
 usa7workers.shop
-valkey.io = placeholderkv|valkey
+valkey.io
 varades.fr
 vchettange.com
 vedett.com
@@ -499,7 +502,6 @@ vericast.com
 vertexpokerpro.com
 viejournal.com
 vipers.no
-vipxue.com
 vipzus.com
 virusputnik.ee
 visi.co.za
@@ -529,7 +531,6 @@ xn--j1aisq.com
 xn--qg2b751axbz09f.kr
 yamazaki.hu
 yhe.center
-yiwansanxing.com
 zee7foreigns.de
 zgjhsyx.com
 zhmis.cn

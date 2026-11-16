@@ -1,3 +1,4 @@
+040000587.xyz
 5222mu.com
 88999314.xyz
 9b999br.asia
@@ -36,7 +37,6 @@ bethel-oh.gov
 betking.com
 betwinner-online.it
 bingozone.co.uk
-birmilyonnokta.com
 bleiswijk.nl
 blip.tv
 blue-cap.de
@@ -99,6 +99,7 @@ dngames.net
 dniprorada.gov.ua
 doctorsim.com
 double-espresso.com
+dsatziyan.com
 dutyfreefilm.com
 ecobot.co.in
 edstafford.org
@@ -110,7 +111,6 @@ erasmusintern.org
 eurobelarus.info
 euroguidance-france.org
 evangelisch-in-westfalen.de
-extremeorthopaedics.in
 fc-altendorf.de
 fengyunzhibo.com
 fidelitypr.com
@@ -136,19 +136,17 @@ gjensidigenor.no
 globalthoughts.us
 gobot.io
 goldenscope.ca
-goluboy.in
 gomlab.com = gom player|gomplayer
 gorod342.ru
 growag.pl
 gsis.edu.hk
-guangjizhen.com
-guavapass.com
 guillermovonplocki.com
 gymnasium-wbs.de
 haleeurope.com
 hammerwatch.com = hammerwatch|鐵鎚守衛者|铁锤守卫
 happy-kanako-anime.jp
 hawaiisharkencounters.com
+headlinednews.com
 heartandlung.org
 helenerochette.com
 henryliamward.com
@@ -160,6 +158,7 @@ hopital-islesursorgue.fr
 hotstovecoolmusic.org
 hrpub.org
 hrs.cn
+i9syl.cn
 ibarionex.net
 ie-forum.nl
 ifchronicle.com
@@ -194,6 +193,7 @@ klem1410.com
 km-produce.com
 koiduholdings.com
 kpcdn.net
+kpdrv.com
 ksm-info.de
 kukarkin.ru
 kuroslepy.cz
@@ -250,6 +250,7 @@ modernslotworld.com
 mppisek.cz
 muthootfincorp.com
 muya.com
+my2fz.com
 myforefront.org
 mystake3.org
 n-gene.net
@@ -374,7 +375,6 @@ tgc.edu.cn
 thebeautifulgirls.com
 themet.org.uk
 thesession.org
-tic88.bike
 tindrummusic.net
 touchofindiatwelveoaks.com
 traktorpool.de
@@ -413,12 +413,14 @@ wind-ship.fr
 winyatesprimary.co.uk
 wisconsinacademy.org
 wkpb.de
+wlf.fr
 wsu.ac.za
 wyssachen.ch
 xbrl.org
 xlri.ac.in
 yamadakotaro.com
 yamadera-goto-museum.jp
+yg6rf.cn
 ymc-inc.com
 yourmailorderbride.com
 zell-haidberg.com

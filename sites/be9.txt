@@ -2,7 +2,6 @@
 11gkb.by
 1win.channel
 200aldersgate.com
-21point-it.com
 247localdentist.com
 365psd.com
 49er.org
@@ -14,6 +13,7 @@ abacon.com
 abcvip.baby
 ac-pocketcamp.com = ac:pc|acpc|animal crossing pocket camp|animal crossing: pocket camp|pocket camp|动物之森 口袋营地|动物森友会 口袋露营广场|動物森友會 口袋露營廣場|口袋森友會
 achp.org
+addmi.com
 advokat-malov.ru
 africommunitydev.org
 afterlaunch.io
@@ -37,7 +37,7 @@ antena1.ro
 anthillstudios.com
 antimaydan.info
 apdo.co.uk
-apple.com = .caf|.mov|apple cocoa|apple creator studio|apple liquid glass|apple maps|apple quicktime|apple software update|apple watchos|aqua|av foundation|avfoundation|cocoa|creator studio|dock|garageband|itunes u|keychain|liquid glass|logic pro|mac os|mac os 10|mac os x|mac os x leopard|mac os x snow leopard|macintosh operating system x|macos|macos 10.12 sierra|macos 12|macos 12 monterey|macos 13|macos 13 ventura|macos 14|macos 14 sonoma|macos 15|macos 15 sequoia|macos 26|macos 26 tahoe|macos big sur|macos catalina|macos high sierra|macos mojave|macos monterey|macos sequoia|macos sierra|macos sonoma|macos tahoe|macos ventura|modern mac os|monterey|mov|notator logic|os x|os x 10.10|os x 10.11|os x 10.9|os x el capitan|os x mavericks|os x mountain lion|os x v10.9|os x yosemite|osx|qtkit|quick time|quicktime|quicktime 6.5.1|quicktime 7.6.4|quicktime player|quicktime pro|resedit|siri|spotlight|swift playgrounds|terminal|tvos|watch os|watchos|xsan|啟動台|液态玻璃|液態玻璃|程序坞|苹果地图|蘋果地圖|蘋果軟體更新|钥匙串|麥金塔操作系統十優勝美地|麥金塔操作系統十內華達山脈|麥金塔操作系統十小牛|麥金塔操作系統十美洲狮|麥金塔操作系統十莫哈韋沙漠|麥金塔操作系統十酋長巨石|麥金塔操作系統十雪豹|麦金塔操作系统|麦金塔操作系统十优胜美地|麦金塔操作系统十内华达山脉|麦金塔操作系统十小牛|麦金塔操作系统十美洲狮|麦金塔操作系统十酋长巨石|麦金塔操作系统十雪豹
+apple.com = .caf|.mov|.nib|.xib|airport admin utility|airport utility|airport工具程序|airport工具程式|apple cocoa|apple creator studio|apple darwin|apple ipados 16|apple iwork numbers|apple liquid glass|apple numbers|apple quicktime|carbon|cocoa|core animation|core audio|darwin|dashboard|dashcode|directory access|directory utility|dock|game center|interface builder|ios 15|ios 16|ios 17|ios 18|ios 26|ios 27|ios 7|ipados 15|ipados 16|ipados 17|ipados 18|ipados 27|iwork numbers|liquid glass|livetype|logic pro|logic studio|mac os x beta publique|mac os x public beta|mac os x 公开测试版|mac os x 公開測試版|mac os x公開測試版|macos|macos 12|macos 12 monterey|macos 13|macos 13 ventura|macos 14|macos 14 sonoma|macos 15|macos 15 sequoia|macos 26|macos 26 tahoe|macos golden gate|macos monterey|macos sequoia|macos sonoma|macos tahoe|macos ventura|monterey|mov|notator logic|numbers|os x 10.9|os x mavericks|os x v10.9|qtkit|quick look|quick time|quicktime|quicktime 6.5.1|quicktime 7.6.4|quicktime broadcaster|quicktime player|quicktime pro|realityos|ros|sherlock|siri ai|spaces|third major operating system release|visionos|webcore|xsan|啟動台|快速查看|数据表盘|液态玻璃|液態玻璃|程序坞|麥金塔操作系統十小牛|麦金塔操作系统十小牛
 archivioteatraleandresneumann.org
 arkitektforbundet.no
 artoyz.com
@@ -49,7 +49,6 @@ avevamusic.com
 baba-film.ru
 badugisite.net
 bakeracademic.com
-bambinositters.com
 bandaklb.com
 barooah.de
 bcvs.ch
@@ -59,6 +58,7 @@ beinenu.com
 bettanedesseauve.com
 beverlyshoresindiana.org
 bgd-muenster.de
+bitok.org
 bizisrael.org
 bmmarketing.ae
 bogatic.rs
@@ -99,7 +99,6 @@ comet-lucifer.jp
 connect-lng.no
 coolgiftideas.io
 corporateaccountability.org
-cosmicassurance.com
 courbillac.com
 crewseekers.net
 criptoapuestashub.com
@@ -129,6 +128,7 @@ editionsduboisbaudry.com
 edkentmedia.com
 ehfa-soest.de
 elsllibresdeltirant.com
+enepi.jp
 ensanahotels.com
 epicgambleplatform.com
 epudf.org
@@ -165,6 +165,7 @@ geophex.com
 george-davies.com
 globalheritagefund.org
 glyphicons.com
+godscreations.net
 gohotels.com
 golbblog.de
 goldcoastchiropracticcentre.com.au
@@ -217,6 +218,7 @@ jnetoto.events
 joeldouek.com
 journeywonders.com
 jssor.com
+jtvstudios.com
 junglerumblegame.com
 kachelmannwetter.com
 kadri-avocat.com
@@ -296,7 +298,6 @@ nestleaquarel.es
 nextfit.com.br
 nodebox.net = nodebox
 nohu9066.cyou
-nonprofits.org
 nordicresearchnetwork.co.uk
 northsideisd.us
 nxp.co.kr = nxp|nxp halfgeleider|nxp semiconductors|nxp semiconductors n.v.|philips semiconductors|恩智浦|恩智浦半导体|恩智浦半導體
@@ -354,7 +355,6 @@ queenkasey.com
 quoleady.com
 qwairy.co
 rabonaromania.com
-radionepal.gov.np
 reeldealtheater.com
 reipi.org
 reptarium.cz
@@ -367,6 +367,7 @@ rodolphemenudier.com
 rodrigogarcia.es
 rogercraigsmith.com
 romanticcollection.ru
+rosazzaesoterica.it
 royalhill.co.jp
 royalpark.com.hk
 rsc.cz
@@ -431,8 +432,8 @@ thfpr.de
 tiancity.com = mabinogi|洛奇|瑪奇
 tkachukrada.com
 toennies.de
-togelhariinikeluar.com
 tokyoartsandspace.jp
+tokyoblockchain.io
 tompiholics.com
 tonsite.biz
 toreno.net
@@ -443,16 +444,17 @@ tri2b.com
 trueoldieschannel.com
 tst-cfexpress.com
 tudelft3d.github.io
-tungleechina.com
 turbovote.org
 tut-universe.ru
 tylekeonhacai.tv
+typmnhc.com
 uceeb.cz
 ultrapalacelounge.com
 utcn.org.uk
 uw88alternatif.com
 vannacercena.com
 vaughanchiropractic.com
+vdgao.cn
 veinsweb.com
 vichy.com = cosmetic brand from l'oréal|vichy|vichy france|vichy laboratoires|薇姿
 vigilante-anime.com
@@ -464,6 +466,7 @@ visualg3.net
 viterbo.it
 voice-ev.org
 vrbo.io
+w171sj.cn
 wagerplace.nl
 wakamatsu-dc.com
 wans.xin
@@ -482,6 +485,8 @@ wonderlucks.casino
 worldtodaymag.co.uk
 wurthusa.com
 xedlw.com
+xxqitz.com
+y0x0h.cn
 yianinfo.com
 yic.ac.jp
 yonago-maintec.co.jp

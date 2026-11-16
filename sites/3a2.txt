@@ -67,7 +67,6 @@ britroyalworld.uk
 broncograveyard.com
 bullochhistory.com
 burg-neuhaus.de
-bussolasocial.com.br
 bvsua.com
 bwhf.ca
 c333br.asia
@@ -84,7 +83,6 @@ cff.ch
 cgg.gov.in
 chank.com
 chauxdudombief.fr
-chemaikeji.com
 chinesebuddhiststudies.org
 chlorito.cz
 christophejosse.com
@@ -182,8 +180,8 @@ gob.mx = 9-1-1|911|canada–united states–mexico agreement|chamber of deputies
 godeal24.com
 godembassy.com
 gonzoo.com
+gqhplqs.com
 greddy.com
-greenescapestourism.com
 gregorybraun.com
 grossinsider.com
 growvault.co.uk
@@ -192,6 +190,7 @@ gyakubiki.net
 gymta.cz
 harrissouthnorwood.org.uk
 hautclocher.fr
+healthinsurancewithsarah.com
 heateor.com
 helmetmusic.com
 hepgjournals.org
@@ -246,6 +245,7 @@ kaufmann-michael.de
 kavix.co.uk
 keeneland.com
 kesmithfoundation.org
+khthbl.com
 kifragenstellen.de
 kimmalonescott.com
 kingkaiworld.com
@@ -257,7 +257,6 @@ kmfa.gov.tw
 knda.tv
 kohseikai.com
 kupferbergcenter.org
-kxytest.com
 laurajanegrace.com
 laurenwolkstein.com
 ledopizza.com
@@ -277,6 +276,7 @@ machinima.com
 magdalenabaymusic.com
 maggiesaunders.nl
 mairie-lesorres.fr
+manclub.pink
 mantovano.org
 marketingtribune.nl
 masurebet.cc
@@ -292,6 +292,7 @@ mgmgoc.com
 michaelrozsypal.cz
 michielterpelle.nl
 miningmcv.com
+mm99a.fit
 modelthinkers.com
 moderncardshouse.com
 molleindustria.org = molleindustria|paolo pedercini
@@ -332,7 +333,6 @@ pavlovsk22.ru
 penpaperandplot.com
 peoriapublicschools.org
 pfa-auto.fr
-pickyourownfarms.org.uk
 piengineering.com
 pinkindecorozal.com
 piratedoggames.com
@@ -342,9 +342,11 @@ proletarka-sr.ru
 psocommons.org
 pulitzerarts.org
 pvfc.com.au
+qast.jp
 qbox.me
 qjgz123.com
 rastinehmedia.ir
+razorreturnsslot-nz.com
 redeemerlove.com
 restaurant-holen.fr
 revistanuestramerica.cl
@@ -352,6 +354,7 @@ rfmlib.hu
 rmmrosferramarsalismusic.it
 ro-na.net
 robertinoloreti.eu
+robertocalderon.com.br
 robertsungenis.org
 rocket-richess.nz
 rogermstein.com
@@ -406,6 +409,7 @@ surtainville.com
 swoodoo.com
 taise.org.tw
 taiyooil.net
+takobear.tw
 tank-ono.cz
 tanqbq.cn
 televisionaryblog.com
@@ -467,8 +471,6 @@ whatboyswant.com
 whatistherpg.com
 whe.org
 wingz93.com
-winshark-de1.org
-winvistatips.com
 winzer-sommerach.de
 wissettplough.co.uk
 wisvetsmuseum.com

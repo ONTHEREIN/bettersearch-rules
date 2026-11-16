@@ -50,7 +50,6 @@ black-lotus-casino.co.uk
 blackdoctor.org
 blaguss-agora.hu
 blakit.by
-bmw.hu
 bogotaboe.com
 bonebenders.com
 brbrbrbet.website
@@ -81,6 +80,7 @@ cineuropa.gal
 civicdiaries.au
 cl1p.net
 clicknothing.com
+cliniciansofcolor.org
 cobra-museum.nl
 codeclimate.com
 codeclub.net.cn
@@ -116,6 +116,7 @@ deinbacher-dorfladen.de
 deinejpn.de
 demaco.com
 deshabhimani.com
+deweijs.nl
 dewitteschoolarnhem.nl
 digitalwinsnetwork.nl
 dijousbo.es
@@ -131,6 +132,7 @@ drarvindersingh.com
 dubaistartbusiness.com
 eastcapehealthcenter.org
 easytigerusa.com
+eboahq.cn
 ecalc.ch
 echoportal.ca
 edelweiss-berchtesgaden.com
@@ -199,6 +201,7 @@ hotelnewsresource.com
 hotels.com = hotels.com|好訂網|好订网
 hr-technology.co.jp
 hristobotev.org
+hthkhj.com
 hughesentertainmentinc.com
 humanappeal.org.uk
 hurriyetaile.com
@@ -247,7 +250,6 @@ leatherobsession.com
 leer.de
 lemanbleu.ch
 lemona.co.kr
-lhmoshan.com
 lhyc.gov.cn
 librejournal.fr
 lif.lt
@@ -304,6 +306,7 @@ nikon.co.uk
 njrts.edu.cn
 nons.se
 novawheelbridge.it
+ntxinao.com
 obecdapalovce.sk
 ogci.com
 ohtapark.ru
@@ -363,6 +366,7 @@ schuleruhland.de
 scmoujiang.cn
 seedaud.io
 senviv.com
+seoyourbusiness.com
 shengjiangwhcm.com
 shift-technology.com
 shougang.com.cn = shougang|shougang corporation|shougang group|首都鋼鐵|首鋼|首鋼集團|首钢|首钢集团|首钢集团有限公司
@@ -403,7 +407,6 @@ tamasen.ac.jp
 tamirgoodman.com
 tedsbakery.com
 teifsepahan.com
-telegraphyx.com
 telemolise.com
 telluride.com
 tempus-termine.com
@@ -449,13 +452,14 @@ viktoriaskolan.se
 village-fassett.com
 visionluckystation.com
 visionthai.net
-vivecbd.com
+visittelemark.info
 vividhomeamsterdam.nl
 voepantanal.com.br
 vote4troy.org
 vymo.com
 waltham.ac.uk
 webcorelab.com
+webstercountycitizen.com
 westtech.edu
 wheremindsgrow.org
 wielowies.pl
@@ -467,10 +471,8 @@ wspencer.com
 wvxu.org
 wxfengxin.com
 xgdfwz.com
-xinliwh.com
 xmlmt.com
 yellow-cab.co.jp
-yiqikq.com
 yocasol.com
 ystadsif.se
 yuwenxiandaihua.com

@@ -16,7 +16,6 @@ aislinthemes.com
 alkamilpower.com
 allwebco-templates.com
 almazcinema.ru
-almostfamousburgers.com
 alpenwelt-karwendel.de
 alphabetplatform.nl
 alta.no
@@ -53,7 +52,6 @@ betzito.se
 bierkellertheatre.com
 bintelfunk.com
 bio-link.com.hk
-bisping.de
 blau-weiss-aachen.de
 blerp.com
 bookofra-ch.com
@@ -72,6 +70,7 @@ buildwithkaif.vercel.app
 burg-hohnstein.info
 bydgoszcz.eu
 cak-mlinovi.hr
+caleromarinas.com
 calixa-lavallee.ca
 caloo.jp
 cameronisd.net
@@ -131,8 +130,6 @@ drawn.ca
 dreammoods.com
 drewcbrucker.com
 driverzone.com
-drxynn.com
-dsosbandung.org
 e-health.gov.ua
 earlspencerprimary.org
 ebonylifetv.com
@@ -148,7 +145,6 @@ enjoyjazz.de
 ensemble-recherche.de
 equalpride.com
 essexcountycc.com
-etowns.ir
 eugeniusthemusical.com
 expo2025-inochinoakashi.com
 familywithlatitude.com
@@ -210,7 +206,6 @@ horse.com
 hortilan.com
 hospices-de-beaujeu.com
 houensodde.dk
-hu-shufflecasino.com
 hudsonriverbiotechnology.com
 huntingandfishing.co.nz
 huntingtonliga.be
@@ -248,7 +243,6 @@ jxsafety.gov.cn
 kantia.com.cn
 karelia-muz.ru
 karoo.net
-kastenreus.nl
 katielinendoll.com
 kazemjalali.com
 kearnyschools.com
@@ -355,6 +349,7 @@ promatcher.com
 psbindia.com
 pswlepecq.fr
 pubg.com = new state mobile|playerunknown's battlegrounds|pubg|pubg: battlegrounds|pubg: new state|吃鸡|吃鸡遊戲|无名玩家的戰場|絕地求生|絕地求生：大逃殺|绝地求生：大逃杀|绝地求生：未来之役
+pxhmdc.com
 radiocultura.com.br
 rapidpalace.de
 realmwager.de
@@ -396,11 +391,13 @@ seggau.com
 seihoutei.com
 semecourt.fr
 sendbet-casino-it.com
+seovixen.com
 sfybzlyfw.com
 sheaker.com
 shermay.com
 shichifukuya.co.jp
 shiguai.gov.cn
+sifangyixue.com
 slrect.site
 smartcarssale.com
 smdbhb.nl
@@ -468,6 +465,7 @@ urbanclassiccorner.uk
 usbiathlon.org
 uts.com.tw
 valdi.ski
+valuex.top
 veerman.be
 vegaspro.nl
 veiikvapeslovenija.com
@@ -483,7 +481,6 @@ vogtlandradio.de
 voicenote.jp
 voicesofcle.com
 volleyballnantes.com
-wagento.com
 wbgcc.com
 weadapt.org
 webfluential.com
@@ -498,17 +495,19 @@ womenacceptingresponsibility.org
 worldkentucky.org
 wsinform.com
 wuaze.com
+x4xs.cn
 xnet.co.il
 xoilac7tv.tv
 xybernaut.com
 xys.org
 yanaginagi.net
+yanchang178.cn
 yifun.com
 yuesufuzhuang.top
 yxluzhou.com
 zee7imagines.xyz
-zghnnmhzs.com
 zhdlaser.com
+zhuai3.cn
 ziyangwu.com
 zjxxt.cn
 zoetis.in

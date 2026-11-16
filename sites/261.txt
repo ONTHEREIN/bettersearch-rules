@@ -1,9 +1,10 @@
-12371.cn = ccp|chinese communist party|communist party of china|cpc|中共|中共党员|中国共产党|中國共產黨|共产党|共產黨
+12371.cn = ccp|chinese communist party|communist party of china|cpc|中共|中共党员|中共黨員|中国共产党|中國共產黨|共产党|共產黨
 1x1artgallery.com
 1xbetplay.live
 35media.ru
 789.club
 aacoma-interreg.eu
+aamor.nl
 abrahampaul.com
 achimberg.com
 acon8.wordpress.com
@@ -51,7 +52,6 @@ bielmusic.com
 bifrost.is
 bitplanetgames.com
 bjstats.gov.cn
-bkodllc.com
 bluegrassmusic.com
 blues-shelter.com
 bmofa.org
@@ -116,11 +116,11 @@ dishacollege.net
 dlouhy.at
 domainhandel.biz
 donedeal.ie
-doulamaiju.fi
 dp-g.jp
 drpablovaquero.com
 dueholmskolen.dk
 dunaszeg.hu
+dwbeij.cn
 e-agency-china.info
 eastasiaholdings.co.kr
 ebillity.com
@@ -169,7 +169,6 @@ geocaching.hu
 gimnaziata.net
 glensfallshospital.org
 glorion-swiss.com
-go88.top
 goldslot.it
 gomemphis.com
 goplaythat.com
@@ -181,6 +180,7 @@ gut-testorf.de
 h2k.fi
 haileybury.kz
 hassbio.com
+hdbet.social
 hdtjme.cn
 heavensbasement.com
 hellasketchybeats.com
@@ -248,7 +248,6 @@ kazumanakatani.com
 ke-i.org
 kfavradio.com
 kimberleyschool.co.uk
-kimsa88-casino.com
 kinetic.com
 kingstreetgallery.co.uk
 kk45am.com
@@ -290,13 +289,11 @@ mch-futsal.de
 mdcalc.com
 mediafilter.org
 metoffice.gov.uk
-mettainstitute.org
 mhc.com.my
 mindener-hafen.de
 mirthadermisache.com
 missoulaunitedway.org
 mobilesymphony.org
-mostbet50579.icu
 mtfa.se
 mulyam.com
 munich-airport.com
@@ -316,7 +313,6 @@ noma.de
 novi-bets-ie.com
 npsaunkh.in
 nscc-gz.cn
-nsqbjdm.com
 nwpinballshow.com
 obecdzbel.cz
 obecskvoretice.cz
@@ -332,9 +328,9 @@ pathiatechnologies.co.uk
 pergolese.com
 petticoatjunktion.com
 peugeot.com.cn
+pkck8j3.cn
 pl-kasyno-online.com
 poi-game.com
-pomorskafundacja.org.pl
 portal.app
 possmann.de
 protest.net
@@ -346,7 +342,6 @@ raine.com
 rakurakumeisai.jp
 ran-d.com
 rastkociric.com
-ratujudiaman.com
 rcmart.com
 rdio.com = rdio
 red-team-design.com
@@ -394,6 +389,7 @@ skinnyquick.co
 slotsreportupdate.co.uk
 slotticasino.fi
 smartclubworld.nl
+songsbyphen.com
 sorginenea.org
 sothebyswine.com
 soulgregartist.com
@@ -401,7 +397,7 @@ southeasternbaptist.edu
 spcanevada.org
 spillforlaget.no
 sproot.co.jp
-squirrelsofafeather.com
+ssdqk.cn
 sta-zehlendorf.de
 stags.co.uk
 standhigh.net
@@ -412,6 +408,7 @@ suffolk.ac.uk
 superfiliate.com
 sustainableelectronics.org
 sutrobio.com
+sygzsshangmao.cn
 symbio.global
 symondsburyestate.co.uk
 tacelo.ch
@@ -419,7 +416,6 @@ tafalla.es
 tamtay.vn
 tassiliairlines.dz
 teamalert.nl
-teamlead.pw
 terminuscoonamble.com
 termotron.ru
 terrifields.com
@@ -433,7 +429,6 @@ thestarsareright.org
 thetalkingmachines.com
 thomaskikta.com
 thrivia.io
-ticketize.io
 tierpark.ch
 timesup.org
 titellus.net
@@ -447,7 +442,6 @@ trekhleb.dev
 trinite-roubaix.fr
 tripadvisor.com.ve
 trustedplaces.com
-trustinclub.com
 turanynadondavou.sk
 turismojerez.com
 tuscanylv.com
@@ -478,6 +472,7 @@ w4.org
 waetjens-park.de
 wanganuirugby.co.nz
 warnermusic.it
+wasatchengineeringcontractors.com
 waywithwords.net
 wei-nb.cn
 weidenberg.de
@@ -491,8 +486,11 @@ wkhoogerheide2009.nl
 woodford-halse.co.uk
 worldnetmag.co.uk
 wpnewsify.com
+wsscia04944.cn
 xlbetcasino-fi.com
+xmmyry.com
 xoilaczbj.tv
+xtof5.cn
 yachtrevue.at
 yedda.com
 yerayvazquez.com

@@ -18,6 +18,7 @@ anlanzk.com
 annaszabolcsi.com
 antihero-game.com = antihero
 aptarro.com
+arbortechtools.com
 arcep.fr
 arkansashighways.com
 armeniatoday.am
@@ -41,7 +42,6 @@ bk-opladen.de
 blogglobaltoday.co.uk
 blueprintsprograms.org
 brackenridgepark.com
-breadnshow.ru
 brendancroker.com
 bricklightstudios.com
 brightluckylab.nl
@@ -83,7 +83,6 @@ cozycampers.is
 crazytimegame-be.com
 crazytimegame-nz.com
 cresta.com
-cricketbetting-id.com
 crsdop.org
 csncalifornia.com
 cydaindia.org
@@ -92,6 +91,7 @@ dailyclassicinsight.uk
 dailylit.com
 dalmec.com
 danielryanmorse.com
+dankainen.com
 dartharbour.org
 datalere.com
 defonic.com
@@ -204,22 +204,20 @@ j-csam.org
 jackpotinsightfocus.co.uk
 jackpotspotlight.co.uk
 jayramier.com
-jb-official.net
 jccbi.gov
 jcp-ota.jp
 jcy.gov.cn
 johnrabe.de
 jonhernandez.eus
+jrzvefox.cn
 juroen-tea.jp
 kaizerchiefs.com
 kalispell.com
 karinagurina.ru
-karnakcorp.com
 kd-shoes.us
 kdnet.net
 kentuckyconnect.com
 kerktzandt.nl
-khanacademy.pl
 kinan.co.jp
 kingsleyukeje.com
 kintex.com
@@ -247,7 +245,6 @@ luft46.com
 maebashi-yakuyoke.com
 maisondudanemark.dk
 makoba.com
-mannacomingdown.org
 marcia-griffiths.com
 marctauss.com
 marcthiercelin.com
@@ -344,6 +341,7 @@ rimavskejanovce.sk
 rippleworld.ca
 robozzle.com
 rocksound.tv
+runenjingguan.com
 rwcpulse.com
 safeinourworld.org
 saintgermainaumontdor.org
@@ -356,13 +354,13 @@ sauloruizmoreno.com
 savelist.co
 scobey.org
 sdtxne.com
+securesky-tech.com
 semainedesspectacles.fr
 sff.se
 shazam.net
 shedia.gr
 shekicks.net
 shishirdey.com
-shonai-ryokuchi.jp
 shopatcentralpark.com
 shopgreenhills.com
 shoplyftermylf.com
@@ -397,7 +395,6 @@ szkolamistrzowreklamy.pl
 tab.bot
 tankuniversal.com
 tayfun-sport.ru
-techtalks.co.in
 tellmewhygame.com = tell me why|tell me why 謂何|謂何|谓何
 tever.es
 the-phone-casino.co.uk
@@ -472,6 +469,7 @@ xatu.cn
 xinglanad.cc
 xn--c1aff6b0c.xn--p1ai
 yaimaline.com
+ydjyfgs.com
 yelmjouie.com
 yes-zhytomyr.com.ua
 yolasite.com
@@ -481,3 +479,4 @@ zee61sures.de
 zentechportal.nl
 zeolearn.com
 zitraar.com
+zzxmg.com

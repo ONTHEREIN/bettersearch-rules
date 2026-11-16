@@ -25,7 +25,6 @@ affine.pro
 agbuo.com
 aiagentmanifesto.org
 airbornemx.com
-airedfish.com
 airtel.in = airtel india|tata docomo
 akik.de
 alicewalton.org
@@ -38,7 +37,6 @@ anylogic.com = anylogic
 anzwers.net
 apex-designs.net = payback 2
 aqgroup.com
-artok.co
 at-link.net
 atataspolat.com
 aurionpro.com
@@ -63,6 +61,7 @@ borco.com
 browningsociety.org
 bsl.it
 bubbleroom.se
+bulkbooks.com
 buryfc.co.uk
 bzh-ny.org
 ca7leasts.xyz
@@ -83,7 +82,6 @@ chequedomicile.fr
 christoph-muster.de
 cini.it
 cityofedinburghbasketball.net
-ck999.org
 clarku.edu
 clearlogicpro.nl
 cloudcredential.org
@@ -120,7 +118,6 @@ dovo.com
 dreamlum.cl
 dungeonsofdredmor.com = dungeons of dredmor
 eage.org
-ehtp.ac.ma
 elexmedia.id
 eliasnaumann.de
 emcali.com.co
@@ -162,7 +159,6 @@ fur.ly
 galliasaintes.com
 gambloriacasino.ch
 garantpost.ru
-gcvipaff.com
 gemeinde-niemetal.de
 gemeindeneukirchen.at
 geneticeducation.co.in
@@ -171,6 +167,7 @@ glaxnimate.org = glaxnimate
 gofilmfest.org
 gospelmetrics.com
 graana.com
+groups.google.com
 gruene-reutlingen.de
 gulf12hours.com
 gvac.se
@@ -221,6 +218,7 @@ jiwe.or.jp
 jockmcfadyen.com
 joellek.com
 johngalliano.com
+johnpricelawfirm.com
 jointacademy.com
 josephsmithpapers.org
 juegos.com
@@ -361,7 +359,7 @@ safinat.com
 salutationcountryhotel.co.uk
 sammcknight.com
 santemariaromitelli.com
-sap.com = abap|abap/4|adaptive server anywhere|crystal reports|maxdb|powerdesigner|sap|sap business bydesign|sap business one|sap business suite 4 sap hana|sap community|sap community network|sap db|sap developer network|sap enterprise resource planning|sap erp|sap hana|sap netweaver application server|sap netweaver business intelligence|sap netweaver portal|sap ondemand solutions|sap s/4hana|sap scn|sap sdn|sap se|sap solution manager|sap web应用服务器|sap web應用伺服器|sap web應用服務器|sap.com|sap企业资源规划|sap公司|sql anywhere|sql anywhere studio|watcom sql|思愛普|思愛普公司|水晶报表
+sap.com = abap|abap/4|crystal reports|powerdesigner|sap|sap business bydesign|sap business one|sap business suite 4 sap hana|sap community|sap community network|sap developer network|sap enterprise resource planning|sap erp|sap hana|sap netweaver application server|sap netweaver business intelligence|sap netweaver portal|sap ondemand solutions|sap s/4hana|sap scn|sap sdn|sap se|sap solution manager|sap web应用服务器|sap web應用伺服器|sap web應用服務器|sap.com|sap企业资源规划|sap公司|思愛普|思愛普公司|水晶报表
 sbs-humboldtforum.de
 sccm.org
 schedryk.com
@@ -370,13 +368,12 @@ schulmuseum.de
 scotecon.org
 scwedding-berlin.de
 scyfss.cn
-scyz66.com
 searchforlifeinspace.com
 sephora.gr
 setacjournals.org
 shekar.ai
-shilpichawla.com
 silverdoor.com
+simmonssportinggoods.com
 skanetrafiken.se
 skegnessnatureland.co.uk
 skye.co.uk
@@ -427,6 +424,7 @@ tris.com.hr
 triumphmotorcycles.com
 trubin.cz
 truststainc.com
+twomerry.com
 ubyssey.ca
 uck.ac.rw
 udfparty.org
@@ -459,7 +457,6 @@ website-performance.org
 wehdz.gov.cn
 welcometoshivercliff.com
 whv.jp
-winheroes.nl
 winxuan.com
 winzerhof-gussek.de
 winzoria.pl
@@ -467,6 +464,7 @@ wiretrip.net
 worldusmagazine.com
 xn--80aabfqjjba0cfdftira.xn--p1ai
 younggreensireland.ie
+yyvvq28.cn
 zahnarztbahlmann.de
 zaius.com
 zebus-ev.de

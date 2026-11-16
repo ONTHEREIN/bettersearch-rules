@@ -19,12 +19,12 @@ aceclassicaled.org
 adterminals.ae
 adventistkirke.dk
 adventofcode.com = advent of code|adventofcode|adventofcode.com|aoc
-advocatdnepr.com.ua
 afscme31.org
 akashsystems.com
 akddanmark.dk
 alchemia-nova.eu
 aldenhoven.de
+alexniggel.fr
 alfredjarry.fr
 algallodoro.com
 amersfoortse.nl
@@ -72,7 +72,6 @@ buuruljuut.mn
 byrotation.com
 ca7patterns.xyz
 calaisa.com
-calidaddelaire.co
 candle.am
 casinobet-online.casino
 casoriacontemporaryartmuseum.com
@@ -122,7 +121,6 @@ dne.no
 dokusammlung.de
 dominic-deegan.com
 dreamstage.live
-dsoskapuas.org
 dutchitchannel.nl
 easthaddamhistory.org
 ecoinvest.ai
@@ -138,6 +136,7 @@ englishsummary.com
 eparhiaargesului.ro
 ericfrattini.com
 esoil.ru
+estanteria.biz
 eu2008.si
 eurasianacademy.org
 eventbuilder.com
@@ -212,6 +211,7 @@ infinitelevelupflowhq.com
 izraelikultura.hu
 jcbrooksband.com
 jernbane.no
+jishuiyuan.com
 johnmalpede.info
 johnnyvicious.com
 jotci.org
@@ -301,7 +301,6 @@ nicolasmithjackson.com
 northhills.co.jp
 nowdrop.co.uk
 occac.org
-ogumujp.com
 ohiopawpawfest.com
 okcash.io
 okvipno1.com
@@ -396,7 +395,6 @@ summitesports.de
 sunsete-festival.fr
 sweetspotsweden.com
 swiftbazaargames.com
-sxrsedu.cn
 szczawnica.eu
 tampereunited.fi
 tenuedenimes.com
@@ -421,7 +419,6 @@ trendscenter.org
 tsugaru-michihiro.com
 ttpod.com
 tylersheatingandcooling.com
-tyrdfe.com
 uasnorway.no
 ufm1055.com
 unitypoint.org
@@ -450,7 +447,6 @@ wg5-fortran.org
 whatawaytogomovie.com
 wilddata.cn
 winfieldcity.org
-winmasters-casino.net
 winonlinesite.co.uk
 wolfnet.pl
 wonacogiocare.it
@@ -460,7 +456,6 @@ wwlp.com
 xinyunda-gov.cn
 xn--80aejrcevcz8c.xn--p1ai
 xoilacvad.tv
-yartube.ru
 yesmadam.com
 yongyello.be
 zejtunlocalcouncil.com

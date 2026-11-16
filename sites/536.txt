@@ -15,7 +15,6 @@ adfixus.com
 akilah.co
 alcalamirada.cat
 alexander-engelhard.de
-alffastener.de
 allianzworldwidecare.com
 alternative-doctor.com
 alternativegames.net
@@ -25,7 +24,6 @@ andresauve.com
 anihoover.com
 antipenko.com
 antskins.com
-appliedaicourse.com
 arbitrum.one
 arnesenbluesband.se
 arsuzescort.net
@@ -44,7 +42,6 @@ bentacera.nl
 bets10giris.guru
 bgcharfordco.org
 bigmailbox.com
-bloog.it
 boothbrothers.com
 breeze995.com
 breitenbach-hautrhin.fr
@@ -143,7 +140,6 @@ everysecondcounts.eu
 evisa.gov.zw
 fainitelecommunication.com
 fcem.ch
-fclm365.com
 federacjadlarp.org
 feg.bg
 fellbach.de
@@ -219,6 +215,7 @@ itrnznre.top
 ivy.ai
 iwapr.tv
 jackpotwager.de
+jazzfinland.fi
 jennyparks.com
 jingzhe003.com
 jiuai9.com
@@ -318,18 +315,16 @@ opencvs.org = cvs|cvs.1|opencvs
 opwest.org
 oravskypodzamok.sk
 ostschule.de
+oxibetscasino.com
 padmultienergy.it
-panjat4dketua.com
 paralelnipolis.cz
 paramountchannel.pl
 patricklane.ca
 pavlovia.org
-pcysyly.com
 pdmu.edu.ua
 pearsonschool.com
 peregrineclothing.co.uk
 piedao.org
-platin-casino-es.es
 playzamax.co.uk
 plough-upperdicker.co.uk
 polarkreis18.de
@@ -386,6 +381,7 @@ skeptically.org
 slagelsefaegteklub.dk
 slesinstitutions.com
 slotenmakersamsterdam.nl
+slotgacor123.org
 smartdiceonline.uk
 smartproxy.ai
 smirnoff.com = smirnoff|smirnoff vodka|smirnov vodka|皇冠伏特加
@@ -418,7 +414,6 @@ syncasso.nl
 tcpglobal.com
 teamheretics.com
 teatr-piero.ru
-tedukuri-ichi.com
 tenisportal.cz
 terrafinder.de
 tetsuyas.com
@@ -452,7 +447,6 @@ vadesto.nl
 vaniadelafuente.com
 vavada-kz.bet
 vehklemisliit.ee
-vernacare.com
 victoriacross.org.uk
 villerslafaye.fr
 vipreview.uk
@@ -470,4 +464,3 @@ yar-yahu.ru
 yavuzcetin.com
 z96.com
 zhangyi666.cn
-zoekeensop.nl

@@ -71,6 +71,7 @@ camden.sch.uk
 cape-decking.co.za
 carbonfact.com
 casino-online-pinco.kz
+cgtts.com
 cheltenhamsaracensrugby.com
 chenyachao.com.cn
 christinamilian.com
@@ -137,7 +138,6 @@ ernieapp.com
 esthauto.com
 evangelicalarminians.org
 event0game.com = event 0|event[0]|零号事件
-fangrongmiantai.com
 fantasykhiladi.com
 fc-ross.ru
 fcmcclerk.com
@@ -274,7 +274,6 @@ muse-live.com
 musikapostel.com
 mysteryvibe.com
 n55.dk
-narkologicheskij-staczionar-moskva-zrt.ru
 nationalhispanicleadership.org
 ndsb-sh.de
 nebelnest.com
@@ -290,7 +289,6 @@ niwasato.net
 nix-wie-weg.de
 notesfrommagic.com
 novaaeg.it
-nowlive.com
 numetricacity.ca
 oakleycourt.co.uk
 ocean-system.com
@@ -298,6 +296,7 @@ odesa.one
 okazaki-u.ac.jp
 opblaasfiguurshop.nl
 optmsg.com
+oredawn.com
 oregon-berries.com
 ottawablackbears.com
 overose.com
@@ -311,7 +310,6 @@ petmania.nl
 pharao-rockband.de
 picassohead.com
 picnicss.com
-pinganzhengxin.com
 pizarra.es
 pluradent.de
 pnstory.kr
@@ -322,7 +320,6 @@ prudentialplc.com = prudential|prudential assurance|prudential assurance company
 psv-bielefeld.de
 publicconsultinggroup.com
 pulseukhub.co.uk
-qjfjkfw.com
 qlgeopark.com
 quizexpo.com
 radiozenit.ru
@@ -367,7 +364,6 @@ sfhs.org
 shaolintagou.com
 sheffield.ac.uk
 shhk.com.sg
-singhch.in
 sizu.me
 skbioscience.co.kr
 skoo.pk
@@ -404,7 +400,6 @@ swu.bg
 syntaxdata.com
 szhjba.com
 takaya-sano.com
-teanabroad.org
 teapartynation.com
 technovelty.org
 testjssummit.com
@@ -420,7 +415,6 @@ theses.fr
 thesportsmanchannel.com
 timmydooley.ie
 tongrentangkj.com
-topitaliacasino.com
 touregypt.net
 tower28beauty.com
 townofduck.com

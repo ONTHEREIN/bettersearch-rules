@@ -1,3 +1,4 @@
+123reclamaotravez.com
 360advanced.com
 5thirtyone.com
 6733br.asia
@@ -11,6 +12,7 @@ aceternity.com
 ack-punk.de
 adamow.eu
 ads-steuer.de
+afslfgk.com
 ajas.org
 aknachod.cz
 alderheycharity.org
@@ -38,7 +40,6 @@ aspire-training.com.au
 atlantic.de
 attensity.com
 autumnnationscup.com
-axt70m.com
 aydogduali.github.io
 az-dunyam.com
 b-uentertainment.com
@@ -110,6 +111,7 @@ czwnk.com
 dailyviet.vn
 dancersgroup.org
 dantherm-power.com
+dao33.com
 darknetmarketnexus.app
 datacenter.news
 dbcitanagar.com
@@ -170,14 +172,14 @@ gdpnez.com
 getshepass.com
 globalproseosalespromotion.shop
 glvmuseet.se
-gnu.org = archimedes|auctex|autoconf|automake|binutils|bison|cflow|dejagnu|dr genius|dr-geo|dr. geo|dr. geo ii|drgenius|drgeo|emacs|emacs/w3|erc|gcc|geometry exploration observatory|gindent|global|gmake|gnash|gnu arch|gnu archimedes|gnu automake|gnu binary utilities|gnu binutils|gnu bison|gnu c library|gnu c 函式库|gnu cflow|gnu chess|gnu classpath|gnu cobol|gnu compiler collection|gnu core utilities|gnu debugger|gnu dr. geo|gnu emacs|gnu global|gnu guix|gnu guix system|gnu guix系統|gnu indent|gnu libredwg|gnu libtool|gnu lightning|gnu linear programming kit|gnu make|gnu mcsim|gnu ocrad|gnu portable threads|gnu pspp|gnu readline|gnu recutils|gnu scientific library|gnu wget|gnu xboard|gnu zebra|gnu zile|gnu-arch|gnu-make|gnu/make|gnu_classpath|gnucflow|gnucobol|gnulib|gnu侦错器|gnu偵錯器|gnu可移植线程库|gnu核心實用程式|gnu核心工具組|gnu核心工具组|gnu犎牛|gnu科学数值库|gnu科學研究用函式庫|gnu線性規劃工具集|gnu编译器套裝|groff|guix|guix system|guix系統|harmony|icedove|indent|libredwg|librejs|libtool|make|mcsim|ocrad|opencobol|osip|rcirc|reftex|tla|wget|xboard|zile
+gnu.org = autoconf|automake|bash|bash shell|binutils|bison|bourne again shell|bourne-again shell|coreutils|data display debugger|ddd|ddrescue|dejagnu|emacs|emacs web wowser|eww|gas|gcc|gcj|gcl|gddrescue|gel|gfortran|gij|gjavac|gnash|gnat|gnu arch|gnu as|gnu assembler|gnu automake|gnu bash|gnu binary utilities|gnu binutils|gnu bison|gnu c compiler|gnu c++ compiler|gnu classpath|gnu common lisp|gnu compiler collection|gnu compiler for java|gnu core utilities|gnu coreutils|gnu ddd|gnu ddrescue|gnu emacs|gnu emacs web wowser|gnu extension language|gnu fortran|gnu gcj|gnu gnash|gnu go|gnu guile|gnu guix|gnu guix system|gnu guix系統|gnu hello|gnu librejs|gnu libtool|gnu m4|gnu new york university ada translator|gnu nyu ada translator|gnu osip library|gnu parted|gnu parteed|gnu pspp|gnu savannah|gnu scientific library|gnu texinfo|gnu-arch|gnu_classpath|gnugo|gnu核心實用程式|gnu核心工具組|gnu核心工具组|gnu汇编器|gnu犎牛|gnu科学数值库|gnu科學數值庫|gnu科學研究用函式庫|gnu組譯器|gnu编译器套裝|gnu草原|gsl|guile|hello|libosip|libosip2|libparted|librejs|libtool|omnibus sip|osip|parted|pspp|savannah|shell|texinfo|tla|資料顯示除錯器
 gocn.org
 goodwall.io
 gpzoo.org
-grandmasbackyardbbq.com
 grynsoft.com
 gseo.com
 haitianproject.org
+hapticmedia.com
 hasamiyaki.jp
 healthwatchtorbay.org.uk
 heartfeltcardiacprojects.org
@@ -220,14 +222,12 @@ judithayates.com
 k24.digital
 kaiafoods.com
 kaitosec.app
-kamijyopack.com
 keisho.info
 kellyleighcreates.com
 kevinandkarendance.com
 keyworddensitychecker.com
 kickpeak.co.uk
 kikishiretoko.co.jp
-kingsgame-casino.com
 klout.com = klout|klout.com
 konomi.work
 kretam.com
@@ -279,7 +279,6 @@ mercanmadeniyaglar.com
 mettet-xp.be
 miamibeachgolfclub.com
 mickeyblog.com
-migliori-siti-di-slot-online.com
 millennialmagazine.com
 mineola-ny.gov
 mipp.cz
@@ -315,7 +314,6 @@ nurse-senka.com
 nwcttransit.com
 obecbrasy.cz
 obscorantijn.nl
-obyhhnw.com
 ofdollarsanddata.com
 officiallosxl.com
 onbewolkt.nl
@@ -389,6 +387,7 @@ seicaru.ro
 seihakuji.com
 semio2014.org
 senanarchitects.com
+seoandlinks.com
 sethherzog.biz
 shandongpipe.com
 shasta.vc
@@ -460,6 +459,7 @@ unne.edu.ar
 valken68.nl
 valwood.org
 vasilikamoon.org
+vazuna5iv6.cn
 vb88.social
 venturatheater.net
 venturegrowthpartners.com

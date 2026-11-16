@@ -33,6 +33,7 @@ atithidevobhawa.com
 audax-club-parisien.com
 avcesar.com
 aviamaster.in
+ayrsty.com
 bacacountyco.gov
 bacharchivleipzig.de
 badcryptopodcast.com
@@ -47,9 +48,7 @@ bayernets.de
 beaconartscentre.co.uk
 ben-shoshan.com
 bernardchang.com
-bertal.ru
 bestcasinositeonline.org
-beterlenen.nl
 bigmat.es
 bikehikesafari.com
 bikra.ma
@@ -58,7 +57,6 @@ blestoncourt.com
 bluyssenfonds.nl
 bmatleticodemadrid.com
 bmw-werk-dingolfing.de
-boghesdebagamundos.com
 bonitotrilhadomirante.com.br
 brainheal.in
 brandvapefactory.com
@@ -87,11 +85,12 @@ chaoschemnitz.de
 chimaira.de
 cicov.sk
 cinemare.org
-cinematografo.it
+cinematografo.it = cinematografo|cinematografo.it|rivista del cinematografo
 cineroxy.com.br
 cityofgulfbreeze.com
 classinform.ru
 clubeatleticotupi.com.br
+clubruay.com
 cnmontessori.co.kr
 cobenabarcelonagallery.com
 codinagrup.com
@@ -122,7 +121,6 @@ dght.de
 diamondpokerpoint.com
 diariodopoder.com.br
 digitale-doerfer.de
-digitgaps.com
 discoverminoapediadas.gr
 displayfusion.com
 documenta-fifteen.de
@@ -142,6 +140,7 @@ emanuelco-ga.gov
 eoppiva.fi
 epicspinstation.com
 escr74.com
+esgr.kz
 euc.cz
 evacodes.com
 expressjs.com = express|express.js|expressjs|表現.爪哇脚本
@@ -170,7 +169,6 @@ geyinz.com
 gf4.asia
 goldenblast.us
 goodbudget.com
-gorosito.tv
 gppcollegesindagi.in
 gpus.org
 grega-zemlja.com
@@ -183,6 +181,7 @@ heimildin.is
 helen-moore.com
 hfcare.ca
 highwayblossoms.com = highway blossoms|花开公路
+hispincasino.eu
 hkix.net
 hnnkyy.com
 hnsdgs.com
@@ -211,6 +210,7 @@ jankraus.cz
 jazzandjoy.de
 jelenec.sk
 jenkkifutis.fi
+jiaxinpark.com
 joepcoppens.nl
 johannes-huebner-stiftung.de
 jrpnorma.ru
@@ -244,7 +244,6 @@ leun.de
 lexarphotorecovery.com
 lhorizon.ca
 libertebonhomme.fr
-liftthebaby.org.uk
 lilychakraborty.com
 localhistories.org
 lodgix.com
@@ -259,7 +258,6 @@ maha4dmu.org
 mairie-lembeye.fr
 manderfuhren.ch
 mandoulides.gr
-mangalicatenyesztok.hu
 mapthesoul.com
 mariestravels.com
 mariorinaldi.it
@@ -326,14 +324,11 @@ photonicsjournal.org
 pickware.com
 pin-up-app-az.com
 pitecan.com
-planpanda.net
-playjonny-spiel.ch
 pnairport.co.nz
 polyeco.gr
 polyformproject.org
 polymer.or.kr
 portaln10.com.br
-praxis.dk
 primaria-prajesti.ro
 primebetmasterspace.nl
 prismavg.se
@@ -360,8 +355,8 @@ roulette-roulette.net
 rufushound.wordpress.com
 ruwertalschule.de
 sappaboiler.co.jp
+sariyerbayan.site
 sasistvan.hu
-sc88.fund
 schnelleauszahlungcasino.com.de
 school-hoe.ru
 scielo.org = scielo|scielo.org|scientific electronic library online
@@ -399,6 +394,7 @@ stourvalleycommunityschool.org
 sunwin48j.quest
 suzannebellamy.com
 svschonstett.de
+t-rexgame.io
 tagaviation.com = tag|tag集團|techniques d'avant garde|先鋒技術|先锋技术|先锋派科技|前衛科技集團|泰格集团|泰格集團
 tallyhawkstables.com
 tamis.ca
@@ -436,7 +432,6 @@ urbanpeakstudio.nl
 urm.org
 uwepoth.com
 v8hotel.de
-valoowner.fi
 vapeuk.co.uk
 velzom.com
 versbeton.nl
@@ -459,10 +454,10 @@ wordechobuzztrail.com
 writersrelief.com
 wunderbar-bielefeld.com
 xwkont.github.io
-yanlinhuilive.com
 yannblake.com
 yepcasino-win.com
 yican56.com
 yorkshirewater.com
+yyqineng.com
 zenqueenmediaproduction.com
 zuehlke.ca

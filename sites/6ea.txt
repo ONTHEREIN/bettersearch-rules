@@ -1,7 +1,6 @@
 0855yingshi-zh.lol
 320volt.com
 33333.com.tw
-789winlink.net
 88999616.xyz
 889997527.xyz
 aaronstarmer.com
@@ -76,7 +75,6 @@ bsb-007-casino.com
 bsc-net.cz
 buenarocor.org
 bumpzee.com
-bwtctl.cam
 bxbrussels.com
 cambodgenouveau.com
 cartercopters.com
@@ -167,7 +165,6 @@ fs-naniwa.co.jp
 fundacionpiensa.cl
 gamerbetting.pt
 gatsbyjs.org
-gdtechacademy.online
 genseki.me
 gerritkurtz.net
 getducked.com
@@ -199,6 +196,7 @@ hexaforgey.com
 hlsw.org
 hmh.de
 homolkahills.cz
+hongbojianzhu.com
 hongqi-auto.com = hongqi|red flag|红旗
 horydoly.cz
 hoshimitsu.co.jp
@@ -210,7 +208,6 @@ hrlj.info
 hshassoc.com
 hthc.de
 hundred.org
-i.ebayimg.com
 icioregon.com
 ignitespins.co.uk
 ijhse.ir
@@ -226,7 +223,6 @@ ipohecho.com.my
 iudicium.de
 ivanmolan.si
 izmailtv.com
-izmirbayanlariyiz.xyz
 jacklawrencesongwriter.com
 jamesmason.shop
 japan-iddm.net
@@ -239,6 +235,7 @@ jjelectric.de
 johnlarry.be
 josephniel.fr
 jp-landtagniedersachsen.de
+kabak.com.pl
 kandipatterns.com
 karenwillisholmes.com
 karupspc.com
@@ -276,7 +273,6 @@ lepsoc.org
 levegetarien.com
 lillahasselbacken.se
 liraspin-au.org
-littlemissbbq.com
 livingwithlolo.com
 lnb.com
 lovestuffonline.com
@@ -318,8 +314,10 @@ myprovence.fr
 nationalmotorcyclemuseum.co.uk
 naturespa-takarazuka.jp
 naturkundemuseum-bamberg.de
+nctlemag.fr
 nefa.org
 nerdyshow.com
+netzwerk-hansekultur.de
 nfneuron.cz
 nico.ms
 nmgflw.com.cn
@@ -365,6 +363,7 @@ pulseroulettestudio.com
 punishbang.com
 pureatlanta.com
 qc20.top
+qdcyrc.com
 quickfixsynthetic.com
 radarsoft.nl
 rahelkopp.ch
@@ -374,6 +373,7 @@ rb-stw.de
 rentologist.com
 reportsimpleblog.uk
 repticon.com
+rguide.co.uk
 ricardcamarena.com
 rich-l.ink
 riobets.org
@@ -398,6 +398,7 @@ seclaw.com
 seositechecker.store
 setav.org
 sfaal.fr
+sfassn.com
 shaftesburycivicsociety.org.uk
 shajgoj.com
 sherman-county.com
@@ -455,7 +456,6 @@ trendcoin.ru
 trinityventures.com
 truckparkingclub.com
 truckpartsinventory.com
-tscymm.com
 tsuredure-project.jp
 tunepadi.com
 tuosystems.com
@@ -501,6 +501,6 @@ yiot.group
 yiqikongjian.com
 ynetespanol.com = ynet|ynetnews|ynetnews.com|y网
 yoninnori.com
-zakatekreja.pl
+zelish.in
 zip-pro-sto.ru
 zonexplatform.co.uk

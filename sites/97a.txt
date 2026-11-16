@@ -4,8 +4,8 @@
 33win33.nl
 3gnvr.com
 5080ei.cn
-51xfan.com
 777nl.net
+8-room.com
 88aa.guide
 8marspourtoutes.org
 aandbebridalshop.com
@@ -44,6 +44,7 @@ artyofficial.com
 asf.ca
 athikkadai.wordpress.com
 bag-jugendschutz.de
+baiduzht.com
 barnsley-chronicle.co.uk
 barrandov.cz = barrandov studios|filmove studio barrandov|巴朗鐸夫製片廠
 bauvorhaben-butler.de
@@ -76,7 +77,6 @@ candylandcasino.ch
 canmagi.com
 capistranorb.com = capistrano
 casalomaballroom.com
-casinosinlicenciaespana.com
 casp.dev
 cctv-gy.cn
 celesteisd.org
@@ -103,7 +103,6 @@ comunitamontanamontiaurunci.it
 conteudoteatral.com.br
 cooperative-totem.ch
 craftaustralia.org.au
-craiis.org.pl
 cregols.fr
 crolaboratories.com
 crosscall.com
@@ -129,7 +128,6 @@ domainelesoreades.com
 dorotakrzywicka.pl
 douglasdiablos.com
 dpa.com = deutsche presse-agentur|dpa|dpa deutsche presse-agentur gmbh|dpa german press agency|german press agency|德国新闻社|德意志新闻社|德新社
-dsosdumai.org
 e-sportforbundet.no
 ecologia.it
 educacollegeprep.com
@@ -171,7 +169,7 @@ getimg.ai
 giftpro.co.uk
 gipplab.org
 globalcasinostation.com
-gnome.org = accessibility toolkit|alacarte|at-spi|at-spi2|at-spi2-core|atk|baobab|bmartin|brasero|builder|chess|dbus core|devhelp|dia|dia portable|disk usage analyzer|easytag|empathy|enter tex|evince|evolution|fractal|gcalctool|gcmd|gconf|gdict|genie|glade|glade interface designer|glchess|glib|glib2|gnome|gnome builder|gnome calculator|gnome chess|gnome commander|gnome devhelp|gnome dictionary|gnome disk usage analyzer|gnome disks|gnome document viewer|gnome evolution|gnome keyring|gnome latex|gnome office|gnome panel|gnome planner|gnome screenshot|gnome shell|gnome system monitor|gnome terminal|gnome videos|gnome 鑰匙圈|gnome-calculator|gnome-chess|gnome-commander|gnome-dictionary|gnome-disk-utility|gnome-screenshot|gnome-terminal|gnome字典|gnome截圖|gnome磁盤|gnome磁碟|gnome終端|gnome終端機|gnome终端|gnome螢幕截圖|gnome計算機|gnopernicus|gnu network object model environment|gnu網絡對像模型環境|gnu网络对象模型环境|guillotine|gwget|hildon|latexila|libxml2|libxslt|metacity|mrproject|mutter|novell evolution|orca|palimpsest|pygobject|pygtk|seahorse|sound juicer|sushi|totem|totem movie player|vinagre|ximian evolution|zenity|無障礙套件|終端機模式|輔助技術服務供應介面|辅助功能工具箱
+gnome.org = alacarte|baobab|bmartin|builder|chess|dconf|disk usage analyzer|easytag|epiphany|evolution|gbrainy|gcalctool|gcmd|gconf|gconf-editor|gdict|gdm|geary|genie|glade|glade interface designer|glchess|glib|glib2|gnome builder|gnome calculator|gnome character map|gnome chess|gnome commander|gnome dictionary|gnome disk usage analyzer|gnome disks|gnome display manager|gnome files|gnome games|gnome games collection|gnome keyring|gnome office|gnome panel|gnome screenshot|gnome shell|gnome software|gnome system monitor|gnome terminal|gnome unicode character map|gnome videos|gnome web|gnome 軟體|gnome 鑰匙圈|gnome-calculator|gnome-chess|gnome-commander|gnome-dictionary|gnome-files|gnome-games|gnome-screenshot|gnome-shell|gnome-software|gnome-terminal|gnome字元對映|gnome字典|gnome字符映射|gnome截圖|gnome显示管理器|gnome檔案|gnome游戏|gnome磁盤|gnome終端|gnome終端機|gnome终端|gnome螢幕截圖|gnome計算機|gnome踩地雷|gnome遊戲|gnome顯示管理器|gnopernicus|gnote|gthumb|gucharmap|hildon|libxml2|metacity|muine|mutter|nautilus|nautilus檔案瀏覽器|novell evolution|orca|pygobject|pygtk|quadrapassel|rhythmbox|seahorse|sound juicer|totem|totem movie player|vinagre|zenity|終端機模式|頓悟瀏覽器
 goldcasinopro.nl
 goodsamatlanta.org
 gottalent.al
@@ -229,12 +227,12 @@ karnatakaapex.com
 kennys.ch
 kingdomcasino36.uk
 kirchhoff-gruppe.de
-kkhsou.ac.in
 kptmovies.com
 krewella.com
 kristinaforsman.se
 kthcradio.com
 kutakrock.com
+kvarnbygk.se
 langleyvillage.co.uk
 lapuantuomiokirkkoseurakunta.fi
 lawandmore.nl
@@ -310,7 +308,6 @@ oberschwaben-portal.de
 oenon.jp
 ogmagazine.org.au
 oklahomahof.com
-okqq.net
 olabs.edu.in
 olegz.by
 olgadeamaral.art
@@ -326,6 +323,7 @@ parafia-ryki.pl
 parafia-sadyba.pl
 patroba.be
 pdpmcc.co.in
+peacefulfruitsfoundation.org
 philringnalda.com
 physiobase.com
 piraterna.se
@@ -353,7 +351,6 @@ rinkratproductions.com
 riverlane.com
 rivkin.org
 ronniereshef.com
-rousseaux.me
 royalcollege.lk
 runsensible.com
 ruo-ruse.bg
@@ -394,7 +391,6 @@ spinmaxforge.us
 sportivoatleticoclub.com
 st-vincent-la-commanderie.com
 staempfli.com
-standrewskyrenia.org
 starmaniacasino-at.com
 startstemcells.com
 statuasancarlo.it
@@ -484,18 +480,19 @@ xhu.edu.cn
 xn--b1afkfa5bn1b.xn--p1ai
 y108.ca
 yamazaki.ac.jp
+yeo5.com
 yfvo.ru
 yingfa.cn
 yixin05.cn
 yoshikoder.org
 youngplatform.com
+yu53l.cn
 yujinakada.com
 yume-net.org
 zadrobilek.com
 zappts.com.br
 zeebanglacinema.com
 zerosuicidealliance.com
-zhennongdp.com
 ziegel.at
 zone-energy.jp
 zupnijabrestanica.si

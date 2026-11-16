@@ -118,7 +118,6 @@ drchristinarahm.com
 driver.ru
 drkarl.com
 drogariastamoio.com.br
-dsoskecgedangan.org
 dynv6.net
 e2amusicgroup.com
 edwardscommunications.com
@@ -159,7 +158,6 @@ galaxy138.com
 gasconnect.at
 gig-geldgeschichte.de
 gisclareny.cat
-gmnc.fashion
 gomitaro.com
 grandodds.us
 grandpalacestation.com
@@ -184,7 +182,7 @@ harrysergeev.com
 haugronning.no
 haywin.lat
 hba.org
-helloween.org = helloween|万圣节乐团|萬聖節樂團
+helloween.org
 hertz.nl
 heypinchy.com
 hidakagawa.net
@@ -342,9 +340,11 @@ primariagrumazesti.ro
 prioryceprimary.org.uk
 priorychildrensservices.co.uk
 purposeinvest.com
+qfsyj.com
 qsmworld.com
 qtrade.ca
 quellehistoire.com
+questbase.com
 quicengroigne.org
 radio1rph.org.au
 ragueneau.co.jp
@@ -383,7 +383,6 @@ shtcloud.com
 sitandbefit.org
 skd.se
 slotrizee.de
-slotzshine.org.uk
 slzzgx.vip
 smarty.sale
 smashcasinos.fr
@@ -409,6 +408,7 @@ syngenta.fr
 taoglas.com
 taplalkozasmarketing.com
 tariffbuyouts.com
+tengloneoc.cn
 thechartpress.co.uk
 thefox1049.com
 thegatesnotes.com
@@ -416,7 +416,6 @@ thenutgraph.com
 thescop.com
 thomas-rachel.de
 titangrowth.com
-tk444s.com
 tommy-denander.com
 tonylevin.com
 total-dk.dk
@@ -432,7 +431,6 @@ tty1.net
 tuev-verband.de
 tuinparknieuwelevenskracht.nl
 tunguska.org
-tvn88.com
 udusok.edu.ng
 ulsairlines.com
 ultrabets.us
@@ -452,12 +450,11 @@ vervloetfysiotherapie.nl
 victoriagestion.es
 vilant.com
 vitkovice-milmet.pl
-vlaser.vn
 voiceofpersecutedchristians.org
 vozolxvape.de
 vslib.cz
 vvvwin.free
-vyvod-iz-zapoya-na-domu-ekaterinburg-dyz.ru
+vxv85.cn
 wanessacamargo.com.br
 wapak.org
 waskesiu.org
@@ -475,7 +472,6 @@ wsyhn.com
 xia.ai
 xinhkyy1.com
 xn--borrsvngen-v5a.se
-xoilacbet.tv
 yannlambiel.ch
 ycwanrun.com
 yo88.kids

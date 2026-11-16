@@ -26,12 +26,14 @@ arktodd.com
 arp242.net
 artiebutler.com
 austinprestigelimo.com
+avantoeats.co
 axelhacke.de
 aytoquintanaycongosto.es
 bactrim.company
 bakery-square.com
 balgrist.ch
 baunetzwissen.de
+beaubleu-paris.com
 beckygilbert.com
 bernardinomachado.org
 betmeganova.us
@@ -48,7 +50,6 @@ bluehexagons.com
 bluelight.co.nz
 bongenie-grieder.ch
 bostontheory.com
-botoxone.com
 boxfordhistory.org
 branitelji.hr
 brcj.org
@@ -123,7 +124,6 @@ downxia.com
 dragonslair4u.com
 drive-des-fermes-de-puisaye.fr
 drvictorpadillasanchez.com
-dsoskabindragirihulu.org
 dtfc.co.uk
 dublekick.com
 dupontcircleyogadc.com
@@ -171,6 +171,7 @@ goldlog.co.uk
 golemarcana.com
 greatfence.com
 gruenstadt-land.de
+guldkanalen.se
 guyitai.net
 harpoonbrewery.com
 hbocanada.com
@@ -179,6 +180,7 @@ hcap.gr
 hdsolarschiff.com
 heavenwithoutpeople.com
 helihub.com
+hercules-casino-fr.com
 hetgroenehuisamersfoort.nl
 hetlingen.de
 hgk.fi
@@ -198,7 +200,6 @@ ibenmondrup.dk
 ihk-muenchen.de
 imkarchitects.com
 immerscience.com
-imperialrooms.co.uk
 imppc.cn
 in-n-out.com = in and out burger|in-n-out|in-n-out burger|in-n-out汉堡|in-n-out漢堡|出入汉堡|进进出出
 incaspin-at.at
@@ -418,6 +419,7 @@ thebelieve.club
 thebl.com
 theblockchain-group.com
 thecrazycraftlady.com
+thecupcakecollection.com
 thefifthavenuehotel.com
 thekevinmiller.com
 thenewbridgeproject.com
@@ -431,6 +433,7 @@ transip.nl
 trudovyebudni.ru
 tus-makkabi.de
 tvafilms.ca
+u888win7.com
 ubuntu-mate.community
 ukconstructionblog.co.uk
 ukqaa.org.uk
@@ -453,6 +456,7 @@ wbkejiwa.cn
 web-stihi.ru
 wh.group
 why-be.co.kr
+wienwert.at
 winehq.org = mono|mono project|w.i.n.e.|windows emulator|wine|wine is not an emulator|winehq|winelib|視窗模擬器
 withpoly.com
 wizajny.pl
@@ -464,5 +468,6 @@ ynk3gww.cc
 yourunderwearstore.nl
 zastava.com.ua
 zeop.re
+zhiyuanwh.com
 zirvede.net
 zpug.net

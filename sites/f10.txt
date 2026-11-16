@@ -21,11 +21,9 @@ alt-market.us
 altenbuch.de
 anxll.cn
 anzchog.org
-apmd.ac.id
 archeologi-italiani.it
 archiviodiocesano.info
 arenaclub.com
-arenda-yakhty-spb-9.ru
 arkital.ma
 art-bridge.org
 assignmentfirm.com
@@ -92,6 +90,7 @@ chemiseed.com
 chigoha.com
 china-mama.com
 cigaretteracing.com
+cjtogiu.com
 cleantechscandinavia.com
 clubrecess.com
 cmosc.org
@@ -105,7 +104,6 @@ coolnsmart.com
 coopermondo.it
 corecardarena.com
 creation.com
-crqcrq.com
 csc.do
 cstn.it
 ctgb.nl
@@ -123,7 +121,6 @@ deurdweilers.nl
 deutschesgym.dk
 dilipprakash.com
 dinomuseum.ca
-diploms-vuza.com
 divine-zero.com
 dnepr-future.com.ua
 dodfestival.com
@@ -142,6 +139,7 @@ eazeup.com
 echobingoarena.it
 econsor.de
 ecprov.gov.za
+edition.cnn.com
 efclif.com
 ejurgensen.github.io
 elcontribuyente.mx
@@ -177,6 +175,7 @@ freezone.global
 fremap.es
 fromshocktoawe.com
 gabbyscupcakes.co.nz
+gadplumbing.co.uk
 galaxy.com
 gaming-style.com
 gc.edu
@@ -204,7 +203,6 @@ heinrich-walcher.com
 henrigourdin.com
 herve-tullet.com
 hiinet.com
-hitclub1v.com
 hochschober.com
 holidayfuture.com
 horacemann.com
@@ -280,7 +278,6 @@ lurefishbar.com
 luzbroto.net
 lv88k.site
 lynfotball.no
-lyxyz01.com
 machilipatnam.com
 magneticslotscasinos.net.pl
 makalu.com.cn
@@ -320,7 +317,6 @@ mru.edu
 msswbc.com
 muml.cz
 musopen.org = musopen|musopen.org
-mybookone.com.hk
 n-able.com
 naolib.fr
 nationalbloc.org
@@ -328,6 +324,7 @@ nationhive.co.uk
 nhsggc.scot
 nihon-kankou.or.jp
 nindigully.com
+nnwuk.com
 nolefan.org
 nongdui.com
 northeastmaritime.com
@@ -380,8 +377,6 @@ psychoterapia-osiecka.pl
 ptschools.org
 pulsepalacehub.com
 pylesos-dn-kupit-9.ru
-qbsqugc.com
-qjqgqq.com
 rakovski.biz
 rankingchecker.online
 recruit.com.hk
@@ -395,6 +390,7 @@ rfafighting.com
 richardbenson.it
 ridingmill.org
 righttracks.jp
+rochelle.vn
 rodeointl.com.cn
 rollxocasino-au.app
 romaniatlantic.cz
@@ -407,6 +403,7 @@ rvinsider.com
 s8betvip1.com
 saint-dominique-mortefontaine-60.fr
 saintefoyleslyon.fr
+sambakerartist.co.uk
 sanctuarycapcana.com
 sanddancetyre.com
 sanfilipponeri.it
@@ -422,6 +419,7 @@ sisal.biz
 sistemaomsk.online
 sketchyguynv.com
 sleague.com
+slotbet100a.com
 smartsupergroup.uk
 softplatz.com
 sovereigngracemusic.org
@@ -463,10 +461,12 @@ thevalley.fm
 thinkhr.com
 tichn.com
 tinyl.io
+tinytimesclub.cn
 tofuvegan.com
 torchlight3.com = torchlight 3|torchlight frontiers|torchlight iii|火炬之光：边境|火炬之光：邊境
 tropique-du-papillon.com
 truck4x4.ru
+ttram.cn
 turnipseedtravel.com
 ukssdc.ac.uk
 uptoncressetthall.co.uk
@@ -477,7 +477,6 @@ utuin.net
 valeursactuelles.com
 valsousa.pt
 vamosalplaza.com
-vaultradio.co
 vav-hhausen.de
 veniceshorts.com
 veste-riegersburg.at

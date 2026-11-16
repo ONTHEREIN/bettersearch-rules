@@ -5,7 +5,6 @@
 8ballpool3d.com
 aavenir.com
 acblnk.com
-aecoverseas.com
 aegps.com
 aflbrokenhill.com.au
 africanthoracic.org
@@ -29,7 +28,6 @@ anouskawink.nl
 aopcloud.com
 apollonlibrarysuites.com
 apps.apple.com
-apuestasncaafootball.com
 arh-angel.ru
 asperfoundation.com
 associationforum.org
@@ -53,7 +51,9 @@ bcsoccer.net
 benstein.com
 benwassermancomedy.com
 best-game-ar.com
+bezdepp.store
 billyelliotthemusical.com
+bjzalz.com
 blog44however.shop
 bodyfluids.org
 bombchickengame.com = bomb chicken|炸弹鸡
@@ -72,6 +72,7 @@ cafejohnsonia.com
 canadas100best.com
 carolinedugasauteure.wordpress.com
 cartogenic.com
+casinogiochi24.com
 casinoluckypays.com
 casinomaxzone.us
 cass.independent-review.uk
@@ -120,7 +121,6 @@ digitalcentralpro.nl
 dimakolyadenko.com
 dimitrismystakidis.gr
 dmliefer.ru
-dna7-a.com
 dollardcollege.nl
 domainlinkprofile.website
 dositejevci.rs
@@ -133,7 +133,6 @@ dynixstudios.com
 dyu.edu.tw
 ea88.network
 editurasedcomlibris.ro
-educationinzambia.com
 egawahojin.com
 elda.es
 eletrosom.com
@@ -149,17 +148,20 @@ etap.com = etap
 eurofedop.org
 eyamhalfmarathon.org.uk
 fabathome.org
+facades.my
 fahrwangen.ch
 fanwaar.com
 fcaltenmuhr.de
 fcherthamuenchen.de
 fcrokycany.cz
 felix-spin-it.com
+fernand-allard-lolivier.be
 fertilityassociates.co.nz
 fidanekiz.nl
 fides-group.cz
 fiehaekkerup.dk
 flechtereien.ch
+flodo.me
 folkbytheoak.com
 follownatives.com
 fondazioneberlucchi.com
@@ -208,6 +210,7 @@ heathsideprep.co.uk
 hellotickets.com.br
 henriksaxgren.com
 hfica.com
+hfktqr.cn
 highlandtechhigh.org
 hismove.com
 home-renrenlive.com.cn
@@ -221,7 +224,6 @@ i-kamin.ru
 icvi.org.uk
 ikang.com
 ikatbag.com
-integra360.com.co
 iops.nl
 irony.com
 iyotetsu.co.jp
@@ -237,6 +239,7 @@ jccmetrowest.org
 jennysanford.com
 jetbrains.com.cn
 jfeed.com
+jihuodidai.com
 jnsbm.org
 johnperaltafineart.com
 jotungame.com = jotun|jotun: valhalla edition|jotun:valhalla edition|巨人約頓
@@ -282,7 +285,6 @@ lottstetten.de
 lukasinski.pl
 lvtc.edu.cn
 lycee-charles-nodier-ac-besancon.fr
-macaronietcie.com
 maejima-yoh.com
 magnacare.com
 mainz-evangelisch.de
@@ -328,6 +330,7 @@ newzcool.com
 nexira.id
 nextactuel.fr
 nihongokentei.jp
+niluferbayan.site
 nintendowifi.com
 nishika.co.jp
 nonviolent-resistance.info
@@ -345,7 +348,6 @@ paperdollband.com
 papy.co.jp
 parimatch-casino-de.com
 parkening.com
-parkgolfbornholm.dk
 parkrowbooks.com
 participatorybudgeting.org
 patches-scrolls.de
@@ -374,6 +376,7 @@ primereport.us
 przegladpediatryczny.pl
 psyneuen-journal.com
 pumaautomoveis.com.br
+qq88.casino
 quinetime.co.uk
 rashwe.com
 rbtf.be
@@ -397,6 +400,7 @@ scheibler.no
 schwaebische-jungfrau.at
 sciacca5sensi.eu
 scrypted.app
+seoblackhole.com
 sevanan.com
 sfassessor.org
 sherry.wine
@@ -409,7 +413,6 @@ sleddogma.org
 smilweb.no
 softwaretestingmaterial.com
 songdm.cn
-soulstreetbaltimore.com
 spd-mittelfranken.de
 speedbrawl.com
 spin-neo.com
@@ -471,20 +474,17 @@ urbanaillinois.us
 vahabalizadeh.ir
 valor.digital
 vandadundee.org
-veeds.com
 verinode.ai
 verlagdrkovac.de
 viata.nl
 videolightbox.com
 villaverbeelding.be
 vipcorecentral.co.uk
-vitruve.fit
 voba-sbh.de
 voicebunny.com
 vr-obm.de
 vstart-casino.it
 vuxu.org
-watchesformens.in
 weallsew.com
 westtisburyfreepubliclibrary.org
 wiperandtrue.com
@@ -496,7 +496,6 @@ xn----itbmpfd0ah5a9e.xn--p1ai
 yf-group.cn
 ymyhmj.com
 youcan.com
-youloop.io
 yunsuenpai.com
 yzbom.com
 zapravki-s-benzinom.ru

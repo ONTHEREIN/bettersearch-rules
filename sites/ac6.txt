@@ -7,16 +7,13 @@ abudhabigp.com
 acfas.org
 achtrup.de
 actual.world
-ad-vance.ru
 adtin.com
 aeg.nl
 afpc.org
 ahola-valo.fi
 aicffest.com
 alexisdestoop.com
-allnetdevices.com
 alphatiger.de
-alqadri.co
 altitud-rh.fr
 alvynncasino.com
 alzint.org
@@ -33,6 +30,7 @@ assagaounionhighschool.in
 athanase.org
 avaz.it
 avtocrane.kz
+axiompreventivehealthsystems.com
 azadliq.info
 bachthulodepnhathomnay.org
 banaroo.de
@@ -62,8 +60,6 @@ carolinecombes.com
 carrycastle.se
 casa-andina.com
 casino777.ch
-casinomate-aus.com
-casinoonlinegratis.es
 catholicdigest.com
 cau.dk
 cc-gorges-haute-dordogne.fr
@@ -90,7 +86,6 @@ cosmicbettingnetwork.com
 countryview.com.my
 covid.gov.pk
 cpa01.fr
-craos.net
 crematoriatwente.nl
 cristinamartinjimenez.com
 crous-reunion.fr
@@ -119,6 +114,7 @@ ecotech-energy.com
 edisud.com
 edvance.fr
 electrocuted.com
+elhqzvra.com
 elisabeth-grossmann.com
 elixir-lang.org = elixir
 equi.life
@@ -223,6 +219,8 @@ jongeneel.nl
 jukehui.top
 junsunchina.com
 kahndesign.com
+kanglianyiyuan.com
+kataywork.it
 kavapodebrady.eu
 kcop.ru
 keiokaku.com
@@ -232,7 +230,6 @@ kinobelleville.org
 kintore.org.uk
 kinuyo-bunka.jp
 kitcometals.com
-korenagakazuo.com
 kornia.org
 kotipizzagroup.com
 kov-symphonia.nl
@@ -254,7 +251,6 @@ luccasnetoland.com.br
 lynxmotion.com
 lyon-esport.fr
 m-kamikouchi.jp
-macleanpower.com
 macrocosmos.ai
 mairie-apremont.com
 manhattan.institute
@@ -280,7 +276,6 @@ modelones.com
 mohancollege.in
 montarebehavioralhealth.com
 montondemujeres.com
-morechilli-pokie.com
 mostbet-poland.net.pl
 motac.com
 motorvision.de
@@ -294,13 +289,11 @@ nandemo.co.jp
 nashvillepost.com
 naturzentrum-nf.de
 neccog.org
-nederwoon.nl
 neighborgoods.net
 netfla.com.br
 neueheimat.tirol
 new-mexico-casinos.com
 newportri.gov
-nftshowroom.com
 nicendo.com
 nittotire.com
 nolagoldrugby.com
@@ -331,6 +324,7 @@ pgusd.org
 philzimmermann.com
 phyllisshafer.com
 pieri.sc
+pinstripemag.com
 pintanos.com
 pknanloozuidlaren.nl
 platinumoddsmetapro.com
@@ -341,6 +335,7 @@ populr.me
 portofdover.com
 porttb.com
 powersymphony.com
+prays-mefedron-tme-ltc.ru
 premiumvapes.shop
 preventdisease.com
 prof-aksay.ru
@@ -355,7 +350,6 @@ rahul-mehrotra.com
 rallydiromacapitale.it
 randboel-noerupkirker.dk
 raqibnaik.com
-recfoundation.net
 reciohk.com
 remont-tehniki-service.ru
 reputation.house
@@ -371,7 +365,6 @@ saintpierre-mq.fr
 saintprouant.fr
 sakegawajh.com
 sandiegocomicconmalaga.com
-sanjingzs.com
 sanvicentedearevalo.es
 sarahcoburn.com
 saudigermanhealth.com
@@ -410,7 +403,7 @@ spielportugal.org
 spinproempire.us
 spior.nl
 sportrxiv.org
-springfield-armory.com
+springfield-armory.com = springfield armory|春田公司|春田兵工廠公司|春田兵工廠有限公司
 squirrellyminds.com
 starvedrocklodge.com
 steelesmemorialchapel.com
@@ -449,7 +442,6 @@ tlcs.org.tw
 tocqueville.org
 torsten-schneider.com
 trakia-ensemble.org
-trefelling.nu
 tsmts.com
 turkishjic.org
 turrizianipetroli.it
@@ -467,6 +459,7 @@ vht.com
 viddly.net
 vladimirgabulov.com
 voxeu.org
+vsuihua.com
 wagonwheelcommunications.com
 webcity.fr
 wehco.com
@@ -483,7 +476,6 @@ wortideen.at
 wppmedia.com
 wuxianniu.com
 xn--mslm-0rac.ch
-xtisb.com
 xu.edu
 yefansucai.com
 yoganonymous.com

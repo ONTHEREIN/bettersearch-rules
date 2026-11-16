@@ -131,7 +131,6 @@ eliterise.co.uk
 elvisblue.co.za
 emkinstitute.org
 epicarenapro.com
-escalofrios.org
 evansgp.com
 everywhereist.com
 eximbank.ro
@@ -173,6 +172,7 @@ herschelsupply.com
 hersheysoccer.org
 hipodromodelazarzuela.es
 hitachi-systems-fs.co.jp
+hmigresik.org
 homesteadharmonizers.org
 hotel-an-der-a7.de
 houseoftantra.com
@@ -196,7 +196,6 @@ international-sustainable-campus-network.org
 itnauticopizzo.it
 izel-les-hameau.fr
 j-lpgas.gr.jp
-jahtruth.net
 jfg-obere-vils08.de
 jiivaonline.com
 jmmc-online.com
@@ -222,21 +221,23 @@ kfbg.org
 kgrv700.net
 khalidadance.com
 khecari.com
+kindfairy.com
 kinofilm2017.ru
 knbv.nl
 kristinabenjocki.com
 kronoby.fi
+kzshjc.com
 la-miniera.com
 lamariebrasse.be
 lauracandler.com
 lavanderianivea.it
 le-fisherman.com.se
 leicestershirevillages.com
-leidian-apps.top
 lojistic.com
 londonbingocorner.uk
 louiserozett.com
 loveescortistanbul.com
+lzjgjza.com
 m2.com.tw
 madanthonycafe.com
 madgetech.com
@@ -265,7 +266,6 @@ modelop.com
 monitorbacklinks.com
 monroemi.gov
 moon61boxs.xyz
-mori.film
 movimentoper.it
 mukulresort.com
 musiciansdefendukraine.com
@@ -275,7 +275,7 @@ mybettingsites.com
 myboones.com
 natassoutheast.tv
 nationaldigital.com.au
-ndp.ca = ndp|new democratic party|new democratic party of canada|new democrats|加拿大联邦新民主党|新民主党|新民主黨
+ndp.ca = ndp|new democratic party|new democratic party of canada|new democrats|npd|加拿大联邦新民主党|新民主党|新民主黨
 neuralicai.com
 newsghana.com.gh
 newsilver.com
@@ -283,7 +283,6 @@ newspeterbrook.com
 nextimpulsesports.com
 nfan.link
 nhtelephonemuseum.org
-nicegarlics.com
 nitotorres.de
 nominicasino-de.de
 nordicopen.dk
@@ -291,6 +290,7 @@ noron-la-poterie.fr
 notebuzzfeed.com
 novomestskonadmetuji.cz
 nsfz.cn
+numundo.org
 nvn.no
 nvoad.org
 nwmindia.org
@@ -305,13 +305,13 @@ orbitlab.nl
 ororo.co.kr
 osmopatch.com.au
 paramountcommunication.com
+parcelshopy.sk
 parlevent.ca
 pastranawaltrip.com
 pays-du-nord.fr
 performio.co
 petergill7.co.uk
 phantomsfc.com.au
-phsscy.com
 picturegrey.eu
 pinkbootssociety.org
 pinkrabbit.ru
@@ -328,6 +328,7 @@ puckettmachinery.com
 quebueno.es
 radiomonster.fm
 rajnochova.cz
+ramforumz.com
 redirectioneaza.ro
 regenbooghuislimburg.be
 respublicafest.com
@@ -340,6 +341,7 @@ roj.tv
 romaliperihan.net
 rozp.hr
 ruhosting.nl
+rumacmusic.com
 ruprecht.at
 safi.com.my
 santinicycling.com
@@ -383,6 +385,7 @@ superparse.com
 supperinthesuburbs.com
 supsbechyne.cz
 sweetbonanzagame.nl
+swisstravel.info
 sycamoretownship.org
 syrianembassy.se
 sysnestvalley.com
@@ -398,7 +401,6 @@ textmuncher.com
 the-mia.com
 theatreonpodil.com
 thebellatyarpole.co.uk
-thebreakofdawns.com
 theclementattlee.co.uk
 thegrindmovie.com
 theon.com
@@ -426,7 +428,6 @@ unpluq.com
 uscl.fr
 usrf.us
 uu88g.us
-verticalgrooves.com
 vicc.org
 vienna-brass-connection.at
 villesadm.net
@@ -450,6 +451,7 @@ xnchuag.com
 yjjkwh.com
 ymcaofsimcoemuskoka.ca
 ypg.com
+yrnxzt.com
 zaiyoo.cn
 zee7operations.de
 zgpmsm.com.cn

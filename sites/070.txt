@@ -25,10 +25,8 @@ aniakanicka.com
 annabanana.co
 appendix.fi
 applecrest.com
-aptservizi.com
 arbre-bleu-editions.com
 arenesdenimes.com
-arizona-dreaming.com
 arnaudfleurentdidier.com
 arriworldsales.de
 artemiscooper.com
@@ -43,6 +41,8 @@ bairdcenter.com
 bamcornerpoint.com
 banquemondiale.org
 basisschoolregenboog.nl
+baumemusic.com
+bbhtjl.com
 bcy.ca
 beerotor.de
 bentengheritage.com
@@ -75,12 +75,10 @@ catalunyapress.cat
 cc-valromey.fr
 ccnonline.net
 cdu-vr.de
-changlingjiancai.com
 checkwave.co.uk
 chevalencreuse.com
 chimia.ch
 chinaedu.com
-chongyinjia.com
 christophedumarest.com
 ciernenadtoplou.sk
 cintdis.org
@@ -111,7 +109,6 @@ dearlydepartedtours.com
 deborabalardini.com
 delcorazondedios.com
 desdecuba.com
-dglxh.com
 dieblauepartei.de
 digitalnewsalerts.org.uk
 diversocracia.org
@@ -122,7 +119,6 @@ dwoodauto.com
 elisevallan.com
 emmanuelafolabi.com
 ena.td
-energieloesung.de
 entertainmentearth.com
 espacelgbtqplus.org
 etudewines.com
@@ -147,7 +143,6 @@ freshcasinosolution.it
 fyrlykta.no
 gacetasanitaria.org
 gajus.com
-gaking79.men
 gamingcraft.co.uk
 gandzasar-fc.am
 garrosccr.com
@@ -311,6 +306,7 @@ parafia-ostrowytuszowskie.pl
 parafiabukowno.eu
 parafianowylupkow.pl
 parsely.com
+pastel.network
 pcim.pl
 peaceinkurdistancampaign.com
 peters-jewelry.com
@@ -351,7 +347,6 @@ remax-malta.com
 rennes-infos-autrement.fr
 renovationettravaux.fr
 restaurantdetuin.nl
-restore-one.com
 retrotechnology.com
 rheider-deichacht.de
 rhonefm.ch
@@ -380,7 +375,6 @@ senjaopettaa.fi
 senkereste.net
 senner-medien.de
 serbenfiquista.com
-shopusa.com
 siangzhou.com
 sientra.com
 simona.de
@@ -458,11 +452,11 @@ valorbet-ind.com
 valsanzibiogiardino.it
 valu.com.eg
 vanguardhealth.com
-vanstaub.me
 vaticange.org
 vdac.de
 velodrome-couvert-roubaix.com
 vennli.com
+vf4ip5.cn
 videodubber.ai
 visionmoment.de
 viveraciencia.org
@@ -474,6 +468,8 @@ warabimochi-kamakura.com
 wasiulbahar.com
 wazthemovie.com
 weareepicenter.com
+webgard.biz
+weile2.com
 wemydrbrowns.com
 wesleywildman.com
 wheresgeorge.com = where's george?|wheresgeorge.com
@@ -482,7 +478,6 @@ winchester-nh.gov
 woodhullfoundation.org
 wotgenerals.com = world of tanks: generals|坦克世界：将军
 www.eu.int
-xiaohongmao1688.com
 xn----jtbtibrbj7a4dza.xn--p1ai
 xn--80awdbx8di.xn--p1ai
 yamagataya.me

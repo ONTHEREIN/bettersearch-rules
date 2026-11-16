@@ -56,7 +56,6 @@ bipt.edu.cn
 blonville.fr
 blueskysolar.org
 boersenmedien.com
-br-fr.facebook.com
 brandywinerollerderby.com
 brianaldiss.co.uk
 brouwermall.com
@@ -68,7 +67,7 @@ caribbeanenergychamber.org
 casinonodepositbonus-fr.com
 casisd.cn
 centre-robert-schuman.org
-cfmoto.com = cf moto|cf摩托|zhejiang cfmoto power|zhejiang chunfeng power|春风动力|春风摩托
+cfmoto.com = cf moto|cfmoto|cf摩托|zhejiang cfmoto power|zhejiang chunfeng power|春风动力|春风摩托
 chatillon-en-vendelais.fr
 checkinnopal.com
 childbirth.org
@@ -78,6 +77,7 @@ cl9.co.kr
 cmclib.com
 cnmo.com
 coinkings-de.com
+colopainclinic.com
 copperreader.au
 corepdx.com
 costacruisesasia.com
@@ -86,6 +86,7 @@ crumpsalllaneprimary.org
 cryptonews.net
 cse.org.uk
 czloko.cz
+dakun.com
 darasahuru.net
 davisstalts.lv
 desertrosebanjo.com
@@ -116,7 +117,6 @@ emborapets.com
 endemolglobo.com.br
 energobelarus.by
 ertan.me
-eskvaleguesthouse.co.uk
 estofex.org
 eure.fr
 evangelicagoianesia.com.br
@@ -128,6 +128,7 @@ expres2ionbio.com
 eyesburn.net
 ezranahmad.com
 f5.si
+f538iq.com
 fancy.com
 fanjunkars.fi
 fastvault.ca
@@ -170,7 +171,6 @@ goulstonstorrs.com
 graphql-js.org
 grotekerkleeuwarden.nl
 gtnmcl.com
-handelsangebote.de
 hd-marinesolution.com
 hedelius.de
 hibiki-hall.jp
@@ -230,7 +230,6 @@ keywordtooldominator.com
 kindness123.com
 knox.co.nz
 komponistforeningen.dk
-kornwebstore.com
 koskovce.sk
 kovohuty.sk
 kromatic.com
@@ -335,7 +334,6 @@ radioorlicko.cz
 rainbet-de.com
 ramrajjasi.com
 recelio.org
-reddyannaoffiicials.in
 reisevista.de
 resonancefm.com
 restructura.com
@@ -395,8 +393,8 @@ syria-sdpp.org
 tabemikako.com
 tamsinwinter.com
 tanukitsu-anime.jp
+targi-zerowaste.pl
 tatar-bashqort.tk
-tbdown.com
 tebschool.com
 tecnocampus.cat
 tengenji.jp
@@ -432,7 +430,6 @@ uuzhufu.com
 valletrompia.it
 vanessapetruo.tv
 vbkm.de
-vegasgrandplay.me
 vendetta-band.de
 vidaxl.pl
 virtualmallspace.com

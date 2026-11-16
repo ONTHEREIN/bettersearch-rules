@@ -5,7 +5,6 @@
 abdulla-fouad.com
 acquaparkondablu.it
 activereads.us
-addons.opera.com
 agiamondo.de
 aidarte.org
 airrsv.net
@@ -36,6 +35,7 @@ barcelonaworldrace.com
 barwitzki.net
 bascous.eu
 baus.org
+baywoodgreens.com
 bestival.net
 betinsight.de
 betxnation.us
@@ -57,7 +57,7 @@ brightslotnetwork.com
 bron.ch
 brouzetlesales.org
 calistaacademy.com
-callofduty.com = 2022 call of duty: modern warfare ii|2023 call of duty: modern warfare iii|call of duty - united offensive|call of duty 19|call of duty 2023|call of duty : modern warfare 2|call of duty modern warfare 2|call of duty modern warfare 3|call of duty modern warfare ii|call of duty modern warfare iii|call of duty mw ii|call of duty united offensive|call of duty warzone mobile|call of duty: black ops 6|call of duty: black ops cold war|call of duty: black ops iii|call of duty: bocw|call of duty: finest hour|call of duty: ghosts|call of duty: modern warfare|call of duty: modern warfare 2|call of duty: modern warfare 3|call of duty: modern warfare ii|call of duty: modern warfare iii|call of duty: modern warfare remastered|call of duty: modern warfare® ii|call of duty: mw 2|call of duty: mw ii|call of duty: mw3|call of duty: united offensive|call of duty: warzone|call of duty: warzone mobile|call of duty: world at war|call of duty: world at war ds|call of duty®: black ops cold war|call of duty®: modern warfare ii|call of duty®: modern warfare®|call of duty®: modern warfare® ii|cod 2023|cod mw 2|cod mw ii|cod uo|cod warzone mobile|cod wm|cod19|cod2023|cod8|cod: bocw|cod: modern warfare 2|cod: modern warfare ii|cod: mw 2|cod: mw 3|cod: mw ii|cod: mw iii|cod: mw3|cod: mwiii|cod: uo|cod: warzone mobile|cod: wm|cod:mw3|cod:wzm|codbocw|codmw 3|codmw iii|codmw3|codmwiii|coduo|modern warfare 2|modern warfare 3|modern warfare ii|project cortez|united offensive|warzone mobile|使命召唤19|使命召唤8|使命召唤：战争地带|使命召唤：现代战争3|使命召唤：现代战争ii|使命召唤：现代战争重制版|使命召唤：联合进攻|使命召唤：黑色行动6|使命召唤：黑色行动iii|使命召唤：黑色行动冷战|使命召喚16：現代戰爭|使命召喚：現代戰爭3|决胜时刻：魅影|決勝時刻：尖峰時刻|決勝時刻：現代戰域|決勝時刻：現代戰域 mobile|決勝時刻：現代戰爭|決勝時刻：現代戰爭3|決勝時刻：現代戰爭ii 2022|決勝時刻：現代戰爭iii 2023|決勝時刻：現代戰爭重製版|決勝時刻：聯合行動|決勝時刻：魅影|決勝時刻：黑色行動6|決勝時刻：黑色行動iii|決勝時刻：黑色行動冷戰|现代战争3
+callofduty.com = 2022 call of duty: modern warfare ii|2023 call of duty: modern warfare iii|black ops 6|black ops 7|bo 6|bo 7|bo6|bo7|call of duty 19|call of duty 2023|call of duty 2024|call of duty : modern warfare 2|call of duty black ops 6|call of duty black ops 7|call of duty black ops gulf war|call of duty modern warfare 2|call of duty modern warfare 3|call of duty modern warfare ii|call of duty modern warfare iii|call of duty mw ii|call of duty vanguard|call of duty warzone mobile|call of duty: black ops 6|call of duty: black ops 7|call of duty: ghosts|call of duty: modern warfare 2|call of duty: modern warfare 3|call of duty: modern warfare 4|call of duty: modern warfare ii|call of duty: modern warfare iii|call of duty: modern warfare® ii|call of duty: mw 2|call of duty: mw ii|call of duty: strike team|call of duty: vanguard|call of duty: warzone mobile|call of duty: wwii - vanguard|call of duty: wwii – vanguard|call of duty®: modern warfare ii|call of duty®: modern warfare®|call of duty®: modern warfare® ii|call of duty®: vanguard|cod 2023|cod 2024|cod bo 6|cod bo6|cod mw 2|cod mw ii|cod vanguard|cod warzone mobile|cod wm|cod19|cod2023|cod: bo 6|cod: bo6|cod: modern warfare 2|cod: modern warfare ii|cod: mw 2|cod: mw 3|cod: mw ii|cod: mw iii|cod: mw3|cod: mwiii|cod: vanguard|cod: warzone mobile|cod: wm|cod: wwii - vanguard|cod: wwii – vanguard|cod:bo6|cod:wzm|codbo 6|codbo6|codmw 3|codmw iii|codmw3|codmwiii|modern warfare 2|modern warfare 3|modern warfare ii|modern warfare iii|mw 3|mw iii|mw3|mwiii|project cortez|warzone mobile|使命召唤19|使命召唤：现代战争4|使命召唤：现代战争ii|使命召唤：突击队|使命召唤：黑色行动6|使命召唤：黑色行动7|决胜时刻：魅影|決勝時刻：先鋒|決勝時刻：現代戰域 mobile|決勝時刻：現代戰爭ii 2022|決勝時刻：現代戰爭iii 2023|決勝時刻：魅影|決勝時刻：黑色行動6|決勝時刻：黑色行動7
 calvaryofpensacola.org
 cancerfonden.se
 capitoltheatrehuntsville.com
@@ -131,7 +131,6 @@ environmental-protection.org.uk
 equerra.com
 equipeprioritequebec.ca
 eraimpuxibles.com
-escort-guide.ws
 ewangeliczni.com
 eyeka.com
 f2i2.net
@@ -176,7 +175,6 @@ heilig-geist-schule.de
 hitachi.eu
 hmjamzbluesband.com
 hokurikumeihin.com
-homeizze.com
 hometourseries.com
 hswcv.org
 hugefiles.net
@@ -222,6 +220,7 @@ labam.dev
 laboratoriumdiscounter.nl
 ladybird.co.uk
 larslarson.com
+leannaorganics.com
 lendio.com
 leparticulier.fr
 lets-doit.at
@@ -229,6 +228,7 @@ lexlang.com
 likaman.co.jp
 littlebig6ster.com
 livefromhere.org
+llj555.com
 lmt-inc.co.jp
 lnky.pk
 lodenau.de
@@ -253,6 +253,7 @@ mayjoseph.com
 mayrhofner.at
 maywayrecords.com
 mediaatelier.com
+medibuntu.net
 meishalowe.com
 meningitisuk.org
 meritkings.org
@@ -285,7 +286,6 @@ mylifeaseva.com
 nabl-india.org
 nakasec.org
 ndpschool.com
-nefinovasyon.com.tr
 netmanias.com
 neuhaus-klausenbach.at
 newzealandcasinos.io
@@ -336,6 +336,7 @@ privatesupplements.nl
 prospectivedoctor.com
 puccini.it
 purefi.io
+qrbxzx.com
 rad-net-osswald.de
 rapidloungewager.com
 rattowersoftware.com
@@ -348,6 +349,7 @@ rocksea.org
 rockymountainyouthcorps.org
 rodrygosilvacz.biz
 rokushingan.com
+rolfruediger.at
 rostov-gorod.ru
 rpmgf.pt
 rsbarcelona.com
@@ -366,7 +368,6 @@ samaraone.ru
 samatiguila.info
 sampion.si
 sanbartolomeomilano.it
-sanbaya.fr
 satfrance.com
 scandinavianmind.com
 scd.cl
@@ -404,7 +405,6 @@ stowiki.net
 suisantimes.co.jp
 suwaneeartscenter.org
 swwh03.cn
-sxqinding.com
 sy-lab.net
 tele2.kz
 territorysupply.com
@@ -454,16 +454,18 @@ wijnjewoude.net
 winner-ca.com
 wku.edu.cn
 wobzip.org
+x5lawyer.com
 xn--kupitivoznikodovoljenje-voe.com
 yamato-bunka.jp
 yctcn.cn
+ye68f.cn
 yellohvillage.fr
 yonghongzhong.com
 ysearch.org
 zabeida.com
+zhifuhaodai.com
 zimmerbach.fr
 zing.vn
-zithromaxas7.com
 zjhydouyaji.com
 zoomnatury.pl
 zydey.com.cn

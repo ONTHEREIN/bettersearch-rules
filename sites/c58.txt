@@ -97,7 +97,6 @@ cflscouting.org
 championsofregnum.com = champions of regnum|regnum online|王国在线
 chickenroad-games.nl
 chickenroad-official.uk
-chinahdcm.com
 choco-story-brugge.be
 cilevics.eu
 cityofdearborn.org
@@ -135,6 +134,7 @@ dolniberkovice.cz
 dongbuhappy.com
 dongkuk.com
 drgowddental.com
+drinkcraftyltd.com
 drolivertreesextremelyepicartgrantforbabygeniuses.com
 dueppel.de
 dynexconnect.co.uk
@@ -166,7 +166,6 @@ feeney.ru
 feuerwehr-herzogenaurach.de
 ffw-hitzhofen-oberzell.de
 fgfox.eu
-fifa55cen.asia
 fightcampmediasportsandentertainment.com
 finestlabs.com
 foxsportstennessee.com
@@ -216,6 +215,7 @@ hostice.sk
 hotel-victoria-valence.fr
 hragripower.com
 hwva.nl
+i9630.cn
 ideal-postcodes.co.uk
 illetgersbach.fr
 illiwap.com
@@ -231,7 +231,6 @@ jackfm.com
 jafrum.com
 jamt.info
 japanleague.co.jp
-jasonofbh.com
 jck.nl
 jennyreynolds.com
 jobcopeu.com
@@ -294,7 +293,6 @@ meteo.lt
 miamai.dk
 minutemedia.com
 misp-project.org = malware information sharing platform|misp|misp threat sharing|恶意软件信息共享平台
-mitsloan.mit.edu
 modr.pl
 moemi0516.com
 mohave.edu
@@ -317,6 +315,7 @@ nipc.or.jp
 nms-st-peter6.at
 nombre7.fr
 nordfranceinvest.com
+ntxgjx.com
 nvansistine.com
 oaxacatimes.com
 obs.no
@@ -337,7 +336,6 @@ pelomusic.com
 petermcculloughmd.com
 peuoffice.com
 pgbackrest.org
-philipmorrisdirect.co.uk
 piratasdebogota.com
 platinumpokerdaily.com
 playbpsr.com
@@ -355,6 +353,7 @@ ran.org
 ratenelle.fr
 rattelmeier.de
 rcgv.cn
+rcok6p.cn
 re-ver.co.jp
 remont-sv.ru
 reset.build
@@ -408,6 +407,7 @@ strunal.cz
 suedbadtrier.de
 sumtotalsystems.com
 sunwin68.site
+supergacor4d.com
 superiordepsicologia.mx
 susanb.org
 sv07elversberg.de
@@ -480,6 +480,7 @@ worldproonline.co.uk
 wpsphillyindependence.com
 wristwatchreview.co.uk
 wxstzn.com
+xiangjieshiye.com
 yarid.org
 ydjgsj.com
 yieldo.me

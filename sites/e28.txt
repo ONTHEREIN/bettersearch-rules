@@ -24,12 +24,10 @@ aqua-soziales.com
 aravo.com
 arseniev-eparhia.ru
 artifactpuzzle.com
-arts.org.tw
 artum.co.uk
 atmuseum.org
 autojournal.fr
 bakersfieldcalifornian.com
-banboplay.com
 barreaulyon.com
 barrettforwv.com
 bedalehighschool.org.uk
@@ -64,6 +62,7 @@ ca7lates.shop
 camilleulrich.fr
 canoe.or.kr
 cantina.com
+captionsnation.com
 carissaturner.com
 carnalforge.se
 carneros.com
@@ -111,14 +110,17 @@ devx.com
 devyataev.film
 dgtl.nl
 dicelink.uk
+dirac.run
 discmdgroup.com
 diskwipe.org
 dn.gov.ua
 dolneplachtince.sk
 dongcong.us
 dramaitefernandez.com
+dsdeep.com
 dubbingpedia.pl
 ducks.org = ducks unlimited|无限量鸭子公司|野鸭基金会
+dvd.com
 dymchuk.com
 e-guardian.co.jp
 ecosanres.org
@@ -142,6 +144,7 @@ fc-haunstetten.de
 fc-murom.ru
 federicogemma.it
 felucha.com
+fifabet-worldcup2014.com
 fijet.net
 files.to
 fish-road-game.it
@@ -162,6 +165,7 @@ gellec.com
 gen90software.com
 genecards.org
 giornalelavoce.it
+godrevyresort.com
 goldgaming.ca
 golocad.com
 gowellingtonbus.co.nz
@@ -176,6 +180,7 @@ hitsteps.com
 hks-mittelschule.de
 homebox.software
 homecountiespubs.co.uk
+hongkongpoools.com
 hope.be
 hotel-elite.cz
 hotel-es.cn
@@ -222,7 +227,6 @@ kebuena.com.mx
 kelliegerardi.com
 khachaturian.am
 kimberlymuusse.nl
-kingsoffetish.com
 kjasbkk.cn
 knnc.net
 korytarky.sk
@@ -230,7 +234,6 @@ krones.com = krones ag|克朗斯
 kustar.ac.ae
 kyoto-net.com
 laurenzhang.com
-lbwhome.com
 lcu.edu.cn
 legutiano.eus
 leidersbach.de
@@ -243,6 +246,7 @@ lovemoney.com
 lucianavendramini.com.br
 macedoniaiowa.com
 macionis.com
+mahuazhu.com
 mairie-bazainville.fr
 mairie-evin-malmaison.fr
 mairie-izier.fr
@@ -280,6 +284,7 @@ nakasone.co.jp
 nap.edu
 narrenzunft-brigachtal.de
 netten.net
+newpoker88.com
 newtonbaby.com
 nieuil-espoir.com
 nieuwewiellopik.nl
@@ -325,7 +330,6 @@ planesnyc.com
 plea.org
 plovdivcentral.org
 postgresapp.com
-predatormasters.com
 premai.io
 primemegaworks.uk
 primeorigin.de
@@ -400,6 +404,7 @@ thelondontriathlon.co.uk
 thepcenthusiast.com
 thepncarena.com
 thinxpool.de
+tianhekouqiang.com
 tiltfactor.org
 timisoara2023.eu
 tmnth.cn
@@ -442,7 +447,6 @@ werkenbijdeloitte.nl
 whaau.net
 wi.ee
 wilddogs.ca
-wjpesostore.in
 wllighting.net
 worldsecuresystems.com
 worthword.com
@@ -450,7 +454,7 @@ wortsandcunning.com
 www.edu.fi
 wyckoffhospital.org
 xn--sdharz-eisenbahn-jzb.de
-xuedonghanzi.com
+xn8855.com
 xwzy.com.cn
 xypmusic.com
 yilip.net
@@ -458,6 +462,7 @@ yokohama.eu = the yokohama rubber company, ltd.|yokohama gomu kabushiki-gaisha|y
 youmadi.cn
 z4sh.com
 zavidov.cz
+ze28hb.cn
 zena.cz
 zhuyouwang.cn
 zigchain.com

@@ -28,7 +28,7 @@ argentaclassic.be
 armlur.am
 asprobrews.nl
 auricair.com
-aviamastersslot.de
+auxiliaire.fr
 avis.co.uk
 aytovaldesanvicente.es
 ayurvedjournal.com
@@ -51,7 +51,6 @@ bridefinds.net
 britloungestore.uk
 byaasen.no
 ca7workers.shop
-cadlink.com
 cadstudio.cz
 capetownfilmstudios.co.za
 captain-cooks-casino-at.at
@@ -62,7 +61,7 @@ cbolean.com
 cdc-cote-penthievre.fr
 cem.org.mx
 centrotextilesmayas.org
-cf-moto.fr
+cf-moto.fr = cf moto|cfmoto|cf摩托|zhejiang cfmoto power|zhejiang chunfeng power|春风动力|春风摩托
 cgraad.nl
 chainedesrotisseurs.com
 chateau-cheverny.fr
@@ -91,6 +90,7 @@ conversationsincolor.org
 conwayvangeldergrant.com
 coolstays.com
 corelifepro.id
+corneliabaltes.com
 cornerlogicspark.nl
 corporatewatch.org
 cosmicpalacepro.com
@@ -161,6 +161,7 @@ freexxxfilms.mobi
 frenchlevelup.com
 friendstag.site
 ftassociation.org
+functionalfabricfair.com
 gasthausbinder.at
 gdcproject.org
 geoera.eu
@@ -173,7 +174,6 @@ glowinitiative.org
 goianiaarena.com.br
 golfcoronado.com
 gorxheimertal.de
-gpayo.com
 gplus.to
 gprajpipla.in
 grad-svetanedelja.hr
@@ -185,7 +185,6 @@ hitnspin.com
 hjartdalmontessori.no
 hk-sunrise.hk
 hnloudi.gov.cn
-hongshengnet.com
 horm.it
 huafoundation.org
 hunaja.net
@@ -232,6 +231,7 @@ kog.nu
 kogama.com = kogama
 kommunetorget.no
 kordsa.com
+krauss-gmbh.com
 kuma-gb.de
 kwassui.ac.jp
 kyokousuiri.jp
@@ -298,6 +298,7 @@ nickhelm.co.uk
 nicksgo.com
 nikakari.com
 nimbula.com
+nngjqb.com
 nogifes.jp
 nosegraze.com
 nycrimecommission.org
@@ -339,6 +340,7 @@ qodeinteractive.com
 quranflash.com
 rainbow.me
 rammount24.pl
+rbglow.com
 refugeforums.com
 regitra.lt
 rilm.org
@@ -361,7 +363,6 @@ sharmanultra.com
 shawnapandya.com
 shawnporterpromotions.com
 shiqi17.top
-shrunken.com
 sikatpinoy.net
 siparamount.com
 sjurhjeltnes.no
@@ -382,7 +383,6 @@ squirrel2.tv
 ssldv.com
 ssttgd.de
 stanislawowka.pl
-starcroisieres.com
 stayscasino.eu
 stephanielouwrier.com
 stmarksbookshop.com
@@ -429,7 +429,6 @@ twilightlexicon.com
 uni-sustainability.at
 unileverfoodsolutions.com.cn
 unionoframblers.com
-upp.photo
 usa7agains.shop
 usahockeyntdp.com
 veritas.ag
@@ -452,6 +451,8 @@ wpll-j.org
 ww1-source.com
 wwuh.org
 xn----9sbe5aafucbx7c.xn--p1ai
+yangi.se
+ybxyhc.com
 yoga.wiki
 youroukeikoku.com
 yunuskara.com

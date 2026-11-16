@@ -56,6 +56,7 @@ azab.ae
 baeko.de
 baldwins.co.uk
 bancacentrolazio.net
+bankonbet.com
 basket-longwyrehon.fr
 bayrische7.com
 bazaladosenatu.cz
@@ -71,7 +72,6 @@ belvedereinfants.co.uk
 bestfestamerica.com
 bestmobileappawards.com
 bettingnews.com
-biguiy.com
 bjcjl.net
 blazecu.com
 blomstein.com
@@ -114,6 +114,7 @@ cityofdefiance.com
 codemachia.com
 codeplex.com = codeplex|codeplex.com|codeplex开源站点|codeplex開源站點|pcsx|pcsx-reloaded|pcsxr|python tools for visual studio
 columbusmodernquilters.com
+companionanimal.network
 compasshealth.org
 concellodeames.gal
 contribuablesassocies.org
@@ -141,7 +142,7 @@ dianemuldrow.com
 diocesisdematurin.org
 distresscentre.com
 divrlabs.com
-diyarbakirsoz.com
+doc-editions.fr
 dongsungcho.net
 donnersbach.at
 drjava.org
@@ -161,7 +162,6 @@ equinoxetv.com
 erbirds.ru
 espaceville.fr
 etechgroup.com
-eu-rainbet.com
 eubce.com
 eubusiness.com
 eugine.eu
@@ -171,11 +171,13 @@ explorerventures.com
 ezboard.com
 fawis-rp.de
 ffs.dz
+fifinz.cn
 finally.com
 fiveyearmission.net
 flaviobolsonaro.net
 flighttimeradio.com
 flobrungraber.at
+fo88.toys
 focuscreativeblog.uk
 fond-lipetsk.online
 foolz.us
@@ -218,6 +220,7 @@ hifiknights.com
 hollywoodhiccups.com
 horusfotografie.nl
 hosp1.ac.cn
+hpktdmvw.cn
 huamanquispe.com
 huizizhuan.net
 humanitiestennessee.org
@@ -262,12 +265,10 @@ kisbodak.hu
 knakagami.com
 kntn88zz.click
 komenet.jp
-konami.com = contra: rogue corps|efootball pes 2020|efootball pro evolution soccer 2020|efootball winning eleven 2020|efootball 实况足球2020|efootball 實況足球2020|gensou suikoden|gensou suikoden ii|gensō suikoden|gensō suikoden ii|lunar knights|metal gear|metal gear 3|metal gear solid|metal gear solid 3: snake eater|metal gear solid delta snake eater|metal gear solid delta: snake eater|metal gear solid δ: snake eater|metal gear survive|mgs|mgs1|pes 2016|pes 2020|pes2020|pro evolution soccer 2014|pro evolution soccer 2016|pro evolution soccer 2019|pro evolution soccer 2020|rocket knight|saw ii: flesh & blood|sh 2|sh f|sh townfall|sh2|sh: sm|sh: tsm|shf|shsm|shtsm|silent hill 2|silent hill 2 remake|silent hill : townfall|silent hill f|silent hill short message|silent hill the short message|silent hill townfall|silent hill ƒ|silent hill: downpour|silent hill: f|silent hill: homecoming|silent hill: short message|silent hill: the short message|silent hill: townfall|suikoden|suikoden ii|tmnt: the cowabunga collection|townfall|winning eleven 2020|yu-gi-oh ! master duel|yu-gi-oh master duel|yu-gi-oh! duel links|yu-gi-oh! master duel|z.o.e ~ zone of the enders ~|zone of the enders|世界足球 胜利十一人2014|勝利十一人2016|合金装备|合金装备 生存|奪魂鋸2：血與肉|实况足球2016|实况足球2020|寂静岭2：重制版|寂静岭f|寂静岭：归乡|實況足球2016|實況足球2019|幻想水浒传|幻想水浒传ii|幻想水滸傳|幻想水滸傳2|幻想水滸傳ii|星域毀滅者系列|星域毁灭者系列|沉默之丘2：重制版|沉默之丘f|沉默之丘：歸鄉|沉默之丘：隕落小鎮|沉默之丘：驟雨|游戏王：决斗链接|潛龍諜影|潛龍諜影 delta：食蛇者|潜龙谍影 δ：食蛇者|电锯惊魂2：血与肉|終極地帶系列|终极地带|终极地带系列|胜利十一人2016|詭魅山房- 落葉歸根|遊戲王：大師決鬥|鬼魅山房f
+konami.com = akumajo dracula ii: the accursed seal|akumajou dracula ii: the accursed seal|c: bc|c:bc|castlevania 2|castlevania 2: simon's quest|castlevania belmont's curse|castlevania ii|castlevania ii simon's quest|castlevania ii: simon's quest|castlevania ii: simon’s quest|castlevania: belmont's curse|cbc|dracula ii - noroi no fuuin|dracula ii: noroi no fuuin|dracula ii: noroi no fūin|dracula ii: the seal of the curse|ganbare goemon daishuugo!|getsu fūma den undying moon|getsu fūma den: undying moon|getsufumaden:undying moon|getsufūmaden : undying moon|love plus every|loveplus every|lunar knights|metal gear solid 3: snake eater|metal gear solid delta snake eater|metal gear solid delta: snake eater|metal gear solid δ: snake eater|metal gear survive|neverdead|pes 15|pes 17|pes 2015|pes 2016|pes 2017|pro evolution soccer 2015|pro evolution soccer 2016|pro evolution soccer 2017|pro evolution soccer 2018|sh 2|sh f|sh townfall|sh2|sh: sm|sh: tsm|shf|shsm|shtsm|silent hill 2|silent hill 2 remake|silent hill : townfall|silent hill f|silent hill short message|silent hill the short message|silent hill townfall|silent hill ƒ|silent hill: f|silent hill: short message|silent hill: the short message|silent hill: townfall|simon's quest|simon's quest castlevania ii|simons quest|super bomberman r|tmnt: the cowabunga collection|townfall|winning eleven 2015|yu-gi-oh ! master duel|yu-gi-oh master duel|yu-gi-oh! duel links|yu-gi-oh! master duel|yugioh md|zone of the enders|勝利十一人2016|合金装备 生存|实况足球2016|寂静岭2：重制版|寂静岭f|實況足球2016|實況足球2018|恶魔城ii 诅咒的封印|惡魔城：貝爾蒙特的詛咒|星域毀滅者系列|月风魔传：不朽之月|永生不灭|沉默之丘2：重制版|沉默之丘f|沉默之丘：隕落小鎮|游戏王：决斗链接|潛龍諜影 delta：食蛇者|潜龙谍影 δ：食蛇者|爱相随 every|終極地帶系列|终极地带系列|胜利十一人2016|胜利十一人2017|超级炸弹人r|遊戲王：大師決鬥|鬼魅山房f
 kotsu-city-kagoshima.jp
 krankenkassen.de
-kraum.is
 ktpauwels.be
-kuaidoubaping.com
 kudaslotme.store
 kukeristanbul.com
 laborlawforum.or.kr
@@ -285,11 +286,13 @@ lessonslearned.org
 libmov.it
 lincolntheatre.com
 lincolnyards.com
+livetv574.me
 livingbooksaboutlife.org
 lms-hessen.de
 londonreeldirect.uk
 londonslotview.uk
 lpssy.edu.cn
+lsd-kakao-ice.site
 lsg-lippe.de
 maccosmetics.it
 macitynet.it
@@ -314,6 +317,7 @@ michellebranch.com
 mihashi.co.jp
 mirai.ad.jp
 mixedmartialarts.com
+mnzhubao.com
 moeriken-wildegg.ch
 mohammed-sarraj.github.io
 moneytalk.ae
@@ -321,9 +325,9 @@ motomaat.nl
 mswmag.com
 mubet.net
 murillodegallego.es
+mwaojby.com
 napster.com = napster|napster inc
 narihisa.com
-narkologicheskaya-pomoshh-nizhnij-novgorod-ksc.ru
 nataliaclavier.com
 nationalmusee.lu
 nautas-almaghreb.com
@@ -350,6 +354,7 @@ odate-fm.com
 ofop.eu
 omcube.jp
 ominipcb.com
+onnkj.com
 opalesque.com
 opendays.com
 opengeo.nl
@@ -416,13 +421,13 @@ santicosmaedamiano.org
 saunalab.jp
 sbcp.org.br
 sbical.bank
+score7mcn.com
 sedgewick.ca
 seekinggoodeats.com
 seismicefficiency.ru
 senshicon.org
 sevenkeyslodge.com
 sgidi.com
-sgp88.site
 sh-xinlian.cn
 shell.cz
 shmakteam.ru
@@ -438,6 +443,7 @@ smadarbennatan.com
 smartwinpowerpoint.nl
 smgbb.cn
 sofiokran.ru
+southgarments.com
 southhunsley.org.uk
 spazio.ua
 spd-kreis-dachau.de
@@ -453,6 +459,7 @@ storhamarfotball.no
 studeo.fi
 sudicobank.com
 sugar-casinode.com
+suicin.com
 sumnerschools.org
 sunrealtync.com
 svarzbach.de
@@ -502,13 +509,13 @@ vertexstudioplay.it
 vga.at
 victoriamatlock.com
 ville-saint-sauveur-le-vicomte.fr
-visitvacaville.com
 vlinderparadijs.nl
 wadiacollegesurat.org
 warriorcanineconnection.org
 weg.li
 wela-art.com
 welcome-to-chitose.jp
+wfirco.com
 wfsrjw.com
 whales.net
 whiptonbarton.org
@@ -526,6 +533,5 @@ yaracuyanos.com
 ydyyasyy.com
 yeet.com.de
 youcubed.org
-zbet.loans
 zdzheng.xyz
 zimmermaenner.net

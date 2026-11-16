@@ -1,7 +1,7 @@
 1win.trading
 53080l.cn
 5tv.am
-81.cn = af china|af prc|air force of p.r. china|ar china|ar prc|armed police|armed police forces|army of china|central military commission|china army|chinese air force|chinese army|chinese people's armed police force|cpap|cpapf|pap|papf|people's armed police|people's armed police force|people's liberation army (pla) army|people's liberation army air force|people's liberation army army|people's liberation army ground force|pla air force|pla army|plaa|plaaf|plagf|prc army|zhōngyāng jūnshì wěiyuánhuì|中华人民共和国武装警察部队|中华人民共和国陆军|中国人民武装警察部队|中国人民解放军空军|中国人民解放军陆军|中国解放军陆军|中國人民武裝警察部隊|中國人民解放軍空軍|中國人民解放軍陸軍|中國武警|中央军事委员会|中央军委|中央軍事委員會|人民武装警察|人民解放军陆军|武装警察|武装警察部队|武警|武警部隊|解放军陆军
+81.cn = af china|af prc|air force of p.r. china|ar china|ar prc|armed police|armed police forces|army of china|central military commission|china army|chinese air force|chinese army|chinese people's armed police force|cpap|cpapf|pap|pap force|pap forces|papf|people's armed police|people's armed police force|people's liberation army (pla) army|people's liberation army air force|people's liberation army army|people's liberation army ground force|pla air force|pla army|plaa|plaaf|plagf|prc army|zhōngyāng jūnshì wěiyuánhuì|中华人民共和国武装警察部队|中华人民共和国陆军|中国人民武装警察部队|中国人民解放军空军|中国人民解放军陆军|中国解放军陆军|中國人民武裝警察部隊|中國人民解放軍空軍|中國人民解放軍陸軍|中國武警|中央军事委员会|中央军委|中央軍事委員會|人民武装警察|人民解放军陆军|武装警察|武装警察部队|武警|武警部隊|解放军陆军
 abc.edu.cn
 abecbrasil.org.br
 acpr.org.il
@@ -54,7 +54,6 @@ bmg-inc.com
 bnpublishing.com
 bonnergeneral.org
 bookmarketingbestsellers.com
-bookofra-gratis.de
 borgers-group.com
 brantlibrary.ca
 bravahdtv.com
@@ -137,7 +136,6 @@ feuerwehr-atzmannsricht.de
 fineartsbuilding.com
 flarescan.org
 flcl.ch
-fly88com.com
 fona.dk
 fondoeltriunfo.org
 forestgamingline.it
@@ -152,6 +150,7 @@ gatechain.io
 gcc.gm
 gdhed.edu.cn
 germanymedicine.com
+ghrqodq.com
 gipe.ac.in
 glidingcentre.in
 globalgambleplatform.nl
@@ -192,7 +191,6 @@ isan-manga.com
 itamartal.com
 ivermectinxx.quest
 jackpottechplus.co.uk
-jacktopcasino.com.nl
 jamilarowser.com
 jaumecuartero.com
 jbrmr.com
@@ -213,6 +211,7 @@ kask.be
 kebleprep.co.uk
 kfc.co.th
 kkcptr.net
+klad-a1fa-prodazhi-btc.online
 kodiakdailymirror.com
 kongehuset.no = king of norway|kongen av noreg|monarch of norway|norges konge|norwegian monarch|norwegian royal family|royal family of norway|sovereign|挪威君主|挪威国王|挪威國王|挪威皇室
 kp.pl
@@ -332,6 +331,7 @@ platinumwins.nl
 polishtradingpoint.com
 politicalresearch.org
 popped.nyc
+praktijkmascha.nl
 prarulebook.co.uk
 prawojazdypolska.pl
 pressesprecher.com
@@ -362,6 +362,8 @@ robbarmstrong.com
 robinlewisdance.com
 rochesteroperahouse.com
 rocketvegas.it
+rokos.com.co
+rondredent.com
 royalarcanum.com
 rsim.berlin
 ruxinsuye.com
@@ -497,4 +499,5 @@ yom-tov.info
 yoshidarie.net
 zbytb.com
 zentsuji.com
+zxwlkj77.cn
 zyba.ch

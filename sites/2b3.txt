@@ -1,6 +1,5 @@
 12-grundschule-dresden.de
 5leaps.com
-789fonl.com
 91-club-login.xyz
 abbeyroadfuquay.com
 acalog.com
@@ -11,6 +10,7 @@ aecom.ca
 aero-clubidar-oberstein.de
 agasharks.com
 agrodolce.it
+ahnschbr.com
 aieinternational.it
 aisairlines.nl
 ajudaparacarteirademotorista.com
@@ -43,6 +43,7 @@ ballydehob.ie
 barefootedu.com
 bbb-hmv.nl
 bbqpitboys.com
+bbybjx.com
 bcw-project.org
 beatrixeugster.ch
 berlinerkreisinderunion.de
@@ -53,6 +54,7 @@ betway-es.net
 bgav.org
 biky.ai
 binmile.com
+blogsolute.com
 bluearenaarena.it
 bogazicisultans.com
 boisdarlon.be
@@ -63,6 +65,7 @@ brandyaniston.com
 breastfeedingnetwork.org.uk
 britsino-online.co.uk
 buggynova.com
+bvarp87.com
 byron-gibson.com
 c82.net
 capitainestudy.fr
@@ -82,7 +85,7 @@ civitella.org
 clamfestival.com
 claudia1million.com
 clymbabudhabi.com
-com.py = maxus|maxus大通|saic maxus vehicle|ueno|ueno bank|上汽大通|大通|大通汽车|烏埃諾銀行
+com.py = maxus|maxus大通|saic maxus vehicle|ueno|ueno bank|上汽大通|乌埃诺银行|大通|大通汽车|烏埃諾銀行
 com.ru = rail nation|tabasco|tabasco sauce|塔巴斯科辣椒醬|塔巴斯科辣醬|辣椒仔
 com.sy
 commonsconservancy.org
@@ -120,7 +123,6 @@ drmori.co.jp
 dtic.mil
 dynamiclanguage.com
 e-mbatech.ac.jp
-e1g2h.com
 edchange.org
 edmondchang.com
 electjohnshott.com
@@ -218,7 +220,6 @@ kmart.co.nz
 kolk17.de
 kordtelecom.ru
 kuehne-nagel.com = kuehne + nagel|kuehne and nagel|德迅
-kunst.no
 kyoto-furitutaiikukan.jp
 langagesdusud.ma
 lannaapisukh.com
@@ -244,18 +245,20 @@ maternus.pl
 mbeam.org
 medi3.no
 mediapiac.com
+medinaseo.com
 medterms.com
 megafon.ru = megafon|梅加风
 melinbapur.cymru
+meridianmarquees.co
 metalcore.gg
 mfinindia.org
 miguelangel-martinez.com
-millert.dev
 minority-safepack.eu
 mintok.com
 miranda.no
 miu.edu
 mks.com.pl
+mncyw.com
 modelfact.com
 modernloungebridge.uk
 modernslotgroup.com
@@ -324,6 +327,7 @@ realtygainsindia.com
 redleague.de
 redlionofstudham.co.uk
 reefd.es
+relaticle.com
 relationinsurance.com
 renaissance-traditionnelle.com
 resource-zone.com
@@ -336,7 +340,6 @@ sagabai.com
 saintsusanna.org
 saiyouji.jp
 sakh.online
-sakti111.com
 saltireprize.com
 sambent.dev
 santjuliadecerdanyola.cat
@@ -352,8 +355,8 @@ shepherdshillacademy.org
 sheqd.cn
 shinonome-shinkin.jp
 siili.com
+siliconsemiconductorchina.net
 sint-maartenschool.nl
-siriuschain.io
 sjwater.com
 skypeascientist.com
 slavehack.com
@@ -362,7 +365,6 @@ snusexpress.com
 soa.org
 softprodigy.com
 sonali-roti.nl
-sonnguyenlimousine.com
 sophieallport.com
 southportlandlibrary.com
 sparke.com.au
@@ -375,7 +377,6 @@ st-bernhard-hospital.de
 startblokschiedam.nl
 stradalex.com
 stronergy.com
-succedesoloabologna.it
 surestories.us
 susanbeinerceramics.com
 sutkt.ru
@@ -387,6 +388,7 @@ tdm-kjp.de
 teamlababudhabi.com
 techbond.com.my
 teogkaffi.is
+tessaworld.in
 theardens.com
 thebuckgreatayton.co.uk
 thechrissingleton.com
@@ -421,7 +423,6 @@ vaseyrslcare.org.au
 vaultfocus.uk
 vdd.de
 verny.fr
-viewglue.com
 virginislandscycling.org
 visitiran.ir
 vitruvius.com.br
@@ -443,6 +444,7 @@ wilgafney.com
 willerexpress.co.jp
 wilsonconnectivity.com
 winnercasinoplay.com
+wintochatbot.com
 winux.is
 wonho-official.com
 woqod.com
@@ -450,6 +452,7 @@ wtbx.com
 wwfanclub.com
 x88-yu.com
 xjshanshan.gov.cn
+y5jo.cn
 yattool.co.kr
 ynfhm.com
 yonghe.com.cn
@@ -458,6 +461,5 @@ yourb94.ca
 zavodistepardubice.cz
 zelenymlyn.com
 zhinengpingtai.com
-znc86.club
 zueblin.ch
 zumzumteatre.com

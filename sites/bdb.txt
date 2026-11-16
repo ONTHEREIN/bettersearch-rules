@@ -1,7 +1,6 @@
 1069spiritfm.com
 51gaifang.com
 7-eleven.com.mx
-88go.media
 a1articles.com
 aantin.com
 actu-automobile.com
@@ -9,6 +8,7 @@ ad019.cn
 adabofgluewilldo.com
 affarsfokuspunkt.se
 aggregage.com
+agoodff.com
 akaiohi.jp
 akcompany.vn
 alcorn.edu
@@ -57,6 +57,8 @@ bildandco.com
 bilder-verkleinern.de
 bismarcktribune.com
 bjcfps.co.uk
+bjhuilin.com
+bkkeji.com.cn
 bluelug.com
 bmlisieux.com
 boissons-maroc.com
@@ -105,6 +107,7 @@ consmupa.es
 corinthiantherapy.com
 ctks.co.uk
 cxqlnbl5.com
+czhuinuo.com
 d2p2.pro
 daffodilvarsity.edu.bd
 dailysportsnow.nl
@@ -158,7 +161,6 @@ fscript.org
 fuckingtranswomen.org
 fujikango.ac.jp
 gaborstore.nl
-gamezone88.games
 garance-patrimoine.fr
 gianty.co.jp
 gidiocese.org
@@ -180,7 +182,6 @@ hide-movie.com
 hiking.sk
 hildevautmans.eu
 hinosaria.com
-hmidobo.org
 holdingtrevor.com
 hollyweed.com
 hosszuviz.hu
@@ -223,7 +224,6 @@ larryingrassia.com
 leakedmodels.com
 learncafe.com
 ledderwerkstaetten.de
-leki-zylaki.pl
 lepidopteraresearchfoundation.org
 lery.ca
 liepaja.lv
@@ -237,6 +237,7 @@ loriol.com
 losc.fr = lille|lille olympique sporting club|lille osc|losc|利尔足球俱乐部|里尔|里尔奥林匹克|里尔足球俱乐部|里爾足球會
 lottoflow.us
 lowly.io
+lsd-herb-ice.site
 luckypayscasino-uk.com
 luckyvibecasino-ca.com
 lymmhigh.org.uk
@@ -264,11 +265,11 @@ michealmicheal.com
 mickrozaim.ru
 microscopyebooks.com
 mikkopakkanen.fi
-moanaessentials.com
 moatheater.de
 monicavinader.com
 montandok.de
 mtmphysio.com.au
+mtnj.org
 mvostok.ru
 myflowin.com
 myshameful.com
@@ -278,7 +279,6 @@ nbcuni.com
 nccat.org
 neatstuffhelpskids.org
 newsimages.ru
-ngpufzle.cc
 nienke-jos.de
 ninjabee.com = a world of keflings
 noblecars.com
@@ -333,7 +333,6 @@ republica.dk
 rezon.casino
 rggtrio.com
 rockman.no
-roof22.ru
 rubyibarra.com
 rubyyadav.com
 rusq.org
@@ -400,17 +399,16 @@ torgraves.com
 toyoframe.com
 trafficsafety.org
 trallwnginfants.com
-travel.care
 trellis.co
 trubschachen.ch
 trujillo5.es
 tsguas.edu.cn
 tvagatineau.ca
+u8888.town
 uis.gov.rs
 ukbartendersguild.co.uk
 urbanslotsworks.uk
 usa7easts.shop
-usbet.net
 uttlesford.gov.uk
 vaerloesebio.dk
 vanguardworld.com
@@ -430,6 +428,7 @@ vm-help.com
 voltadapampulha.com.br
 vsers.cz
 vtsgroup.com
+vuvhch.com
 vv-diner.jp
 vyond.com = go!animate|goanimate|vyond
 walterborolive.com

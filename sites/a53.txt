@@ -16,11 +16,11 @@ agilityhoster.com
 agsm.it
 aisler.net
 akal.com
-ako66.com
 akporeufuoma.org
 al-mayurqa.cat
 alanyabayanlar.com
 albiraaclinic.com
+alphabarberlounge.net
 alzheimers.org.uk
 andiraagro.com
 andre-aaron-bilis.com
@@ -28,6 +28,7 @@ angerbus.de
 anglicanalliance.org
 animalplanet.com = animal planet|動物星球頻道
 antiochian.org
+appgallery.cloud.huawei.com
 aqbalxsmn.pw
 aquasec.com
 aracneafilmbookfestival.it
@@ -36,11 +37,13 @@ arsolvay.be
 asafamilysection.com
 atelieramaro.pl
 athens-mi-historicalsociety.org
+athensfpc.org
 audiogrill.net
 australiansportsparty.com
 avistamedia.pl
 badak-178.link
 barkevs.com
+bartlettpetsitters.com
 basalnutrition.com
 bauxiteminers.org
 bellawhitemusic.com
@@ -116,6 +119,7 @@ coreedge.us
 cornerbakeryamsterdam.com
 cortile.io
 cosmisslras.ru
+cqybr.com
 crestoniowa.gov
 crownrisefinanceplc.com
 cryptonewss.com
@@ -131,6 +135,7 @@ deepsouthtoday.org
 deida.info
 delishknowledge.com
 delkindevices.com
+denxla.com
 destinationperth.com.au
 devuurvogeldriebergen.nl
 dgrsdt.dz
@@ -144,7 +149,6 @@ dorotheingenfeld.com
 dragoniacassino-online.com
 drddvichitra.com
 drroof.com
-dsospangandaran.org
 eastlongmeadowlibrary.org
 eatout.es
 ecfair.jp
@@ -186,9 +190,7 @@ fci.nl
 fcnnacion.com
 felixart.org
 ff-thurmansbang.de
-filmyfly.mn
 fiorentini.com
-flighthacks.com.au
 flipside.pl
 florilegevocal.com
 fluxexpert.nl
@@ -239,6 +241,7 @@ helloemma.cz
 heybmx.com
 hft.org.uk
 hir.co.jp
+hjntfy.com
 hoshikaze.net
 hostage-band.com
 housecleaning-kyokai.org
@@ -256,7 +259,6 @@ internethistorypodcast.com
 iopscience.org
 ip-details.com
 ipv6-test.com
-isragarcia.es
 isupportstreetart.com
 itrend.cl
 ixblue.com
@@ -308,7 +310,6 @@ machairas.cy
 macrabbit.com
 mafi.de
 majakoman.com
-manclub.fyi
 mariengymnasium-jever.de
 market-darknet.org
 marketlogicsoftware.com
@@ -421,7 +422,6 @@ prolades.com
 pulsmedia.ro
 pvsp.cz
 qbaobei.com
-qdmingmou.com
 quadim.com
 rafalreyzer.com
 rage-kg.org
@@ -469,7 +469,7 @@ solsticecyclist.org
 soltech-go-hybrid.de
 sonary.com
 sonthonnax-la-montagne.fr
-sourceforge.net = adodb|adodb for php|adodb php|akelpad|akelpad portable|aleph one|ants p2p|armadillo|armadillo庫|aufs|autorealm|blosxom|bricx command center|bricx 指揮中心|checkstyle|cppcheck|cruisecontrol|cscope|devil|docfetcher|dssi|e/os|emovix|espeak|ezey|ffdshow|fire|fmslogo|fpgui|ftpfs|gutenprint|hamlets|java-gnome|jmol|kile|lesstif|lmule|loki|lopster|lprng|meshlab|midletpascal|movix|mrxvt|mute|mute network|mute-net|nestopia|next3|ngspice|nsis|nsis portable|nullsoft install system|nullsoft scriptable install system|nullsoft脚本安装系统|nullsoft腳本安裝系統|open xange|phppgadmin|pngcrush|pud|pud gnu/linux|pud linux|qutemol|raza|rkhunter|scribes|secure shell filesystem|shareaza|simplis|simthyr|sodipodi|soprano|source code control system|spim|ssh filesystem|sshfs|strigi|table of processes|the hessling editor|tilda|timidity++|top|ufraw|uml|user-mode linux|valknut|virtualdubmod|vixta|waste|wireless interface connection daemon|wxdev-c++|wxglade|xange|xdoclet|xfig|xine|使用者模式linux|原始碼控制系統|源代码控制系统|用户模式linux
+sourceforge.net = akelpad|akelpad portable|aleph one|archive manager|blosxom|bowtie|cbsu|checkstyle|chromium b.s.u.|chromium bsu|comix|cppcheck|cppcheck portable|danger from the deep|darwine|denyhosts|devil|dftd|dssi|e/os|elokab|enterprise volume management system|eos|file roller|findbugs|fish fillets|fish fillets ng|fof|foobillard|foremost|fpgui|freeglut|freemat|freemat portable|frets on fire|fretsonfire|ftpfs|fvwm95|galeon|gerris|glide|glide api|gutenprint|hamlets|jmol|k9copy|kdump|kh coder|kile|loki|lunix|lush|midletpascal|mp3gain|mtpaint|ndiswrapper|netpbm|nocc|opennap|opie|opie user interface|peercast|phpwiki|pseint|psyco|qtparted|reduce|rox desktop|rox-filer|rox桌面|scidavis|simpy|spim|strigi|swaret|the open racing car simulator|timidity|timidity++|torcs|tux racer|tuxracer|uml|user-mode linux|waste|wireless interface connection daemon|wxdev-c++|wxdfast|wxdfast portable|wxdownload fast|wxdownload fast portable|xdoclet|xournal|xournal 0.x|xymon|企鵝在滑雪|企鹅在滑雪|使用者模式linux|深海危機|热火吉他手|用户模式linux
 sovren.media
 spectralplatforms.com
 spek.fi
@@ -500,7 +500,6 @@ tchan.com.br
 teachforaustria.at
 telemundo62.com
 templeisrael.org
-temposlot123.co
 theaterbellevue.nl
 thebelgianwaffle.co
 theblessedseed.com
@@ -527,6 +526,7 @@ tw-arch.at
 tyhafan.org
 uclave.org
 ucsp.edu.pe
+ufav11.com
 uit.edu.vn
 uli.se
 unhandled.com
@@ -567,7 +567,6 @@ xn--santibaezdelval-4qb.es
 xn--sv-mhlhausen-glb.de
 xxl.fr
 ybbwg.org.cn
-yimbybilbao.com
 yogamovement.com
 yuyushiki.net
 yvonnefovargue.com

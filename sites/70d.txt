@@ -1,3 +1,4 @@
+10seconds.live
 1551bier.nl
 20betcasino-se.com
 22bet-casino-de.com
@@ -22,6 +23,7 @@ artstorefronts.org
 asheducationbook.org
 assetwatch.com
 atfx.com
+augurinstitute.com
 aurumfilm.pl
 ausgambler.net
 autogenai.com
@@ -31,7 +33,6 @@ azbilliards.com
 baikalinc.ru = baikal (tade mark), izh|izhevsk mechanical plant|伊熱夫斯克機械工廠|伊熱夫斯克機械廠
 barnstorfersportverein.de
 bauhin.ch
-baumhowers.com
 baylortrophyclub.com
 behindfeed.com
 betzonering.us
@@ -48,7 +49,7 @@ booksbeyondwords.co.uk
 borhatorah.org
 brunswickdentalservices.com.au
 bsg-mm.de
-bundesliga-gruppe.de
+bundesliga-gruppe.de = bundesliga-gruppe|bundesliga-gruppe gmbh|deutsche fußball liga
 cabrero.es
 callosumneurology.org
 calmac.co.uk
@@ -71,7 +72,6 @@ chiliesvanilia.hu
 chinamp3.com
 christchurchbr.org.uk
 christinetassan.com
-chung-pei.com
 cinecolombia.com
 circa1679.com
 ciril.net
@@ -93,9 +93,11 @@ criticallegalthinking.com
 ctba.org.tw
 cuchen.com
 cult-party.com
+cuppedwingsguideservice.com
 cutaactu.ca
 cyclocross-pontchateau.com
 cztn.gov.cn
+dailyhomesafety.com
 damaskosinc.com
 damkorenlinnea.se
 dapacheckertool.site
@@ -158,8 +160,8 @@ getstream.io
 ggservers.com
 gifsauce.com
 gilgameshpharmaceutical.com
-gorodokstroy.ru
 goveshona.co.uk
+greendoggiehomeboarding.com
 grillos.com
 gzpyp.edu.cn
 habitlist.com
@@ -175,6 +177,7 @@ heinrich-kleyer-schule.de
 henkermuseum.ch
 hillsborowi.com
 hnxinbang.com
+hockeyalberta.ca
 hogsback.co.uk
 hohenhaus.at
 holytrinitymatlockbath.org.uk
@@ -190,7 +193,6 @@ imabrasil.com.br
 imagesco.com
 innovativmedia.de
 insideradvantage.com
-intrasystems.ua
 invalides.org
 inverleigh.com
 ipentec.com
@@ -201,7 +203,7 @@ it-matchmaker.com
 jackpotvault.us
 januszgrudzinski.com
 jaseconnor14.com
-jdmln.com
+jismmo.com
 jordanfemmepascher.fr
 juchuse.top
 kanmedi-baseball.com
@@ -218,6 +220,7 @@ kolja-warnecke.de
 koreit.co.kr
 kristinesporekreutzmann.com
 kueking.com
+kwapgvi.com
 la-pleiade.fr
 labour-uncut.co.uk
 lacougottecadoul.com
@@ -239,6 +242,7 @@ manlybands.com
 mantero.com
 marcaigualada.cat
 margaretbrouwer.com
+marketingowo.com.pl
 mashiroryo.com
 mazevoices.com
 mbna.co.uk
@@ -321,7 +325,6 @@ polifonicomed.com
 polimedia.ac.id
 pompejac.fr
 postpoliolitaff.org
-presentsathome.nl
 primarialaza.ro
 primomaggio.net
 prinovis.com
@@ -380,6 +383,7 @@ spaziodemomagazine.it
 spctgroup.in
 spotclair.fr
 srokhd.cn
+ssndn.com
 stahlwerk-schweissgeraete.de
 startpallet.be
 startvista.be
@@ -389,7 +393,6 @@ stridenet.co.uk
 stuartheritagemuseum.com
 stubetegaeng.ch
 su.org = singularity education group|singularity university|奇點大學
-successframework.com.au
 sudantribune.net
 sulatesta.net
 sunderlandships.com
@@ -402,6 +405,7 @@ tamiaworld.com
 tdh2078.quebec
 tealibri.it
 team-integra.net
+tenglonrpv.cn
 tervolanseurakunta.fi
 tethertools.com
 teutonia-prag.de
@@ -439,7 +443,6 @@ vacchi.se
 vbt.eu
 vertexbetpro.nl
 vilmogibello.com
-virtualsolution.co.in
 vivapayments.com
 vobjektive.ru
 vortex-ihc.net

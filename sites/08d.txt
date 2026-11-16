@@ -111,7 +111,6 @@ ee88spin.com
 eiab.eu
 eict.de
 ejournal6.com
-elektrum.lt
 elodiejacquierlaforge.fr
 erinfetherston.com
 esportigualada.cat
@@ -137,7 +136,6 @@ focusmoderne.fr
 foroatletismo.com
 forschung-und-lehre.de
 fortunecraft.de
-forwardintentions.click
 frcs.org.fj
 fredwah.org
 freestyler.ws
@@ -162,6 +160,7 @@ getinternet.gov
 gkbrk.com
 globalresearchnetwork.us
 goldworldblog.nl
+gonexo.app
 gps.gov = global positioning system|global positioning system, gps|gps|全球卫星定位系统|全球定位系統|全球定位系統定位|全球定位系统|全球定位衛星|全球衛星定位|環球定位系統|衛星定位系統
 grassingtonfolkmuseum.org.uk
 greenfootenergy.ca
@@ -176,6 +175,7 @@ hitparader.com
 hollidaytx.org
 hotelbalnearivichycatalan.cat
 hsgalumni.ch
+iamyou.se
 ideacenter.org
 idpc.ma
 ihara.com.br
@@ -197,15 +197,16 @@ jakeorlowitz.com
 jankus.name
 jase.jp
 jasperwood.net
+jesmondphysio.co.uk
 jnwjzyqw.com
 johannes-moser.com
 jonesdesigncompany.com
 jsalaw.com
+jswx.gov.cn
 justexpertise.de
 justinkarlin.com
 justiz.de
 jwestman.net
-karsbayanlariyiz.xyz
 katharina-beck.de
 kazimierz.org
 kcountry104.com
@@ -213,7 +214,6 @@ kerberos.org
 kgfighters.com
 knihovna-mohelnice.cz
 kobe-c.ed.jp
-kosmodromio.gr
 kpdnhep.gov.my
 krivyanskoe.ru
 ksoutdoors.com
@@ -235,7 +235,6 @@ loaconstruction.com
 location1.org
 londonslotscollective.uk
 lostbulgaria.com
-lottoland.net.pl
 lsmetal.biz
 lubainz.com
 luckcorezone.co.uk
@@ -275,6 +274,7 @@ moszczenica.eu
 mpac.org
 mrlincolnswhitehouse.org
 murdle.com
+musbayan.site
 musicforcats.com
 mweb.co.za
 myrtlehousegiftgallery.co.uk
@@ -372,9 +372,11 @@ sucvh.com
 superjuliedavis.com
 svevagerevini.com
 sweethearts.dk
+swissfutureinstitute.ch
 switchboard.org.uk
 symcea.fr
 taalthuis.nl
+tahiticasino.de
 taifi.org
 takashimaryosuke.jp
 techlandia.com
@@ -398,7 +400,6 @@ tsv-wuelflingen.de
 tulip-pictures.com
 tumbetyeniadresi.org
 tvn.pl
-tvnamu7.me
 typawb.wales
 ucb-usa.com
 unsere-wildnis.de
@@ -425,6 +426,7 @@ wazhack.com
 webmarketing-conseil.fr
 wellesleytupelos.com
 westindiacommittee.org
+wftibld.cn
 whistleon.com
 wildbrookschurches.org.uk
 winadaycasino.eu
@@ -439,9 +441,11 @@ xintengkj.com
 xn--90abgca9ccbkf7m.xn--p1ai
 xon.bet
 xpax.com.my
+xtsxwo72722.cn
 xzblogs.com
 ynrs.gov.cn
 yoshimoto.co.jp = yoshimoto|yoshimoto kogyo holdings|yoshimoto kogyo holdings co., ltd.|吉本|吉本兴业|吉本兴业控股公司|吉本興業|吉本興業控股|吉本興業控股公司
+yueshanginpin.cn
 yuml.me
 zbor.pl
 zeittor-neustadt.de

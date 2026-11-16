@@ -7,9 +7,11 @@
 acmchealth.org
 activefocus.us
 adamlyonsw.com
+adready.vip
 aerochartervuelos.com
 aerosever.ru
 agenciasway.com.sv
+ahjsdzyc.com
 aicels.org
 aida-archiv.de
 aimc.es
@@ -29,6 +31,8 @@ architects-register.org.uk
 arielletwist.com
 arithmacapital.com
 arrowsweb.net
+artvinbayan.site
+askallegiance.com
 aspppro.com
 astroparlaycorner.com
 astropath.xyz
@@ -49,7 +53,6 @@ bellaghyparish.com
 bergersingerman.com
 berlinerdom.de
 berlinonline.de
-betmaximus-de.de
 betonred-it.it
 betultrayard.us
 biaodan.info
@@ -73,7 +76,6 @@ browscap.org
 bruceberesford.org
 bthaber.com
 bubion.es
-budipinemed.com
 bundeskanzleramt.de
 burroughschapin.com
 ca61withins.shop
@@ -125,7 +127,6 @@ danskotc.dk
 darkcoding.net
 deadinbermuda.com
 dendanskespiseguide.dk
-devnull-as-a-service.com
 dfwpestguard.com
 diamondpadsfactory.com
 dievogelschule.com
@@ -145,11 +146,12 @@ edel-weiss-zahnaerzte.ch
 editions-fayard.fr
 editionsgashingo.com
 ehc.cz
-electroprivod.ru
+elearning-ump.com
 emily-carlson.com
 empoweringspirits.org
 englishrussia.com
 enovationgroup.com
+epicerie-niort.com
 eurocarabidae.de
 evenly.com
 eventbrite.com.ar
@@ -209,6 +211,7 @@ helpdrivers.com
 henningportalen.no
 herbert-will.de
 heylyra.com
+hi88.ltd
 higashimiyoshi.lg.jp
 hillsideavenue.org
 hjemmetmortensen.se
@@ -219,12 +222,14 @@ impactplus.tv
 israelite.ca
 itl4dmegawin.com
 jackpot-casino.pl
+jacobsilverman.com
 jandraws.wordpress.com
 javaposse.com
 jeffersonsd251.org
 jehad.ps
 jnjgermany.de
 joseramonpatterson.wordpress.com
+js-aes.com
 jubileescotland.org.uk
 juliaherz.com
 juniorikalpa.fi
@@ -255,6 +260,7 @@ londonbonusgroup.uk
 love-spo.com
 loxblog.com
 lpcb.org
+lssell.com
 lumiwallet.com
 lwlhs.com
 mad-rotator.com
@@ -309,6 +315,7 @@ oncotech.org
 onefootball.com = onefootball|onefootball gmbh|onefootball.com
 org.ve
 ourger.com
+ourslotnaga168.com
 pageseochecker.store
 paginasamarillas.com.pe
 palliativecareassociationofmalawi.org
@@ -322,6 +329,7 @@ phoenixfestival.org
 pinnaclesurveyors.com.au
 piratenpartei-mv.de
 pixart.com.tw
+platiza.ru
 polska1.pl
 portinari.org.br
 pukehinasurfrescue.co.nz
@@ -349,7 +357,6 @@ rogepost.com
 ronanhession.com
 ruedblass.ch
 s-jwa.or.jp
-s3.amazonaws.com
 sacredheartmoreton.co.uk
 samajwadiparty.in
 sambo.com.br
@@ -390,7 +397,7 @@ surj.org
 suryaprava.co.in
 suwontodak.co.kr
 sv-erasmus.nl
-sztorm57.pl
+tacticon.com
 talenestpulse360.com
 tamaikobayashi.com
 tangletowergame.com = detective grimoire 2: tangle tower|detective grimoire: tangle tower|tangle tower
@@ -407,6 +414,7 @@ timebomb.co.jp
 timoharakka.fi
 tl-elektronic.cz
 toledowalleye.com
+tox.de
 triplecrownsports.com
 trueblackjackzone.com
 truecoverage.com
@@ -453,10 +461,12 @@ webfg.com
 webwisee.co.kr
 weisbeckerlab.com.au
 wha-up.com
+whdaer.com
 whotwi.com
 wiesenthau.de
 wikitruth.info = wikitruth
 winfaq.de
+wo31t.cn
 wyoming.gop
 xfactor.io
 xjjs.gov.cn

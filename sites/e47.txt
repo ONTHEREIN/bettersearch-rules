@@ -12,7 +12,6 @@ abysssurge.co.uk
 activ8rlives.com
 aegeancenter.com
 aero-service.com
-afhe.org
 agkm.ru
 agsc.org
 ajamais-lefilm.com
@@ -88,6 +87,7 @@ buergerstiftung-unna.de
 cafeamneuensee.de
 cakto.com.br
 cambournechurch.org.uk
+campaignforfreespeech.org
 capospines.com
 cardiacs.com
 catholiccharitiessf.org
@@ -98,14 +98,11 @@ cersa.org
 cfw.cn
 chanelthervil.com
 chevywoodsmusic.com
-ciemeliades.com
-cityfoundrystl.com
 cityofbuellton.com
 cityofeaglepoint.org
-clara.com = clara
+clara.com
 claudiadebreij.nl
 clinichealthbeauty.com
-cmas-america.org
 cofounderslab.com
 cogsy.com
 cohaus.nz
@@ -120,12 +117,11 @@ cosstores.com
 couplesinstitute.com
 cpbofficial.com
 crew.cz
-cultural-center.org
 culturewarrington.org
 cyberdriveillinois.com
+cybertribe.io
 da88app.com
 danielzrihen.co.il
-dantejart.com
 dataspace-culturalheritage.eu
 dbf.nl
 delmontefoods.com
@@ -142,11 +138,9 @@ dogmatyka.pl
 drjohnjackson.com
 drublair.com
 dsa.no
-dsosmuna.org
 ducalemusic.it
 dwarikas.com
 e2b.dev
-e4pw6b.com
 eastgate.com
 easy-booking.at
 ecopro.co.kr
@@ -162,7 +156,6 @@ emiliegirardcharest.com
 emmamason.com
 eneas.no
 ernstlanghout.nl
-etaoplus.com
 eureennormandie.fr
 eurogress-aachen.de
 ewb-karlsruhe.de
@@ -231,6 +224,7 @@ houseofnehesipublish.com
 hpb.co.uk
 hrbet.website
 hummkombucha.com
+hunt.africa
 hyperwagerhub.com
 icicihfc.com
 identityiq.com
@@ -253,6 +247,7 @@ jenbutlerlyons.com
 jf-saocaetano.blogspot.com
 jivochat.com.br
 jn1.tv
+jobnearbyyou.in
 juangabriel.com
 juliabutterfly.com
 juliusshulmanfilm.com
@@ -296,6 +291,7 @@ luckyvoice.com
 luckyzone.uk
 luson.com.cn
 mad-casino-se.com
+mahjong333.boats
 mainegeneral.org
 majstoralata.hr
 mannheimerhc.de
@@ -356,7 +352,6 @@ paramoreisaband.com
 patchandremington.com
 patrickwalliser.de
 pattern-recogn-phys.net
-pdjzejg.com
 penzasmi.ru
 perfectgift.com
 personz.net
@@ -364,15 +359,12 @@ perssupport.nl
 petier.org
 pfttsp.be
 philcoradio.com
-philippine-lottoresults.com
 philtaskerpoland.co.nz
 pier24.org
 pietroasele.ro
 pigier-benin.com
-pinapkazinootzyvy.kz
 plaintrend.us
 playshakespeare.com
-plinko-kasyno.com.pl
 pls-tools.com
 pluscity.at
 pontedilegnotonale.com
@@ -417,6 +409,7 @@ sabinehuynh.com
 saintemarie-saintsernin.com
 salondeclover.net
 satern.org
+say88.mba
 sba.org.au
 scalzoautomotiveresearch.com
 schaakclub.blogspot.com
@@ -495,6 +488,7 @@ universiteitvannederland.nl
 unlimitednovelty.com
 urbanpalace140.com
 usa61exactlys.shop
+usun123.com
 uu66k.com
 uuspins.net
 v-postnikov.com
@@ -507,6 +501,7 @@ verlagrabe.de
 vg-syrgenstein.de
 vietjetair.com = vietjet|vietjet air|vietjet airline|vietjet airlines|vietjet aviation joint stock company|vjc|越南喷射航空|越南噴射航空
 villegaudin.fr
+vnew88.gg
 waltdisneystudiosawards.com
 weitersfeld.at
 weltwald.de
@@ -521,10 +516,11 @@ wnibetcasino.com
 woodhousegrove.co.uk
 woodlandboe.org
 woonbedrijf.com
-xenafan.com
+ww-globallink.com
 xlo.pl
 xn--e1afhlcepcza1grb.xn--p1ai
 xtreemfs.org
+ychongjie.com
 yesblog.ru
 yliving.com
 yousellproperty.com
@@ -534,3 +530,4 @@ zanata.org
 zemag-zeitz.com
 zeussproducer.com
 zmiksowani.pl
+zysttz.com

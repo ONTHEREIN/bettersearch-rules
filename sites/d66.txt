@@ -24,10 +24,10 @@ amilina.lt
 anapresedinte.ro
 ankoku-movie.jp
 anybots.com
+aos77.cc
 applian.com
 aquariumdelareunion.com
 arction.com
-argentinawarez.com
 armantes.es
 artillery.dk
 atliman.bg
@@ -36,9 +36,7 @@ aulasimfoniajakarta.com
 auricchio.it
 aussizzgroup.com
 avis-goldenoil.com
-avtourist.info
 azirevpn.com
-bassbets.com.pl
 bausch.com.sg
 beat102103.com
 belcrumbeach.nl
@@ -74,13 +72,11 @@ camtesol.org
 canvasopedia.org
 carnetjpr.com
 casibom-de.de
-casino-silverplay.com
 ccaaa.org
 ccayef.org
 centerbase.com
 central.ch
 chasebaird.com
-chathamsoccerclub.com
 chelseamarket.com
 chisagocountyhistory.org
 chuo-alps.com
@@ -89,6 +85,7 @@ circulatecapital.com
 circusoz.com
 citychiccollective.com.au
 classiccollision.com
+clubeunescoedart.pt
 codebutler.com = firesheep
 coleopteres.fr
 collegium-wirtemberg.de
@@ -111,14 +108,13 @@ deepx.ai
 denybeats.com
 dependentmusic.com
 despelote.game = despelote|街头足球
-dgmhfa.com
 diana-gutjahr.ch
 dicksondata.com
 dieguez-philosophe.com
 difc.ae
 digenisvc.com
-digittonic.com
 djh-hessen.de
+dlwkrk.com
 dmillzmusic.com
 dnsexit.com
 ecommerce-nation.com
@@ -153,7 +149,7 @@ filmsthatinspire.com
 findel.co.uk
 fishin-frenzy-slotreview.uk
 fmmie.jp
-fontawesome.io
+fontawesome.io = font awesome|font-awesome
 froidmt.com
 fujisawa-med.com
 fylkesarkiv.no
@@ -180,6 +176,7 @@ grenier-du-mac.net
 grep.be
 grupomateus.com.br
 guchokipan.com
+gymnvp.cz
 gyptazy.com
 hagyomiklos.com
 halalstarter.com
@@ -199,6 +196,7 @@ highcourtchd.gov.in
 hofamtpriel.at
 homepartners.com
 honkbalweddenstrat.com
+hozihhl.cn
 hpba.pl
 hr-media.ru
 hrhcancun.com
@@ -220,7 +218,6 @@ iuverdes.es
 izumiofficial.org
 jacksonwcrawford.com
 jawbonepress.com
-jazzjiveswing.com
 jepic.or.jp
 jesse-rothstein.com
 jeuneetrose.fr
@@ -229,6 +226,7 @@ johannesmueller.info
 jornaldooeste.com.br
 jsap.jp
 juergenfriedrich.net
+justcoffee.coop
 kaizen-tmz.ru
 kfqzdfwzx.cn
 killingbites.com
@@ -312,6 +310,7 @@ networkonline.uk
 neuenkirchen-im-huelsen.de
 newscurrent.uk
 newsdiffs.org
+nfsgw.com
 nidec-motor.com
 nieuwelan.nl
 nitroquimica.com.br
@@ -371,8 +370,6 @@ primereelshub.nl
 prsj.or.jp
 psw-group.de
 puydedome.com
-rairies.com
-rantaubingin.id
 rasysa.com
 ratecity.com.au
 rbpsw.net
@@ -429,6 +426,7 @@ soundcertified.com
 southglengarry.com
 spd-kreis-guenzburg.de
 spidermanhomecoming.com
+squarenext.in
 stat.org.uk
 steffenlarsen.no
 stephanieadams.com
@@ -459,7 +457,7 @@ therundown.ai
 thierrymarx.com
 tiawood.ca
 tipclub.top
-togelmbahtembus.com
+togelmabuk.com
 tokyominpo.com
 toptaysen.com
 tribe-shop.net
@@ -476,6 +474,7 @@ ub.ua
 ucfsd.org
 ueber.net
 ukmc.ac.uk
+ulmyrmrx.cc
 ultimategaminglounge.com
 ungitrafikken.no
 universecyclingteam.com
@@ -500,6 +499,7 @@ vuihristobotev-podem.com
 wacken.de
 wassara.com
 wearewacky.com
+weclat.com
 whimsical.com
 wilsoniak.com
 windsfc.com
@@ -520,4 +520,3 @@ zoeaarsen.com
 zooseti.ru
 zps.si
 zuidoostfriesland.nl
-zzxsfd.com

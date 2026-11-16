@@ -12,7 +12,6 @@ aemail.com
 aeternathegame.com
 afaquim.org
 ahbabelmadina.com
-ahmjf.com
 ait.org.tw
 aiwanmei.xyz
 aldanray.ru
@@ -62,6 +61,7 @@ bonnbuchverlag.de
 borgerforslag.dk
 boursedutravail-paris.fr
 bowerplace.com
+brasserielesceutrons.fr
 britfortunegroup.uk
 brownelltravel.com
 bryonyschool.org.uk
@@ -70,9 +70,8 @@ buko.info
 bundesanzeiger.de
 business-class.nl
 businessballs.com
-bussmagasinet.se
 bwinechtgeld.de
-ca.com = ca idms|datacom/db
+ca.com = datacom/db
 ca33betters.shop
 ca61drops.de
 cabdirect.com
@@ -80,7 +79,6 @@ cadence-education.com
 calgaryrimandtire.ca
 casanoble.com
 casinoechoonline.co.uk
-casinolistens.dk
 catherine.ac.jp
 catorze.cat
 cciff.com
@@ -171,6 +169,7 @@ fredfleisher.net
 freshbet.pl
 freshcoatpainters.com
 futureweathermovie.com
+galactic-hunter.com
 gamblelandia.com
 game8.co
 gamingamericas.com
@@ -205,7 +204,6 @@ heyhush.com
 hillsborodentalexcellence.com
 hippocampusmagazine.com
 historiaregional.org
-hlebushek.com.ua
 hobimain.com
 home-2009.com
 homeschoolmathcrusade.com
@@ -214,6 +212,7 @@ hotel-nyc.com
 howlikeawinter.it
 hpts.us
 humanistas.co
+hunanjuying.com
 hzvv.nl
 i-pri.org
 iccs.org.uk
@@ -222,6 +221,7 @@ imparfaitetensante.com
 inca-spins.com.de
 incogniton.com
 indeks.hr
+indifferentbroccoli.com
 indonesiamatters.com
 indrakeeladri.org
 infobox.com.ua
@@ -313,7 +313,6 @@ mobiledrome.nl
 mollusco-mugi.jp
 montazer.co
 morinagamilk.co.jp = mori-nu|morinaga|morinaga milk|morinaga milk industry|morinaga milk industry co., ltd.|森永乳业|森永乳業
-muckletoonadventurefestival.co.uk
 multiresearchjournal.com
 musee-afriqueoceanie.fr
 museolamerced.cl
@@ -376,6 +375,7 @@ reiswijs.nl
 riamoneytransfer.com
 rijnstroom.nl
 rm-waldviertel.at
+rnkhuh.cn
 robotreviews.com
 rockfax.com
 rootsradio.com
@@ -395,7 +395,6 @@ serviziopubblico.it
 sevenpark.jp
 sfbiophys.org
 sfplanning.org
-shehayberrealty.com
 shulamithartal.org
 simafilmideh.ir
 skiptokyo.com
@@ -458,6 +457,7 @@ union-matrei.at
 upf-csic.es
 url.nrw
 usa7ass.xyz
+uvp20.cn
 valpal.co.uk
 vanessamae.com
 vectorline.ca
@@ -478,11 +478,15 @@ wellfedwriter.com
 westernmorning.news
 woodcote-primary.co.uk
 worldaic.com.cn
+wovvmr.com
 wpo.st
 xn--80aafla5ae4aj.xn--p1ai
 xonbett.de
+ya52m.cn
 yep-casinos.app
+yfmpbb.com
 youlooksogerman.de
+yqxx12.cn
 zajmy-onlajn.ru
 zerofs.net
 zzgt.ru

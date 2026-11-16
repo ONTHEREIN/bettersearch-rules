@@ -23,6 +23,7 @@ akune.lg.jp
 alacrita.com
 alexandraengelfriet.com
 alfant.com.au
+algeriefocus.com
 allianz-assistance.it
 alterreal.pt
 amadeu-antonio-stiftung.de
@@ -30,7 +31,6 @@ amydiamond.se
 anderlheckmair.de
 andreas-gabalier.at
 appolicious.com
-apstra.com
 aquilana.ch
 ar-rahmahtrustf-gh.org
 arcova.net
@@ -39,7 +39,6 @@ arsomsilp.ac.th
 arthuranimation.com
 artreproductivecenter.com
 assampcc.org
-atlanticreview.org
 awebstar.com.sg
 awsworthprimary.co.uk
 babedidriksonzaharias.org
@@ -121,6 +120,7 @@ delicious.com
 demokratiezentrum-bw.de
 denmarkhistoricalsocietywa.org.au
 destappen.nl
+dgjueku.com
 diako-thueringen.de
 digitalpointnetwork.nl
 dinhard.ch
@@ -149,6 +149,7 @@ excellresearch.com
 exetercathedralschool.co.uk
 exiledonline.com
 fairplays-nl.com
+fam-azide-5-isomer.com
 fernbusse.de
 festivalinterfado.wordpress.com
 figure-eight.com
@@ -173,7 +174,7 @@ gam.schule
 gamblinglinksagency.com
 gameznetwork.com
 gammaapotek.net
-gbif.org = daisie|gbif|gbif.org|global biodiversity information facility|全球生物多样性信息机构|全球生物多样性信息网络|全球生物多样性信息设施|全球生物多样性资讯机构|全球生物多样性资讯设施|全球生物多樣性信息機構|全球生物多樣性信息網絡|全球生物多樣性信息設施|全球生物多樣性資訊機構|全球生物多樣性資訊設施|欧洲外来入侵物种数据库
+gbif.org = gbif|gbif.org|global biodiversity information facility|全球生物多样性信息机构|全球生物多样性信息网络|全球生物多样性信息设施|全球生物多样性资讯机构|全球生物多样性资讯设施|全球生物多樣性信息機構|全球生物多樣性信息網絡|全球生物多樣性信息設施|全球生物多樣性資訊機構|全球生物多樣性資訊設施
 gec-bsa.org
 gfca-volley.com
 giacomomaestri.com
@@ -191,7 +192,6 @@ gruene-keh.de
 grupomenosemais.com.br
 guide-genealogie.com
 gvhmswcollege.org
-gzyifengjie.com
 happybirthday1988.net
 harbor.org
 hartvoorresearchaalst.be
@@ -278,6 +278,7 @@ meridionalinvestimentos.com.br
 michaelmcgriff.com
 michiganchronicle.com
 mikesdotnetting.com
+mm6821.cn
 modernestadt.de
 moeaboe.gov.tw
 montane.co.uk
@@ -434,6 +435,7 @@ unswerve.co.nz
 ursusarthungary.com
 usa33currents.xyz
 usbcinteriors.com
+v6r0j.cn
 vaulthouse.uk
 vcconstruction.co.za
 vegaooparty.com
@@ -456,10 +458,13 @@ williamhill-fi.fi
 williammattar.com
 woopmylife.org
 wordnestpulse.com
+wxagecl.com
 xn--24-plcha2a.xn--p1ai
 xn--elisenhof-mnchen-tzb.com
+xtzs21.cn
 yieldify.com
 ypsd.us
+yuanzhichuang.com
 yushun-company.com
 zaborgar.com
 zbkinfo.top

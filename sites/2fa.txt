@@ -110,6 +110,7 @@ digitaltpersonvern.no
 discovergermany.com
 diyarbakirescortum.com
 dm.dk
+dppiv.com
 dprmalukuutara.com
 dr.lv
 dreamscapethemovie.com
@@ -145,7 +146,6 @@ fluminense.com.br = fluminense f.c.|fluminense fc|fluminense football club|å¯Œæ˜
 fondation-copernic.org
 footballoutsiders.com
 forbesafrica.com
-ford.gr
 forumfed.org
 fostertolercurry.com
 foxchase.org
@@ -215,7 +215,6 @@ kab-adm.ru
 kaetempest.co.uk
 kalmarmusiksallskap.se
 kalutarabodhiya.com
-kanashibari.jp
 kantodenka.co.jp
 karlovylazne.cz
 kcai.edu
@@ -246,7 +245,6 @@ leizu.xyz
 leovegascasino.eu
 lesbenfruehling.de
 lesranchisses.fr
-lestroislunes.com
 letusrise.ie
 liceobotta.it
 limaz.co
@@ -275,6 +273,7 @@ me-against-racism.com
 mealsonwheelscentraltexas.org
 mealwit.com
 merogers.com
+mersinforum.com
 methodistheritage.org.uk
 metropol.hu
 micahallen.org
@@ -380,16 +379,15 @@ rockcandymedia.com
 roegaxotis.space
 rosannatennant.com
 royalspinscasino-ca.com
-rsopto.com
 rudolfsteinereducare.nl
 sacredhearthospitallantoro.org
 saechsischer-musikbund.de
 sammilanittc.net
-samo-lepky.sk
 samyanglens.com
 santoor.com
 saragossaband.de
 sbpublicaffairs.com
+science.sciencemag.org
 sdzwa.org
 seac.gov.cn
 seher.no
@@ -468,10 +466,10 @@ varesenews.it
 vcebed.in
 vegasonlinecasino-hu.com
 verdecasino-lt.net
+vhengshui.com
 vinylsiding.org
 violentworkofart.com
 vividjackpotcorner.it
-vthooge.nl
 wcmt.com
 wecandoo.fr
 weidmueller.de
@@ -489,7 +487,6 @@ wps60.org
 xarongze.com
 xiehuioa.cn
 xn--krakn-m0a.cc
-xucchr.cn
 yanabg.com
 yasinski.eu
 zeldadungeon.net

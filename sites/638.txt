@@ -1,7 +1,6 @@
 36679954.com
 3arts.com
 604records.com
-7aa905.com
 93sou.com
 abingtonpl.org
 abs.edu
@@ -45,13 +44,13 @@ asiera.ie
 assumptionballyfermot.ie
 atari800.github.io
 atzubia.org
-automotorblog.com
 autonews.ru
 autospinn.com
 autresbresils.net
 aweb.org
 aytoescalonilla.com
 aytosanandres.org
+bahcelievlerbayan.site
 baitunnur.org
 bankid.no
 base.ec
@@ -64,10 +63,12 @@ bestreviews.com
 betabase.us
 bextay.com
 bibliotheekzeeuwsvlaanderen.nl
+bilim-academy.kz
 birlaevara.org.in
 bismrabbikfoundation.org
 bitstarz-hr.com
 blennemann.de
+bloglinear.com
 bmhsc.org
 boaboa-casino-cz.com
 bookwyr.me
@@ -138,6 +139,7 @@ davekki.com
 daysmartrecreation.com
 dc3.com
 ddr.pl
+denizlikaliteliescort.com
 dentonrc.com
 desertcart.com
 designbeep.com
@@ -157,7 +159,6 @@ donnellsoniowa.com
 dreamchimney.com
 drghassanabusittah.com
 drifting-dragons.jp
-dsosdepoktimur.org
 duk-dn.ru
 dynamichousestudio.it
 e-cnr.org
@@ -169,7 +170,6 @@ electricearl.com
 elmcindia.org
 elysgame.org
 enterartfair.com
-epolitics.com
 etema.cz
 etnor.org
 euyansang.com
@@ -230,7 +230,7 @@ hankovce.sk
 harakei.net
 harmonyjewels.co.uk
 harriscreekoyster.com
-harvard.edu = ads|advanced x-ray astrophysics facility|ap.j.|astrophys. j.|astrophysical journal|astrophysics data system|axaf|berkman center for internet & society|berkman center for internet and society|bibcode|bkc|cbdb|chandra x-ray observatory|china biographical database|cxo|harvard university press|hup|nasa astrophysics data system|nasa-ads|refcode|sao astrophysics data system|sao/nasa astrophysics data system|the astrophysical journal|the sao/nasa astrophysics data system|中国历代人物传记数据库|中国历代人物传记资料库|中國曆代人物傳記資料庫|中國歷代人物傳記資料庫|伯克曼互联网与社会中心|伯克曼互聯網與社會研究中心|伯克曼網際網路與社會研究中心|哈佛大学出版社|哈佛大學出版社|天文物理期刊|天體物理數據庫系統|天體物理數據系統|毒絲膜菌|貝克曼網路與社會中心|钱德拉x射线天文台
+harvard.edu = ads|advanced x-ray astrophysics facility|ap.j.|astrophys. j.|astrophysical journal|astrophysics data system|axaf|berkman center for internet & society|berkman center for internet and society|bibcode|bkc|cbdb|chandra x-ray observatory|china biographical database|cxo|harvard university press|hup|nasa astrophysics data system|nasa-ads|refcode|sao astrophysics data system|sao/nasa astrophysics data system|simbad|the astrophysical journal|the sao/nasa astrophysics data system|中国历代人物传记数据库|中国历代人物传记资料库|中國曆代人物傳記資料庫|中國歷代人物傳記資料庫|伯克曼互联网与社会中心|伯克曼互聯網與社會研究中心|伯克曼網際網路與社會研究中心|哈佛大学出版社|哈佛大學出版社|天文物理期刊|天體物理數據庫系統|天體物理數據系統|毒絲膜菌|貝克曼網路與社會中心|辛巴达天文数据库|钱德拉x射线天文台
 hasjdlfwb.com
 helena.care
 highlandsbarandgrill.com
@@ -253,6 +253,7 @@ ikea-family.ru
 imed.edu.br
 indakostudios.com
 indypendent.org
+innovations.com.au
 intense-uk.com
 iwaobetu.com
 ixsystems.com
@@ -288,6 +289,7 @@ kindenonderwijsrotterdam.nl
 kindstoryhaarlem.nl
 kinross-shirecivictrust.org
 kk-zrinjevac.hr
+klad-a1fa-prodazhi-btc.ru
 komunita.gov.mt
 kon-julianaschool.nl
 konamityo.com
@@ -310,7 +312,9 @@ linkedseoul.com
 loavesandfishesmn.org
 londoncasinohouse.uk
 louisxiii-cognac.com
+lshjcd.com
 lstu.fr
+luchaaz.org
 lumineuxhealth.com
 lupinen-ortilla.es
 maikaloubte.com
@@ -385,6 +389,7 @@ paccar.com = paccar|paccar, inc.|佩卡|帕卡
 palomaresdelrio.es
 paracomtech.ru
 parkcafe089.de
+pathologytraining.org
 pcscloud.net
 pelikankasyno.net
 petermaniatis.com
@@ -419,6 +424,7 @@ rocnation.com = roc nation|roc nation distribution|roc nation, llc|搖滾國度|
 rodaw.net
 rofmagazine.com
 ronjoneswriter.com
+rrr-movie.jp
 russianinternetweek.ru
 rutracker.net
 ryorca.net
@@ -472,6 +478,7 @@ teamallegiance.com
 teatrotordinona.it
 tegna-media.com
 ten-gu.com
+tenglonoqi.cn
 thebridgeclinic.com
 theeattacks.dk
 thegatesshopping.co.uk
@@ -492,6 +499,7 @@ tuvaustriahellas.gr
 tuwharetoa.co.nz
 uapress.com
 uenohotaru.com
+uh1bk.cn
 uk-amond.ru
 ukrinform.jp
 ulspu.ru
@@ -513,6 +521,7 @@ vistabelladelmaestrat.es
 w-shokokai.or.jp
 warriorscricket.co.za
 wavesplatform.com
+wc82d.cn
 wechat.com = wechat|weixin|wēixìn|微伩|微信|微信桌面版|腾讯微信
 wemade.com
 wetell.de
@@ -527,6 +536,7 @@ wsop.com = world series of poker|wsop|世界扑克大赛|世界扑克锦标赛|�
 wssz.hu
 wvw-gmbh.de
 wydawnictworn.pl
+xkipa.com
 xn--sainte-aurlie-khb.fr
 yepscasino.eu
 yesyoudeserve.tours

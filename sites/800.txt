@@ -23,7 +23,6 @@ agreatbigworld.com
 aidimo.org
 ajli.org
 alansonvikings.net
-alexa.amazon.com
 alfalahschool.org.uk
 alfresco.com = alfresco
 aliktarraf.com
@@ -31,6 +30,7 @@ alinedanioth.ch
 alittlemarket.com
 alphacardslab.it
 altiagroup.fr
+amary.ae
 amblertheater.org
 americasfrontlinenews.com
 amicimolluscarum.com
@@ -80,7 +80,6 @@ cantineanordovest.com
 caoradea.ro
 capitello.com
 careerpark-agent.jp
-carlamagnolia.de
 casinobarcelonaonline.com.es
 cbs-groen.nl
 cccfauquembergues.fr
@@ -109,7 +108,6 @@ cursive-ide.com
 cyclonudista.be
 cykj11.cn
 dab.org.hk
-daijun.com
 dailysimpleonline.fr
 dancecity.co.uk
 ddlc.net
@@ -142,10 +140,11 @@ expatel.ru
 explorejournal.com
 expressoitamarati.com.br
 eye-of-horus-demo-game.top
-ez3pkt.vip
 financialpoise.com
+flitsnode.app
 flow.page
 fondazionecircoloartistico.it
+fortunacasino-be.com
 fourhands.com
 fpcardiologia.pt
 fragplazapulsenow.com
@@ -163,7 +162,6 @@ gawugy.com
 ghcf.org
 gianniparrini.com
 giremoutiers.fr
-globalbank.com.pa
 gonzalofernandezcastano.com
 graafjanvlissingen.nl
 grddd.com
@@ -179,7 +177,6 @@ heliosinvestment.com
 herlitz.de = herlitz ag|herlitz pbs|pelikan group gmbh
 hermannsonslife.org
 heygaga.ru
-hfjjxy.edu.cn
 hfm-nuernberg.de
 hgwst.de
 hishiki.info
@@ -232,7 +229,6 @@ jusoor.co
 kalinovik.net
 kbsc.hu
 kearth101.com
-kevinquain.com
 kin-shine.cn
 kklastovka.si
 klfnet.dk
@@ -249,7 +245,6 @@ lachlanbryan.com
 lagenerale.fr
 lamejornashville.com
 laurelhighlands.org
-lava789.biz
 lavrovaglinka.ru
 lbk1.se
 le-roux.fr
@@ -317,7 +312,6 @@ numata-shinkyu.com
 nuvid-tube.cfd
 nymvpn.com = nym mixnet
 oberhausmuseum.de
-odinfortune-casinos.net
 ohjoysextoy.com
 ongfad.org
 oryantiring.org
@@ -343,9 +337,10 @@ play0ad.com = 0 a.d.|0 a.d: empires ascendant|0 ad|0ad
 policestoriesgame.com
 polmo.com
 power2dm.eu
-primacasinonl.com
 protecvinduer.dk
 protex.ai
+qi4dy4.cn
+qinzirongyao.com
 radiostudio1.fr
 renemarik.de
 republic-news.org
@@ -444,6 +439,7 @@ usvi.net
 uuahpp.cn
 uzard.com
 uzbekembassy.es
+va-av.com
 vanuatuvolleyball.com
 varenergi.no
 veterans-and-bees.com
@@ -466,6 +462,7 @@ whizzspincasino.ch
 wildspace.uk
 wincmd.ru
 windaction.org
+wuhuiwenzi.com
 xn--90aefkjzggcfnbk3k.su
 xn--brckenachuganda-0vb.at
 xn--goldenbhlschule-5vb.de
@@ -478,5 +475,6 @@ yudetaro.jp
 yumib0.cn
 zanghan.co.kr
 zeinasoufan.com
+zgjtsc.com
 zlio.com
 zna.be

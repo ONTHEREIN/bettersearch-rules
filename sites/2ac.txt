@@ -5,7 +5,6 @@
 a3nm.net
 aarzemnieki.com
 aatbio.com
-abcanm.com
 academiaenengie.com
 accepted.com
 acgonca.org
@@ -13,7 +12,6 @@ adejoketugbiyelestudio.com
 adguard-vpn.com
 adi.com.ng
 adire.jp
-administrator24.info
 aerosantacruz.com
 aforisticamente.com
 agspereezd.ru
@@ -81,6 +79,7 @@ brunorock.com
 brustor.com
 bsa.ro
 buckjohnson.com
+bzyongzheng.com
 cabincrewhq.com
 cafewittemann.de
 calpg.org
@@ -116,6 +115,7 @@ contradadellatorre.it
 corrieredelleconomia.it
 cosn.org
 cpc.tw
+cranebriefing.com
 creditoycaucion.es
 ctemc.org
 cyberstrat.fr
@@ -264,6 +264,8 @@ lmu-klinikum.de
 lobelug.fr
 loon.com
 losllanosdetormes.es
+loudongjia.com
+lovebugproductions.nl
 loveherboobs.com
 loveradio.fm
 lut-foundation.fi
@@ -295,7 +297,6 @@ mikyungsung.com
 milehighcre.com
 mindennapi.hu
 minnpost.com
-missqiqi.com
 mit21.co.kr
 mitrastar.com.tw
 mitsubishi-shindoh.com
@@ -306,6 +307,7 @@ mosipe.ru
 mps.ru
 ms-cf.org
 mult.ru
+muma16.com
 mundofree.com
 mybb.de
 namcoentertainment.com
@@ -388,11 +390,13 @@ showanokurashi.com
 sidejersey.com
 signesvendsen.dk
 similars.net
+sjdkem.com
 skillednursingnews.com
 slavasnowshow.com
 slite-sjoefartsmuseum.se
 slot636.org
 sobetuchy.cz
+soulpost.ru
 spindustries.com
 spinlife.com
 sport.ro
@@ -409,6 +413,7 @@ swissvasc.ch
 symend.com
 syncromsp.com
 tacticaldiameter.ru
+talkarchitecture.in
 taotaogou.cc
 tapstargames.com
 taulignan.fr
@@ -433,7 +438,6 @@ trendfinancemarket.nl
 trigion.nl
 tsarizm.com
 tune.com
-turgok.org
 twf.org
 twinpalmsrl.com
 twinpeaks.com.hk
@@ -462,6 +466,7 @@ winwin-app-bonus.xyz
 wochenspiegel-sachsen.de
 wolflair.com
 woodardcurran.com
+wr3t0n.cn
 xindaoqizaixian.com
 xn--gemeinde-rmpel-psb.de
 xpst.online
@@ -471,9 +476,7 @@ yelliiblogpromotion.shop
 yelliisocialmediapromotion.shop
 yerbabuenamusic.com
 yesper.ai
-yilingguzhen.com
 yodoyadrug.co.jp
-ytxdd.com
 yunomorionsen.com
 yxmfwzlj.cc
 zackao.com
@@ -481,4 +484,5 @@ zayyad.com
 zederik.nl
 zee61uss.shop
 zee7adds.de
+zhuniu.com
 zumper.com

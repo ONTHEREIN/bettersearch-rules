@@ -16,6 +16,7 @@ academyocean.com
 acaglobal.com
 acbd.fr
 accessoires-auto-paris.com
+adaze.io
 adera-online.com
 adfinis.nl
 adil75.org
@@ -103,7 +104,6 @@ daveyawards.com
 debet.cool
 decolight.com.au
 deep6.io
-describe-online.com
 despegar.com
 dettifossit.com
 dewittespelling.nl
@@ -117,14 +117,12 @@ domenews.co.uk
 dongau.ru
 dongilsteel.com
 donkeysongs.com
-drealms.io
 dstld.la
 dubravkazubovicvoicestudio.com
 dumpscafe.com
 duokobe.com
 eaas.eu
 edictzero.com
-eicker.in
 eidsiva.no
 eizosakamoto.tokyo
 eliteesportsspot.us
@@ -147,8 +145,6 @@ fapeduca.com.br
 fapro.co.jp
 fastnovaglobeworld.nl
 ffw-sandizell.de
-fixed-matches-tips.com
-flomeperu.com
 flysyrianpearl.com
 fontenay-en-parisis.fr
 foothillsbluegrass.com
@@ -164,6 +160,7 @@ gadzinhan.rs
 galerie-krinzinger.at
 galeriefennadevries.nl
 gamerswithjobs.com
+gangdopaminebs.com
 gartenzauber.com
 gdc-0349.com
 generalcable.com
@@ -177,6 +174,7 @@ golin.com
 google-plus.com
 grandstreet.com
 grosse-kirche.de
+guangjshi.com
 gueuleton.fr
 guydedecker.com
 gx12320.org
@@ -195,7 +193,6 @@ heysnus.com
 hinenosho.jp
 hiphoptamizha.com
 hospimedia.fr
-hostelrepublica.com.br
 hudsonbars.com
 hudsondermmd.com
 hztranz.com
@@ -213,7 +210,6 @@ izmena-film.com
 jackandjillswoodentoys.co.uk
 janharbeck.com
 jdagc.com
-jercxaw.com
 jkmathematics.com
 jmvalentine.co.uk
 jonathanbrazee.com
@@ -241,6 +237,7 @@ kmotifs.com
 knobsflat.co.nz
 kobe-access.jp
 kolping-dornbirn.at
+konthe.ro
 krocblanc.fr
 kshachar.org
 kunskapsbolaget.se
@@ -327,7 +324,6 @@ ontariointernational.org
 orbitgambleplus.nl
 ormvasm.ma
 orofino-id.com
-osterialabarchessa.it
 otctools.com
 other-news.info
 pahonia.cz
@@ -353,7 +349,9 @@ project-management-podcast.com
 providenceconnections.org
 psde.md
 psykoanalyse.no
+puritancambridge.com
 pyrolator.com
+qjbwr.com
 quantum-imports.com
 ramonmiddelkoop.nl
 razorback2.com
@@ -385,6 +383,7 @@ schneekloth.de
 scotcourts.gov.uk
 scoutslonderzeel.be
 screenzen.co
+sdctsi.com
 sendets-64.fr
 sfopera.com
 shakebeforeuse.net
@@ -427,8 +426,8 @@ stursen.ch
 sudgirondemobilites.fr
 sushicaluire.com
 suttonuponderwentprimary.org.uk
+sztev.com
 taaceduconsult.co.uk
-tacosnackcreperie.com
 taiguk.co.kr
 tankervillearms.com
 taxi-zyrardow-taxi.pl
@@ -494,18 +493,19 @@ worldriversday.com
 wsren.org
 wunan.com.tw
 wwplus.nl
-x.ai = spacexai|x.ai corp.|xai|xai company|xai corp.|xai公司
+x.ai = spacex super intelligence|spacexai|x.ai corp.|xai|xai corp.|xai公司
 x3322.net
-xemdaga88.net
 xfel.eu
 xn--b1agjhxg2e.com
 xoilacvvj.tv
 xtar.com
+xu28k.cn
 xushi.com.tw
+y9et3.cn
 yamdu.com
 yappss.com
 yougile.com
 yovakem.github.io
 yrhenlyfrgell.wales
 zamnesia.de
-zhibo113.com
+zl60za8969.cn

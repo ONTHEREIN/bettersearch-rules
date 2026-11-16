@@ -40,12 +40,13 @@ berghotel-sudelfeld.de
 betano.co.uk
 bethsoft.com = dawnguard|doom 2|doom 3|doom 3 bfg edition|doom 3: bfg edition|doom ii|doom ii: hell on earth|fallout|fallout series|hearthfire dlc|quake 4|quake iv|the elder scrolls construction set|the elder scrolls v: dawnguard|the elder scrolls v: hearthfire|the elder scrolls v: skyrim – dawnguard|the elder scrolls v: skyrim – dragonborn|the elder scrolls v: skyrim – hearthfire|wet|上古卷轴v：天际·炉火|上古卷轴v：天际·黎明守卫|上古卷轴v：天际·龙裔|毀滅戰士ii|毁灭战士ii|異塵餘生系列|辐射系列|追魂女煞|雷神之锤4|魂女煞
 betmaxforge.us
-bhrad.co
 biderundtanner.ch
+bifrost.ai
 bioferspa.com
 biophysics.az
 bizzo-casino-play.com
 blackstoneprepaid.com
+bnracademy.in
 bobbyholcomb.net
 boldwagerworld.nl
 bollanda.nl
@@ -56,6 +57,7 @@ brno-jih.cz
 buergerstiftung-koeln.de
 bulls-basketball.eu
 buywithme.com
+bwdtmcf.com
 caamuseum.org
 cachouston.org
 calilio.com
@@ -86,7 +88,6 @@ co.tt
 code-examples.net
 codinginparadise.org
 coinquest.com
-cold56road.com
 colegiosantarita.es
 coleplante.com
 colosseumskiing.it
@@ -98,13 +99,13 @@ cornerstoneondemand.com
 cosel.com
 courierherald.com
 coventryschools.net
-cqyuzunbao.com
 crisscrossjazz.com
 criterionchannel.com
 cuneodice.it
 cursci.com
 dashnexpowertech.com
 daviddesclos.fr
+ddmzxx.com
 deandeluca.com
 deathshangover.com
 dedalus.pl
@@ -157,6 +158,7 @@ finanzwende.de
 fittkau-metallbau.de
 floridatix.com
 fluciani.net
+focuspictures.ru
 footballamericain.be
 forelhaus.ch
 fortaleny.es
@@ -287,7 +289,6 @@ marion-isd.org
 masberenguer.com
 mattaument.com
 mechanics-industry.org
-medidascorrectivas.com.co
 medmeds.in
 megadice-no.com
 meigslocalschools.org
@@ -328,7 +329,6 @@ nostalrius.org
 nourishnutritionblog.com
 npchristian.org
 odakyu-highway.jp
-oetzi-dorf.at
 okeswamp.com
 olimp-casino-tr-tr.com
 openhub.net = ohloh|open hub|openhub.net
@@ -360,9 +360,9 @@ plan9foundation.org
 playpgslot.co
 playwarside.com
 pmdcorp.com
+powerhouseconsulting.group
 prairieberry.com
 property-forum.eu
-publichnaya-kadastrovaya-karta-def.ru
 py4ku.ru
 quickregister.info
 rapidcardsworks.nl
@@ -498,7 +498,6 @@ wowbiz.ro
 wsez.pl
 xiushangshidai.com
 yj5050.com
-ylsunhospital.com
 zarifikram.github.io
 zebedeelist.co.uk
 zee61threess.top

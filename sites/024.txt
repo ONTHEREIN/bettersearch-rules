@@ -72,7 +72,6 @@ cityofmayer.com
 ckau.com
 claudialeitte.com.br
 clr.ro
-cn-longrun.com
 co-neurology.com
 codakid.com
 coffeefriend.de
@@ -133,17 +132,16 @@ fibaamericas.com
 fietsersbond.nl
 filmdirectorworks.com
 finalfantasyxi.com
-first-lego-league.org.pl
 floridarep.org
 formicon.com
 fortuna-casino-cz-cz.cz
+forum.phun.org
 francis-press.com
 fst.com
 fullyaccountable.com
 funzionepubblica.gov.it
 g2mcontabilidade.com.br
 gaffa.no
-gallup.is
 gay.org.ua
 geekseller.com
 gefos.org
@@ -156,6 +154,7 @@ goldcircle.it
 goldengoosesonline.com
 gomongolianbuffet.com
 gourdsbyjeanie.org
+gpcvy.com
 granterminalterrestre.com
 greensky-eg.com
 gripaudit.co.uk
@@ -165,11 +164,11 @@ haecker.io
 hammerbowling.com
 harrismorden.org.uk
 hasselfeldt.de
-hazelandcacao.com
 healerserver.com
 heemsteedsburgerbelang.nl
 heimatmuseum-dissen-spreewald.de
 hilleroedfodbold.dk
+hollistercanada.com
 homesbyeb.net
 hopecemetery.com
 hoteljalta.com
@@ -225,6 +224,7 @@ kinocenter-eschweiler.de
 kittenwar.com
 kleiderkreisel.de
 kley.fr
+knethosting.co.uk
 kobekiito.co.jp
 kpwkm.gov.my
 kulturrat.de
@@ -242,6 +242,7 @@ lexis-nexis.com = baltimore sun|baltimoresun.com|courant.com|daily news|daily ne
 liontree.com
 lisa.org
 llff.ca
+lljgsw.com
 lrhabitat.fr
 lucky88c.mobile
 luckypierrot.jp
@@ -273,13 +274,13 @@ motoringresearch.com
 mountaindesigns.com
 mpg123.de
 mrc-rn.ca
+mrsinghsldn.com
 mstdn.party
 musee-grande-chartreuse.fr
 museosdeocotlan.org
 museucanpapiol.cat
 museuesperanto.org
 muzeumslivovice.cz
-mybanco.org
 mymobilityscooters.uk
 mzwallace.com
 nailee.it
@@ -297,6 +298,7 @@ nosilence.it
 novibet.mx
 nowcanal.pt
 nuff.no
+nyzxmr.com
 oaklawncommittee.org
 obecstrasice.cz
 obs-detille.nl
@@ -321,6 +323,7 @@ passe-miroir.com
 pastaiwino.com
 patriciaedgaranddonedgar.com
 paulgraham.com
+pc-help.org
 peoriacounty.org
 performa.com
 perq.com
@@ -353,6 +356,7 @@ sanmiguelbeermen.com
 saulnieres28.fr
 schlossfreunde.de
 schonfeld.com
+scia.org.au
 scrappleface.com
 sdinvest.ae
 seegers-neusehland.de
@@ -378,6 +382,7 @@ soicauvip100.com
 sokutei-cube.com
 source.info
 spiegel.ru
+sportybet-nigeria.com
 sproutdistro.com
 stackedskincare.com
 stmaryscathedral.ca
@@ -386,11 +391,13 @@ sugarrayleonard.com
 sunlyra.com
 sunnewsnetwork.ca
 svenja-wetzenstein.de
+ta.wikipedia.org
 tacez.cn
 teeamo.eu
 tegernseer-tal8.com
 telecmi.com
 teratec.eu
+terpstra-muziek.nl
 texasgop.org
 thatscoolnews.com
 theaterdeliefde.nl
@@ -403,6 +410,7 @@ thepoltimoreinnnorthmolton.co.uk
 thw-siegburg.de
 thw-varel.de
 tlmagazine.com
+tninternationalwholesalegmbh.com
 topenergy.co.nz
 topoguide.gr
 totoco-odawara.com
@@ -435,6 +443,7 @@ victorianchamber.com.au
 viixv.it
 villaconfalonieri.it
 villekangas.net
+vj47n9.cn
 vnr.de
 wacofsa.org
 warrenlharrissr.com
@@ -447,9 +456,9 @@ womenwhotech.com
 wrsfd.cn
 wytx.net
 x-rui.com
-xn----7sbabj8ahsmheyirv.xn--p1ai
 xn----ctbdebgmm8akd5bzixa.xn--p1ai
 xn--r1ack.xn--j1amh
+y5pd.cn
 yetanotherretroboard.com
 yogadirgacahya.com
 yola.schule

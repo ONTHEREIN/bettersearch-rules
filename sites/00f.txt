@@ -53,7 +53,6 @@ bisonsrfc.co.uk
 bitdeer.com
 bjbb.com
 blick-aktuell.de
-boabet-magyar.net
 bodberi.com
 boddingtonparish.co.uk
 bolbaite.es
@@ -161,13 +160,11 @@ f8bet0.world
 famememo.co.uk
 fannybeaudoin.com
 farnostnoveveseli.cz
-fashionsalade.com
 fatecjp.com.br
 fedfarm.org.nz
 film.at
 flexera.com = flexnet publisher
 fondation-medic.ch
-fr.wiktionary.org
 fractale-anime.com
 francquifoundation.be
 freezonelv.com
@@ -184,6 +181,7 @@ gde-mittelberg.at
 gemeinde-boitzenburger-land.de
 geosynthetic-institute.org
 globaldatinginsights.com
+go-human.co.uk
 go-wonderland.jp
 goa.gov.in
 green-dragons.com
@@ -199,6 +197,7 @@ hayhouse.com
 headlessui.com
 heiwa-co.com
 herb-pharm.com
+hgjaabo.com
 highlycited.com
 hillside-il.org
 hjernoe.dk
@@ -223,12 +222,12 @@ ilinskaya-adm.ru
 impact-xm.com
 indianmemoryproject.com
 infodrafts.com
-infycletechnologies.com
 interiale.fr
 intrinio.com
 itcchem.co.jp
 itjungle.com
 its.or.jp
+iuxdb.com
 izenaduba.com
 j-test.org
 janrendl.cz
@@ -249,6 +248,7 @@ kbkarlskoga.se
 kelmitchell.com
 keonhacaii.org
 kevinmacdonald.net
+kfikj.com
 kickpoint.ca
 kirkervedviby.dk
 kisssudbury.com
@@ -305,6 +305,7 @@ meissenberg.ch
 michinoeki-daigo.com
 midwest-dental.com
 mikelmarkez.eus
+mingshijiaoyu-edu.com
 miro-ka.de
 mmartan.com.br
 momentum.io
@@ -376,7 +377,6 @@ realt.co
 redisdoc.com
 repairmywindowsanddoors.co.uk
 revueintervention.org
-rf-cleaning.co.uk
 ricardo-demi.com
 ridecitrus.com
 ridgewayont.ca
@@ -400,9 +400,7 @@ screencritix.com
 screenzone.co.uk
 secondhandsongs.com = secondhand songs|secondhandsongs|secondhandsongs.com|shs|二手歌曲
 seniorcareauthority.com
-sentinel.ht
 shabakahutchings.com
-shellfishsoft.com
 sho-stime.com
 sihaoyupei.cn
 simonebrewster.co.uk
@@ -440,7 +438,6 @@ tamba-obasato.co.jp
 tanqueverdeschools.org
 tapbots.com = tweetbot
 tasrail.com.au
-teamtw.in
 teletext.co.uk
 televisamonterrey.tv
 tembusufs.com
@@ -477,6 +474,7 @@ valenbisi.es
 verifone.com = verification telephone|verifone|verifone, inc.
 vibrationdata.com
 vinedosveramonte.cl
+virginiasuarezdratman.com
 visionreels183.com
 visitugra.ru
 vistanet.co.jp
@@ -485,7 +483,7 @@ vmware.github.io
 vogons.org
 vojtila-trans.cz
 volkstrott.de
-vorz.io
+vus7v.cn
 vyvod-iz-zapoya-v-murmanske12.ru
 waldner.de
 watjukkacher.com
@@ -508,5 +506,4 @@ zenvibe.au
 zhengdagaokao.com
 zhengdong.gov.cn
 zjpy.gov.cn
-zorlumo.shop
 zsdolany.cz

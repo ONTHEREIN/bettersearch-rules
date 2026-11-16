@@ -76,7 +76,6 @@ cbsl.gov.lk
 cc-paysdebray.com
 cc-vezerecausse.com
 ceyoniq.com
-chaoyitaoci.com
 chase.com = chase bank|chase manhattan bank|jp morgan chase bank na|jpmorgan chase bank, n.a.|zagat|zagat guide|zagat survey|大通銀行|大通银行|查氏餐館調查|查氏餐馆调查|美国大通银行|美國大通銀行|薩加特美食指南
 chat-ppt.com
 chateaudelussac.com
@@ -87,6 +86,7 @@ chkmkt.com
 cinematicpoems.com
 cinu-dn.org
 clarabryld.dk
+codewhale.net
 cofca.org
 coinotaku.com
 compensar.com
@@ -117,6 +117,7 @@ divina-frau-meigs.fr
 domaine.nc
 dongabank.com.vn
 drbd.org
+dronebelow.com
 dropapk.to
 dundasweb.com
 eduardotrassierra.com
@@ -183,6 +184,7 @@ ijritcc.org
 imotski.hr
 inakielizalde.com
 infinitearenahub.com
+invensa.co.uk
 it-viking.ch
 jaedenizikdzurko.com
 jaeid.it
@@ -190,13 +192,11 @@ jeannecordelier.com
 jessieeaker.com
 jetelova.de
 jewishcincinnati.org
-jhpos01.com
 jklsirius.fi
 joephillips.com
 journal.ad
 justcooking.tv
 justliketotravel.nl
-kezenfogva.hu
 klarman.me
 kogistate.gov.ng
 kpmg.co.uk
@@ -222,7 +222,6 @@ longone.com.cn
 looklooklook.org
 lorealparis.pl
 lqdn.fr
-lqkooo.com
 luckglobalmag.co.uk
 magazineshop.us
 mairie-bio.fr
@@ -261,7 +260,6 @@ nbwelldon.com
 neshanic.org
 netall.ru
 netgo.de
-neueohneoasiscasinos.net
 nic.ibm
 nism.ac.in
 njm.com
@@ -314,7 +312,6 @@ racab.es
 rahapaja.fi = mint of finland|芬蘭鑄幣廠
 rakelgomezvazquez.com
 rancherothemovie.com
-rap2france.com
 ratzert.de
 redneckrevolt.org
 redodopower.com
@@ -408,8 +405,10 @@ turbancurry.com
 tyrone-power.com
 uae-evisa.info
 udp.jp
+ufa333-auto.com
 unionemarcadicamerino.it
 universalai.in
+uplift.bank
 upress.dk
 valse.jp
 verlatenhotel.nl
@@ -440,11 +439,13 @@ wienenergie.at
 wikilinksnews.com
 windegghuette.ch
 windfaerer.com
+wkdnv.cn
 woer.com
 worldclass.ro
 xchm.in
 xonapartners.com
 yushendesign.com
+yusheng-fence.com
 yuzhmash.com = pa pivdenmash|pa yuzhmash|pivdenmash|plant 586|plant no. 586|yuzhmash|南方机械制造厂|南方机械厂|南方機械廠|尤日馬什工廠
 zarzadegranadilla.es
 zhhk.or.jp

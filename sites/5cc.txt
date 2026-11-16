@@ -9,7 +9,6 @@
 834794.com
 aaert.org
 aapidata.com
-acdn-us.mitiendanube.com
 acepidemiology.org
 act-aberdeen.org.uk
 aedifion.com
@@ -39,6 +38,7 @@ armaghi.com
 arthaz-pont-notre-dame.fr
 arton.sk
 asemconnectvietnam.gov.vn
+asphalt-omaha.com
 asport.lu
 assomption-lubeck.com
 astleyhigh.org
@@ -124,10 +124,11 @@ dolany-ol.cz
 domty.org
 donmoen.com
 drtoghyani.ir
-dsosflorestimur.org
+duel-fi.com
 dueruote.it
 dumcernalabut.cz
 dymo.nl = dymo corporation|帝麼
+edaier.com
 editorialagricola.com
 efcollegians.org
 efly.it
@@ -153,7 +154,6 @@ fcltglobal.org
 fh-potsdam.de
 filmmuseum-ballenstedt.de
 fjbhotels.co.uk
-fjtailor.com
 floramar.eu
 focum.nl
 focussource.uk
@@ -163,10 +163,10 @@ function18.com
 gasmonkeygarage.com
 gdconf.com = game developers conference|gdc|游戏开发者大会|遊戲開發者大會
 geartreating.ru
-gemwin.sale
 georgsmarienhuette.de
 gerardekdom.nl
 getassay.io
+gjisb.com
 gkexams.com
 gkz.ch
 glaz-displayschutz.de
@@ -177,14 +177,12 @@ golgefrekansi.com
 gomelraton.com
 gosolarv.com
 grand-mondial-casino.at
-grouptactic.com
 gruppo-informatica.com
 gundelfingen-donau.de
 gymnasium-selm.de
 gz78school.com
 habiluim.com
 hamptoncommunitylibrary.org
-handybits.com
 hapihyper.com
 healthyfitnessmeals.com
 heimatkreisverband-leitmeritz.de
@@ -192,7 +190,6 @@ hermeray.fr
 highhalstowprimaryschool.org.uk
 historical-museum.gr
 hlttc.in
-homeowner-floorworx.co.za
 horgos.rs
 house2ahome.co.uk
 huma-gym.de
@@ -232,7 +229,6 @@ kanmodom.com
 kansascrew.com
 karenbooth.net
 kcdehoven.nl
-keepdryfresh.com
 kickgame.co.uk
 kimfoxphotographyblog.com
 kiroromusic.com
@@ -244,6 +240,7 @@ kulturlandschaftsforum-bayern.de
 kuniko-maeda.com
 lasko.si
 learncpp.com
+lebeccherie.it
 lentepubblica.it
 lepharaohslotgame.com
 lesdeuxmondes.com
@@ -253,7 +250,6 @@ lilospasta.com
 limnology.org
 lindisfarne.co.uk
 littlemanicecream.com
-liveweddenwielrennen.com
 lotniskokielce.pl
 lucferrari.org
 luckygemapp.com
@@ -283,7 +279,6 @@ mm88.taxi
 modelenterprisesplc.com
 modernjackpot.ca
 moepoint.tw = warship girls|warship girls r|战舰少女|战舰少女r|舰r
-moije.pl
 mor10.com
 moscsilk.ru
 motioncue.com
@@ -424,7 +419,6 @@ svenskafans.com
 swaybox.co.uk
 swingeurope.com
 synergysansthan.net
-sziaxe.com
 tageswege.at
 taipeibookfair.org
 take-m.jp
@@ -448,10 +442,10 @@ timelog.jp
 timhamilton.com
 tjcreativearts.com
 tmliberec.cz
+tnfish.org
 tofu.com
 tourgratuit.fr
 tourism.gov.ua
-tourisme-stgaudens.com
 townofwrightsvillebeach.com
 trailduro.com
 trappeddead.com
@@ -470,6 +464,7 @@ varunbeverages.com
 vbetsport.co.uk
 vegastracker.de
 veto.be
+vh6kp.cn
 vidalnews.fr
 videoasis.com.br
 vietnampropertygroup.com
@@ -502,5 +497,6 @@ yx007.com
 zaczernie.eu
 zbus.pl
 zeniamarshall.com
+znova168.website
 zulal.com
 zzgyxy.com

@@ -97,7 +97,6 @@ cnts.gov.cn
 college-bassens.fr
 collingsguitars.com
 combattentiereduci.it
-commongoodandco.com
 commune-pommera.fr
 contentflowai.io
 corymcabee.com
@@ -166,13 +165,16 @@ fetzenhexen.de
 fgoem.cn
 fifet.org
 firsty.app
+fiyattoplamak.info
 flowersvologda.ru
 fondationdubuffet.com
 foreste-actacademy.org.uk
 fortuneworld.uk
+freshbitsseo.com
 funcheap.com
 fuxoft.cz
 gala.co.za
+galabet884.com
 gargunnock.com
 gemeinde-dagebuell.de
 generalpattonmuseum.com
@@ -199,6 +201,7 @@ houseflipper2.com = hf 2|hf2|house flipper 2|房产达人 2|房產達人2
 houstonagentmagazine.com
 hovogliadite.it
 hughesrichard.ch
+ia18w.cn
 iccat.int
 ietm.org
 if3festival.com
@@ -208,6 +211,7 @@ indigenousdata.org
 insubordinationrecords.com
 iverblag.ru
 j-f-k.jp
+jadepaint.com
 jaimebou.com
 jamielidell.com
 javiercomesana.com
@@ -312,14 +316,12 @@ ntrplc.com
 nukgames.com
 nuviline.fr
 nvcasinoigri.com
-nvcasinoplay.bet
 obsdubbeldam.nl
 omisalj.hr
 openvnet.org
 openwork.jp
 orchestrabusoni.it
 oria.es
-orloj.eu
 packingboxesforsalebrisbane.com
 pafsi.com
 paper-games-gaming.com
@@ -336,7 +338,6 @@ pomeranusseed.pl
 primevip232.com
 princess-kaiulani.com
 prizefocus.uk
-programmingsimplified.com
 projecta.com
 prorodeo.com
 protenus.com
@@ -355,10 +356,12 @@ revuesilence.net
 rezo.net
 riacdl.org
 richard-e-grant.com
+rivosinc.com
 rock967online.com
 rogersteptoe.com
 ryoutei-susaki.com
 saba-areal.de
+saharavegas.net
 saintnicholasprimary.org.uk
 sakitawak.com
 salemband.com
@@ -406,6 +409,7 @@ sulfasalazine7.com
 sumai1.com
 supremevipbase.com
 surveys-and-perspectives-integrating-environment-and-society.net
+sxzzkj.com
 taal.co.in
 tag1consulting.com
 talentreef.com
@@ -435,10 +439,12 @@ trostadmin.ru
 trumanmn.us
 tummel.de
 turquoisepartners.com
+u88883.cn
 ulethbridge.ca
 ultimatereelsexpress.com
 urbancoinworks.uk
 usa61mys.shop
+ushuaia.gob.ar
 usupso.com
 v8xx0m8.me
 vapoclope.fr
@@ -476,6 +482,7 @@ worsethanfailure.com
 wphz.com
 xn----7sbikykaclgdjdcj4a1mxa2b.xn--p1ai
 xn--p1aadc.xn--p1ai
+xoilaczcv.tv
 yamagataterrsa.or.jp
 yatsugatake.ne.jp
 yourrussianbride.net
@@ -488,6 +495,7 @@ zenderoudi.com
 zenshu-anime.com
 ziggurat.games = breakthru|darklands|deadly dozen 2 pacific theater|deadly dozen: pacific theater|dethkarz|eric the unready|killing time|mystical|operation body count|planet's edge|real heroes: firefighter|requiem: avenging angel|sea legends|terminal velocity|数尸体行动|數屍體行動|火场英雄：消防队员|致命战士：太平洋战役|重返狼穴2：血战太平洋|重返狼穴：血战太平洋
 ziyuan.tv
+zkbiz.com
 zombie-hobby.com
 zongyang.gov.cn
 zurich.co.uk

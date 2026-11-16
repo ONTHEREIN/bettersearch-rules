@@ -56,7 +56,6 @@ bergueda.cat
 bestapples.com
 biancavandenhoek.nl
 bjorkofriskola.se
-bjpabaojie.com
 blazecasino.io
 blue-sharks.jp
 bluesci.org
@@ -103,12 +102,14 @@ dailymail.com
 damien.no
 dancing-mary.com
 daverupert.com
+davincigelati.com
 debugg.ai
 desiwilliamspt.com
 devoxx.be
 diecezjaelk.pl
 dieju.net
 digchip.com
+dioda.ro
 dixborochurch.org
 djgt.sk
 dkers.com
@@ -119,6 +120,7 @@ dreamlinux.info = dreamlinux
 dwb.io
 ecclaw.net
 ecma.org
+economy-employment.brussels
 editorially.com
 eenjurk.nl
 eew-group.com
@@ -129,7 +131,6 @@ elspec-ltd.com
 embassy-of-mozambique.de
 emobilitycheck.at
 enelvi.org
-energyupdate.com.pk
 entrepreneurs-bordeaux.fr
 eurojackpot-es.com
 eventbrite.com = event brite|eventbrite
@@ -138,7 +139,6 @@ fattoriamarena.it
 ffw-prinkofen.de
 firepowersfx.com
 fncinc.com
-foglaljorvost.hu
 fontpatrol.co.uk
 formaxi.app
 france-orchidees.org
@@ -171,6 +171,7 @@ grantleyhall.co.uk
 gregmarinovich.com
 greychen.com
 grigas.net
+guoshunyuan.com
 gzlique.com
 hab.media
 haberx.com
@@ -178,6 +179,7 @@ hallab.co.jp
 handsoffourforest.org
 happy168.de
 happycasino-hu.com
+harlingenseo.com
 hasslefreeclinic.org
 hbcse.in
 hdsfv.dk
@@ -226,7 +228,6 @@ kuaizhan.com
 kwiksurveys.com
 kyathiedu.com
 lallab.org
-laodaixin.com
 laslenas.com
 lazarev-ml.ru
 leadquizzes.com
@@ -258,12 +259,14 @@ mayrinhac-lentour.fr
 mechitov.net
 mediawars.ne.jp
 mega-device.com
+megaflis.no
 menomineenationarena.com
 menselijklichaam.nl
 mentoday.ru
 merijn.org
 mezhdunarodnye-platezhi-nar.ru
 michaelrubens.github.io
+mimacstudy.com
 mingpinwine.com
 minstar.github.io
 missmazur.eu
@@ -281,7 +284,6 @@ nardogranata.com
 nationalgeographic.it = nat geo|national geographic|national geographic magazine|the national geographic|the national geographic magazine|国家地理学会|國家地理|國家地理學會
 ndmb.online
 nearnorthhealth.org
-neilpatel.io
 newo.ai
 newporthealthcare.com
 nextgamble932.com
@@ -318,6 +320,7 @@ probulov.cz
 prosperastiftelsen.no
 provercelli.com
 ptuj.si
+qcmmlls.cn
 quietroom-movie.com
 quintadovallado.com
 radiorcj.info
@@ -376,7 +379,6 @@ stefanoloparco.com
 steinmetz-klinger-frankfurt.de
 sthanika.ai
 stokeinteignheadschool.org
-streamguys.us
 stromectol.skin
 studieads.nl
 summitvipdaily.com
@@ -393,6 +395,7 @@ tecnocompro.com
 teddarnoldbooks.com
 teenagesurvival.com
 terragbg.com
+thailandtouristvisa.net
 the-paradise-motel.com
 thehersheycompany.com = hershey company|hershey foods corporation|hershey's|the hershey company|好时|好时公司|好時
 theindigenousfoundation.org
@@ -427,7 +430,6 @@ vejleprovsti.dk
 verbraucherschutzforum.berlin
 vhs-mosbach.de
 vipgolden.de
-vivu88.rest
 volleybergamo.it
 votkinsk.ru
 voxnestworld360.com
@@ -439,12 +441,12 @@ wbdelongmd.com
 webbkameror.se
 webmz.nyc
 webull.com
-weddinglist.co.th
 wonderbox.nl
 wonderfeel.nl
 world-kougei.com
 wycombeswan.co.uk
 wylliott.com
+xdjaf.com
 xmkzzj.com
 xn--9l4b19k46k.com
 xn--als-wre-es-leicht-uqb.de

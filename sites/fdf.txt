@@ -21,6 +21,7 @@ aidsarms.org
 air-dr.com
 akbaktechnology.com
 alaska.org
+alasugljevik.com
 alexclugscholarship.com
 allianz-der-chancen.de
 altrofilm.it
@@ -62,7 +63,6 @@ bigfork.org
 bing.co.kr
 biosphere2.org
 bjbioway.com
-bkr.com.pl
 blogurbainonline.fr
 bluenotejapan.jp
 boardviewer.net
@@ -71,7 +71,6 @@ boldcoffeebar.com
 boldonjames.com
 bottens.ch
 brasscitylife.org
-breakthepiggybank.org
 brhockey.com
 brlo.de
 broadsword.com
@@ -83,7 +82,6 @@ callacbd.ca
 capclave.org
 cash-central.com
 castellonenca.com
-catalystcrypto.io
 cbos.pl
 cbsp.com.br
 cc-paysapt.fr
@@ -109,9 +107,9 @@ crmedien.de
 csdata.org
 curling.fi
 cvqbgcnlk.com
-cyclesgitane.fr
 cykelledenskane.se
 daddylonglegsmusical.com
+daftarslot.vip
 danabarron.net
 dangrossman.info
 danieljhoward.org
@@ -140,6 +138,7 @@ dungeonchronicle.co.uk
 dynamicfactory.co.uk
 eatlikeagirl.com
 echoes-eccch.eu
+educationotherwise.org
 egcjhunir.com
 eglvaughan.co.uk
 eharmony.co.uk
@@ -193,7 +192,6 @@ greylevel.com
 growyourstaff.com
 hasnainkazim.com
 hastiere.be
-hbgwn.com
 hda.org.uk
 hdplex.com
 healthcarechain.nl
@@ -221,7 +219,6 @@ invmoney.ru
 ironhorsebluegrass.com
 irwinlaw.com
 itfcoloradowomenstournament.info
-ivermectinme.quest
 jaguar.is
 jamesboice.com
 jamierandallhedrick.com
@@ -254,7 +251,6 @@ katrinaguitar.com
 kemenessomjen.hu
 kfibs.org
 khronos.org = egl|open computing language|open media acceleration|open media library|open sound library for embedded systems|opencl|opengl es|opengl sc|openkode|openmax|openml|opensl es|openvg|spir|spir-v|web graphics library|webcl|webgl|开放多媒体程序库|标准可移植中间表示法|標準可移植中間表示法
-knopp.org.ua
 kobayashimanabu.jp
 koengroup.co.kr
 kooding.com
@@ -323,6 +319,7 @@ mymagic101.com
 mytrb.org
 n1slots.gr
 n2art.com.au
+nabaa.pro
 nachrichtenblatt.de
 nanwawo.com
 nataliedi.com
@@ -379,7 +376,6 @@ proveyourpointpodcast.com
 pshero.com
 pulsarinbox.com
 purple-cactus.tv
-py8ibz.com
 qehc.org.uk
 qiutan.net
 quickbooks-payroll.org
@@ -409,7 +405,6 @@ rufposten.de
 runeleaderboard.co.uk
 saikeystudios.com
 santuariobasilicacoromoto.com
-saokim.vn
 satkamatka143.com
 satz-web.com
 schloss-prielau.at
@@ -474,7 +469,6 @@ thetutts.co.nz
 thewildrabbit.co.uk
 thorntonincravenprimary.org.uk
 thw-wiesloch-walldorf.de
-tinboxtraveller.co.uk
 titalia.com
 topaussiepokies.org
 tordoia.gal
@@ -511,8 +505,10 @@ vitalic.org
 vivelanourriture.be
 vmturbo.com
 vnihi.ru
+vsffactory.us
 vub.cz
 wafu.ne.jp
+waldviertelbahn.at
 warroom.org
 watchstation.com
 waunet.org

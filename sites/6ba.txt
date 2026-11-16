@@ -32,7 +32,6 @@ bdt9.net
 bea.aero = bea|民用航空安全調查局|法国航空事故调查处|法國民用航空安全調查局
 belorus.by
 bengawansolo.sg
-betzookacasino-au.com
 bikra-m.ru
 biocare.co.uk
 biomicamed.com
@@ -48,7 +47,6 @@ brisbaneroar.com.au
 britbetstudio.uk
 britloungechoice.uk
 broadviewfilmfest.com
-browinner.se
 brunobonus.net
 btc-trade.com.ua
 bugonaygeshig.com
@@ -61,7 +59,6 @@ carlaedwards.tv
 casinoextreme-nz.com
 caudillos.mx
 cdvicalvaro.es
-centauri-ctx.world
 cesarelucchini.ch
 chance-promo.cz
 chantalkueng.com
@@ -124,7 +121,6 @@ eurofurence.de
 eurospeleo.eu
 ewenke.gov.cn
 exodustravels.com
-ezyedu.com
 f3np8j.top
 f65t3lst.com
 fa88.plus
@@ -147,8 +143,8 @@ fourmed.hu
 frederiquespigt.nl
 fritz-bender-stiftung.de
 fuentecantales.org
-fueralle.org
 fundable.org
+fzvrajf.cn
 gailgodwin.com
 gamecoreclub.co.uk
 gau-weinheim.de
@@ -173,8 +169,10 @@ haileyturner.com
 halisaharmunicipality.org
 hangonmuseo.fi
 hannahbrencher.com
+hbguoxun.cn
 hcin.es
 hconnect.lk
+hebeish.com
 hekko24.pl
 helicopter-view.com
 hermesonlineshop.com
@@ -204,6 +202,7 @@ it-offshore.com
 itmonline.org
 ixieje.nu
 jackcoreonline.co.uk
+jeafvd.cc
 jeffcohistory.com
 jerrysartarama.com
 jf-agualva.pt
@@ -282,6 +281,7 @@ musely.ai
 muttart.org
 myprivia.com
 nailsbyvenzel.com
+namebastion.com
 nanomonx.com
 nastoa.co.jp
 nbccert.org
@@ -319,6 +319,7 @@ partidohumanista.cl
 pauliuszavadskis.com
 pd-forum.net
 pdci-network.org
+pechs-esperance.fr
 peligna.it
 petergbourne.co.uk
 phaseradar.com
@@ -363,7 +364,7 @@ seikan.cz
 seonico.ws
 seoulmetro9.co.kr
 sfvmuenchen.de
-shancuibao.com
+shatzs.com
 shinko-zoki.co.jp
 shintokaikaku.jp
 siegedaily.com
@@ -414,10 +415,11 @@ timelostgame.com
 tincantourists.com
 tinextacyber.com
 toplauncharnhem.nl
+tp4j9h.cn
 travislacroix.github.io
 trocalia.net
 trybe.tv
-tukaani.org = cve-2024-3094|liblzma|lzma utils|lzma-utils|xz backdoor|xz utils|xz utils backdoor|xz-utils|xz实用程序后门|xz實用工具|xz實用程式後門
+tukaani.org = cve-2024-3094|liblzma|lzma utils|lzma-utils|unxz|xz backdoor|xz utils|xz utils backdoor|xz-utils|xzcat|xzcmp|xzdec|xzdiff|xzgrep|xzless|xzmore|xz实用程序后门|xz實用工具|xz實用程式後門
 ufabet888s.net
 uiliria.org
 ukrajinci.hu
@@ -445,6 +447,8 @@ vtubermatomesoku.com
 walbertonandbinstedschool.co.uk
 walkerjesse.com
 wallstreetoptionbets.com
+wcpc65.cn
+weizhoucn.com
 wess.jp
 west-quay.co.uk
 whisperduneshoa.com
@@ -462,6 +466,8 @@ yn36.com
 ynotfly.com
 zdobsizdub.md
 zendrive.com
+zibushijia.com
 zjhz.cn
+zl1693.cn
 zoom-wiki.win
 zsslatinany.net

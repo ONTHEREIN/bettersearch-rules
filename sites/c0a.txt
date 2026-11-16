@@ -19,7 +19,6 @@ amba-bga.com
 amcharts.com
 amecj.ir
 amyshirateitel.com
-andi-world.com
 andrewbachelor.com
 aninebing.com
 antonovo.bg
@@ -28,6 +27,7 @@ apatistvanfalva.hu
 aphernia.org
 arsoa.co.jp
 astypalaia.com
+aszcyj.com
 autopsypod.com
 avia-masters-xmas.fr
 axoftglobal.ru
@@ -60,7 +60,6 @@ burtoncummingstheatre.ca
 buy2sell.dk
 bvhttdl.gov.vn
 bxinna.com
-bzf168.com
 ca7imagines.de
 caisavona.it
 calimero.com
@@ -77,7 +76,6 @@ cbsnederwoudlunteren.nl
 celineberger.com
 cgtcatalunya.cat
 chefthuypham.com
-chelseainbloom.co.uk
 chikuzen-minaminosato.jp
 chuckcirino.com
 cict.fr
@@ -94,7 +92,6 @@ corpuschristitx.gov
 cpqcc.org
 crossingborder.nl
 croughtonallsaints.org.uk
-crownenglishclub.ru
 csid.pl
 cybersheath.com
 d3.ru
@@ -109,6 +106,7 @@ decorte.com.my
 deeexpus.com
 degrooteheide.eu
 deliciousitaly.com
+denuoge.com
 derivacollective.co.uk
 desenio.de
 diamondjackpotpoint.com
@@ -116,14 +114,12 @@ discovermygoodwill.org
 discovery.de
 dns.pt
 dof-official.com
-dojotoolkit.org
+dojotoolkit.org = dojo|dojo 2|dojo toolkit|dōjō toolkit|ng-dhtml
 dolnizivotice.cz
 domestos.com
 donpedrocolley.net
 drawingcenter.org
 drewbarker.info
-dsoskabdharmasraya.org
-dsoskabsampang.org
 dtcolors.pl
 dyhjw.com
 earthshealingcolombia.com
@@ -169,8 +165,8 @@ fun88casinos.mx
 fusion.org
 futureworldmusic.com
 futurezone.at
-gameworld-casino.org
 gamingnewsfocus.co.uk
+gdlssl.com
 gmart-express.com
 go88.plus
 golfstorageguide.com
@@ -193,7 +189,6 @@ hollywoodreporter.com = hollywood reporter|hollywoodreporter.com|the hollywood r
 holoearth.com
 homely.no
 hosenji.or.jp
-hqwx18.com
 hubbardcollege.org
 hvrheinland.de
 i-repository.net
@@ -233,7 +228,6 @@ juggyd.com
 justinjackson.ca
 kaisaniemenkatu13.fi
 kaltentaler.de
-kanoonandisheh.com
 kenrockwell.com
 kerastase.fr = kérastase|kérastase paris|卡詩|卡诗
 kfplc.dk
@@ -252,6 +246,7 @@ labo-deutschland.de
 laupasat.biz
 lax.ch
 le-bourget.fr
+lgmscx.cn
 liceclinicsofamerica.com
 lifeline.org.au
 lifewhereimfrom.com
@@ -259,6 +254,7 @@ linghuiauto.com
 linhai.com.tw
 liquiddiamond.it
 lkan.cz
+lnszbg.com
 locus.no
 londonstakelink.uk
 londontuitionacademy.co.uk
@@ -297,6 +293,7 @@ mutantfootballleague.com
 myatlas.com
 myname5doddie.co.uk
 myxer.fm
+naciondeportes.com
 naganobudokan.com
 nanzenji.or.jp
 nccoastonline.com
@@ -322,7 +319,6 @@ oldmanorinns.com
 olgchurch.org
 on.is
 onepager.com
-onlineroulette77.co.uk
 oogfonds.nl
 osnabrueck.de
 ou-sevar.eu
@@ -380,14 +376,13 @@ redhillsmsnews.com
 redlightcompany.co.uk
 redrivernews.com
 remove-audio.com
+revivalco.in
 rhenus-office.pl
-riverpeptides.co.uk
 rivne.name
 roachvaleprimary.co.uk
 road.com.de
 roulettinoo.ch
 roxanewilson.com
-royal.nl
 royalejackpotcasino.com
 rsgb.org
 ruskastranka.rs
@@ -420,7 +415,6 @@ silverbardgames.com
 skcgsn.com
 skyline-lodge.com
 slotpath1320.de
-slotsmarketdaily.co.uk
 slyfoxbeer.com
 soilsci.com
 sonoframbow.com
@@ -440,19 +434,18 @@ startpathway.fr
 statusathensopen.gr
 stjohnsfresno.org
 strandbeest.com
+streamin.top
 streamprimeblog.nl
 stuart-bathurst.org.uk
 studliberal.dk
-styleboost.com
 sunflowerstatefc.com
 swims.com
-swirled.com
 sycc.co.kr
 sys-fyyy.cn
+systechone.com
 sztoutiao.com.cn
 szyxzx.xyz
 tachikichi.co.jp
-taffydb.com
 tavernadeiservi.it
 tedxcrce.com
 tekneq.com
@@ -494,6 +487,7 @@ vipertecknives.com
 vision2theatre.com
 visittybee.com
 vividmedia.it
+vmvkj.com
 volkskundemuseum.at
 voom.com
 vspj.cz
@@ -508,6 +502,7 @@ wilrijk.be
 win88cc.net
 winsecommerce.com
 wpde.org
+wwfznir.com
 xiaodiandou.net
 xiaopi.com
 xn--b1afpqik8b7b.xn--p1ai
@@ -518,3 +513,4 @@ yasukawa-hospital.jp
 ylmxmm.com
 youbredraptors.com
 yourlondonlibrary.net
+yuboraman.uz

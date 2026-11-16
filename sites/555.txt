@@ -42,11 +42,13 @@ battlefleetgothic-armada.com = battlefleet gothic: armada
 bayonnemedicalcenter.org
 bdlive.co.za
 bdo.com
+bearing-news.com
 beckyreesormusic.com
 berlinstudentfilmfestival.com
 bhujnagarpalika.org
 biocerescrops.com
 bitcoincasinos1.ca
+blackwonder.tf
 bocusedor.com
 bookofdeadslot-ca.com
 boorowamuseum.wordpress.com
@@ -148,6 +150,7 @@ firecask.com
 fitzvillafuerte.com
 fkfinfo.dk
 flashcryptoshop.com
+flowmusic.google
 fontilles.org
 freelang.net = freelang dictionary
 fresh-hu.com
@@ -202,7 +205,6 @@ instantbird.com = instantbird
 ipgbook.com
 itp.or.kr
 jac.co.jp
-jasdynd.xyz
 jcp-niiza.com
 jeffwhitebluegrass.com
 jennaedwards.net
@@ -295,7 +297,6 @@ nordicsafecities.org
 normannalive.it
 norvadel.com
 notica.ai
-nutria.com
 ocaatlanta.com
 ocmwbxl.brussels
 ohey.be
@@ -320,7 +321,6 @@ pasteall.org
 pazdealarcon.com
 pazinski-kolegij.hr
 pbrnow.com
-pengeluarantogelhariini.club
 per-group.com
 perfumeseuropeos.com
 peternijhoff.nl
@@ -342,7 +342,6 @@ ptpower.com
 puls8.ch
 pulsepalacemarket.com
 purebetroyal.it
-qnsqzkj.com
 quantocustaviajar.com
 quickjournal.de
 rachelrampage.com
@@ -389,7 +388,6 @@ satur.it
 sazacho-nagasaki.jp
 schloss-hoech.at
 scientology-twincities.org
-scootmobielaanhuis.nl
 scottishmortgageit.com
 sczstudy.cn
 seanharrisoliver.com
@@ -407,6 +405,7 @@ sloninsadez.com
 sma-america.com
 smartsmssolutions.com
 socialistaction.net
+somervillejersey.com
 sparinc.com
 sportklinik-stuttgart.de
 sprind.org
@@ -478,11 +477,12 @@ woosterpaininstitute.com
 worldfootwear.com
 wti.edu
 wwf.fr
+xaxjwx.com
 xazwy.com
 xishanju.com
-xxgpdz.com
 ykhax.buzz
 yoshitaka-amano.com
+ypakj.com
 zellidja.com
 zenandspice.com
 zergon.org

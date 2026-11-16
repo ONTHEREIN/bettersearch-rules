@@ -27,6 +27,7 @@ alpenverein-passau.de
 alshaqab.com
 altalang.com
 altercenter.ru
+altic.dev
 amazingbet-it.com
 amplify.com
 anatoliakerman.com
@@ -97,7 +98,6 @@ chemnitz-gestern-heute.de
 chicagofranchise.com
 chickenvszombiesslot.com
 chilmarklibrary.org
-chinalsscl.com
 cityofdecatural.com
 cityofemory.com
 cityofwalsenburg.com
@@ -120,16 +120,13 @@ davethorpehonda.com
 dearrouge.com
 deliverables.io
 deloros-msk.ru
-delta575-bunga.net
 demonoid.se
 dfjv.de
 dgproletruse.com
 diamondoasislines247.com
-divinacucina.com
 dmm.org.uk
 documentonline.org
 dogzonline.com.au
-dsosmanokwari.org
 dthorstad.com
 dursleyglos.org.uk
 e-iph.co.uk
@@ -188,7 +185,6 @@ grandtetonbrewing.com
 greenfield.com
 grm.net
 guardianpj.com
-hanahiroba.com
 hermangrimme.com
 hhdowfdn.org
 highrollercardstack.com
@@ -205,7 +201,6 @@ imt.fr
 integraciya.org
 intersectalliance.com
 isaeindia.org
-iwacupress.com
 jfootankleres.com
 jlmmm.app
 jonocoleman.com
@@ -251,7 +246,6 @@ manta.net
 manzuo.com
 marisaportolese.com
 maternitealpine.ch
-matsuno.tv
 max-zh-9game.com
 meetoes.com
 megalithes-weris.be
@@ -307,7 +301,6 @@ panorama-hartlisberg.ch
 parafiaopatowek.pl
 patrimoine-environnement.fr
 pecha-kucha.org
-pedagogicke.info
 peter-florjancic.eu
 peterwegner.com
 pg.ca
@@ -373,7 +366,6 @@ smalokalt.no
 speedtest.nl
 spiltoponlinedk.com
 spiritsintheforest.com
-sponsorchat.com
 sporting.cr
 sswpartners.com
 st-johnfisherprimary.co.uk
@@ -438,7 +430,7 @@ waterwelders.com
 weatherimages.org
 webassembly.org = wasm|webasm|webassembly
 wien.info
-winfast.dev
+wjfysy.com
 woodmanseyprimary.school
 wordtag.com
 worldofshowjumping.com

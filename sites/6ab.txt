@@ -1,4 +1,3 @@
-1121slotauthenticid.shop
 29.ru
 410crossfit.com
 4gr.pl
@@ -63,6 +62,7 @@ brighton-hove.sch.uk
 britclassicguide.uk
 britclassicproject.uk
 buecherei-hambach.de
+bugbitething.com
 bumphillipsopera.com
 burg-maienfels.de
 buscalibre.es
@@ -95,6 +95,8 @@ cleoslostidols.com
 clinicalto.com
 clipcanvas.com
 clothworkersfoundation.org.uk
+cloudsplan.com
+cnlai.com
 cockinnmugginton.com
 combinedcadetforce.org.uk
 comobrew.com
@@ -125,7 +127,6 @@ dr-albert-finck-schule.de
 dr-knapmeyer.de
 dr-recella.com
 dreambiggame.com
-dsosklatenutara.org
 duelcasinos.org
 durationvariability.online
 eas-music.org
@@ -164,7 +165,6 @@ garalperovitz.com
 gelatofestival.com
 geo-blue.com
 getyourguide.fr
-glarkware.com
 globalblackjackstation.com
 go.it
 goldmodern.nl
@@ -213,7 +213,6 @@ inedidesign.school
 infodesignerin.de
 ingenierosbilbao.com
 inthe70s.com
-jackbit.org.pl
 jackpotprime.id
 jacobosucari.com
 jd-bbs.com
@@ -230,7 +229,6 @@ jp-voltes.org
 judeolinger.com
 juliadynamics.github.io
 kaisai.com
-kansaschickenburger.com
 karacli.com
 katapult.si
 kbchs.org
@@ -278,13 +276,11 @@ mediahousehub.it
 medtechdive.com
 melaniefriend.com
 mele.cn
-mereo.com
 metroartsnashville.gov
 middlegatech.edu
 milancheeks.com
 missworldaustralia.com.au
 montenegro-real-estate-prices.com
-mostbet-gaming-play.com
 motorboatsmonthly.co.uk
 motoriminarelli.it = minarelli|motori minarelli
 mountmichael.com
@@ -311,16 +307,15 @@ nova.my
 novaspinspace.nl
 nutsschool-oldenzaal.nl
 nvcasinohrat.cz
+oawlsu.com
 obec-bohuslavice.cz
 obergerlafingen.ch
-ocruzq.com
 octa1953.org
 oezdemir-fuer-duisburg.de
 offentligaaffarer.se
 oldkiakima.org
 olma-messen.ch
 omura.co.jp
-one-casino1.net
 osb.be
 oscarfeldman.com
 oshad.ae
@@ -421,6 +416,7 @@ towsonumc.org
 trictools.com
 tv3.lv
 ub.edu.bz
+uejnu4e.com
 ultraarena.de
 ultrabase.us
 unitedinfocus.com
@@ -430,9 +426,11 @@ valasskeprikazy.cz
 valentin-software.com
 valor-casino.kr
 vandewiele.be
+vhr6u.cn
 vicenice.cz
 villanuevadelduque.com
 villgro.org
+virtualrealitygames.world
 visitanf.com
 vitavera-skovv.nl
 volkerhighways.co.uk
@@ -451,7 +449,6 @@ wiecradio.org
 wierchomla.com.pl
 wilderinstitute.org
 winkvankempen.nl
-withoutaprescription.net
 wkf.ms
 wlane.com.au
 wmd.hr
@@ -460,6 +457,7 @@ wordonfire.org
 wormser-zeitung.de
 wranglernetwork.com
 wsdot.com
+wububag.com
 wuerttembergia.de
 xlteach.com
 xn----7sbqhcbhddjpsmmqdj5a8n.xn--p1ai
