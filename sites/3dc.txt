@@ -8,17 +8,14 @@ aafes.com
 aaroncolemanprintmaking.com
 academiadeciencias.cl
 advocard.de
-aera.gov.in
 africapodcastnetwork.com
 akkerzuidwolde.nl
 alaskabaptistconvention.com
 alexballinger.org.uk
-alexisapricot.com
 alliedreit.com
 almuqbil.com
 alpha-trains.eu
 alsophighschool.org.uk
-altusairflow.com
 amberoil.ie
 americanornithology.org
 anafrimed.net
@@ -28,6 +25,7 @@ androidadvices.com
 anidjarlevine.com
 annict.com
 appletonroebuckschool.org.uk
+aqualivingstores.com
 artafm.com
 asaba-ryokan.com
 asbointl.org
@@ -55,7 +53,6 @@ blokhuus.nl
 bokaboattours.com
 booststore.nl
 brianlockwood.com
-bridal-recipe.com
 brightworkshub.nl
 brokenlinkcheck.com
 bruface.eu
@@ -102,8 +99,9 @@ danforshaw.com
 dariocecchini.com
 datamotion.com
 denhollander.info
-destinus.com
+destinus.com = destinus
 deutsches-theater.de
+dewereldachterai.nl
 didierbourguignon.com
 diehamburgergoldkehlchen.de
 dirk-voepel.de
@@ -134,7 +132,6 @@ feralhosting.com
 ffw-zickhusen.de
 fiatlux.energy
 fibrasil.com.br
-floravietnam.com
 flugzeugforum.de
 fluxspace.co.uk
 flyfilmfestival.org
@@ -229,6 +226,7 @@ konnagarmunicipality.org
 kptc.jp
 krasnoshtanov.com
 krimoved-library.ru
+kronorixe.com
 kumamoto-u.ac.jp
 labubuofficial.mx
 ledersberger.com
@@ -290,7 +288,6 @@ naco.gov.in
 nakladaslap.com
 nanjalawrites.com
 nativeamericacalling.com
-neindiana.com
 nemopisek.cz
 netvouchercodes.co.uk
 nextcare.com
@@ -339,6 +336,7 @@ prismhr-hire.com
 proarena.my
 progamersplanet.us
 provincies.nl
+qczx8.com
 quanent.com
 qumucloud.com
 radioerzgebirge.de
@@ -377,8 +375,8 @@ scorewin.cz
 seifenmuseum.ch
 seinan-bus.co.jp
 seminoleisd.net
+sgp5000.com
 shabake-official.com
-shandaken.gov
 sherlockiana.dk
 shimokita-mc.jp
 simoneleonahueber.com
@@ -438,6 +436,7 @@ trendtoreview.com
 truelab.games
 trueslotplatform.com
 tscp.com
+tsguc.com
 tspark.net
 txpremierlocksmith.com
 tzabell.org
@@ -468,11 +467,11 @@ wellingtoncaves.com.au
 wilhelm-wagenfeld-stiftung.de
 willingsford.com
 wise-geek.com
-xijushuju.com
 xn--2-gtb4aid6b1b.xn--p1ai
 xvbelink.com
 yelpadeventpromotion.shop
 yetem.com
+yhpxxx.com
 yogiadityanath.in
 zenvus.com
 zh-init-jisu.com

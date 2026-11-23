@@ -2,6 +2,7 @@
 2-v.net
 24sevres.com
 4dem.it
+4vector.com
 5mdecwk.cn
 7energy.com
 7newsbelize.com
@@ -46,7 +47,6 @@ basedebellefeuille.com
 bccn.cc
 beary-bears.nl
 bestiepaws.com
-bestlearningcentre.in
 betdesk.uk
 betneorush.us
 betscorecasino.pl
@@ -66,7 +66,6 @@ botmother.ru
 bravejournal.com
 brbaptistchurch.com
 brightroulettegroup.com
-brimaxahospital.com
 brownedgestanne.org
 bspk.org
 buh.rocks
@@ -77,6 +76,7 @@ californiagrandcasino.com
 candlekeep.com
 carhelp.info
 carolin-fortenbacher.de
+casinoextrawin.net
 centreforequitystudies.org
 channelnorth.co.nz
 chiropratica.it
@@ -140,7 +140,6 @@ eurobasketwomen2013.com
 eversportsmanager.com
 exelcomposites.com
 exodusmotorhomehire.co.uk
-fafa987bkk.com
 famesapphire.com
 fanqielianmeng.com
 fcbarcelona.cn
@@ -180,7 +179,6 @@ hangel.org
 haofengchem.com
 hardwear.io
 hayachinebus.co.jp
-hbdftd.com
 health.nz
 hectordemiguel.com
 heretic.gr
@@ -267,7 +265,6 @@ manolillochinato.es
 manyoug.jp
 mateuszrzewuski.eu
 mcdemocrats.org
-mcdfoodforthoughts.net
 measuringmasters.com
 megawecare.com
 mejorescasinosonlinecondineroreal.com
@@ -285,6 +282,7 @@ modernfinancereview.nl
 mojanmozafari.com
 monarkgame.com = monark|罪恶王权
 mopitney.com
+mozgcp.net
 mts-agro.com.ua
 musebyclios.com
 museumliaunig.at
@@ -296,6 +294,7 @@ ndromo41.fr
 neopse-site.com
 neuronmocap.com
 newceleste.com
+nexoraxi.com
 nextgengolf.org
 ngnordic.com
 ngo67.ru
@@ -310,9 +309,9 @@ okuiaki.com
 olwyc.com
 onegoshipyard.ru
 oneplanetsummit.fr
+operaguildnova.org
 opochka.ru
 osaka-gyoseishoshi.or.jp
-ososlotresmi.com
 oxygenmusic.hu
 paioli.it
 parrocchiadigrosio.it
@@ -325,6 +324,7 @@ planerka.app
 playastronaut.cc
 pokomac.com
 pornhubcasino.co.uk
+prahovaexpres.ro
 prestburystmarys.co.uk
 progressstarter.click
 publiccharters.com
@@ -364,7 +364,6 @@ scicrunch.org
 sellacapital.com
 senatorjohnmiller.com
 senseifilmfest.com
-seputartoto.net
 sevenmusic.de
 shaboxes.com
 shaparak.com
@@ -373,6 +372,7 @@ silvercupinharpenden.co.uk
 skldc.org
 slaveryimages.org
 slotglory.id
+slotkings569.com
 smart-christmas.com
 smithsonianchambermusic.org
 smppolesine.it
@@ -381,7 +381,7 @@ solfacil.com.br
 sosei.ac.jp
 sparkasse-pm.de
 spinnationx.nz
-spotify.com = greenroom|platform / spotify|spotify|spotify greenroom|spotify kids|spotify.com
+spotify.com = greenroom|spotify|spotify greenroom|spotify kids|spotify.com
 sprwislaplock.pl
 sriramanamaharshinursing.org
 srivengatesh.org
@@ -416,7 +416,6 @@ thedailyriff.com
 thekingcharlestroupe.com
 therpgacademy.com
 thesanctuarystudio.co.uk
-thetennistime.com
 tobu-equia.com
 tochigin-card.co.jp
 tomaofficiel.com

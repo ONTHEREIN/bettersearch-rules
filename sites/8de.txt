@@ -7,7 +7,6 @@
 aedmapa.pl
 aeropuertolasamericas.com
 ageofrevolutions.com
-ahcwyo.org
 aingerroofing.ca
 aip.pt
 airmagnitka.ru
@@ -58,6 +57,7 @@ bsvlindertuin.nl
 btsu.tj
 buyme.co.il
 bwxt.com
+cacgrants.org
 cadetcollegejhang.com
 caitlinshaw.com
 cardiffhalfmarathon.co.uk
@@ -97,6 +97,7 @@ cremerlab.github.io
 croizet.fr
 crowngreencasino1.com
 cruffler.com
+cybersecurecatalyst.ca
 dachstiftung-cms.ch
 dailyblogs.au
 dakotahotels.co.uk
@@ -108,6 +109,7 @@ dezainde.net
 dgqwdx.com
 diabeacon.org
 diariodeideasportal.mx
+dickiesmenswear.co.uk
 digi.me
 dimaphoto.ru
 dishapharmacy.com
@@ -135,7 +137,6 @@ eversfield.co.uk
 evostudies.org
 exeley.com
 f2o.org
-fafaslotinfo.com
 familienanwaelte-dav.de
 famufest.cz
 fanjeaux.com
@@ -167,6 +168,8 @@ getinshapeforwomen.com
 gigaspaces.com
 gimjournal.org
 giveawayoftheday.com = giveaway of the day
+gjassets.com
+global-cargo.info
 globalspark.it
 gloryplay.co.uk
 gmember.com
@@ -215,9 +218,7 @@ jerl.cn
 jessicacuello.com
 jjrichards.com.au
 jussitohka.net
-kalkulaator.ee
 kanal1drammen.no
-kapta.com
 kazoocivic.com
 kerk-noordwijk.nl
 kerriganmahan.com
@@ -361,9 +362,7 @@ semtdistribuicao.com
 sensecentar.org
 seocheckertool.shop
 sexualpolitik.se
-shanghaixinshimy.com
 shinemicro.com
-shopyowie.com
 shroud.com
 shsjzl.com
 sidegroupgames.com
@@ -401,7 +400,6 @@ supaisu.co.jp
 supergre.at
 sverige.se = sverige.se
 svyun.com
-sxzwny.com
 sydorenko.info
 taeknisetur.is
 takestockpalmbeach.org
@@ -451,6 +449,7 @@ wearebehindenemylines.com
 wegotcookies.se
 welcamfm.com
 westleedsdispatch.com
+wheresryan.sh
 widepoint.ca
 wow247.co.uk
 wrhs.org

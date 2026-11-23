@@ -45,6 +45,7 @@ authority.pub
 axelbraunproductions.com
 azmedia.de
 b3dservice.de
+b52juice.com
 bailiyazs.com
 basejy.com
 bcdemocrats.org
@@ -81,7 +82,6 @@ clematis-no-oka.co.jp
 clothoff.net
 cloudfindtime.com
 cm-soure.pt
-cnfloormaterials.com
 cnitblog.com
 colorkahar.com
 coltd.nl
@@ -104,6 +104,7 @@ demostack.com
 devolo.com
 dexview.com
 diamondroulettespace.com
+dinamobet633.com
 donbosco.it
 douvaine.fr
 downloadblog.it
@@ -145,6 +146,7 @@ filmfonds-wien.at
 filmweb.no = filmweb|filmweb.no
 fk-tesla.de
 flicksfilmfestival.wordpress.com
+flybar.com
 fontpair.co
 fort-avocats.fr
 funny.co.jp
@@ -194,6 +196,7 @@ hotek.nl
 hungarocontrol.hu
 i6528b.cn
 idmall.biz
+idun-group.com
 ikon.mn
 imi.org.ua
 indusvalleycollege.com
@@ -211,6 +214,7 @@ jeanscentre.nl
 jeremydavies.com
 jimbakkershow.com
 jolson.org
+jordanpost.com.jo
 kaisercraft.com.au
 kamegaya.co.jp
 kanuunacasinos.fi
@@ -237,6 +241,7 @@ lfv-rlp.de
 liaentries.com
 libertyleagueathletics.com
 libyanspider.com
+lichbongda.forum
 lissadellhouse.com
 lockportschools.org
 logeek.com
@@ -254,7 +259,6 @@ mateinstitute.org
 max-traffic.ru
 md-rlp.de
 meadowzone.uk
-medcalc.com
 mediaworld.agency
 melbourneit.au
 mercatopartners.com
@@ -389,6 +393,7 @@ socialspark.com
 somsipn.it
 sonepar.se
 spaldingtrust.org.uk
+spindogscasino.net
 spp-j.com
 sqdiy.cn
 srgglobal.com
@@ -443,6 +448,7 @@ tw-casino.tw
 twopointstudios.com = two point hospital|two point museum|双点医院|双点博物馆|雙點博物館
 txt2tags.org = txt2tags
 u.tt
+ud7s20.cn
 umozorkow.pl
 unitedconnect.fr
 upmc.fr
@@ -462,11 +468,9 @@ velleron.fr
 vgz-zorgkantoren.nl
 viktoriabinschtok.wordpress.com
 vlaamsejeugdraad.be
-vlogvol.com
 voicesofchange.org
 vulkanstarsotzyvy.kz
 vyvod-iz-zapoya-balashiha15.ru
-w88clubmobile.com
 wacoindie.com
 warsawvillageband.net
 watergardeningdirect.com

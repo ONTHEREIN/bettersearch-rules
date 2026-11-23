@@ -56,7 +56,6 @@ calperformances.org
 canadianfreestuff.com
 cangress.org
 canopylabs.ai
-carbeike.com
 carnivalechicago.com
 casasdelpuerto.es
 cashort.com
@@ -100,7 +99,6 @@ dallas.si
 dbuc-ethiopia.org
 decoratorsadvice.net
 deutschesmodeinstitut.de
-dfrs31kg.com
 diba.es
 dickaerts.nl
 dictu.nl
@@ -195,6 +193,7 @@ humblebundle.com = humble bundle|humble bundle inc.|humble bundle store|humble b
 hums.ac.ir
 hurmiocasinos.fi
 hy-max.com.cn
+hz-ol.de
 iaj.de
 icmyo.wordpress.com
 ideaecho.my
@@ -219,7 +218,6 @@ ivoprokopiev.com
 jackpotpalace.de
 jalasoft.com
 janettashjian.com
-javdoe.to
 jerryhannan.com
 julianabicycles.com
 julienaubert.fr
@@ -236,7 +234,6 @@ kidumkibido.com
 killedbymicrosoft.info
 kislexikon.hu
 kmszy.com
-kmtp.net
 krasnaya-kuznitca.ru
 kraumur.is
 krinstitutions.org
@@ -254,10 +251,10 @@ leger-des-heils.de
 lenova.es
 lepra.org.uk
 levelupclub.us
+levf.org
 liangfanktv.com
 lifecare.org.au
 lisbon-lottery.com
-live-palive.com.cn
 loomi.live
 los-game.com
 lpmarieimmaculeenancy.com
@@ -356,6 +353,7 @@ py.gov.cn
 quirinus-gymnasium.de
 radiolaprimerisima.com
 radlin.pl
+redcircuits.com
 redirectedmovie.com
 rememberacharity.org.uk
 rememberedlore.com
@@ -435,6 +433,7 @@ tremelo.be
 tubeproductsindia.com
 tudorplace.org
 tura-dieringhausen.de
+unclickperlascuola.it
 universalhall.co.uk
 uwlafayette.org
 valoraanalitik.com
@@ -444,9 +443,11 @@ vegashero-at.com
 vendres.fr
 vertexroyalstation.com
 vfb-regensburg.de
+vibiana.com
 vidpochynok.net
 vigorepasso.it
 vilmakinnunen.com
+visitbursa.org
 vosabb.nl
 vpm.lt
 vyvod-iz-zapoya-na-domu-voronezh-fds.ru

@@ -46,7 +46,6 @@ atoc.org
 autismeastmidlands.org.uk
 avannaata.gl
 bakercityherald.com
-baoyitao.com
 baubauhaus.com
 bayesimpact.org
 bbs2-mainz.de
@@ -88,7 +87,6 @@ ckaarhus.dk
 claudiamason.com
 clubatleticosarmiento.com
 coca-cola.be
-codders.io
 commune-mainsat.fr
 communications.gov.uk
 conferencealerts.in
@@ -110,6 +108,7 @@ dedukdalf.net
 delta-io.github.io
 delta-israel.com
 denon.jp
+descase.com
 destinia.com
 destinyhigherinstitute.com
 dev-insider.de
@@ -143,12 +142,14 @@ esitc-caen.fr
 esrf.fr
 europa-service.de
 eutit.com
+eventspass.com
 everhoodgame.com = everhood|everhood:eternity edition
 exxeta.com
 fab.mil.br
 farlex.com
 fernhillschool.co.uk
 feuerwehr-finsterau.de
+fezbetcasino-at.com
 finanzamt-freising.de
 finprotect.info
 fishbase.de
@@ -199,7 +200,6 @@ holzkurier.at
 hongikdang.kr
 horizonarenaslot.it
 hubsimple.uk
-huitianlaser.com
 ibd-marburg.de
 ibets.fi
 icamus.org
@@ -375,6 +375,7 @@ rgae.ru
 rhinegold.co.uk
 ricedesignalliance.org
 rightatyourdoor.com
+rmqg1t.cc
 royalstiger.com.ro
 royalvictoria.it
 rsn-saratov.ru

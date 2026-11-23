@@ -7,6 +7,7 @@
 aanda-removals.co.uk
 aavp.org
 abpharmacy.ca
+acip.pt
 actiagroup.com
 admkad.ru
 aeroweb-fr.net
@@ -111,7 +112,6 @@ deroseproject.ru
 diariodocentrodomundo.com.br
 dinastiavivanco.com
 diniebesems.nl
-doctors.org.pl
 domsimurg.org
 doorkeeper.jp
 dosierradesalamanca.es
@@ -139,6 +139,7 @@ evgemlux.lu
 evxonline.com
 excel-london.co.uk
 exept.de
+fabiandigital.org
 fantasticgardeners.co.uk
 farfewgiants.com
 fat-pie.com
@@ -237,7 +238,6 @@ lantejuela.org
 larnod.fr
 lasterrazasresort.com
 leadingedgega.com
-legiano-spielen.de
 leistungssportschule.at
 lendmarkfinancial.com
 leon-shop.ru
@@ -403,7 +403,7 @@ t-dan.com
 takargo.pt
 teloa.com
 tentonhammer.net
-tesla.com = cybertruck|model 3|model s|model x|model y|semi|tesla|tesla bluestar|tesla cybertruck|tesla energy|tesla inc.|tesla model 3|tesla model s|tesla model x|tesla model y|tesla model ☰|tesla motors|tesla motors netherlands b.v.|tesla motors, inc.|tesla roadster|tesla roadster 2|tesla semi|tesla semi truck|tesla semi-truck|tesla semitruck|tesla supercharger|tesla supercharger network|tesla, inc.|tm3|tmy|tsla|whitestar|特斯拉|特斯拉model 3|特斯拉model y|特斯拉roadster|特斯拉roadster 2|特斯拉semi|特斯拉s型|特斯拉公司|特斯拉汽車|特斯拉汽车|特斯拉能源|特斯拉超級充電樁|特斯拉超級充電站|特斯拉超级充电桩|特斯拉超级充电站
+tesla.com = cybertruck|model 3|model s|model x|model y|semi|tesla|tesla bluestar|tesla cybercab|tesla cybertruck|tesla energy|tesla inc.|tesla model 3|tesla model s|tesla model x|tesla model y|tesla model ☰|tesla motors|tesla motors netherlands b.v.|tesla motors, inc.|tesla roadster|tesla roadster 2|tesla robotaxi|tesla semi|tesla semi truck|tesla semi-truck|tesla semitruck|tesla supercharger|tesla supercharger network|tesla, inc.|tm3|tmy|tsla|whitestar|特斯拉|特斯拉cybercab|特斯拉model 3|特斯拉model y|特斯拉roadster|特斯拉roadster 2|特斯拉semi|特斯拉s型|特斯拉公司|特斯拉汽車|特斯拉汽车|特斯拉能源|特斯拉超級充電樁|特斯拉超級充電站|特斯拉超级充电桩|特斯拉超级充电站
 thecameron.com
 thegreenstore.fr
 thehistoryblog.com
@@ -420,6 +420,7 @@ townofmarionny.com
 treffpunktkaiserhafen.de
 triplesrule.com
 tripod.co.jp
+trovagnocca.com
 tu-ugmk.com
 turbach.ch
 tv2ostjylland.dk
@@ -450,7 +451,6 @@ voilah.sg
 voix-du-nucleaire.org
 wallstabe-schneider.de
 waruguru.com
-web.hr
 websiteviewerchecker.shop
 wegwijzerzeist.nl
 westsidegunn.com

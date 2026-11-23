@@ -73,6 +73,7 @@ carbon-ratings.com
 carhartharrislab.com
 carolkmack.com
 casino-kapow.dk
+casinobetscore.it
 casinoguidezone.co.uk
 cchr.org
 ccitraining.edu
@@ -121,7 +122,7 @@ derelictplaces.co.uk
 desktoptwo.com = desktoptwo
 dfdsconnects.com
 dilbazi.az
-disney.co.jp = amphibia|disney's frozen 2|disney's frozen ii|frozen 2|frozen ii|frozen two|toy story|toy story 1|toy story 4|toy story four|冰雪奇緣2|冰雪奇缘2|反斗奇兵|反斗奇兵4|奇幻沼泽|奇幻沼澤|玩具总动员|玩具总动员4|玩具總動員|玩具總動員4|魔雪奇緣2
+disney.co.jp = amphibia|frozen 2|frozen ii|frozen two|toy story|toy story 1|toy story 4|toy story four|冰雪奇緣2|冰雪奇缘2|反斗奇兵|反斗奇兵4|奇幻沼泽|奇幻沼澤|玩具总动员|玩具总动员4|玩具總動員|玩具總動員4|魔雪奇緣2
 dnesniklik.cz
 doma.info
 domainedesnoms.fr
@@ -181,7 +182,6 @@ getrootlyn.com
 ggbetbelgium.com
 ginoogamingfn.ca
 globalhealthhub.de
-goldincity.com
 golf.tv
 gordonmurray.com
 governmenthouse.gg
@@ -252,6 +252,7 @@ knooppuntamsterdam.com
 kramer.ru
 kulturellebildung.de
 kurt-landauer-stiftung.de
+kwang-gin.co.kr
 kwjyy.com
 la-viande.fr
 lanaudiere.ca
@@ -314,7 +315,6 @@ nusantarapools.com
 oakmeadowprimary.co.uk
 oberheide.org
 ohiolegislativeblackcaucus.org
-ok8386x.com
 oki-hospital.com
 olodaterollabs.com
 oneal.com
@@ -326,7 +326,6 @@ pandemonia.art
 paninihappy.com
 parteieinheit.de
 patnastmichael.com
-payescruz.com
 picbleu.fr
 pillowshotels.com
 planetdepos.com
@@ -355,7 +354,6 @@ reddrivingschool.com
 redlands.gov
 reefshot.com
 reelworld.nl
-reginno.com
 relayforlife.org.au
 rent-at-avis.com
 repmillard.com
@@ -368,6 +366,7 @@ romstation.fr
 roshe--run.com
 rottentomatoreport.co.uk
 rugendorf.de
+ruhufw.cn
 sa.gov.au
 sacti.cn
 safetyhandler.com
@@ -394,7 +393,6 @@ soozhu.com
 soulshepherding.org
 southsouthnorth.org
 spacebug-special.com
-spirit-online.de
 spmja.com
 sportsmarketing20.com
 ssams.cz

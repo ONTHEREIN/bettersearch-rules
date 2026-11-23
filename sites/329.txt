@@ -1,6 +1,7 @@
 1055hitsfm.com
 116.com.cn
 1310thescore.com
+2594.net
 3pb.co.uk
 3qx0p7j.cn
 3xer.jp
@@ -32,16 +33,15 @@ apc.com = american power conversion|apc|apc by schneider electric|施耐德apc|�
 apc.gov.tw
 apch.nl
 arcaplanet.it
-arkitek.net.co
 arthur-stammet.lu
 ashlandbaycinema.com
 atlasvault.nl
 avantlink.com
 ayyx.com
-ballistics101.com
 basnet.cn
 bcrg-guinee.org
 beerstreetjournal.com
+begamestar-casino.org
 begum.tv
 belantis.de
 bergedorfer-zeitung.de
@@ -61,11 +61,11 @@ bukyschwartz.com
 buswest.com.au
 bygopp.no
 ca7mays.shop
+cafethethao.live
 cap-collectif.com
 carolweymulleropen.com
 carstory.com
 cawlimburg.be
-cazinourinoiromania.ro
 cbscrangeborg.nl
 cchkuwait.com
 cehurd.org
@@ -129,12 +129,10 @@ espwebsite.com
 euccan.com
 eurogenerique.com
 evolveyourfuture.co.uk
-facilityindia.co.in
 fantasypuckline.com
 farfetch.com = farfetch
 farne-islands.com
 fcdm.ru
-fdelec.com
 fibs.eu
 fiddlersgreen.net
 filippvoronin.ru
@@ -157,6 +155,7 @@ gambit.security
 gamiing.org
 gemeinde-kirchberg.de
 geschriebene-geschichte.de
+getgrinds.com
 getreidemuehle-zwiefalten.de
 ghanaembassy-morocco.com
 girlschoirfestival.pl
@@ -278,6 +277,7 @@ montargisvr.com
 mscpressarea.com
 museomagma.com
 myspins--casino.org.uk
+nanwakolas.com
 nazifmemedi.com
 netbetcasinouk.co.uk
 neufclocherslyon.fr
@@ -319,10 +319,10 @@ pieology.com
 pince.fr
 pipeline.com
 pipirig.ro
+poiu031.cn
 politicalcomic.com
 profitpalspro.com
 prolococarpenedolo.it
-promoaquamineralle.ru
 proxyium.com
 ptsdusa.org
 pureviewchoice.it
@@ -349,7 +349,6 @@ scholarexpress.net
 scoft.cat
 serbianleaders.com
 sherwin-automotive.com
-shibuxiu.com
 signaturebar.com
 simone-fischer-stuttgart.de
 simpel.ch
@@ -428,6 +427,7 @@ vniia.ru
 volyairazum.ru
 vostport.ru
 vuelaseguro.com
+w3b9gt.cn
 wangjiemusic.com
 wda.org
 we7.com
@@ -447,6 +447,7 @@ yanhuikeji.top
 yoavshemesh.com
 yogiessence.com
 yourfamilyhistorymag.co.uk
+yxs2jkv.com
 zacfox.com
 zee33reachs.shop
 zjtjmy.com

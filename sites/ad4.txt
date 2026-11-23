@@ -13,6 +13,7 @@ ae888.bid
 afec.es
 afgri.com.au
 agila.de
+ai-open.me
 aiclf.net
 aimm-meeting.org
 aitutakilagoonresort.com
@@ -24,6 +25,7 @@ americanitalianculturalcenter.com
 amilindholm.com
 ampiopharma.com
 annagranlund.se
+annifang.com
 arai-tent.co.jp
 archives-temoignages.fr
 ari-berlin.org
@@ -151,7 +153,9 @@ geisingen.de
 gerardcastellvi.com
 glamm-steine.de
 glicid.fr
+globaltechadvocates.org
 gminadlarodziny.pl
+gmland.kr
 goldpartyslots.com
 gopalnamkeen.com
 grandbuy.com.cn
@@ -159,6 +163,7 @@ greentoys.com
 grenouer.com
 gymnasium-august-dicke.de
 gzluan.com
+hanilac.com
 haskellbook.com
 hawkemedia.com
 hdguru.com
@@ -186,7 +191,6 @@ inspirelead.co.uk
 institutefc.org
 interviewrussia.ru
 intras.es
-ipcolloquium.com
 ipeccoaching.com
 isfnetcare.com
 iteppistideisogni.it
@@ -205,9 +209,11 @@ kagarisoft.com
 kaigan-building.com
 kakkley.ru
 kallaysaundersandras.com
+kano777.homes
 karmitage.com
 kbyg.org
 kedangesurcanner.fr
+keilorfc.com
 keston.org.uk
 kgw.com
 kidzee.com
@@ -287,7 +293,6 @@ newdrugpolicy.org
 newevidence.co.jp
 newinnabthorpe.co.uk
 nextsource.tr
-nfjxdd.com
 ngaaho.com
 nhacaitop.cc
 nihon-denshobatokyokai.org
@@ -309,7 +314,6 @@ online.gov.vn
 openaps.org
 opencare.com
 opendylan.org = dylan
-ostrovets.by
 panonthenet.com
 parafiabyton.pl
 parcemasa.es
@@ -362,6 +366,7 @@ robincochrane.se
 rockmans.com.au
 rollandtrailer.com
 ronpaul.com
+rozan.pk
 rtc.be
 rubycon.co.jp
 ruovesi-lehti.fi
@@ -440,11 +445,11 @@ the1casino-online.com
 thecoastcinemas.com
 theplaidhorse.com
 thetype.com
-theyellowcapecod.com
 tinysparql.org = gnome tracker|meta tracker|metatracker|tinysparql|tracker|trackerd|tsparql
 tommyjoemartins.com
 tomorrowsworldtoday.com
 tongyu.gov.cn
+topographie-laser.eu
 torvehallernekbh.dk
 trafficmarketplace.com
 tragagratis.com
@@ -467,7 +472,6 @@ uk-peptides.com
 uncyclopedia.info
 undeado.net
 unkel.de
-unlimluck-uk.co.uk
 uno-hotel.com
 upgates.com
 v-vulf.ru
@@ -481,6 +485,7 @@ viavarejo.com.br
 virginiamoca.org
 visiontodaysite.co.uk
 vividtrendtilburg.nl
+vlykj.com
 vogellanden.nl
 voice-arts.org.nz
 voterandyfine.com

@@ -35,6 +35,7 @@ antoniollarden.es
 apolloinstruments.com
 arcadexclub79.us
 aretsungebonde.no
+atelier-tig.com
 atleticavicentina.com
 autoweek.nl
 awsmonline.org
@@ -67,6 +68,7 @@ brpd.gov.pl
 bucay.com
 bududub.cz
 buffalo7.co.uk
+cadobongda1.com.co
 cae-nyc.org
 caldasportclube.pt
 cantoni.com
@@ -185,6 +187,7 @@ herminioalvarez.com
 hermones.in
 hetang.gov.cn
 heyavo.com
+hijeya.com
 hj96u73k.com
 hmall.com
 honnoji.jp
@@ -193,7 +196,6 @@ hypnotherapie.nl
 iatiregistry.org
 icehouse.net
 icp-pgh.org
-igetbrisbane.com
 immodestyblaize.com
 incgamers.com
 indiefy.net
@@ -237,7 +239,6 @@ kustom-life.de
 laetitiavelma.com
 laexpe.com
 lanl.gov = ibm roadrunner|mcnp|monte carlo n-particle transport code|roadrunner|走鵑|走鹃
-latinatop.ru
 lauramadeleine.com
 lavidadelospeces.cl
 leokino.at
@@ -256,7 +257,6 @@ lucknetmag.co.uk
 luckyfiestapro.nz
 luckywinner4u.com
 luisurrea.com
-lumemedia.com
 magic943fm.com
 mamiya-op.co.jp
 mapleleafs.com
@@ -292,6 +292,7 @@ mygeetaibeat.com
 myglubear.com
 myweddingsongs.com
 ncae.org
+nebulbyte.com
 neverthink.tv
 newnn.ru
 nicolekersh.com.au
@@ -366,7 +367,6 @@ rrr3.jp
 rsfa.ca
 rshn-nso.ru
 rtbet.com
-rumeur-publique.fr
 rundrweb.com
 sahyogjobsconsultancy.in
 saint-exupere.fr
@@ -380,7 +380,7 @@ sarahburke.com
 schnelldorf.de
 schumann.com.au
 scienceweek.net.au
-sega.com = 2006 sonic the hedgehog|aliens vs. predator|comix zone|crazy taxi: world tour|demon slayer - the hinokami chronicles|iron man|iron man 2|iron man 2: the video game|kimetsu no yaiba: hinokami keppuutan|lad infinite wealth|lad iw|lad: infinite wealth|lad: iw|like a dragon 8|like a dragon 8: infinite wealth|like a dragon infinite wealth|like a dragon: infinite wealth|like a dragon: pirate yakuza in hawaii|loop8 summer of gods|loop8 降神|loop8: summer of gods|lost judgment|maimai|metaphor: refantazio|persona 3 reload|persona 4 revival|persona 5 tactica|persona 6|ryu ga gotoku 8|sonic '06|sonic 06|sonic 2006|sonic frontiers|sonic heroes|sonic lost world|sonic racing: crossworlds|sonic rumble|sonic the hedgehog|sonic the hedgehog '06|sonic the hedgehog 06|sonic the hedgehog 2006|soul hackers 2|super monkey ball banana mania|super monkey ball: banana mania|super monkey ball: banana rumble|the hinokami chronicles|thor: god of thunder|unicorn overlord|yakuza 8|人中之龍8|人中之龍8 外傳 pirates in hawaii|人中之龍8 外傳夏威夷海盜|人中之龍8外傳 夏威夷海盜|人中之龙8|人中之龙8外传 夏威夷海盗|圣兽之王|女神异闻录3 reload|女神异闻录4 revival|女神异闻录5 战略版|女神异闻录6|女神異聞錄3 reload|女神異聞錄4 revival|女神異聞錄5 戰略版|女神異聞錄6|如龙8|审判之逝：湮灭的记忆|審判之逝：湮滅的記憶|暗喻幻想：refantazio|漫畫地帶|灵魂骇客2|现尝好滋味 超级猴子球|現嚐好滋味！超級猴子球 1&2 重製版|瑪利歐&音速小子 at 溫哥華奧運|異形戰場|索尼克 失落世界|索尼克未知边境|索尼克未知邊境|索尼克賽車 交叉世界|索尼克赛车 交叉世界|聖獸之王|舞萌|超級猴子球 香蕉大亂鬥|超級猴子球：香蕉狂熱|超级猴子球 香蕉大乱斗|超音鼠英雄|鋼鐵人2|鐵甲奇俠2|雷神托尔|雷神索爾|靈魂駭客2|音速小子|音速小子 2006|音速小子 the hedgehog|音速小子 未知邊境|音速小子未知邊境|音速小子羣雄|音速小子群英會|音速小子群雄|鬼滅之刃 火之神血風譚|鬼灭之刃 火之神血风谭
+sega.com = 2006 sonic the hedgehog|aliens vs. predator|comix zone|crazy taxi: world tour|demon slayer - the hinokami chronicles|iron man 2|iron man 2: the video game|kimetsu no yaiba: hinokami keppuutan|lad infinite wealth|lad iw|lad: infinite wealth|lad: iw|like a dragon 8|like a dragon 8: infinite wealth|like a dragon infinite wealth|like a dragon: infinite wealth|like a dragon: pirate yakuza in hawaii|loop8 summer of gods|loop8 降神|loop8: summer of gods|lost judgment|maimai|metaphor: refantazio|persona 3 reload|persona 4 revival|persona 5 tactica|persona 6|ryu ga gotoku 8|sonic '06|sonic 06|sonic 2006|sonic frontiers|sonic heroes|sonic lost world|sonic racing: crossworlds|sonic rumble|sonic the hedgehog|sonic the hedgehog '06|sonic the hedgehog 06|sonic the hedgehog 2006|soul hackers 2|super monkey ball banana mania|super monkey ball: banana mania|super monkey ball: banana rumble|the hinokami chronicles|thor: god of thunder|unicorn overlord|yakuza 8|人中之龍8|人中之龍8 外傳 pirates in hawaii|人中之龍8 外傳夏威夷海盜|人中之龍8外傳 夏威夷海盜|人中之龙8|人中之龙8外传 夏威夷海盗|圣兽之王|女神异闻录3 reload|女神异闻录4 revival|女神异闻录5 战略版|女神异闻录6|女神異聞錄3 reload|女神異聞錄4 revival|女神異聞錄5 戰略版|女神異聞錄6|如龙8|审判之逝：湮灭的记忆|審判之逝：湮滅的記憶|暗喻幻想：refantazio|漫畫地帶|灵魂骇客2|现尝好滋味 超级猴子球|現嚐好滋味！超級猴子球 1&2 重製版|瑪利歐&音速小子 at 溫哥華奧運|異形戰場|瘋狂計程車：極速環遊|索尼克 失落世界|索尼克未知边境|索尼克未知邊境|索尼克賽車 交叉世界|索尼克赛车 交叉世界|聖獸之王|舞萌|超級猴子球 香蕉大亂鬥|超級猴子球：香蕉狂熱|超级猴子球 香蕉大乱斗|超音鼠英雄|鋼鐵人2|鐵甲奇俠2|雷神托尔|雷神索爾|靈魂駭客2|音速小子|音速小子 2006|音速小子 the hedgehog|音速小子 未知邊境|音速小子未知邊境|音速小子羣雄|音速小子群英會|音速小子群雄|鬼滅之刃 火之神血風譚|鬼灭之刃 火之神血风谭
 selffoundation.org
 sertoes.com
 shannonmurphy.com.au
@@ -439,7 +439,7 @@ tvhits.com.au
 twentysevenrecords.com
 twin-fi.fi
 twoten.org
-u888com.club
+u9t2g2.cn
 ubuntuunity.org = ubuntu unity|ubuntu unity remix|unubuntu
 ucpac.org
 ugougo.cc
@@ -481,7 +481,6 @@ xosemiguelez.com
 yaimacarrazana.com
 yoast.com
 yongqing.gov.cn
-yourboatclub.com
 yujiantianfu.cn
 zatu.com
 zeevee.com

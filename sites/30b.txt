@@ -46,6 +46,7 @@ battlefield-heroes.com
 bay789.bet
 bayshorehomesales.com
 bbs-kusel.de
+bcwhales.org
 bdmbethrat.sk
 beautifulgate.org
 bestgaragedoorrepairsummerlinnv.com
@@ -69,6 +70,7 @@ britarenabridge.uk
 brynmawrmuseum.org.uk
 bsdebolleberg-mariahoop.nl
 bsdlab.com
+bubabk.com
 buchambuchrain.de
 bukhar-zhirau.kz
 bunyaproductions.com.au
@@ -137,6 +139,7 @@ drgoulu.com
 du4.li
 e22.com
 eaa268.org
+ebaileymarketing.com
 ebookselibrary.com
 ecstasy-hub-met.site
 editex.es
@@ -173,7 +176,6 @@ folkabbestia.com
 fortedifenestrelle.com
 foxhunterinn.com
 framer.website
-frederica.com
 freearcade.com
 freedomfest.com
 freelibrary.org
@@ -196,7 +198,7 @@ geronimostilton.com
 ghga.com
 gjesdal-ski.com
 globalsourcing.org.uk
-gov.tw = cbc|central bank of china|central bank of taiwan|central bank of the republic of china|cns 11643|kinmen daily news|kmdn.gov.tw|national development council|ndc|中华民国中央银行|中央銀行|中文標準交換碼|中華民國中央銀行|中華民國國家發展委員會|中華民國央行|台灣中央銀行|台灣央行|國家發展委員會|國發會|央行|行政院國家發展委員會|金門日報|金门日报
+gov.tw = air force of taiwan|air force of the republic of china|caf|cbc|central bank of china|central bank of taiwan|central bank of the republic of china|china air force|chinese navy|chinese republican navy|cns 11643|economy of taiwan|executive yuan|kinmen daily news|kmdn.gov.tw|national development council|navy of taiwan|navy of the republic of china|ndc|president of taiwan|president of the republic of china|republic of china air force|republic of china navy|roc navy|roc president|rocaf|rocn|taiwan economy|taiwan president|taiwanese air force|taiwanese economy|taiwanese navy|the republic of china navy|中华民国中央银行|中华民国总统|中华民国海军|中华民国空军|中华民国行政院|中国总统|中国民国海军|中國海軍|中國空軍|中國總統|中央銀行|中文標準交換碼|中華民國中央銀行|中華民國內閣|中華民國國家發展委員會|中華民國央行|中華民國海軍|中華民國空軍|中華民國總統|中華民國行政院|台湾总统|台湾海军|台湾经济|台灣中央銀行|台灣內閣|台灣央行|台灣空軍|台灣經濟|台灣總統|國家發展委員會|國發會|央行|政院|臺灣空軍|臺灣經濟|臺灣總統|行政院|行政院國家發展委員會|金門日報|金门日报
 gpsabc.cn
 greenwoodmuseum.org
 greyhighlandspubliclibrary.com
@@ -216,12 +218,14 @@ hellogenevieve.com
 hero.nl
 hinomaru-soul.jp
 hitfm.ua
+hollywoodcasnio.com
 hookle.net
 hostman.com
 huma.de
 humango.ai
 iabs.org
 ictinnovations.org
+ifkmm.cn
 imsitu.org
 infonorth.co.jp
 inno-vision.cn
@@ -238,7 +242,6 @@ j-pcs.jp
 j2inter.com = j2 interactive co., ltd.|mx player
 jamt.or.jp
 jand.sharif
-jarvisinternational.com
 jeltal.ir
 jerseysstore.ca
 jfast.net
@@ -279,6 +282,7 @@ lax1031.com
 laylaangulo.com
 le-monestier-mairie.fr
 legacy.com.tw
+leocafe.co.uk
 leonardo-dobrich.com
 leonardodantes.net
 lesollieressureyrieux.fr
@@ -325,7 +329,6 @@ nationalhomeinspectorexam.org
 ncu.edu
 nendai-ryuukou.com
 neooddscrownpoint.nl
-net88dk.net
 netz-hamamatsu.jp
 newfamilyjourney.com
 nextmediapro.nl
@@ -384,7 +387,6 @@ reelline.de
 regine-lesite.com
 regionalsuche.at
 reliancemumbaimetro.com
-remontokon67.ru
 rivasciudad.es
 rkmasansol.org
 royaloakramsden.com
@@ -459,6 +461,7 @@ thelearningfarm.com
 thelifeofscience.com
 thiezac.fr
 thomann.de = musikhaus thomann|thomann
+tideas.net
 tokensignalwire.com
 topsailwealthmanagement.com
 torchlighters.org
@@ -490,7 +493,6 @@ walnerlaw.com
 watermanshair.com
 wathenakansas.com
 wayi.net
-wecollect.ch
 weisshospital.com
 westwarwickri.org
 wheresthegoldpokie.com

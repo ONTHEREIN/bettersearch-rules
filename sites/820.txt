@@ -8,7 +8,6 @@
 9qqd.com
 abcaq.com
 abin.gov.br
-adelletutors.com
 aerzen.de
 ahssfl.org.cn
 alamalhospital.com
@@ -79,9 +78,9 @@ checkdapa.shop
 cheyenneairport.com
 chocolatepan.com.br
 cityrats.co.uk
+classiccarservices.org
 clearcardsstation.com
 clearguide.it
-clearviewtreatment.com
 clinicago.uz
 cnvaldostano.it
 cnweb-s15qq.com
@@ -141,7 +140,6 @@ es-llc.com
 eugen-schmalenbach-berufskolleg.de
 evfn.ca
 evolution-design.info
-expert-judiciaire.ai
 expressive-code.com
 fairmoney.io
 familyfilmproject.com
@@ -184,7 +182,6 @@ gobound.com
 gon-architects.com
 gonglinna.com
 goodnet.gr
-gtx555.net
 guanchong.com.my
 gwangju2015.kr
 h-jigyoudan.or.jp
@@ -192,6 +189,7 @@ hancom.com = hancom office|hangul|thinkfree office
 harasdehus.com
 hb88.care
 hdabla.net
+heart-murmur.com
 help-portrait.com
 hemper.co
 hibapress.com
@@ -212,6 +210,7 @@ ilga.gov = illinois senate|伊利諾伊州參議院|伊利諾州參議院|伊利
 illusion-force.com
 impulsodigital.digital
 in.net
+inlibris.com
 insighter.co.kr
 int-aiwa.com = aiwa|愛華
 internationalborneanfrograce.com
@@ -233,7 +232,7 @@ katimavik.org
 kerilotion.com
 kesaka.net
 keuskupan-malang.org
-kinglioncn.com
+kidventure.com
 kingsheadpubbuxton.co.uk
 klacno.eu
 klinik29.com
@@ -285,6 +284,7 @@ mediosangro.it
 medwatch.com
 meitallehavi.com
 melanie-utzmannnorth.eu
+mfr.bz
 mgccollegesiddapur.org
 microsci.com
 mikkoherranen.com
@@ -353,7 +353,6 @@ priberam.com
 prisc.pt
 proplayquest.de
 provieh.de
-psychonaut.fr
 pylesos-dn-7.ru
 queensfieldschools.com
 quirkyinspired.com
@@ -400,8 +399,8 @@ socolive2.cam
 sonymusicdigital.com
 sorvilier.ch
 southleinsterway.com
-spds.world
 stepsgroup.com.au
+stim.toys
 stopglyphosate.org
 stpauls.it
 stromag.com
@@ -437,6 +436,7 @@ tribalzone.org
 trinitymat.org
 ttkprestige.com
 turtlewax.com
+tvpbxj.cn
 umczorgverzekering.nl
 unescocat.org
 unioncountyohio.gov
@@ -466,7 +466,6 @@ wege-zur-pflege.de
 wellingschool-tkat.org
 wholesmm.com
 wielkiejol.com
-wikihow.news
 winevillagesldpp.org
 wingstopfrance.com
 workie.in
@@ -476,11 +475,11 @@ wpbeaverbuilder.com
 wrnsstudio.com
 wtiahk.org
 www-y2mate.com
+wxvvx.com
 xiamentungsten.com
 xn--b1aasedeuba5ai.xn--p1ai
 xtremefitness.pl
 yearsandyearsofficial.com
-yourticket.dk
 youthranch.org
 zeichentrickserien.de
 zh-play-fengniaogaming.com

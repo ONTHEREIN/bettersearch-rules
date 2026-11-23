@@ -2,7 +2,6 @@
 1000grad-epaper.de
 1win-qeydiyyat24.com
 711casino-login.com
-aacttrailblazers.com
 abcparchitecture.com
 abnamrowtt.nl
 ackee.cz
@@ -22,7 +21,7 @@ anesco.co.uk
 ansporran.at
 anuragthakur.in
 anzca.edu.au
-arirang.com
+arirang.com = arirang|arirang news|arirang tv|arirang.com|阿里郎国际广播|阿里郎国际放送|阿里郎國際放送|阿里郎新闻|阿里郎电视台|阿里郎電視台
 ars-altdorf.de
 artcraft.org.hk
 artrewards.net
@@ -37,7 +36,6 @@ autoscanu.ro
 avbstiftung.de
 azurmendi.restaurant
 b-tight.de
-backlinktest.com
 badteenspunished.com
 baofa.wang
 barlouieamerica.com
@@ -82,6 +80,7 @@ china-teri.com
 chinabreed.com
 cineinstitute.com
 citysuntimes.com
+cleanlakesalliance.org
 clickpost.ai
 codersblock.com
 coffeenoirgame.com
@@ -125,6 +124,7 @@ editoto.live
 egacademy.org.uk
 elitecoretechnologies.co.uk
 elpro-delicia.cz
+emulelinki.com
 enerbank.com
 enkorr.com.ua
 epamig.br
@@ -168,6 +168,7 @@ goeujb.kr
 greenhousemusic.de
 greggbordowitz.com
 gzsfxz.com
+halifaxherald.com
 handyman.nl
 hauteliving.com
 hcapgirls.ch
@@ -209,7 +210,6 @@ joylink.io
 jsaaopinionpersonal.wordpress.com
 justpaint.org
 jz53z9k.top
-kaiyunas.com
 kalafepalanga.com
 keadventure.com
 kelt.pl
@@ -232,6 +232,7 @@ kyivvlada.com.ua
 labelgate.com
 landkreis-helmstedt.de
 langcat.nl
+latour-capital.fr
 leavearth.net
 leedscityacademy.org.uk
 lethallesbian.com
@@ -242,6 +243,7 @@ livedraw-totojp.com
 lmhnews.com
 lobste.rs
 louisvillebiblecollege.net
+lqzsq.com
 lunarslotsmarket.com
 lunya.co
 lxsy.de
@@ -259,6 +261,7 @@ mattmuratore.com
 mattsinthemarket.com
 mcgeeandme.com
 mciu.org
+mediadevelopmentcollective.com
 megahard.us
 megamaldivesair.com
 melaniemurphyrd.com
@@ -304,6 +307,7 @@ nordpoolgroup.com = nops|nord pool as|nord pool spot as
 normrapmund.com
 novaroyal846.com
 nsrtimes.com
+o7l0d.cn
 ohjaamot.fi
 opcina-sali.hr
 opentrials.net
@@ -433,7 +437,6 @@ umoncton.ca
 unitechretienne.org
 usa61suchs.xyz
 usa7points.xyz
-valleywarnermedical.com
 vcg.be
 vedior.com
 venture.jp
@@ -448,9 +451,11 @@ vivelive.ai
 vks-gmbh.at
 voltaro.de
 votedrbarlow.com
+vss.gov.vn
 w757y0.cn
 wanchaiferry.com = wanchai ferry|湾仔码头|灣仔碼頭
 webrankchecker.site
+well-camp.com
 whxpj.xyz
 wodynie.eu
 woodwardtheater.com
@@ -463,12 +468,10 @@ wxbasic.net = wxbasic
 xixgames.com
 xn--2i0bm4p0sf2wh.store
 xs4all.be
-xwvdeg.com
 yndlgc.cn
 yocto.agency
 yousaypartywesaydie.ca
 ysg.ge
 yuhxq.com
 zajecarskopivo.com
-zhbzhaoming.com
 zz-tmt.com

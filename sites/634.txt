@@ -8,7 +8,6 @@ adcglobal.org
 adidas-tt.ru
 aeroseum.se
 affinity.co
-agora-antikes.gr
 ahlihe.com
 allergist.ru
 almed.es
@@ -45,6 +44,7 @@ betzoneprime.us
 bibliofond.ru
 bibliotecajosemariaobando.blogspot
 bintia.org
+bjhtysh.com
 blackjackdrive.co.uk
 blackstone.com = blackstone|blackstone group|blackstone inc.|the blackstone group|the blackstone group l.p.|百仕通|百仕通集團|黑石集团|黑石集團
 blivakker.no
@@ -140,6 +140,7 @@ enosharts.com
 epa.gov.gh
 espinozapaz.com.mx
 ethnikos-mgs.gr
+etrion.de
 eugrz.info
 europlast.at
 evrs.org
@@ -212,7 +213,6 @@ inform.ac
 insidechennai.com
 inspiringfifty.org
 isleofmangsc.com
-jacksonhousecares.com
 jamiemagazine.nl
 jan-pro.com
 jarnvagsframjandet.se
@@ -307,24 +307,22 @@ njnsjz.com
 nmmccune.org
 nsm.co.kr
 nta-isny.de
-nti.com.au
 number-none.com
 nydesignawards.com
 oakcorner.uk
 odisee.be
 odontoexcellence.com.br
-official-sportslottery.com.cn
 olbramovice.cz
 olopschool.co.uk
 oostburg.nl
 open-communities.org
 or.com.tw
 oratoriosanfilipponeri.com
+orbitzenplaypulsar.com
 org.uy
 osthessennetz.de
 ostrapalhoes.net
 owlerbrookschool.org
-oxpam.com
 palygorskite.cn
 panagiotiskravvas.com
 parafiadzierzoniow.pl
@@ -333,7 +331,6 @@ partago.be
 paturkey.com
 paulingfile.com
 pchs-fsm.org
-pcnet.com.tr
 peopleschoiceindia.com
 perfessorbill.com
 petcofoundation.org
@@ -392,7 +389,7 @@ socialscan.io
 societelitteraire.ca
 sohotheatre.com
 solid-state-lasers.com
-spi-inc.org
+spi-inc.org = software in the public interest|spi|spi-inc.org
 sportkemp-kralovice.cz
 starteamforthechildren.org
 stevencrossley.net
@@ -413,7 +410,6 @@ term.ooo
 theastrarocks.ru
 thehorseandcart.com
 thehousingbubbleblog.com
-theintern.io
 thelotent.com
 themuni.co.uk
 theplusaddons.com
@@ -451,6 +447,7 @@ vola-racing.com
 voytekrecords.com
 vtinfo.com
 vyzivadeti.cz
+w2891u.cn
 wamosair.com
 warddhoore.com
 wavelink.com
@@ -473,7 +470,6 @@ wtk.pl
 wzapradio.com
 xjbyxy.cn
 xo.gr
-yanxuanhaoke.com
 yhbtv.com
 yofr.org
 yunnansourcing.com

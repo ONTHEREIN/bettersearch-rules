@@ -7,7 +7,6 @@ aarbergen.de
 ab-bol.nl
 aberme.bj
 acccd.cn
-acga-asia.org
 aco.co.jp
 adman.gr
 ageconcernsabe.org.uk
@@ -46,7 +45,6 @@ belleairbluffs.org
 bellesarts-f-gracienc.blogspot.com
 benmccann.com
 betathome-si.net
-betfred-hu.com
 betorabet.co.uk
 bexbach.de
 beyonduv.cn
@@ -54,7 +52,6 @@ bhvnederland.nl
 bigbadtrish.com
 bikeparkwales.com
 billbrownmusic.com
-bioprepper.com
 bjyzyz.net
 blairfell.com
 blog44beautiful.shop
@@ -90,7 +87,7 @@ cdnaval.es
 ceramicus.com
 ceva-dsp.com
 chapelledelarencontre.eu
-chevron.com = chevron|chevron corporation|chevron méxico|chevrontexaco|cvx|standard oil company of california|standard oil of california|雪佛龍|雪佛龍公司|雪佛龍石油公司|雪佛龍股份有限公司|雪佛龙|雪佛龙公司|雪佛龙石油公司|雪佛龙股份有限公司
+chevron.com = chevron|chevron corporation|chevron méxico|chevrontexaco|cvx|socal|standard oil company of california|standard oil of california|雪佛龍|雪佛龍公司|雪佛龍石油公司|雪佛龍股份有限公司|雪佛龙|雪佛龙公司|雪佛龙石油公司|雪佛龙股份有限公司
 childrenwithhairloss.org
 chinafangyi.com
 ciff.ae
@@ -99,7 +96,6 @@ civil-service-careers.gov.uk
 clhwsc.com
 clubloto37.org
 cmj.org.pl
-cn-odsportsentry.com.cn
 coltelleriacollini.it
 commune-pontsurseine.com
 conrad.pl
@@ -124,6 +120,7 @@ davidgrimbleby.co.uk
 dbq.edu
 dellal.com
 der-hafen-hilft.de
+dioknox.org
 diypete.com
 doing-housework.com
 dominicasvistabella.com
@@ -148,7 +145,6 @@ ernestobelisario.eu
 eule.jp
 evamariagisler.ch
 everydaysouthwest.com
-evolkov.net
 fact-net.co.jp
 farfamahar.github.io
 fctrafowerk.de
@@ -181,6 +177,8 @@ furtutech.com
 futagami.co.jp
 gambles-zen.de
 gamemonetize.co
+gamingcontrol-curacao.com
+gas88win.com
 gdfcasino-de.com
 gebuhrenfrei.com
 gehealthcare.com = ge healthcare|ge medical systems|ge医疗|ge醫療
@@ -211,7 +209,6 @@ historischeverenigingvoorst.nl
 hitclub1.ac
 hokusei.ac.jp
 hopital-fourviere.fr
-hossli.com
 houseofknives.ca
 hozain.eu
 huetortajar.org
@@ -268,6 +265,7 @@ kyoryori-nakamura.com
 laimz.lv
 lanaken.be
 landerscenter.com
+lavrus.org
 layobright.com
 ldvc.de
 le.ee
@@ -299,6 +297,7 @@ marstranslation.com
 martacarnicero.com
 matapadre.es
 matthewskelton.com
+mbc9b2.cn
 mbg123lite.com
 medicamentosplm.com
 meetflo.com
@@ -330,7 +329,6 @@ museiditaverna.it
 muzejlah.com
 mweway.co.kr
 myaestheticrecord.com
-myfivebest.com
 naeaesma.com
 nationalsecurityjournal.org
 natverkstan.net
@@ -339,6 +337,7 @@ neu-eichenberg.de
 newleafclinic.org
 nindori.com
 nkcelik.ba
+noctovex.com
 normative-concepts-in-the-digital-age.org
 nursingclio.org
 octex.si
@@ -371,6 +370,7 @@ pomed.org
 porreres.cat
 poulaillon.fr
 praximo.be
+prestigeworldwideapp.com
 printwithcode.org
 pti.org.pl
 pucv.cl
@@ -378,7 +378,6 @@ purbach.at
 pwpw.pl
 qazradio.fm
 qinera.com
-qs88.marketing
 quantockmotorservices.co.uk
 querymonitor.com
 radiomaria.pt
@@ -409,7 +408,6 @@ saint-amancet.fr
 saintaugustin78.com
 sakaryaescortgo.com
 sandysmith.co.uk
-sanivita.de
 schematichq.com
 schretlen.com
 scihi.org
@@ -454,6 +452,7 @@ surtab.com
 sv-eurasburg.de
 swisscard.ch
 tami-industries.com
+taobaonft.com
 tasteofmaroc.com
 tdw.com
 teaitarakihi.nz
@@ -468,6 +467,7 @@ thermomix.com
 thewallflowers.com
 thinkhemel.com
 thomasfilm.no
+thriveperk.shop
 tiama.ci
 tiefgraben.at
 timesmusic.com
@@ -523,3 +523,4 @@ zgdygf.com
 zjcnjz.com
 zsibvasar.hu
 zw3gi8.cn
+zzyeshi.com

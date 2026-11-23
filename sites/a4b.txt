@@ -56,7 +56,6 @@ bigredjelly.com
 billytband.com
 bjypc.edu.cn
 blade-city.com
-bmm.co.uk
 booktradeentrysupport.org
 bpvkj.com
 brendahiatt.com
@@ -103,7 +102,6 @@ cswr.org
 cw-x.com
 dallascreates.org
 darkerec.com
-dasmrb.com
 davidlankes.org
 de-krullevaar.nl
 debakir.com
@@ -127,6 +125,7 @@ edirnekirkpinar.com
 edisonhotelnyc.com
 edmundaskucinskas.lt
 efea.co.uk
+elcartel.pl
 emmagoldberg.work
 erinkrespan.com
 etcvsl.wordpress.com
@@ -177,7 +176,6 @@ hospitalitytech.com
 hundun.cn
 huttonenergy.com
 iconafestival.eu
-idahostrategic.com
 ieeeicassp.org
 iflyea.com
 ifsudestemg.edu.br
@@ -199,6 +197,7 @@ j-media.co.jp
 jeanclaverie.fr
 jeeveserp.com
 jeromebooth.co.uk
+jiuswd.com
 journalpress.com
 jpsb.us
 jugendkulturservice.de
@@ -219,6 +218,7 @@ kollerupkirke.dk
 komidrama.ru
 konmari.com
 kpinfm.com
+kqbd.pro
 ksiazniczki.tv
 labrisz.hu
 lacafeotheque.com
@@ -347,7 +347,6 @@ saint-moreil.fr
 salewa.com
 salutingbattery.com
 sametnaskolach.cz
-sanfordhealthplan.com
 sapien.network
 savvy-love.com
 scifivalleycon.com
@@ -384,6 +383,7 @@ spueyopons.wordpress.com
 ssprods.com
 st-do.fr
 st-sign.com
+staartunisia.org
 std.com
 stellarslotlounge.com
 tamaki.ac.jp
@@ -405,7 +405,6 @@ thepunterspage.com
 thetexaslawdog.com
 tiffany.com = new york tiffany & company|new york tiffany and company|tiffany & co|tiffany & co.|tiffany & company|tiffany and co.|tiffany and company|tiffany's|第凡內|蒂凡尼|蒂梵尼|蒂芙尼|蒂芙尼公司
 to-na-ri.jp
-todocine.com
 tokyo-kousoku.jp
 tomwaterreus.nl
 tourisme-pyrenees-mediterranee.com
@@ -415,7 +414,6 @@ tramontanacorp.com
 tremulous.net = tremulous
 tresboeuf.fr
 tronvoll.net
-trufflesd.com
 truthifi.com
 tsurumi-u.ac.jp
 turncage.com
@@ -470,7 +468,6 @@ xn--c1admhcrdwn2f.xn--p1ai
 yakuperez.com
 yarinde.nl
 yarmouthbaptist.com
-yokojeans.com.co
 zikanalytics.com
 zombieplaygroundgame.com
 zur-sonne.ch

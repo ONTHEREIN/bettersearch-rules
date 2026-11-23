@@ -29,10 +29,10 @@ alphaspinonline.com
 analecta.pl
 ancep.no
 andreapitzer.com
+anneke-gesamtschule.de
 annekornblut.com
 antonioinfo.nl
 arda.ru
-ardancefestival.co.uk
 arenachampshall.us
 artmuseum62.ru
 arubai.jp
@@ -134,11 +134,11 @@ europeancorrespondent.com = tec|the european correspondent
 europeansources.info
 evfrosinia.ru
 evoltcharging.co.uk
-expresskaart.com
 fangda.com
 farmaciaprando.it
 faulknermorgan.org
 fdpbt.de
+fensifl.com
 focm-society.org
 fortresstech.io
 fraternityspiritistsociety.org.uk
@@ -148,6 +148,7 @@ friendsofgwyneddmuseum.co.uk
 frumzi.vip
 fukanavi.com
 galup.it
+gardenofminds.art
 garforthandswillingtonindependents.org
 gatesofolympusslot-no.com
 gaz-mobilite.fr
@@ -156,7 +157,6 @@ gcenter-hyogo.jp
 geology-mgri.ru
 geopolitica.ru
 giffard.com
-giresunbayanlariyiz.xyz
 glints.com
 goldenstoryzwolle.nl
 goldingtongreenacademy.co.uk
@@ -174,6 +174,7 @@ gxfc808.com
 habitatnewburgh.org
 helenaguardia.com
 helge-kirchberger.at
+hipoges.com
 hncoskin.com
 hnmjyy.com
 hofkirchen-trattnach.at
@@ -197,8 +198,8 @@ injo.com
 inspearit.fr
 insy.io
 iris-cc.cat
+isa-power.nl
 jackreubsaet.com
-jamescoffeeco.com
 jawsjawsjaws.co.uk
 jb-band.com
 jf.se
@@ -210,6 +211,7 @@ kaportersociety.org
 kebs.org
 kedu.ru
 kellersautomotive.com
+keonhacai.run
 keralabiodiversity.org
 kingshottschool.com
 kinkymusic.com
@@ -248,6 +250,7 @@ med.or.jp
 mediacomcable.com
 megabus.com
 meine-rvb.de
+menstherapyhub.com
 mercedes-benz-passion.com
 metrotoday.it = metro
 michaelconwaybaker.com
@@ -258,7 +261,7 @@ mobilessecur.net
 moenchsjoch.ch
 mojs.sk
 monarchmodels.co.uk
-mondomedia.com = happy tree friends|htf|mondo media|布拉德·勞|开心树朋友|欢乐树的朋友们|開心樹朋友
+mondomedia.com = mondo media
 moon7others.shop
 moviesofdelray.com
 mrbit.ro
@@ -317,6 +320,7 @@ politica.gr
 polskapartianarodowa.org
 popolarisammarinesi.sm
 porterhousebrewco.com
+pouletdebresse.fr
 powstaniewielkopolskie.pl
 presence.com
 presscloud.ai
@@ -328,7 +332,7 @@ progressiveboink.com
 ptu.dk
 punch-n-judy.com
 punjabkesari.in
-qdingye.com
+punpro68.com
 qualis.nl
 quantum-prisoner.com
 quickscale.au
@@ -370,7 +374,6 @@ sigulda.lv
 skullsoftheshogun.com = skulls of the shogun
 slottioofficial-uk.com
 sogesid.it
-soicaulodephomnay.com
 solidus.com
 speinshart.de
 sph.academy
@@ -426,7 +429,6 @@ twitpic.com = twitpic
 udechile.cl
 ufda.no
 uloz.to = uloz.to|ulož.to disk
-uluventures.com
 unitedway-wyco.org
 unonews.ru
 upc.fi
@@ -443,6 +445,7 @@ vhs-bregenz.at
 vibeintegrativehealth.com
 videogpt.io
 vilecreature.net
+vintagetoymall.com
 visme.co
 voiceflow.com
 vox-casinos.pl

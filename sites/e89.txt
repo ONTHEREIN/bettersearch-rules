@@ -58,7 +58,6 @@ billcramer.com
 biwoma.com
 bleucom.net
 blue-box.fr
-bmyfinder.biz
 bnkteam.com
 bnpparibas.co.uk
 boldslotsspace.com
@@ -114,6 +113,7 @@ danskesvineproducenter.dk
 davidemariapalusa.com
 dayzerotv.com
 deliveredsocial.com
+demonoid.is
 designegg.co.jp
 digitalberry.fr
 directtrend.us
@@ -144,12 +144,10 @@ esiemensah.com
 esport1.hu
 euphoricbrothers.com
 euppa.eu
-eutvservices.com
 excelcampus.com
 exosaero.com
 explorethebruce.com
 faculdadeobjetivo.com.br
-fafa999ball.com
 fcdemoni.cz
 fdk.info
 feb86xskrw.vip
@@ -164,7 +162,6 @@ firstalert7.com
 fischer-z.com
 floridacondohoalawblog.com
 flowershospital.com
-flyer.fm
 folketsparti.no
 fondationsk.ch
 formations-agrinature.com
@@ -231,6 +228,7 @@ kameralnelato.pl
 karaokegn.com
 kartosthera.com
 kataoka-tsurutaro.com
+katayev.io
 katharina-ley.de
 katstephie.com
 kazeroon.ir
@@ -244,7 +242,6 @@ kirolbetcasino.org
 kletjianfoundation.org
 klm.es
 koenig-ludwig-haus.de
-konyaotoelektrik.com
 korosszegapati.hu
 krishnacareers.com
 krishnadelapaz.com
@@ -363,7 +360,6 @@ pvpkottayam.in
 q-park.ie = q-park
 qqqdyx.com
 quandela.com
-qurancampus.com
 r10vs.lv
 raccord.com.br
 radomsko24.pl
@@ -404,7 +400,7 @@ sanyajob.com
 sayefirst.com.cn
 scarsdale.com
 scene75.com
-scienceblogs.com = scienceblogs
+scienceblogs.com = pharyngula|scienceblogs
 scripthivetraining.com
 secretlagoon.is
 seltenheimer.at
@@ -459,7 +455,6 @@ sweetbonanza1000-fi.com
 swisstennis.ch
 syokusenkan-taiyo.co.jp
 takasaki-foundation.or.jp
-takenjoy.net
 teamyazz.com
 technoblogy.com
 teknikveckan.se

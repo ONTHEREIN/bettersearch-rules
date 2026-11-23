@@ -1,6 +1,7 @@
 0342.org.ua
 2011tokyo.com
 25andtrying.com
+2sport.info
 3quarksdaily.com
 5thcell.com
 75bd1.com
@@ -18,7 +19,6 @@ agilealliance.org
 aglona.lv
 ahedu.cn
 ahfcroyals.com
-aidcdk.org
 akme.tv
 andybull.com.au
 angloltd.com
@@ -76,7 +76,6 @@ chariton.org
 chinacache.com
 chocolateweek.co.uk
 clawdhub.com
-clg-guyard.fr
 cloudlogs.au
 colinjames.com
 corexplus.co.uk
@@ -193,7 +192,6 @@ impacton.net
 inpock.co.kr
 insecula.com
 insightfield.ca
-intergarmentcorp.com
 inudi.edu.pe
 iq-key.com
 irve.lv
@@ -203,6 +201,7 @@ j-epilepsy.org
 jemsmed.org
 jingoji.or.jp
 jukkanykanen.com
+jyfss.com
 karibandigroup.com
 kastechssg.com
 katspell.co.uk
@@ -219,13 +218,13 @@ kuessnacht.ch
 kunice.cz
 kurhaus-badenbaden.de
 kurukurunaruto.com
+l431.com
 lagomarcc.com
 langford.ca
 lbbusinessjournal.com
 lebensmittelwarnung.de
 leecountylibrary.org
 leikemading.com
-leyijk.com
 lidia-art.net
 londoncashview.uk
 lotus365india.com.in
@@ -301,6 +300,7 @@ piotrmirowski.com
 pl-mostbet-casino.com
 pmp-entertainment.com
 pnfjournal.org
+porezoff.ru
 portauthoritynsw.com.au
 postandbeambrewery.com
 postlistd.com
@@ -353,7 +353,7 @@ singolda.com
 siov.sk
 siselytreasure.com
 sismologia.cl
-sk.com
+sk.com = sk group|sk集团|sk集團|鮮京集團|鲜京|鲜京集团
 skarbone14.com
 skbm.ru
 slowfood.fr
@@ -365,6 +365,7 @@ songteksten.nl
 sorryaboutyourdaughter.com
 soundboardw.com
 sousanhammad.com
+sriwijayatoto-japan.com
 stephaniecorneliussen.com
 stephjonesgalaxy.com
 steroidemeisterlegal.com

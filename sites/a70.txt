@@ -1,5 +1,4 @@
 10daysinamadhouse.com
-2021kungfu.com
 22bethazard.com
 23080b.cn
 3delite.hu
@@ -13,6 +12,7 @@ academictransfer.com
 adidesignmuseum.org
 adoraforest.ro
 adssx.com
+adsxoperation.com.br
 aicainternational.news
 aiulin.com
 aldenshop.com
@@ -39,6 +39,7 @@ arias.es
 arkadelphiaschools.org
 arkitekten.se
 armisticethemovie.com
+artplaces.org
 arunimakumar.com
 astrindonusantara.com
 atelierdesenfants.ch
@@ -83,10 +84,10 @@ cbe21.com
 cdm-bedrijfskleding.nl
 cementocollection.com
 cervenyklastor.sk
+cf-verify.to
 chatsphere.ru
 chickencoin.com.pl
 chinanecc.cn
-chukteacoffee.com
 cialisrnm.com
 cista.org
 clairemitchell.net
@@ -131,7 +132,6 @@ eduardopitta.com
 efectis.com
 efi.int
 eki-midori.com
-elle-vue.com
 elpalmero.es
 emura.co.jp
 enfantsdepakine-suisse.ch
@@ -193,7 +193,6 @@ howardredekopp.com
 hugovictor.com
 humanitiesforall.org
 humboldt.schule
-hunanbingyue.com
 hvezdynadkravihorou.cz
 hypeauditor.com
 hyperclubhouse.nl
@@ -355,7 +354,6 @@ saintmarybasilica.org
 sandy.ru
 sandylakeborough.com
 sannenzaka-museum.co.jp
-sansoftwares.com
 scheitern-magazin.de
 scirus.com = scirus
 sech.cl
@@ -423,6 +421,7 @@ troitsa-romanov.ru
 truepalacespace.com
 truttikon.ch
 ttaf.nz
+tupitup.ro
 ubjson.org
 ufactorygame.com
 undawn.game

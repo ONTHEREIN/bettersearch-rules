@@ -1,17 +1,18 @@
 15minutenews.com
 4stor.ru
+5gqcy.org.cn
 64-movie.jp
 7bit-es.com
 80dcw.com
 967blakefm.com
 9e-store.fr
-9yinmeng.com
 accord-framework.net
 acreo.se
 ada-basket.com
 adamelloskiraid.com
 addpipe.com
 adriansolano.com
+agatotel.ru
 aigny.fr
 akacije.org
 akronfossils.com
@@ -75,11 +76,9 @@ bynesetil.no
 c-and-e-museum.org
 carpfarmersmarket.ca
 casadahera.wordpress.com
-cashurl.in
 cassandrafreeman.com
 cbsradio.com = cbs radio|cbs radio, inc.|cbs电台|cbs電台|cbs電臺|infinity broadcasting|infinity broadcasting corporation
 ccvalleedelance.eu
-cdgi36.fr
 ceb.com
 celpip.ca
 chamberfestivalplovdiv.com
@@ -90,6 +89,7 @@ choosehelp.com
 chroniclesofarcadia.com
 chthonic.tw
 clearevent.com
+cliftonrestaurant.co.uk
 cnartedu.cn
 cndoht.com
 codnorparishcouncil.co.uk
@@ -161,7 +161,6 @@ facingtheworld.net
 fermionresearch.com
 finanzamt-rosenheim.de
 finlandmlbforum.com
-flagshop.com
 flowia.re
 flykingfisher.com
 fmradiovienouvelle.com
@@ -177,7 +176,6 @@ gg888s.com
 giswiki.org
 glentavern.com
 glor.ie
-goodguygolfcarts.com
 google.com.vc
 grafologie.eu
 gravitystorm.co.uk
@@ -209,7 +207,6 @@ hshd.com.hk
 hspd.co.kr
 hydratek.com
 hypersku.com
-idczhan.com
 ifthenthemusical.com
 iglow.fi
 iiqdij.com
@@ -273,7 +270,7 @@ lisec.com
 literariness.org
 literaturhaus.ch
 livdawson.com
-lkz.lt = academic dictionary of lithuanian|立陶宛學術辭典
+lkz.lt = academic dictionary of lithuanian|lietuviu kalbos zodynas|立陶宛學術辭典
 lnau.su
 local2627.org
 logix-software.it
@@ -319,7 +316,6 @@ nationalhospicefoundation.org
 naturemappingfoundation.org
 navaronemusic.com
 navierboat.com
-nazxyey.com
 nemetan.com
 neston.org.uk
 nevrokopi.gr
@@ -339,6 +335,7 @@ noirsilence.com
 novaspaceworks.nl
 nuvolab.it
 nzcasinohex.com
+nzlhwq.com
 obeckocov.cz
 oceanbayllc.com
 ogoto-spa.net
@@ -420,7 +417,6 @@ scheugenpflug.de
 schmincke.de
 scottmolina.com
 scotwebdigital.co.uk
-secretle.com
 seeamyrun.com
 seekpeptides.com
 sheki.org
@@ -530,6 +526,7 @@ willibrordusschool.nl
 win-sport-school.com
 witchdungeon.com
 wochederabfallvermeidung.de
+x-art.nl
 xara.com = xara photo & graphic designer|xara: photo & graphic designer
 xet.tech
 xiajiang.gov.cn
@@ -542,6 +539,5 @@ yorkshireparty.org.uk
 yuxi.gov.cn
 zaask.pt
 zephyrcove.com
-zh-lejinghd.com.cn
 zltnb0531.cn
 zohowebstatic.com

@@ -75,7 +75,6 @@ centroleone.it
 chaniafc.gr
 charlesdoran.net
 chefchriscoombs.com
-chefkylelawson.co.uk
 chemm.cn
 choqfm.ca
 christinesalem.com
@@ -160,6 +159,7 @@ globaluni.ru
 goldbekhaus.de
 goldpath.ca
 goodsamclub.com
+gowerambassadors.co.uk
 greenhouseloftweddings.com
 grimsbytelegraph.co.uk
 griner42.com
@@ -200,12 +200,14 @@ isde.nl
 izabelatrojanowska.pl
 j-bigdataresearch.com.cn
 jaar.site
+jabarbola.net
 jacar.go.jp
 jamd.com
 jarrismargalli.com
 jessicalondon.com
 jewishfestival.pl
 jf-martires.pt
+jgk4k9.icu
 jiwet.or.jp
 jlnu.net
 johnxenos.com
@@ -214,6 +216,7 @@ kaeditions.com
 katepullinger.com
 kennedy2020.fr
 ketilslagstad.com
+kewenig.com
 kingsbountygame.com = battlelord|king's bounty: armored princess|king's bounty: the legend|king's bounty: warriors of the north|国王的恩赐：传奇|国王的恩赐：北方勇士|国王的恩赐：戎装公主|戎装公主|英雄大帝：女王之刃
 kurbrunnen.de
 kyocera-industrialtools.co.jp
@@ -228,7 +231,6 @@ leweb2zero.tv
 lexis.com.ec
 lgtechventures.com
 liangyimuseum.com
-lianphone.com
 liebes-magazin.de
 lineculture.eu
 linkorahouse.co.uk
@@ -319,6 +321,7 @@ planetplanet.org = planet
 plevin.bzh
 plus-forum.com
 pointrobertspress.com
+pokio.io
 pradharshini.com
 prior.no
 propellersofficial.com
@@ -329,7 +332,6 @@ quantcast.com
 quicktrackspot.nl
 rabfilmfestival.com
 racingqueensland.com.au
-radomdlaukrainy.pl
 rakke.no
 randyrainbow.com
 react.dev = react|react.js|reactjs
@@ -363,7 +365,6 @@ sidyak.in
 silvergames.com
 six-repo.com
 skshipping.com
-slavasil.ru
 slax.org = fanx|slackware-live-cd|slax
 slotnewsroom.us
 smart-biggar.ca
@@ -436,7 +437,6 @@ vexor.io
 viainn.com
 vichy-universite.com
 victoriaskafest.ca
-vidbar.co
 villagedenovel.fr
 virginiajcourt.com
 virtono.com

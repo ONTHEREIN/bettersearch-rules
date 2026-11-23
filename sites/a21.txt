@@ -165,6 +165,7 @@ fhzyyy.com
 flagfen.org.uk
 foreignbulletin.co.uk
 francescopaola.com
+freeaikeyapi.com
 friends.ca
 fundacionazara.org.ar
 furrondy.net
@@ -172,6 +173,7 @@ fxprimer.ru
 g3ferrari.net
 gccroboticschallenge.com
 gexel.es
+ggwinn.online
 ghghgh.jp
 gianlucanigro.it
 gibsbschool.com
@@ -183,7 +185,6 @@ godawex.eu
 goldspin.games
 gollerbach.de
 gonzalezinfo.com
-goodbrush2.com
 goodfound.in
 goodwillfinds.com
 gossipybio.com
@@ -202,7 +203,6 @@ haywardwilliams.com
 hdradio.vn
 healthchecks.io
 healthpartners.com
-heatedaffairs.com
 henryakissinger.com
 heroescare.org
 hidalgocounty.us
@@ -272,7 +272,6 @@ latschari1911.de
 lauenburg.de
 lavapeur.com
 lazyrays.co.uk
-lbs2best.at
 lbxco.com
 lecontelodge.com
 leipziger-hof.de
@@ -335,7 +334,6 @@ nexbook.co.kr
 nicolelaplaca.com
 ninetail.tk
 nirvanaplus.ru
-njcwjy.com
 nk-troglav.ba
 nkleadershipwatch.org
 nocn.org.uk
@@ -382,6 +380,7 @@ plattformproduktion.se
 playgroundequipment.com
 plinko-predictor.ca
 polarsolutions.ca
+popsads.link
 popsugar.com = popsugar|popsugar inc|popsugar inc.|popsugar.com|流行糖果|糖粉
 popularask.net
 ppwh.org.uk
@@ -402,6 +401,8 @@ rileyaugust.com
 rmb.at
 rmol.co
 rostorv.dk
+royaloakscc.com
+rqftmly.cn
 ruovedenseurakunta.fi
 ryanrealdealford.com
 rybactwo.gov.pl
@@ -436,6 +437,7 @@ spaningseksperten.com
 spawnrealm.co.uk
 spinmasterzone.us
 spinstarcasino.eu
+spotlesshc.com
 sptc-spb.ru
 sql-server-performance.com
 st-thuribe.net
@@ -492,7 +494,6 @@ videas.fr
 villaorangere.com
 visitalexbay.org
 vivli.org
-vncl88.com
 voixdefemmes.org
 weeropkantoor.nl
 wendyowilliams.com
@@ -503,11 +504,11 @@ wildcraft.com
 wisoweb.nl
 wittgensteinproject.org
 wnibet.net
-wodjc.com
 wolffkran.com
 woodenstreet.com
 woolite.com
 woosterhospital.org
+wr5kt1.cn
 wyzeradio.com
 xhamsterlive.com
 xiaonan.gov.cn
@@ -523,3 +524,4 @@ zephalto.com
 zerostock.nl
 zoeticdance.org
 zsiosemily.cz
+zzshpvc.com

@@ -143,6 +143,8 @@ fmnf.pt
 fondvera.ru
 formidable.com
 forumarctic.com
+fotocolizzi.com
+freebookstoread.com
 fsc.de
 gamblespin.us
 gamerlm.com
@@ -172,7 +174,6 @@ hospitalsierrallana.com
 htlwien10.at
 hu-film.de
 hypermail.org
-iangroup.vc
 icart.fr
 iesce.info
 ifmg.edu.br
@@ -209,6 +210,7 @@ kalogirou.com
 katapult-magazin.de
 kempinski.com = kempinski|kempinski hotels & resorts|凯宾斯基酒店|凱賓斯基酒店
 kenilworthns.org.uk
+keptn.sh
 keydifferences.com
 killertone.com
 kirchseelte.de
@@ -236,7 +238,6 @@ lmchilton.com
 ln-s.ru
 lnshcc.com
 lockhatters.co.uk
-lohas23.com
 lonestarbeer.com
 lowiczanin.info
 luckylaunch.nl
@@ -258,7 +259,6 @@ medizinfo.de
 meet-an-inmate.com
 megaslotmarket.com
 meijburg.nl
-merhabame.com
 miljonlotteriet.se
 milmake.com
 mjleach.com
@@ -271,6 +271,7 @@ monteton.fr
 motorsactu.com
 mr-eyes.com
 mrqz.me
+msfp.org.au
 msnbc.com = ms now|ms-now|msnbc|msnow|my source, news, opinion and the world
 murciaeconomia.com
 muscache.com
@@ -278,7 +279,6 @@ museedutram.ch
 myforecast.com
 namdojb.co.kr
 nanoporetech.com
-nansnuo.com
 nanu-nana.de
 nathanielrich.com
 naturepositive.org
@@ -324,7 +324,6 @@ pn-solok.info
 poolville.net
 porttechnology.org
 powerbet-casino.it
-powerbet-login.com.ro
 pozoristecarapa.rs
 praisefmsvg.com
 premiodamusica.com.br
@@ -399,7 +398,6 @@ stride6ft8.com
 studienstiftung.de
 studyindenmark.dk
 sussexwildlifetrust.org.uk
-svahausa.com
 svsc.info
 swimsmooth.com
 t3blog.com

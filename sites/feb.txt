@@ -19,7 +19,6 @@ all-hotels.com
 all4cycling.com
 amelieduchalard.com
 apafdn.org
-aquavitaeproject.eu
 areskidfabrik.se
 arevonenergy.com
 arpais.com
@@ -34,7 +33,6 @@ basisschool-de-arabesk.nl
 baskentuniversity.com
 belektron.eu
 belletristik-berlin.de
-bento123resmi.life
 bestcorenodehub.nl
 bettercaresupport.co.uk
 betway-bonus.cz
@@ -160,7 +158,6 @@ gillotts.org.uk
 goldenstore.uk
 goose.game = untitled goose game|大鹅模拟游戏|捣蛋鹅|无题大鹅模拟|无题鹅|無名鵝愛搗蛋|無題鵝|鹅作剧
 greatwarremembrancerace.be
-greteljeans.com.mx
 groupe-ugecam.fr
 groupedecant.com
 grupoeigra.com
@@ -187,7 +184,6 @@ honestartsmovement.be
 hrad-bitov.cz
 hufschlag-foto.de
 ibfd.org
-iconproducts.com
 idols.nl
 ieej.lv
 iflychs.com
@@ -325,6 +321,7 @@ pic-ard-experts.org
 pkmgallery.com
 playswordsandmagic.com
 plguerin.fr
+pmptoday.com
 podushka.com.ua
 poleposition.ca
 polytechnischesjournal.de
@@ -371,11 +368,13 @@ salempress.com
 samsonite.de
 santemagazine.fr
 sazkacz.net
+sc-lerchenberg.de
 schondra.de
 scoutboats.com
 searchpoint.net
 seasideuccmdi.org
 seccon.jp
+secondhorizon.in
 seekr.com
 sensics.com
 sevresciteceramique.fr
@@ -421,7 +420,6 @@ tareqnaghwi.com
 tatamutualfund.com
 techwithtime.com
 tecplas.com.br
-tegelcenter.nl
 telelabrise.com
 tenchimneys.org
 terrykay.com
@@ -499,7 +497,6 @@ winnweiler-vg.de
 winshark1.win
 wisbechgrammar.com
 wlmqgjj.com
-wsf-e-loreal.com
 wvsom.edu
 wyofile.com
 xn--fundbrodeutschland-q6b.de
@@ -515,4 +512,3 @@ zeitklicks.de
 zephyreditions.net
 zo52b.cn
 zssblansko.cz
-zxaar.co.uk

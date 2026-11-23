@@ -104,6 +104,7 @@ dex.guru
 doctor-agent.com
 dreamveloper-studio.com
 drehertownship-pa.org
+drshahsavari.com
 dsbbank.sr = de surinaamsche bank|苏里南银行
 duelbitsofficialno.com
 duomogiarre.it
@@ -204,7 +205,6 @@ jindong.gov.cn
 jizhiwujie.com
 jmcc.org
 jordanshoes.us
-journalistbio.com
 jouwaanbieding.nl
 jowissa.com
 jpon.de
@@ -216,7 +216,6 @@ kallavelle.com
 karmnikbistro.pl
 kassay.eu
 kenanfellows.org
-keonhacai.page
 keqx897.com
 kiltedcamel.com
 kirchspiel-gensungen.de
@@ -224,11 +223,11 @@ kizlyar-cognac.ru = kizlyar brandy factory|kizlyarsky konyachny zavod|基兹利�
 kjanardanan.in
 klastorstensson.com
 koalastothemax.com
+krakowcasinopalace.com
 ksyn925.com
 kuijpers.nl
 kurodama.co.jp
 kyoiku-press.co.jp
-lapommeduquebec.ca
 larouatiere.com
 latinbabes.org
 laurentlamothe.com
@@ -379,6 +378,7 @@ shaizakai.com
 shayneward.com
 sherlok.it
 shirobonmusic.com
+shjjpd.com
 shonankaido.co.jp
 shoppinglaplage.com.br
 shszx.gov.cn
@@ -449,6 +449,7 @@ urbanarenasource.uk
 uzoleman.com
 vaktherapie.nl
 val-d-ay.fr
+vanheusen.com.au
 vietnow.com
 vigliero.com
 villageoffontana.com

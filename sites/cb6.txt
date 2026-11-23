@@ -65,6 +65,7 @@ chrome.com = google native client|nacl|ppapi
 cityofgroesbeck.com
 cksdental.org
 cku.org.cn
+cloud.google
 cmvaldibisenzio.it
 codefor.fr
 colquiga.org
@@ -129,6 +130,7 @@ fd.nl
 feeneyinc.com
 festivalsofindia.in
 finance.gd
+fincadelicaibiza.com
 fitzpatrickreferrals.co.uk
 fluidlytix.com
 fluxenna.com
@@ -173,6 +175,7 @@ hospicepatients.org
 hostinkos.com
 hpone.com
 hsc-crane.com
+hspeech.com
 hulu-japan.jp
 humind.care
 ibtower.com
@@ -331,7 +334,6 @@ rajchman.org
 rawganique.com
 rdunijbpin.org
 remstalgymnasium.de
-rendecalcio.it
 restoretherhs.co.uk
 rethinkingschools.org
 reve.art
@@ -415,6 +417,7 @@ toker.fm
 tombow-shuppan.co.jp
 tonytremblayauthor.com
 topsitenet.com
+tourdiscovers.com
 trebostovo.sk
 true-fortune-casino2.com
 tufanminnullin.com
@@ -452,7 +455,6 @@ windowsdream.com
 wing-jpn.com
 wissens-werk.de
 wjtl.com
-wla.edu.au
 worldtravelorganization.com
 wow-communications.com.vn
 wpaccessibility.day

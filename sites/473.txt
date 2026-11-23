@@ -21,6 +21,7 @@ ampinc.com
 amta.no = akershus amtstidende
 analovelis.com
 andreanini.github.io
+angkasetan.net
 anjamanuel.com
 annablago.ru
 annachristmann.de
@@ -51,6 +52,7 @@ bentheexorcist.com
 beogradskisindikat.com
 berliner-mieterverein.de
 bestecasinosechtgeld.com
+betflik861.com
 beuvrequen.fr
 bhssa.ca
 bigs-bassbonanza.uk
@@ -70,6 +72,7 @@ calegaro.it
 candyclub.com
 capdenacgare.fr
 capitalcityplumbing.services
+carboncybernetics.com
 careon22.com
 cas.ac.cn
 casinominimalestorting.com
@@ -173,7 +176,6 @@ getkwill.com
 giordanoberti.it
 giovannifava.it
 glasgowmo.com
-gmdd365.com
 gourmetsditalie.com
 greengatesprimary.org.uk
 gsvmmedicalcollege.com
@@ -181,6 +183,8 @@ hackertyper.net
 hamishblack.com
 hanayamatoys.co.jp
 hannekemolsvangool.nl
+hasyeylink.me
+hbwzrl.com
 hcas.in
 heinzforarizona.com
 hey-restaurants.com
@@ -191,7 +195,6 @@ himin.com
 hitkicker997.com
 hollywoodracks.com
 hugo-net.com = hugo
-huoche.com
 hzjltx.com
 iaa.es
 icec08.org
@@ -203,6 +206,7 @@ inoxia-rec.com
 intuit.kg
 ipsn.org
 irenaarmutidisova.com
+ise-yamadakan.com
 ishansenglishcare.com
 islam.ua
 ismos.gr
@@ -255,6 +259,7 @@ mggg.org
 michtam.com
 mingarycastle.co.uk
 mocad.org
+monicaslist.com
 montopoli.org
 moon7sures.shop
 mountainlake.org
@@ -293,6 +298,7 @@ ondamedia.cl
 oouagoiwoye.edu.ng
 ottestrupkirke.dk
 outfy.com
+outreachdesk.com
 pace-il.ca
 pacificcoastlodge.co.nz
 palangshim.com
@@ -319,6 +325,7 @@ plastinarium.de
 pocoyoracing.com
 podsvojostreho.net
 polyservice.nl
+pondero.net
 posidokasino.cz
 possibilitychange.com
 potifos.com
@@ -340,7 +347,6 @@ realk.sk
 recuerdohistoria.es
 redmond-reporter.com
 reggielucas.com
-registeracompany.co
 riccartonmotorlodge.co.nz
 rivcoph.org
 rkbsprinsenhof.nl
@@ -362,6 +368,7 @@ scotweb.co.uk
 sdbf.fr
 sdrssp.cn
 seesparkbox.com
+selvafilmes.com
 sencanada.ca = canadian senate|canadian senator|senate of canada|加拿大上議院|加拿大上议院|加拿大参议院|加拿大國會上議院
 sendai-nogyo-engei-center.jp
 sfblues.com
@@ -401,6 +408,7 @@ theyyamwiki.in
 timcarrmusic.com
 timveninga.nl
 tinmangames.com.au
+tjjinqi.com
 tldrsec.com
 tombellamy.co.uk
 townofdanville.org
@@ -434,7 +442,7 @@ vivescia-industries.com
 vodkabetvb.com
 vogelsap.com = the flock
 volgaopera.ru
-vrtx.com = vertex|vertex pharmaceuticals|vertex pharmaceuticals inc.|福泰製藥
+vrtx.com = vertex|vertex pharmaceuticals|vertex pharmaceuticals inc.|vertex pharmaceuticals incorporated|福泰製藥
 wacartscollege.co.uk
 walnuttreeworlington.co.uk
 wampanoagtribe-nsn.gov

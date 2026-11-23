@@ -85,7 +85,7 @@ cs2d.com = 2dcs|counter-strike 2d|cs2d|反恐精英2d
 cyberneticslibrary.org
 dailyroyalhub.it
 dailywealth.com
-danbaojun.com
+danibellamusic.wordpress.com
 dataram.com
 daughtersofboheme.co.uk
 dawnings.co.nz
@@ -128,6 +128,7 @@ framily.de
 france-hotel-guide.com
 francescoguccini.it
 friendseurope.org
+friendsofawc.com
 fsnm.org
 fumbbl.com
 furuta.co.jp
@@ -163,7 +164,6 @@ horizoncircle.it
 hotel-spiegel.de
 hotelfazendaflorenca.com.br
 hoteltettuccio.it
-hthtiyuguanwang.com.cn
 hushhauntedattractions.com
 ianaoconnor.com
 ibe.org
@@ -178,6 +178,7 @@ imana-dcmp.com
 imgfarm.com
 imit.se
 impulsa-empresa.es
+informapp.com.co
 inlanddetox.com
 iofm.com
 ions.com
@@ -290,6 +291,7 @@ newsdipper.co.uk
 northarenahouse.nl
 noujine.ru
 nthjbl.com
+nv-casinodk.eu
 nwesd.org
 nynkeschepers.nl
 ocea.fr
@@ -431,8 +433,10 @@ usa7simplys.xyz
 varosszepito.hu
 varpalota.hu
 velocitycenter.co.uk
+velunite.it
 vereenigdevrienden.be
 viamechanics.com
+vicabiz.com
 vicrecords.com
 villeroy-boch.co.uk
 virtualuffizi.com
@@ -456,10 +460,12 @@ wtfpeople.com
 wymeditor.github.io
 xanderderycke.be
 xin88x.site
+xj91.cn
 yak888.la
+yandiansoft.com
 yeezy-350.de
 yingtsai-eye.com.tw
-yosyshq.net
+yosyshq.net = yosys
 youthbeyondblue.com
 zalkovice.cz
 zoe-magazin.de

@@ -13,7 +13,7 @@ academiccloud.de
 academiecevenole.fr
 accesstomedicineindex.org
 adelma.es
-adeptsoftware.com = god of thunder|got
+adeptsoftware.com = god of thunder|got|jetpack
 adverbum.fr
 aeams.com.br
 aerotask.de
@@ -42,6 +42,7 @@ apublica.org
 archivesguadeloupe.fr
 areasac.es
 argonnechampenoise.fr
+arquivei.com.br
 arrnn.co.kr
 arztakademie.at
 audreycordon-ragot.com
@@ -115,6 +116,7 @@ ctoofeverything.dev
 culturatres.com
 dallasaicompany.com
 danwatch.dk
+datacircle.dev
 davdudhichua.in
 dbe.de
 deedsoffleshmetal.com
@@ -198,13 +200,11 @@ gymnasium-oberhaching.de
 hamamatsu-iwata.jp
 hancockshakervillage.org
 hansrajcollege.ac.in
-happainc.com
 hartbeach.nl
 hausbirkach.de
 heatscasino.ca
 henriettelazaridis.com
 hhppgcg.com
-hi88casino.io
 hightowncompound.com
 hil.com.my
 hochberghaus.at
@@ -217,6 +217,7 @@ id.com.au
 imaginecm.org
 inferum.nl
 ingawiktoriapave.com
+iqlance.ca
 irfarabi.ir
 jackrusk.com
 jallacasino-sverige.com
@@ -227,11 +228,11 @@ jepperiddervold.com
 jerehlipps.com
 jf-marmelete.pt
 jhargramkki.org
+jnshxcl.com
 joeant.com
 joelgoldstein.com
 johnpaulwhite.com
 jspen.or.jp
-jsrtpx.com
 jsta.cl
 julyjones.com
 justfab.de
@@ -356,11 +357,9 @@ radzionkow.pl
 redcore.cn
 reeleasttexas.com
 regensburg-phoenix.com
-rescheckreview.com
 researchinlearningtechnology.net
 revistafama.com
 richard-linde-weg.de
-rikvip.tube
 rise965.com
 rnsdkm.com
 robertdarnton.org
@@ -368,6 +367,7 @@ rochetaillee-sur-saone.fr
 rosasnash.com
 rottenbuch.de
 royaljokerslot-nl.com
+rtpolxtotoslot.com
 rtty.com
 ruslekar.info
 ruudvandenboogaard.nl
@@ -395,15 +395,16 @@ shenduedu.com
 sheplers.com
 shinichi-tanaka.jp
 shivkapur.com
+shoppies.co
 silverresources.de
 simpleminds.com
 sinnersandsaintsthemovie.com
 skolta.org
 sl2college.org
-smartplayapk.com.br
 snjpn.net
 socialeclair.fr
 socpk.com
+southhvaccare.com
 starburstslot-at.com
 starmaniaslot-bd.com
 stazionimarittimegenova.com
@@ -418,6 +419,7 @@ sureshjoachim.com
 taistelijantalo.fi
 talesfromthegods.com
 techslides.com
+tengsuwuliu.com
 terriers-place.co.uk
 thalia-potsdam.de
 the4at.com
@@ -444,17 +446,14 @@ unilavoropmi.it
 unitag.jp
 upsbatterycenter.com
 us927.com
-usasexguide.nl
 ussac.fr
 utsopi.be
 utstpark.ir
-uwin-india.com
 valentinarosselli.com
 vedicbooks.net
 veken-tech.cn
 viamichelin.ch
 victoriadugger.studio
-vidameanslife.com
 ville-soultzmatt.fr
 vm777appd.com
 vorfrelserkirke.dk
@@ -480,7 +479,6 @@ xingchujia.xyz
 xn--h1aaeuljd4b.xn--p1ai
 xn--theatervereinschngeising-0oc.de
 xn--zz-eka.nu
-xnxx3.us
 yanghh.com.cn
 yihai-nc.com
 yizong.org

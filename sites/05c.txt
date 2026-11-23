@@ -15,7 +15,6 @@ airport.ee
 aksys.no
 al-tuebingen.de
 albertosouto.pt
-alchemyfinehome.com
 algerie.cz
 alleluia-lefilm.com
 allgaier-agrarhandel.de
@@ -27,6 +26,7 @@ amnestynepal.org
 anitanatmessnig.at
 anniegentilsgallery.com
 aphconnectcenter.org
+apporto.pt
 aquaforest.eu
 arjunmunda.in
 artemisthegame.com
@@ -50,6 +50,7 @@ bigdotofhappiness.com
 birdfy.com
 bitefight.net = bitefight
 bizthistown.com
+bjenwtcx.cn
 blockxtech.com
 bluesworld.com
 bnrm.md
@@ -61,7 +62,6 @@ boyharsher.com
 brightreelsfactory.it
 bruneiembassy.org
 butterfly.org.au
-butterflyqb.com
 cacadets.org
 cambio.be
 canadianonlinepharmacynote.com
@@ -87,13 +87,11 @@ collectivelyinc.com
 constellation1.com
 cookcarson.com
 corrierelivornese.it
-cosmicnoise.it
 croatianacademy.org
 cybergrx.com
 cyberneticwalrus.com
 danbern.com
 datingblack.co.uk
-dd-sunnah.net
 de-vlaswiek.nl
 delospiesalacabeza.org
 density.io
@@ -188,7 +186,6 @@ ih7wnh.cn
 illuminusproductions.com
 impact-alliance.org
 inhauser-moos.de
-insurance-ezy.com
 intercontinental.com
 isitai.com
 islam21c.com
@@ -227,6 +224,7 @@ lappi-areena.com
 latarnikwyborczy.pl
 latimes.com = l.a. times|la times|lat|latimes.com|los angeles times|the la times|the los angeles times|洛時|洛杉矶时报|洛杉磯時報
 lavocedelnordest.eu
+lawrys.com.sg
 leadingvibe.com
 lecturio.de
 leovroegindeweij.nl
@@ -234,7 +232,6 @@ leshortillonnages-amiens.com
 letargydream.info
 lhv.ee = as lhv pank|lhv|lhv pank|lõhmus, haavel & viisemann
 liestany.sk
-lifumbetur.is
 liquidsky.com
 lnjc.gov.cn
 londondicejournal.uk
@@ -329,6 +326,7 @@ pytalhost.net
 qualiahotel.com
 qualityclouds.com
 qwestion.net
+qynissan.com
 raceroom.com = raceroom|raceroom racing experience
 radhahotels.com
 rebeccasaunders.net
@@ -357,6 +355,7 @@ sattakingy.in
 schoolofthelion.org.uk
 scotchblue.com
 secseen.com
+selotdepositqris.com.co
 seniorhookups.org
 ser-colombia.org
 servodatabase.com
@@ -397,7 +396,6 @@ teemusuninen.com
 testing-library.com
 tezaurs.lv
 the-prosecution.com
-theapiarist.org
 thebenterfoundation.org
 thedefibulators.com
 thegrotto.org
@@ -405,7 +403,6 @@ thehometheaterdiy.com
 theknittingnetwork.co.uk
 themeisnertechniquestudio.com
 themesglance.com
-theminersclub.io
 themirch.com
 themummytv.com
 theplumemitchell.co.uk
@@ -429,6 +426,7 @@ tsuruyagolf.co.jp
 tudorgheorghe.ro
 turn-page.com
 tvaplus.ca
+ukg.fr
 ulketv.com
 ultrastudiospreadmax.com
 urcwales.org.uk
@@ -448,7 +446,6 @@ weingut-benz.de
 wellesmusic.com
 wiiija.com
 wilsonhr.com
-wincasinos.fi
 wings138situs.com
 wrvkj.com
 xenderforpcs.com

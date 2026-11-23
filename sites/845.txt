@@ -32,6 +32,7 @@ arizona811.com
 arm-live.com
 aselpis.gr
 ashleyforce.com
+aucklandpride.org.nz
 autoalert.com
 avasflowers.net
 b7-casinonl.org
@@ -88,7 +89,6 @@ cityofhawarden.com
 cityofhuntington.org
 civicapps.org
 clothingjunction.co.za
-clubmed.ru
 cmcsa.com = comcast|comcast corporation|comcast holdings|康卡斯特
 cnsg.com.sg
 co-macht-ko.de
@@ -123,6 +123,7 @@ debristhegame.com
 derwentside.ac.uk
 desperateliterature.com
 dfiles.com
+dghgco.com
 diaphanes.de
 didkovsky.com
 digitalnature.eu
@@ -178,7 +179,6 @@ fusedframes.com
 fxo.co
 galeriebastian.com
 galeries-bartoux.com
-gavang.cyou
 gcbharmour.com
 gemimo.org
 germancarblog.com
@@ -193,12 +193,12 @@ granawincasinoo.com
 greeklanguage.gr
 grettacohn.com
 hasandogukanaker.com
+haywardscore.com
 healthstandnutrition.com
 hector-charland.com
 hedkandi.com
 helikopter.no
 heypongo.com
-hitechdigital.com
 hjisd.net
 hkt-enterprise.com
 hmdatalink.com
@@ -235,7 +235,6 @@ jeffbloodworth.com
 jerrysfoods.com
 jevisco.com
 jichindo.jp
-jienuoqingya.com
 jobilla.com
 jodyjazz.com
 johnrampton.com
@@ -297,9 +296,8 @@ megasigninc.com
 meinebank.de
 mendowine.com
 mercedesgallego.es
-mersinescortgo.com
 mgg-horb.de
-milkncakeco.com
+micers.com
 minetinfants.org.uk
 mkhs.org
 mlz-garching.de
@@ -374,7 +372,6 @@ realtimelab.com
 rebuildinghouston.org
 redbagranada.es
 reisend-volk.de
-resoleasing.com
 returningfromgermany.de
 rhinaer.com
 richmondair.us
@@ -409,6 +406,7 @@ sidrahgardens.com.au
 siegubba.no
 sinimustaliike.fi
 sintra.site
+slotgacorterbaru.org
 smartroulette960.com
 smist.in
 snwmf.com
@@ -478,6 +476,7 @@ wortladen.com
 wpjn.net
 wsgroupspa.it
 wxeditor.com
+xge6ju4.cn
 xocdia.live
 yfg.ie
 yokoshimizu.com
@@ -487,9 +486,7 @@ zecdesanses.com
 zee61hands.de
 zee7rates.shop
 zelleducation.com
-zhc1w.com
 zioshow.com
-zjqnn.com
 zonekingdom.de
 ztv.es
 zzhjqr.com

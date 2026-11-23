@@ -4,7 +4,6 @@
 4goodhosting.com
 6106wi.cn
 889993637.xyz
-8kbet0.com
 aaedc.org
 acnatsci.org
 acson.com.my
@@ -20,7 +19,6 @@ amagazinecuratedby.com
 ameliejodoin.com
 andykonwinski.com
 anheuser-busch.com = anheuser-busch|安海斯-布希
-anmolsoch.in
 annietippe.com
 anthologiequartett.de
 apkaklamanis.gr
@@ -31,9 +29,7 @@ artashair.com
 artforjusticefund.org
 assoswane.com
 audiolabs-erlangen.de
-augustabusinessdaily.com
 awesomekling.com
-aysunugus.com.tr
 b93.net
 ballenberg.ch
 bamix.com
@@ -151,7 +147,6 @@ gameplay.co.uk
 gbq.gov.cn
 gdirotator.com
 gehirneimer.de
-genevbeauty.com
 genevieveherve.com
 genie.it
 getmacha.com
@@ -233,10 +228,10 @@ lechaletdelpollino.it
 lecreuset.no
 ledinside.com
 leedseastairport.co.uk
-legendstracking.com
 liam.earth
 lido-schema.org
 lifeafteroil.org
+limova.ai
 linux.org.ua
 londongraphics.co.uk
 londonwinnerplace.uk
@@ -416,7 +411,6 @@ tyrashow.com
 ufofinland.net
 uitech.jp
 ukicc.info
-unitybyte.io
 uprava.hr
 uriola.eus
 usa33becomes.xyz
@@ -435,6 +429,7 @@ visceralgames.com = ea redwood shores|ea redwood studios|visceral games|維瑟�
 vj88.tech
 vulcanforged.com
 vuoo.app
+w00qk.cn
 wangyixuan12.github.io
 weakpass.com
 westmeathindependent.ie

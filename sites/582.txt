@@ -84,7 +84,6 @@ bsboskant.nl
 bsdeborne.nl
 bulatov.info
 burundi-agnews.org
-buzzbike.cc
 bxgame.top
 c-a.ru
 ca7stocks.top
@@ -183,6 +182,7 @@ foreignsecond.com
 fortat4.org
 forumone.com
 francamasu.com
+freeunlocks.com
 freimaurer-einbeck.de
 freshpatio.com
 freundeskreis-nationalpark-schwarzwald.de
@@ -205,7 +205,6 @@ grundschule-wincheringen.de
 grupovips.com
 gusandco.net
 gutsmagazine.ca
-hacklinkpanelial.studio
 hackthenorth.com
 haebse-theater.ch
 hagaverschrecker.de
@@ -241,6 +240,7 @@ insm-dz.com
 institut-ethique-contemporaine.org
 interalliedgames.org
 interogoholding.com
+investra-ai.com
 invexa.be
 irenecompanjen.com
 irenefrain.com
@@ -307,7 +307,6 @@ mdls.fr
 meboso.co.jp
 meetfilmfestival.it
 merrymaids.com
-mettalex.ai
 mgb.org.rs
 mgl.ca
 mo-tourist.co.jp
@@ -357,9 +356,11 @@ pailian-aluminium.com
 palmerreport.com = palmer report
 panamabluewater.com
 paris-eprix.com
+pathwaylending.org
 patrick-chaize.fr
 paulfelmer.cl
 pilpel.co.uk
+pin-up-futbol.bo
 pivorohozec.cz
 pivotshare.com
 pixelscrim.com
@@ -382,6 +383,7 @@ raphaelmaupetit.com
 recordjet.com
 repairmanjack.com
 rezi.ai
+ri0jh26lqm.cn
 ribeiraoclaro.com.br
 ricardocosta.com
 ridgewaysauto-diagnosis.co.ke
@@ -476,6 +478,7 @@ transbusexpress.pl
 trauma.nl
 tribunaleperito.com
 triterrafarm.com
+tructiepbongdaz.co
 trupairis-neludumitrescu.ro
 turkhackteam.org = turkhackteam|turkhackteam.org
 tzdandan.com
@@ -485,6 +488,7 @@ ultraswimming.org
 upplandsvasby.se
 uria.dev
 uticacomets.com
+valevlaube.com
 vallakratraffen.com
 viewnetblog.nl
 villageoflarchmont.org
@@ -495,7 +499,6 @@ walterlunzer.com
 watanyooputta.com
 wavpack.com = wavpack
 wblj1230.com
-wch-korea.kr
 weareroku.com
 whv.org.au
 why-kamikatsu.jp
@@ -508,6 +511,7 @@ wright.edu
 wuala.com = item/properti|wuala
 wwf.ro
 xkmbwl.com
+xmdoc.com
 xn----7sbnelhffdriffad1a1l.xn--p1ai
 xn--80atdujec4e.xn--p1ai
 xveov.cn
@@ -522,5 +526,4 @@ zebrabingo.nl
 zee61focusss.de
 zgsj.com
 zika-fc.net
-znytf.com
 ztt.com

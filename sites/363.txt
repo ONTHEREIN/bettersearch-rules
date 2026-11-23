@@ -13,6 +13,7 @@ aigthefilm.com
 aishlatino.com
 alanis.com
 albertoterrile.it
+alimahmoodmusic.github.io
 alive905.com.au
 allamahkaukabnooraniokarvi.com
 altitude.film
@@ -50,6 +51,7 @@ banghowdy.com = bang! howdy|砰！你好
 barrygblundell.com
 bath-preservation-trust.org.uk
 bets24.es
+bgv-solingen.de
 bhermanos.com
 bibliotecaris.org
 bills-bus.com
@@ -99,7 +101,6 @@ cncr.nl
 cninfo.net
 cnipr.com
 coffeedent.it
-colazio.com
 communitywindpower.co.uk
 comunescalettazanclea.it
 connedelabarde.com
@@ -133,6 +134,7 @@ drumcorpsplanet.com
 dualski.com
 dynamicjackpotexpress.com
 dziadep.net
+dzshygl.com
 economie-politique.org
 efvv.eu
 ejd.dk
@@ -168,6 +170,7 @@ friday.tw
 fsv-schwarzbach.de
 gabifresh.com
 gahrhs.us
+galaxyaccess.us
 gbsdewaterspiegel.nl
 gegensatztranslationcollective.com
 georgetownfallfair.ca
@@ -192,6 +195,7 @@ hewinghotel.com
 hexxen.com
 hfxsj.com
 hillhouseschool.co.uk
+homeloans.sbi
 honestsummary.us
 hramvkuntsevo.ru
 hsk.nl
@@ -207,6 +211,7 @@ imec.org.uk
 indianbeach.org
 indie88.com
 industrie.de
+infeeling.com.cn
 inherithotelgroup.com
 injesus.com
 instantlive.com
@@ -240,12 +245,14 @@ lamotteducaire.com
 lapaixmaintenant.org
 lasef.org
 leipziginfo.de
-lfhuayuhuojia.com
 link-man.org
 linkinbio.news
 lionel-messi-cz.biz
+littlespringfarmhoa.com
 ljc-nrw.de
+locaneta.com
 logicbingo.it
+lqxysp.com
 luckymark.co.uk
 lumenpalacehub.nl
 lunarcasinohouse.com
@@ -265,7 +272,6 @@ matthieu-tranvan.fr
 maxusmotors.be = maxus|maxus大通|saic maxus vehicle|上汽大通|大通|大通汽车
 mearsgang.com
 med-life.co
-mega4upload.com
 meindl.de
 melaniemitchell.me
 meprague.org
@@ -312,6 +318,7 @@ novarouletteworld.com
 novosolutions.com
 nuxeo.org
 obrazky.cz
+official-city.com
 ombudsman.gov.ph
 option.com
 oraclecloud15.com
@@ -346,6 +353,8 @@ punchline-game.jp
 puppygames.net = revenge of the titans|titan attacks!
 pwp89-seko-chemicalpump.com
 pythonnamibia.org
+qmoney178.com
+qpastt.org.au
 qradiolink.org
 radiantnepal.com
 ralfkokke.com
@@ -402,6 +411,7 @@ suzanpitt.com
 swxrightnow.com
 sxfyhb.com
 sxgwedu.com
+tailwindtoolbox.com
 talkvistaecho.com
 tavanir.org.ir
 tbrandstudio.com
@@ -467,13 +477,13 @@ wps-cc.cn
 wxfw71.cn
 xgaming.com
 xtx-standard.org
-xunfutianxia8.com
 yappli.plus
-yuanfudashi.com
+yyvffr.com
 zamek-mirosov.cz
 zandyrestaurant.com
 zdsoft.com
 zee61overs.top
+zhongzifengtuo.cn
 zoglu.net
 zoth.io
 zpolyana-rm.ru

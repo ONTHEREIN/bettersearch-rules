@@ -7,7 +7,6 @@ adventuresinodyssey.com
 aeo.no
 airbrake.io
 ajabshirpress.ir
-ajequipmentrepair.com
 akcjademokracja.pl
 akdae.de
 alexandros.jp
@@ -23,6 +22,7 @@ ankarakaynak.info
 anothersunnyday.net
 antikarisma.wordpress.com
 antoniopedroramos.com
+apec2017.vn
 appelmedical.com
 aps.org = phys rev|phys rev lett|phys. rev. lett.|physical review|physical review 1893-1969|physical review 1893–1969|physical review letters|physical review series 1|physical review series 2|physical review series i|physical review series ii|prl|the physical review|物理報導期刊|物理报导期刊|物理評論|物理評論快報|物理評論快訊|物理评论|物理评论快报
 aptiindia.org
@@ -72,7 +72,6 @@ canadaph24.pro
 cascadebusnews.com
 catfriendly.com
 cbalaw.org
-cbdnews.com.au
 ccvad.es
 centea.be
 centrale-edition.fr
@@ -90,7 +89,6 @@ clubedamedalha.com.br
 comindware.com
 coopersmout.com
 corneliusversa.com
-corps-hubertia.de
 cqchlz.com
 crbnekrasov.blogspot.com
 credit-halva-4you.ru
@@ -129,7 +127,6 @@ emtensor.com
 encotentin.fr
 ericschwartz.com
 escolapiosmexico.org
-esenyurtescortgo.xyz
 esofagopisa.it
 espere.fr
 europejskiekasynoonline.com
@@ -247,7 +244,6 @@ listing.ca
 lohfelden.de
 lonestarsmilesforkids.com
 lpg-umr6112.fr
-luca99game.io
 lucyrailton.com
 luke-hoss.de
 lunasauditorio.com.mx
@@ -294,7 +290,6 @@ mr-elit.ru
 mreporter.ru
 mst.by
 muhannadshono.com
-mupsex.com
 myvalleedejoux.ch
 nagaekazuyuki.com
 nancymitford.com
@@ -335,6 +330,7 @@ padgettpowell.com
 pantenealtinkelebekodulleri.com
 parlamericas.org
 patternsforpirates.com
+pentictonlakesideresort.com
 perezgellida.es
 perfectworld.com = blacklight: retribution|hotta|legend of chusen online|neverness to everness|nte|nte: neverness to everness|rusty hearts|tower of fantasy|幻塔|幻想之塔|异环|異環|誅仙 online|誅仙2 online|誅仙3 online|誅仙evo|诛仙 online|诛仙2 online
 petersburgski.ru
@@ -348,13 +344,11 @@ plushenko.show
 pnsn.org
 poissonboltzmann.org
 polarisatvforums.com
-pracownia360.pl
 propfirmpassingserviceguide.com
 protezionecivilebiella.it
 puertolapice.es
 puppenbuehne-lippelpie.de
 pureencapsulationspro.com
-purogroup.com
 qgis.org = qgis|quantum gis
 qh88us.net
 quiterss.org
@@ -370,11 +364,11 @@ rmhcaugusta.org
 rokkodenshi.com
 rollixventures.co.uk
 royalzone.us
+rugift.com
 ruralpovertyportal.org
 saikouji-fukui.jp
 saintjeantrolimon.fr
 samenterschelling.nl
-samsunescortgo.com
 sandsanderson.com
 sasvolley.com
 scjag.com
@@ -417,7 +411,6 @@ supersuckers.com
 surveypoint.ai
 sylvietremblay.com
 szbwlzshs.com
-szkxl.com
 taixiu86.com
 tbc.org
 teachnyc.net
@@ -429,6 +422,7 @@ thomasfoods.com
 tiltparenting.com
 timetac.com
 timothymoorewrites.com
+tobachat.com
 tonicstrings.ch
 tower-hills.com
 townoflowrys.com
@@ -478,9 +472,9 @@ worldteam11.com
 worldwidebrands.com
 x3v97w.cn
 xjcourt.org
-xk44.vip
 yanjian.com.cn
 yssy04.cn
+yu26j.cn
 yxvip006.com
 zebets.nl
 zee61discovers.xyz

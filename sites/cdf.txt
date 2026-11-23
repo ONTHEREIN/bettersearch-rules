@@ -24,6 +24,7 @@ asufin.com
 at-misty.com
 athariwear.com
 atrium-paca.fr
+auezov.edu.kz
 ausolan.com
 australian.it
 authjs.dev
@@ -49,6 +50,7 @@ bolivarvalera.com
 bonuskongsfr.fr
 borowie.pl
 botanical-society-scotland.org.uk
+boyaca7dias.com.co
 breakingdawn-themovie.com
 breakingtravelnews.com
 brightblackjackonline.com
@@ -173,7 +175,6 @@ honestfoodtalks.com
 honeyhill.hu
 hopbutcher.com
 hospudkaumlejna.cz
-hszyy1.com
 hwahae.com
 iaos-isi.org
 icamat.cat
@@ -223,8 +224,6 @@ lcsanshikeji.com
 lebenshilfe-landsberg.de
 leda-juemme-verband.de
 lesanimaux.site
-lethalpass.com
-letoutiyusaishi.com.cn
 levrai.de
 linearmotiontips.com
 lluitainternacionalista.org
@@ -266,6 +265,7 @@ navy.mil.ng
 nbp-info.com
 ndbom.org
 nerdsatheart.com
+neteasy.pl
 netragard.com
 newpharma.be
 nexaforgecore.com
@@ -275,7 +275,6 @@ nic.it
 nifla.org
 nmap.org = network mapper|nmap|nmap security scanner|網路對映器|网络映射器
 nonotoriety.com
-norfolkcu.org
 novychas.online = novy chas|新时报
 noxinocasino.org
 nttdata.com = ntt data|ntt data group|ntt數據
@@ -302,7 +301,9 @@ pawnforyou.com
 pearc.de
 pecanlandmall.com
 pecsimuzeumok.hu
+pekar-konditer.com.ua
 pests.org
+photoecolo.com
 photoresizerinkb.com
 picclick.com
 pii.co
@@ -339,6 +340,7 @@ rushradio947.com
 rutharts.org
 rybna.cz
 salemstatevikings.com
+salterspiralstair.com
 samanthapower.com
 sannikovo.ru
 sbp.org.br
@@ -348,7 +350,6 @@ scmmontargil.com
 scopedailyblog.uk
 sdcmc.net
 sdruzenivia.cz
-sentejixie.com
 seventeenfingeredpoetrybird.blogspot.com
 shebuystravel.com
 si-paling-hoki.store
@@ -381,7 +382,6 @@ studiotheatres.net
 succeedasyourownboss.com
 superf.ly
 svensktorv.se
-sweety-spin.cz
 tabbysplace.org
 taittinger.com
 taizowin.io
@@ -444,7 +444,6 @@ xn--hrbykirke-l8a.dk
 yarmalysh.ru
 ymca.org.hk
 yogalayout.dev
-youmustdo.com
 yowaapp.com
 zakelijkverhuizen.nl
 zee61befores.de

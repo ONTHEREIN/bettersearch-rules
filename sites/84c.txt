@@ -60,7 +60,6 @@ bird.co.uk
 blickfenster.de
 blockleyprimaryschool.co.uk
 bluelogicworld.nl
-bmhcaipiao.com
 bobbibrown.com.cn
 bosotown.com
 bravekings.com
@@ -87,7 +86,6 @@ cmcmarine.in
 cnjap.pt
 cnykiss.com
 co88.vin
-coinapps.io
 comicer.com
 commune-de-corn.fr
 comunavladimir.ro
@@ -110,7 +108,6 @@ dax-100.com
 ddjieifhsljfhheubv.com
 decathlon.fr
 dialogshift.com
-diluo.co
 disasterscharter.org
 dm-az.com
 doldenhornhuette.ch
@@ -154,7 +151,6 @@ freedom1120.com
 friland.org
 fullsurfacerecords.com
 fynancy.com
-g4s.us
 gagarina-avto.ru
 garmo.de
 gaza-city.org
@@ -237,7 +233,6 @@ lcboe.net
 lexi-alexander.com
 lindylee.net
 linkeddigitalfuture.ca
-livetv580.me
 londonfruitservice.uk
 looklearnact.com
 lorrainefouchet.com
@@ -312,6 +307,7 @@ osteriadallazabariona.com
 ou-vetren.eu
 outliermedia.org
 owdna.org
+packetradio.com
 paladinenergy.com
 paneeparole.com
 parcovalgrande.it
@@ -325,7 +321,6 @@ peroxychem.com
 peterundpaulkirche.de
 picrew.org
 platinumslots-germany.com
-pnm.ac.id
 podzinger.com
 pointi.jp
 pokrov-min-vody.ru
@@ -335,6 +330,7 @@ primarycarecasereviews.com
 print3dforum.com
 proholz.at
 proterrafoundation.org
+prwzs.cn
 psychrights.org
 pulseuk.co.uk
 qmenu.us
@@ -402,7 +398,6 @@ spunti.com.au
 squadronenergy.com
 stadt-grossenehrich.de
 stage-toukenranbu.jp
-stake-casino-cz.com
 startv.ch
 stubbyfingers.ca
 studiopygmalion.com
@@ -417,7 +412,7 @@ tdsdesign.com
 teatrodibanco.wordpress.com
 templatesandforms.org
 tenilledashwood.net
-ternium.com
+ternium.com = ternium s.a.
 tfp-france.org
 tgc.st
 theatergruppe-emmering.de
@@ -432,7 +427,6 @@ thilo-sarrazin.de
 thombohnert.com
 thomsonmedical.com
 thurybusz.hu
-tianchang365.com
 tirolerbier.at
 toigo.co.jp
 topinterview.com
@@ -457,6 +451,8 @@ varansoynakliyat.com
 variancefilms.com
 vashkontrol.ru
 vaultsgame.com
+victoriaenlacocina.com
+victoriahospice.org
 vidaysalud.com
 visionjackpotonline.com
 vitalskinderm.com
@@ -482,7 +478,7 @@ ww88.science
 xn----7sbbigkqq2acllnkfgck.xn--p1ai
 xn--jj0bn3viuefqbv6k.com
 xnumber.com
-xzfhjt.com
+xoilaczcx.tv
 yareparhia.ru
 ydhfs.cn
 yesterdaycardetailing.com

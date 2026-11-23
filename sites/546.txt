@@ -44,7 +44,6 @@ berelax.com
 berkeleygardens.org
 bernardbenoit.com
 berryvanberkum.nl
-betonkupit.ru
 beyondcurie.com
 bfwpub.com
 bibliotecadesilos.es
@@ -105,8 +104,8 @@ cravant-loiret.fr
 ctaconecta.com
 ctex.org
 d4rkd0s.com
-dandaelitetransportllc.com
 datajournalismhandbook.org
+dawkes.co.uk
 ddpgum.org
 deainc.com
 decoratoradvice.com
@@ -325,7 +324,6 @@ peterkeane.com
 petroleummuseum.org
 pgn.co.id
 pictura.nl
-pingyunzibu.com
 pintofscience.com
 plagger.org
 playgamewave.com
@@ -483,3 +481,4 @@ zen-cart.cn
 zenoss.org
 zhenghongqiche.top
 zina-gimpelevich.com
+zorovynex.com

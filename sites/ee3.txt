@@ -12,7 +12,6 @@ adeccogroup.it
 admachico.com
 aedimitra.gr
 aep.com = aep|american electric power|american electric power company, inc.|american electric power corporation|美國電力公司
-afsiasolar.com
 airline4.net
 airlinerpro.com
 akad.ch
@@ -22,7 +21,6 @@ alriesalah.com
 altschuler.dk
 amandala.com.bz
 anitim-oao.ru
-ankaratravesti.xyz
 annelottermann.com
 antiquemotorcycle.org
 apncollege.org
@@ -72,6 +70,7 @@ casinononaams-bonus-it.it
 casinowinspark.es
 catalogue-lumiere.com
 cathedral-elpaso.org
+cavessantamarta.pt
 cbdorganics.es
 ccbcmd.edu
 ccpmb.fr
@@ -199,7 +198,6 @@ hayot-expertise.fr
 healthwellnessbusiness.com
 hebisd.edu
 hendonfc.net
-heroicons.dev
 historiauex.es
 hodepinenorge.no
 hotfmormoc.com
@@ -247,6 +245,7 @@ key.com = keybank|keycorp|科凯银行|科凱銀行|鑰匙銀行
 khab-npz.ru
 kiiltomato.net
 kirche-heilbronn.de
+kkeewsd.com
 klik.hr
 klimaschutzagentur.de
 klinikumevb.de
@@ -261,7 +260,6 @@ lanjinglingbx.com
 lapolicegear.com
 lastbulb.com
 le-cowboy.se
-le-temple-du-sommeil.fr
 leasequery.com
 lensvid.com
 leosabenteuerpark.de
@@ -392,6 +390,7 @@ scheimpflug.com
 schmidt-afd.de
 scora.bet
 scraptrap.de
+shangchenzhou.com
 shivanijai.com
 shorten.is
 shpilenok.ru
@@ -402,10 +401,10 @@ silverworldreels.it
 singervehicledesign.com
 sit.edu.cn
 sitkalutheranchurch.com
-skolms.com
 skp-beijing.com
 sksichuur.nl
 skupszop.pl
+smartbi.com.cn
 smarttoday.uk
 solux.co.kr
 somebodystudios.com
@@ -425,9 +424,9 @@ stz-online.de
 sunstech.com
 swantoni.net
 swiftpages.us
+syrjnm.com
 systemc.org = systemc
 talkurban.uk
-tastelikepizza.com
 tayarijones.com
 team10official.com
 techvidvan.com
@@ -453,7 +452,6 @@ totalbug.com
 townofmorgan.org
 treatstock.com
 trellix.com
-triopalmsprings.com
 trlsoftware.co.uk
 trussville.org
 trustford.co.uk
@@ -501,4 +499,5 @@ zavernostnauke.ru
 zcha.in
 zemplinskateplica.sk
 zentrum-demokratische-kultur.de
+ztjnsq.com
 zu28d.cn

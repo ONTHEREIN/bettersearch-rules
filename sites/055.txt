@@ -1,3 +1,4 @@
+13082.my
 1x2networkhub.com
 3ddpcj.xyz
 3nn.website
@@ -11,6 +12,7 @@ aboveblack.com
 accc4truth.org
 accd.edu
 adam-ant.net
+adegabarcelos.pt
 adepentomo.fr
 afasci.com
 agrocampus17.fr
@@ -22,7 +24,7 @@ alwaysready.bo
 ambafrance-kz.org
 amphilsoc.org
 ancient-asia-journal.com
-apollodigital.io
+andrewkfisher.com
 aquagen.no
 aquariumlyon.fr
 areasaludcaceres.es
@@ -142,7 +144,6 @@ filters-wtw.nl
 findwords.info
 finkelstein-guitar.com
 firstprinciplesjournal.com
-flaghitcounter.com
 flourens.fr
 fmfukuoka.co.jp
 fondazionenesi.it
@@ -316,6 +317,7 @@ profile.to
 program-transformation.org
 pyhajarvi.fi
 q-env.com
+qi71b.cn
 qnu.org.au
 raidersguys.com
 rankingschecker.website

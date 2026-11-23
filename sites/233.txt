@@ -10,6 +10,7 @@ actionscene.co.uk
 aerospinplus.nl
 afd-sh.de
 akc.org = american kennel club|美国犬业俱乐部|美國育犬協會|美國養犬俱樂部
+akruto.com
 alicewetterlund.com
 allsaintsspringfield.org.uk
 alma-editeur.fr
@@ -18,9 +19,7 @@ amonbet.net.nl
 amt-huettener-berge.de
 antdesign.ro
 antoniocesarmoron.com
-ao88t5.org
 apimagesblog.com
-aqscch.com
 armazemparaiba.com.br
 arnotts.com
 arti49.com
@@ -48,6 +47,7 @@ betzoneway.us
 bffonline.com
 bignews.biz
 bithound.io
+bjdrcf.com
 blackjackcore.com
 blockblast.dev
 bluefloat.com
@@ -107,7 +107,6 @@ danmarksnaturfond.dk
 data-hk-lotto.com
 datasynergy.co.uk
 datatrans.ch
-datazoo.com
 davinciskolan.com
 davis.pl
 dawebsitechecker.website
@@ -175,10 +174,11 @@ futurefonts.com
 fyfcl.com
 galgaguta.hu
 gangarampurmunicipality.com
-gardenbar.in
 gckjlx.com
+gentamycinsulfate.com
 gesakj.xyz
 gff.co.uk
+ggieek.com
 ghiuselev-opera.com
 ghymes.hu
 gimp.org = gimp|gnu image manipulation program|gnu影像編輯程式
@@ -266,7 +266,6 @@ linux-kvm.org = kernel-based virtual machine|kvm|linux kvm|基于内核的虚拟
 littleredbunny.com
 liviusonderwijs.nl
 locals.com
-logantavern.com
 loverthelabel.com
 lso.lv
 lsvsaar.de
@@ -292,7 +291,6 @@ mcbankny.com
 meiravhellinger.com
 mejorpokeronline.com
 microsff.com
-mikrozaym-nakartu.ru
 miniereosisko.com
 missis-laser.ru
 misslira.com
@@ -326,7 +324,6 @@ nmnoykh.cn
 nssu.gov.ua
 nuclearwarfare.de
 nz-hailix-blechle.de
-oc-cf.org
 oddfellowsnyc.com
 oferlo.nz
 ohmyspins-casino-fr.com
@@ -356,6 +353,7 @@ pathiacasino.co.uk
 patrick-lemieux.com
 penyaesplugues.com
 phimguru.com
+piletikeskus.ee
 pingtest.net
 piratesbootyxxx.com
 platinumslotworld.com
@@ -374,8 +372,10 @@ raphaelebiston.fr
 rapreviews.com
 ravb.nl
 raven1.net
+reefcatchments.com.au
 regenboogmalden.nl
 remont.info
+rgb.info
 rickbeyer.net
 ricolor.org
 rochellecosti.com
@@ -403,6 +403,7 @@ shiftcomm.com
 shimadzu.com = shimadzu corp.|shimadzu corporation|岛津公司|島津製作所
 showpass.com.br
 showroom411.com
+sicaelec.com
 simonmay.co.uk
 sindlar.cz
 sjg-ssj.ch
@@ -433,6 +434,7 @@ svdtokyo.jp
 sweetyhigh.com
 t23win.com
 taichimaster.jp
+tb-dry.com
 teanauairport.co.nz
 teatroasioli.it
 telis-finanz.de
@@ -484,7 +486,6 @@ warofomens.com
 waterlandyacht.nl
 wdo.org
 webdianoia.com
-wesglatam.com
 williamrossmusic.com
 winitpro.ru
 winnipesaukee.com
@@ -492,7 +493,6 @@ wintermute.org
 winterpark.org
 wissenschaft-weltoffen.de
 wsoy-kirjallisuussaatio.fi
-xunjieshoes.com
 yijianhaochashi.cn
 ytl.com.my
 yvetterose.com

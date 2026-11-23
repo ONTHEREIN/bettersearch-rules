@@ -60,6 +60,7 @@ bger.ch
 bhcc.gr
 bieganski.org
 biostar.com.tw = biostar|biostar microtech int'l corp|biostar microtech international|映泰|映泰公司
+bisoncasinos-pl.pl
 bk-suedstadt.de
 blakelevitt.com
 blaricum.nl
@@ -70,7 +71,6 @@ blog44fly.shop
 bmt.org
 boels.be
 bogdanovandrey.ru
-boomcamp.in
 botorrita.es
 boydsoftexas.com
 bplans.com
@@ -132,7 +132,6 @@ dorsia.es
 drcelestial.com
 drvsky.com
 dsv-europa.de
-duel-fr.com
 durdove.eu
 dynamiccardslounge.com
 e-wut.co.kr
@@ -185,6 +184,7 @@ gfgckhanapur.com
 gigamon.com
 ginjfo.com
 glayva.com
+globalgoodscorner.shop
 gntf.org
 goya.in
 graefelfing.de
@@ -198,7 +198,6 @@ groupe-ecl.fr
 growthgazette.co.uk
 grundschulverbund-marienschule-nordschule.de
 gruns.co
-gscylq.com
 guidosegni.com
 gul.ly
 gunvorgroup.com
@@ -236,6 +235,7 @@ jordimarles.cat
 jpg-tokyo.com
 juliabelluz.com
 jyriarrak.com
+kaiserhardwares.com
 kaluga-poisk.ru
 kanjojikouen.com
 kanturk.ie
@@ -352,8 +352,8 @@ primuspower.com
 priyankaedupuganti.com
 prodejnyzeman.cz
 protocol80.com
+psychotherapie-rinne.de
 publicnewshub.com
-puzzelbreinactie.nl
 pyecombe.org.uk
 quartom.com
 railbookersgroup.com
@@ -396,6 +396,7 @@ soblahov.sk
 sonnenaufgang-sonnenuntergang.de
 southstacklighthouse.co.uk
 spearheadgames.ca
+squadwith.me
 stake-csaino.si
 stalbanscityfc.com
 stavbasket.ru
@@ -414,6 +415,7 @@ svengold.de
 sw.org
 sylviarickard.ca
 syntheticaidata.com
+tcylcwl.com
 tekupu.com
 terry-bean.com
 thanko.jp
@@ -424,6 +426,7 @@ thedial.world
 theheartofracing.org
 themindlab.co.uk
 thewarbelow.com
+thuisstudie.nl
 tidiochat.com
 tinyboxcompany.co.uk
 tiyues.com
@@ -479,3 +482,4 @@ zeevacohen.com
 zenbetfield.it
 ziprc.org
 zkmuseum.com
+zowin.faith

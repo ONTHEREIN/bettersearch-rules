@@ -57,11 +57,11 @@ bh-hermagor.at
 bibliomedia.ch
 bigcommerce.com
 bihon.ro
-bilfingerberger.de
 biotene.com
 birdpoty.com
 birminghamaeroclub.org
 bitcoinmat.org
+bloodpressuremonitor.co
 blueplanetinnovation.dk
 bmi.org.au
 boker.de
@@ -70,7 +70,6 @@ borsodbota.hu
 boswars.org = bos wars|invasion - battle of survival
 bpbaria.org
 bradywalkinshaw.com
-brandsoccasionsshop.nl
 breakermag.com
 britsuperview.uk
 bronzegiesserei-herweg.de
@@ -121,7 +120,6 @@ denahankins.net
 depedaurora.ph
 deutscher-verein.de
 dflt.org
-dianpuguanjia.com
 diariouno.com.ar
 die-grosse-transformation.de
 digitalluckydesk.nl
@@ -250,6 +248,7 @@ laoyangdiy.cn
 leap-app.io
 learnthenet.com
 leinstrand-il.no
+leson.org
 lightingsupply.com
 limelightsurge.co.uk
 listapad.org
@@ -431,6 +430,7 @@ theowlservice.co.uk
 thespecials.com
 threelives.com
 todlippy.com
+totovoices.com
 transangelsnetwork.com
 trickflow.com
 truegaming.ca
@@ -475,7 +475,6 @@ xociety.io
 xoso66vz.com
 xperimentalhamid.com
 xxx-tube.cfd
-yibailehuo.com
 yokohamabeer.com
 yorkcentral.info
 zee7sets.de

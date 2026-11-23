@@ -12,7 +12,6 @@ aenetworks.com = a & e - arts & entertainment networks|a&e global media|a&e netw
 aerojunien.com
 aeroland.ca
 ahlamshibli.com
-ajaxwrite.com
 alghad.tv
 allesoverhielspoor.nl
 allianceofdemocracies.org
@@ -118,6 +117,7 @@ ecal.ch
 ecoleinternationalepaca.fr
 editoracontexto.com.br
 eduardobortolotti.com
+ehrlich-brothers.com
 eintracht-trier.com
 elinpelin.bg
 elvisrichardson.com
@@ -125,6 +125,7 @@ envirotech-online.com
 eulemagazin.de
 eventlogxp.com
 everypaw.com
+expode.com
 falconhospital.com
 familyecho.com
 farmtogether.com
@@ -138,7 +139,7 @@ ferdows.ir
 ferreiracosta.com
 feuerwehr-immenreuth.de
 ff-haag.de
-ficto.ru
+financialfusion.ru
 finosfilm.gr
 flexas.com
 flexiops.com
@@ -177,6 +178,7 @@ heartshearts.net
 hfdewpm.com
 hgs-dingolfing.de
 histoireengagee.ca
+hollandcasino-fr.com
 hongocha.vn
 hortonworks.com
 hotel-vista.jp
@@ -186,7 +188,6 @@ hullcityladies.com
 hypernative.io
 iamnataly.com
 ieee-is.org
-ify.ac
 immobilienscout24.de
 impuls-zwijndrecht.nl
 in-the-sky.org
@@ -346,6 +347,7 @@ redanchor.ru
 redbulls.com
 redeeminggod.com
 rederij-oeverloos.nl
+reimspools.com
 rentola.de
 rentprogress.com
 rettert.de
@@ -355,10 +357,8 @@ riinternational.com
 ritaforte.it
 rkcnmh.org
 rlpc.net
-romanunited.com
 rouletteworld.de
 royalbetarena.us
-royalcasinoafspil.dk
 rtsscope.com
 rugby-pezenas.com
 s3browser.com
@@ -415,7 +415,6 @@ subdelirium.com
 supermoney88line.com
 sureeco.com
 swedishlabtech.se
-sweetpunk.com
 swflcrimestoppers.org
 swiftcorner.us
 swiftdenprime.com
@@ -453,7 +452,6 @@ txfilmfest.org
 tyrvaanpappila.fi
 tzuchi.org
 ucitg.org
-ufa8118.com
 ufastuttgart.de
 ugidotnet.org
 ujpestbulldogs.hu

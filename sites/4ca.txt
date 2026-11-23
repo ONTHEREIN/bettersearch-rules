@@ -5,6 +5,7 @@ activo.jp
 admglebovo.ru
 aduankonten.id
 adverty.com
+ahcdo.org.au
 al-vefagh.ir
 alagna.it
 albasotorra.com
@@ -62,7 +63,6 @@ candyspinz-go.at
 carahue.cl
 cargo-partner.com
 carterlake.org
-casinopauseandplaycasino.org
 casinos-online-legales-en-espana.com
 casoolas.com
 cayolevisa.org
@@ -138,7 +138,6 @@ expocms.com
 eye-of-horus-freegame.top
 fasttrendcorner.shop
 fchstigers.org
-feldesman.com
 finx-jsecurities.co.jp
 fj-news.cn
 flixpress.com
@@ -162,6 +161,7 @@ greenbenchbrewing.com
 grobfilm.ru
 gruppoabele.it
 gtabase.com
+gtbuy.com
 gtvt.sk
 gymnasticbodies.com
 haimgil.com
@@ -292,6 +292,7 @@ obhf.no
 online-wsm-casino.co.uk
 open-access-brandenburg.de
 opendate.io
+opn.ooo
 optimanetwork.ca
 organicgardening.com
 orschlurch.de
@@ -327,6 +328,7 @@ presseindependant.fr
 prezo.ai
 primekey.se
 primepalaceworld.nl
+prjx.com
 procomcure.com
 profi-car.sk
 psacard.com
@@ -351,7 +353,6 @@ ryde-go.com
 sagittaria.cz
 saint-martin.ch
 salesianospamplona.es
-saltroom-restaurant.co.uk
 santacruzdelaseros.es
 sardamov.com
 saxslab.com
@@ -373,7 +374,6 @@ sjoliespraytan.com
 sksignet.com
 slotgroup84.de
 smartarenaservice.uk
-smc.edu.ng
 smokace-dk.com
 snapseed.com
 soheepark.com
@@ -428,7 +428,6 @@ tritone-tenuto.com
 turfvalley.com
 tvs-basketball.de
 ubtz.mn
-ufar1club.com
 ufos-aliens.co.uk
 ultravisionzonespace.nl
 umake.com
@@ -443,7 +442,6 @@ uulyrics.com
 vechtdaloverijssel.nl
 vellemangroup.eu
 verescence.com
-vetokalt.fr
 viasatworld.com
 ville-souvigny.com
 vince.com
@@ -452,7 +450,6 @@ vova.nl
 voxbloomstream.com
 vsrp.ru
 vulcanico.cv
-wakka.site
 wakratband.com
 wallsproperfood.co.uk
 weilaicehua.com
@@ -472,15 +469,12 @@ wynd.eu
 xploretech.com
 xpublishing.se
 xtdaj.com
-xx88top.org
 yak-casino-mx.com
 yakujinja.com
 yauguru.com
 yntailong.com
 yomiuri.co.jp = yomiuri|yomiuri shimbun|讀賣新聞|读卖新闻
-yuannuoxinda.com
 yukon.org
-yurenda.com
 zara.com = zara|zara espana|zara españa|zara españa, sa|zara eña, s.a.|zara sa|颯拉
 zbc.co.zw
 zemplerbank.com

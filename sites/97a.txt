@@ -52,7 +52,6 @@ bayer.fr
 bernard-forthomme.com
 bestcarfinder.com
 betinexchange.online
-betsamuro.com.de
 bhtc.com
 bigdayofgiving.org
 bikashsquantum.com
@@ -86,12 +85,10 @@ charlevoixcounty.org
 chinaagtech.com
 chingobling.com
 chinh.in
-chiropractorcpt.com
 christiandeportzamparc.com
 chromeheartsglasses.com.co
 chroniquemoment.fr
 cisoseries.com
-classicmachineworks.com
 clementmotot.com
 clones.ie
 cmisl.com
@@ -139,7 +136,6 @@ eprimefeed.com
 eravikulam.org
 erpublications.com
 esperanto-junularo.hu
-eurogarant.online
 fakenhamtowncouncil.co.uk
 farziafallah.de
 fbdesign.it
@@ -164,13 +160,14 @@ frontmissionevolved.jp = front mission evolved|前線任務 進化|前线任务 
 galmeetsglam.com
 gameserverhosting.org
 garnetvalleyschools.com
-gatewayworkshops.co.uk
 getimg.ai
+getmobil.com
 giftpro.co.uk
 gipplab.org
 globalcasinostation.com
-gnome.org = alacarte|baobab|bmartin|builder|chess|dconf|disk usage analyzer|easytag|epiphany|evolution|gbrainy|gcalctool|gcmd|gconf|gconf-editor|gdict|gdm|geary|genie|glade|glade interface designer|glchess|glib|glib2|gnome builder|gnome calculator|gnome character map|gnome chess|gnome commander|gnome dictionary|gnome disk usage analyzer|gnome disks|gnome display manager|gnome files|gnome games|gnome games collection|gnome keyring|gnome office|gnome panel|gnome screenshot|gnome shell|gnome software|gnome system monitor|gnome terminal|gnome unicode character map|gnome videos|gnome web|gnome 軟體|gnome 鑰匙圈|gnome-calculator|gnome-chess|gnome-commander|gnome-dictionary|gnome-files|gnome-games|gnome-screenshot|gnome-shell|gnome-software|gnome-terminal|gnome字元對映|gnome字典|gnome字符映射|gnome截圖|gnome显示管理器|gnome檔案|gnome游戏|gnome磁盤|gnome終端|gnome終端機|gnome终端|gnome螢幕截圖|gnome計算機|gnome踩地雷|gnome遊戲|gnome顯示管理器|gnopernicus|gnote|gthumb|gucharmap|hildon|libxml2|metacity|muine|mutter|nautilus|nautilus檔案瀏覽器|novell evolution|orca|pygobject|pygtk|quadrapassel|rhythmbox|seahorse|sound juicer|totem|totem movie player|vinagre|zenity|終端機模式|頓悟瀏覽器
+gnome.org = alacarte|baobab|bmartin|builder|chess|dconf|disk usage analyzer|easytag|epiphany|evolution|gbrainy|gcalctool|gcmd|gconf|gconf-editor|gdict|gdm|geary|genie|glade|glade interface designer|glchess|glib|glib2|gnome builder|gnome calculator|gnome character map|gnome chess|gnome commander|gnome dictionary|gnome disk usage analyzer|gnome disks|gnome display manager|gnome files|gnome games|gnome games collection|gnome keyring|gnome office|gnome os|gnome panel|gnome screenshot|gnome shell|gnome software|gnome system monitor|gnome terminal|gnome unicode character map|gnome videos|gnome web|gnome 軟體|gnome 鑰匙圈|gnome-calculator|gnome-chess|gnome-commander|gnome-dictionary|gnome-files|gnome-games|gnome-screenshot|gnome-shell|gnome-software|gnome-terminal|gnome字元對映|gnome字典|gnome字符映射|gnome截圖|gnome显示管理器|gnome檔案|gnome游戏|gnome終端|gnome終端機|gnome终端|gnome螢幕截圖|gnome計算機|gnome踩地雷|gnome遊戲|gnome顯示管理器|gnopernicus|gnote|gthumb|gucharmap|hildon|libxml2|metacity|muine|mutter|nautilus|nautilus檔案瀏覽器|novell evolution|orca|pygobject|pygtk|quadrapassel|rhythmbox|seahorse|sound juicer|totem|totem movie player|vinagre|zenity|終端機模式|頓悟瀏覽器
 goldcasinopro.nl
+good88.cool
 goodsamatlanta.org
 gottalent.al
 gouts.fr
@@ -227,12 +224,12 @@ karnatakaapex.com
 kennys.ch
 kingdomcasino36.uk
 kirchhoff-gruppe.de
+kkhsou.ac.in
 kptmovies.com
 krewella.com
 kristinaforsman.se
 kthcradio.com
 kutakrock.com
-kvarnbygk.se
 langleyvillage.co.uk
 lapuantuomiokirkkoseurakunta.fi
 lawandmore.nl
@@ -272,6 +269,7 @@ micronx.co.kr
 midwifemusic.com
 milesbrundage.com
 millerandcarter.co.uk
+mincon.com
 mio-ecsde.org
 mishaderidder.com
 miweii.com
@@ -323,7 +321,6 @@ parafia-ryki.pl
 parafia-sadyba.pl
 patroba.be
 pdpmcc.co.in
-peacefulfruitsfoundation.org
 philringnalda.com
 physiobase.com
 piraterna.se
@@ -402,7 +399,6 @@ studentenwerk-leipzig.de
 studio352lux.com
 sueannpien.com
 suedkaernten.at
-sunsetvisitor.studio
 supernovaeo.com
 superyachtsundayschool.com
 suzuki-motor.ru

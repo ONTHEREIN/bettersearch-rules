@@ -68,6 +68,7 @@ bthf.nu
 budweg.com
 burragelaw.com
 buttonsgaloreandmore.net
+byd108web.com
 bygg21.no
 c17.es
 ca7seess.top
@@ -92,12 +93,13 @@ cindykleine.com
 citant.ai
 coinstrikeslot.cz
 colfaxwa.org
-com.ph = ayala corporation|banco de oro|bank of the philippine islands|bdo|bdo unibank|bdo unibank, inc.|bpi|century pacific food|changhe|globe|globe telecom|globe telecom inc.|greenwich pizza|hello health group|hello health group pte. ltd.|metrobank|metropolitan bank and trust company|philippine national bank|pnb|rebisco|republic biscuit corporation|san miguel beer|san miguel corp.|san miguel corporation|san miguel pale pilsen|universal robina|universal robina corporation|urc|viva entertainment|世纪太平洋食品有限公司|共和餅乾公司|大都会银行和信托公司|大都會銀行和信託公司|昌河汽车|格林威治比萨饼|格林威治比薩餅|环球电信|环球电讯|環球羅比娜公司|環球電信|環球電訊|生力啤酒|生力集團|维瓦通讯公司|菲商菲律賓首都銀行|菲律宾群岛银行|菲律賓商首都銀行|菲律賓國家銀行|菲律賓生力啤酒有限公司|菲律賓羣島銀行|菲律賓群島銀行|菲律賓首都銀行|金融銀行|金融银行|阿亞拉|阿亞拉公司|首都銀行|首都银行|首都银行及信托公司|黃金銀行|黄金银行
+com.ph = ayala corporation|banco de oro|bank of the philippine islands|bdo|bdo unibank|bdo unibank, inc.|bpi|century pacific food|changhe|globe|globe telecom|globe telecom inc.|greenwich pizza|hello health group|hello health group pte. ltd.|jack tv|metrobank|metropolitan bank and trust company|philippine national bank|pnb|rebisco|republic biscuit corporation|san miguel beer|san miguel corp.|san miguel corporation|san miguel pale pilsen|universal robina|universal robina corporation|urc|viva entertainment|世纪太平洋食品有限公司|共和餅乾公司|大都会银行和信托公司|大都會銀行和信託公司|昌河汽车|格林威治比萨饼|格林威治比薩餅|环球电信|环球电讯|環球羅比娜公司|環球電信|環球電訊|生力啤酒|生力集團|维瓦通讯公司|菲商菲律賓首都銀行|菲律宾群岛银行|菲律賓商首都銀行|菲律賓國家銀行|菲律賓生力啤酒有限公司|菲律賓羣島銀行|菲律賓群島銀行|菲律賓首都銀行|金融銀行|金融银行|阿亞拉|阿亞拉公司|首都銀行|首都银行|首都银行及信托公司|黃金銀行|黄金银行
 commonwealthsport.com
 confreaks.tv
 coprosa.es
 corelane.us
 corereelsdaily.nl
+coreyhinde.com
 correctorcastellano.top
 cowboy.com
 creer-son-ecole.com
@@ -163,7 +165,6 @@ fvbrugge.be
 fyqoxmfl.cc
 galactivation.com
 galawright.com
-game98win.io
 gatchinanights.ru
 ggpartners2.com
 goldbergloren.com
@@ -171,7 +172,6 @@ gorin.jp
 graindemalice.fr
 grameenresearch.org
 gumieldemercado.es
-gunesliescortgo.xyz
 gustinhouse.ca
 gzsruida.com
 halloy.fr
@@ -209,7 +209,6 @@ jacobandco.com
 jaman.cc
 jeremyconwaydesign.com
 jessicabaio.com
-jinzuanhunyin.com
 jsyphb.com
 juliemorgenstern.com
 jzip.com
@@ -275,7 +274,6 @@ mondru.com
 moniquesmit.nl
 montbard.com
 morenomorello.it
-mostri113.com
 movi-etown.com
 museumoftheglades.org
 musicmakesacity.com
@@ -365,11 +363,13 @@ sekisuikasei.com
 senselessofferings.com
 sensis.com.au
 sfhnigeria.org
+shanecandies.com
 sharp-stream.com
 shinjuku-robot.com
 shramdhamcollege.org
 si-wangshangliao.com.cn
 sim-flanders.be
+simondesenlisblogs.org
 simplifaster.com
 skjoldhoejkirke.dk
 skybee.com
@@ -453,11 +453,10 @@ verkaartfoundation.com
 vinea.nl
 vipflushworld.com
 visionobjects.com
-visitsuffolkva.com
 visusveto.lv
 vittoriaferdinandi.it
-viveinfo.com
 vlsi.kr
+vousvitamin.com
 waldeck.at
 waldospeople.fi
 watchbronze.com
@@ -466,7 +465,6 @@ wcprr.org
 whithorn.com
 willswagger.com
 wind-works.org
-winzcasino.fr
 wir-in-reichenbach.de
 wobrsq.cn
 wondershare.kr

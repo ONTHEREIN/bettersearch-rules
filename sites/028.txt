@@ -17,7 +17,6 @@ alej.cz
 alfalaval.com = alfa laval|阿法拉伐集團
 alnwickcastle.com
 alwyn.org.uk
-amandla.org.za
 amcmma.com
 amesasbell.com
 amigoshorseriding.com
@@ -278,7 +277,6 @@ mediaarthistory.org
 mesto-trebon.cz
 mestohabartov.cz
 metro.pr
-michellerahn.com
 mickwingert.com
 missnorthdakotateenusa.com
 mmdigest.com
@@ -287,7 +285,6 @@ mountain-goat.com
 mountainbikeracingteam.com
 myebanking.net
 nalipmediasummit.com
-neilhalstead.com
 new999.website
 nezarat.com
 nifs.org
@@ -333,7 +330,6 @@ praguepulsar.cz
 presepiopaolosesto.it
 pressfolios.com
 primeacesolutions.uk
-printis.nl
 pulsefit.bg
 putnamcounty.org
 qnw.com
@@ -415,7 +411,6 @@ thriveshine.co.uk
 thw-verden.de
 tiendabna.com.ar
 tikitakacasino1.cz
-togelslot7778.com
 tomas-kostka.com
 tomrocksmaths.com
 toonpur.com
@@ -439,11 +434,10 @@ vipbase.ca
 visit-koblenz.de
 visitthegambia.gm
 vividexpertbright.nl
+vnd77.lol
 voanoticias.com
 vocalid.ai
-vpuwkj.com
 walkawaymovie.com
-watchingthenet.com
 watsekatheatre.com
 whistleblowernetwork.net
 whitehousetransitionproject.org
@@ -453,7 +447,6 @@ winuxos.com = windows ubuntu|winux|wubuntu
 woodlandnash.org
 worksome.com
 xn--bauernstube-bocksmhle-qic.de
-ynzqgc.com
 yoshidaharumi.com
 yotel.com
 youngsurvival.org

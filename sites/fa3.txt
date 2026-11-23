@@ -25,7 +25,6 @@ amanaki.vn
 amp.com
 ampmcasino.io
 andreaskossiski.de
-angkanet.rocks
 anipi-italia.org
 anlaufstelle.help
 antalya-airport.aero
@@ -42,10 +41,10 @@ awael-alkhaleg.com
 ayto-villaconejos.com
 azasrs.gov
 babbittsonline.com
-baihengyu.com
 bankingnews.ro
 baou.edu.in
 bascom-cameras.fr
+beargrease.com
 beijing.com.cn
 berr.gov.uk
 berufsschule-butzbach.de
@@ -100,7 +99,6 @@ cs-kaktusy.cz
 cushmanco.com
 cy-clope.com
 dabcollegebeawar.com
-dabet1.trade
 daichi-m.co.jp
 daisy.audio
 dancarden.co.uk
@@ -136,6 +134,7 @@ equiloompro.app
 ericaehm.com
 ern-ernica.eu
 esowatch.com
+etgros.com
 ezerzeme.lv
 fambetcasino-fi.fi
 family-walker.co.uk
@@ -165,15 +164,11 @@ freebitco.in
 freedomcasino.net
 frellsen.org
 frsh.de
-fsbwjc.com
-fstanitsa.ru
 futureacademies.org
 gemeentebelangen-borger-odoorn.nl
 geometrydashwave.io
-gg888.io
 gladstonego.cloud
 gloskinbeauty.com
-golfpei.ca
 govvacationrewards.com
 gregorhuebner.de
 grs.de
@@ -225,7 +220,6 @@ k-kousya.or.jp
 kamrbb.ru
 kangarooshop.com.vn
 kati.net
-kattenkopcafe.nl
 kerstinofficial.com
 kgibank.com
 kilsbyprimary.net
@@ -243,6 +237,7 @@ leperreux94.fr
 lepharaoh.com.de
 lfi.fr
 lfi.it
+lftyhbkj.com
 lifeandscience.org
 lincolnmemorialgarden.org
 lnmxys.com
@@ -283,6 +278,7 @@ nbiodata.com
 ncchs.com
 netbet-dk.eu
 newidea.com.au
+nextheria.com
 nichiei-kikaku.jp
 nipponkatan.co.jp
 nmao.go.jp
@@ -297,6 +293,7 @@ on-app.in
 onebillionrising.de
 onedoc.ch
 onestruction.com
+optionsprofitcalculator.com
 oscar-k.dk
 oximity.com
 palaciodonachica.pt
@@ -315,6 +312,8 @@ peterwfrench.com
 petplan.nl
 pinar.cu
 pindscafe.dk
+pixelvaporrex.com
+playastrionx.com
 poesiatenkater.nl
 porozmawiajmyoit.pl
 proxyvpn.uk
@@ -357,8 +356,6 @@ scorm.com
 scoutingforgirls.com
 screenplaydock.co.uk
 seyranates.de
-shqxyr.com
-shuifashuiwu.com
 sida-info-service.org
 silvervipstation.com
 sizzix.com
@@ -369,7 +366,7 @@ slmc.lk
 slotstechtoday.co.uk
 smoothieking.com
 sndhalishahar.xyz
-solana.com = sol|sol token|solana|solana blockchain
+solana.com = sol|solana
 speedy-uk.com
 spiaggialapelosa.it
 spinboss.se
@@ -387,6 +384,7 @@ stephanhegyi.com
 sthelenatourism.com
 stiplc.com
 stjosephperambur.com
+stsur.ru
 sulisartut.gl
 sunrise-records.com
 suntien.com
@@ -400,6 +398,7 @@ teamdillonracing.com
 theacf.com
 thechangelog.com
 thelastairbendermovie.com
+themumbaispice.co.uk
 thepostemail.com
 thetrailconservancy.org
 thrfeed.com
@@ -433,12 +432,14 @@ welcome-hotels.com
 wellacre.org
 westking.ac.uk
 whitewaterrm.ca
+wildwinz-swiss.com
 wincarsracer.com
 wola-krzysztoporska.pl
 wolfshuegelturm-verein.de
 wraymer.com
 wzmetv.com
 xa-blt.com
+xanpool.com
 xx11.website
 ya18b.cn
 yarcatholic.ru

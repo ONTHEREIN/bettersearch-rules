@@ -6,7 +6,6 @@
 9158.com
 961bobfm.com
 a-bibliothek.org
-a1fa57.com
 ace-traductores.org
 adlerdellbrueck.de
 adventist.org.uk
@@ -28,6 +27,7 @@ alphasense.net
 alunathemovie.com
 anavar.us
 anderapartners.com
+animanorge.no
 antibioticsexpress.com
 appbase.io
 appstor.io
@@ -48,11 +48,10 @@ benedettavalanzano.it
 benediktinerlexikon.de
 berliner-kindl.de
 bethsholomfrederick.org
-betriviera.media
+betlike704.com
 bibliothek-cottbus.de
 bibliothekzug.ch
 bigbasssplashslot-tr.com
-bikefactory.com.co
 bilstein-marathon.de
 bilstontownhall.co.uk
 binningen.de
@@ -61,6 +60,7 @@ biotrust.com
 bizcapfunding.com
 blacksheepspringfield.com
 blackvoid.media
+blijvenlink.nl
 blitzjs.com
 blognetmag.co.uk
 bmn.sn
@@ -86,6 +86,7 @@ ceynovahq.com
 ch-fumel.fr
 chefbosquet.com
 child-life.jp
+chili-und-ciabatta.de
 chpublishing.co.uk
 chu-hugo.fr
 cktorp.no
@@ -99,6 +100,7 @@ comunedicastelpoto.it
 coopersvillehistoricalmuseum.org
 cosmoreviews.club
 courseadvisor.com
+cpartystore.com
 creditbot-mx.com
 crmzlin.cz
 cuba.travel
@@ -158,6 +160,7 @@ ethernut.de = ethernut
 european-virus-archive.com
 ezzotericusentertainment.com
 fannyhensel.de
+fengyangdn.com
 fergusonlaw.com
 ffw-debring.de
 fitauto.ru
@@ -196,6 +199,7 @@ globalpokermarket.com
 goblins.net
 goethehaus-frankfurt.de
 gordonrobichaux.com
+gorka-original.ru
 gosciencegirls.com
 gotten.github.io
 gpi.ac.jp
@@ -207,16 +211,13 @@ hamsunsenteret.no
 hangszergyujtemeny.hu
 heering.com
 hestenesdramer.no
-heyciara.com
 hillsports.com.au
 his-china.org
-hmisukamakmue.org
 hochgepokert.com
 hoosiervalley.org
 hotstreakcasino.uk
 hpsmedia-verlag.de
 iammadisonrose.com
-iamproud.com
 iccmoscow.ru
 ifaonline.co.uk
 igf-lusofonia.pt
@@ -297,6 +298,7 @@ motorera.com
 mp3car.com
 mtime.com
 my3q.com
+myfbaprep.com
 myfiresales.com
 mysky.co.jp
 nataliemarieames.com
@@ -310,7 +312,6 @@ neurology-asia.org
 nextdoor.com = nextdoor|nextdoor, inc.|nextdoor.com
 nielba.pl
 nikola-lenivets.ru
-ninecasino-bonusfr.org
 nixplay.com
 nlm.gov
 noisecreep.com = noisecreep|noisecreep.com
@@ -348,6 +349,7 @@ pawtucketri.gov
 pcbn-insert.com
 pencilcottage.co.uk
 peterbilak.com
+peterthomson.com
 polarengraving.com
 polomagona.it
 pomorze.pl
@@ -379,7 +381,6 @@ rucnroll.cat
 ruzindol.sk
 rvtsintlodewijk.be
 ryandundun.com
-s0yxi1.vip
 safety-edge.com
 saint-gobain-building-glass.com
 saintecatherine63.fr
@@ -413,7 +414,7 @@ slyce.it
 sno-sgmu.ru
 spacecowboys.net
 speakpercussion.com
-spiel-des-jahres.de
+spiel-des-jahres.de = spiel des jahres|spiel des jahres game of the year|德国年度游戏奖|德國年度最佳遊戲|德國年度遊戲獎
 ssmpce.cz
 sstebrno.cz
 stahl-zeit.de
@@ -430,7 +431,6 @@ stpetershigh.com
 strategiskanalyse.no
 stsauveurdaunis.fr
 sunrisemedical.nl
-sunwin.airforce
 super-sanctum-td.com
 szallaskeres.hu
 tableo.com
@@ -465,6 +465,7 @@ uab.cat
 ulviyyaali.com
 universalstandard.com
 upsampler.com
+urbanfarmhousepress.com
 urbanspinlab.uk
 urc.com
 usvt.ro

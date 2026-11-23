@@ -25,7 +25,6 @@ asil.no
 assess.com
 atacademy.org.uk
 atheros.cz
-audioimperia.com
 aurevoirsimone.com
 avcnoticias.com.mx
 ayodyaresortbali.com
@@ -157,6 +156,7 @@ frankelfamilyfoundation.org
 freefiremovie.com
 freshjournal.my
 fruit-deluxe.app
+fwyvpey.com
 g-h-h.de
 gamexperiencehub.com
 gaultmillau.at
@@ -174,7 +174,6 @@ go-text.me
 godanriver.com
 griffingp.com
 grus.dk
-guidegeek.net
 guidoguglielminetti.com
 hachimantai.or.jp
 hafh.com
@@ -346,7 +345,6 @@ platinumarena.ru
 plcmc.org
 politiekempenland.be
 postcodegarant.nl
-powershellempire.com
 pqphan.com
 primepointzone.nl
 probl-endojournals.ru
@@ -355,6 +353,7 @@ pullman-wa.gov
 pxwfoxto.com
 qdyz.com
 quantum-espresso.org = quantum espresso
+qubit.se
 questwinbig.pt
 quillemons.com
 radinghem-en-weppes.fr
@@ -449,6 +448,7 @@ thewickednoodle.com
 tiffaniloveart.com
 tjjironcastings.com
 tjrxch.net
+tomassini.com
 tooeleco.gov
 tour-blanche.com
 tourbitwawarszawska1920.pl
@@ -484,11 +484,13 @@ vooks.com
 wabano.com
 wellensteyn.com
 werkraum.org
+wfs.ca
 whjinyue.xyz
 winston.nl
 wolfplex.org
 woodstockchurchofchrist.org
 wpportfolio.net
+xenathion.com
 xh7o.cn
 xn--b1agnabvbcwdh.xn--p1ai
 xn--rt3az3b.jp

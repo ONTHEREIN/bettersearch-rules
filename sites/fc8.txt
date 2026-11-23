@@ -4,6 +4,7 @@
 21hospital.com
 400gb.com
 4sqrp.com
+82755710.com
 aba.org = aba|american birding association|美國觀鳥協會|美國賞鳥協會
 abritandasoutherner.com
 academie-tourisme.fr
@@ -26,6 +27,7 @@ arval.com
 asbh.org
 ascensium.es
 asf-ev.de
+avantgardecasino-ch.com
 avocats-nancy.com
 awawake.org
 ayjcn.com
@@ -50,10 +52,10 @@ bluemercury.co.za
 bobochang.cn
 bonlook.com
 bonton.cz
+boomerangbetcasino-es.es
 boostseo.io
 bricqueboscq.fr
 britjackpotlab.uk
-btbex.io
 businessdesigncentre.co.uk
 businessupside.com
 buzzfeednews.com = buzzfeed news|buzzfeednews.com|buzzfeed新聞|buzzfeed新闻
@@ -61,7 +63,6 @@ ca61pages.top
 camranorthherts.org.uk
 caninelc.com
 canterbury-farms.com
-caroola.com
 casopis-gradjevinar.hr
 catalamotos.com
 catherinebubnova.art
@@ -76,7 +77,6 @@ cine-rex.ch
 claimtime.com
 claire.im
 claremuldaur.com
-cn-qiutanlive.com.cn
 comeandreview.org
 compromat.ru
 consoleslam.co.uk
@@ -88,6 +88,7 @@ courtepin.ch
 crazytower.fi
 creuzburg-online.de
 crpipi.com
+crusadokasyno.pl
 czjiazhenggs.com
 dailytips.fr
 danube.com
@@ -108,7 +109,6 @@ disjarah-ad.org
 djerv1919.no
 dokoroko.com
 donmai.us = danbooru|紙箱|纸箱
-dotweekly.com
 doufull.cn
 dragonwingsvr.com
 drepic.com
@@ -216,6 +216,7 @@ jollyfarmersdining.co.uk
 jovansexy.com
 jstoma.com
 jxqta.shop
+kalebet681.com
 kathedralpfarrei-sebastian.de
 kawabo.com
 keihaskarnevaalit.fi
@@ -242,7 +243,6 @@ lczhi.com
 legenestsaintisle.fr
 liftmanual.com
 livereacting.com
-liveresults24.com
 londondrugs.com
 londonscottish.com
 lucastheatre.com
@@ -436,14 +436,15 @@ viamichelin.de
 ville-nogentlerotrou.fr
 visionupdate.us
 vistamark.com
+vivo-official.com
 w.wiki
-washingtonparks.net
 wccusd.net
 wdm.ca
 wendyventurini.com
 werkbank360.de
 wetlegband.com
 whimsicalwanderings.co.uk
+whopostedwhat.com
 winnzoria.nl
 wolfgold-gr.com
 wwszip.pl
@@ -455,6 +456,7 @@ yasar.edu.tr
 yoshi-moto.com
 youm7.com = youm7|第七日
 yyee.website
+zacdwatts.web.app
 zamin.uz
 zemianskaolca.sk
 zestvine.com

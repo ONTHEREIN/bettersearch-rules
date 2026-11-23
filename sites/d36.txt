@@ -15,6 +15,7 @@ adfc-frankfurt.de
 admbunkovo.ru
 advangameren.nl
 aeroportoportosanto.pt
+agakoy.com.tr
 agoudalife.com
 aic.ca
 aise.eu
@@ -78,11 +79,9 @@ cafexapp.com
 cazeus-win.com
 cbrsd.org
 ccre.org
-cerotec.net
 chambers-associate.com
 charlottenijs.nl
 charta-der-vielfalt.de
-chateaudecrevecoeur.com
 chauvetprofessional.com
 chickenroad-austria.at
 chiemsee-alpenland.de
@@ -113,7 +112,6 @@ cristianiortodossi.it
 csconstantine.net
 cstpdx.com
 ct.org.tw
-curiousnut.com
 darickrobertson.com
 dehaco.nl
 delicious.com
@@ -213,6 +211,7 @@ idag.se
 idl.org.pe
 iimlmanfest.com
 imech.ac.cn
+impressario1.com
 incauthority.com
 indibus.net
 instantadz.com
@@ -237,6 +236,7 @@ klsz.cc
 korsoer.dk
 krita-artists.org
 kroart.at
+kudos-online.com
 ky3.com
 kylascanlon.com
 kymetacorp.com
@@ -322,6 +322,7 @@ primary-care.or.jp
 primorski.eu
 professor-murmann.info
 pwastats.com
+qqlthot.com
 quickviewpoint.us
 qweather.com
 raadsalamnaaman.com
@@ -364,7 +365,6 @@ shellmuseum.org.uk
 shoplacumbre.com
 simacek.com
 simplymaid.com.au
-sinaiqh.com
 sirius-web.com
 slotdrive1090.de
 slotsgem-online.es
@@ -442,7 +442,6 @@ vegaooparty.com
 vernettalopez.com
 ville-montgiscard.fr
 vilppula.fi
-vintagegardensweddings.com
 vishay.com = vishay intertechnology|vishay半導體|威世科技公司
 vspsv.cz
 vyvod-iz-zapoya-na-domu-sankt-peterburg-abc.ru
@@ -458,7 +457,6 @@ williamhill-fi.fi
 williammattar.com
 woopmylife.org
 wordnestpulse.com
-wxagecl.com
 xn--24-plcha2a.xn--p1ai
 xn--elisenhof-mnchen-tzb.com
 xtzs21.cn

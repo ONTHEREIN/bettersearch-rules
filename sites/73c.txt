@@ -45,7 +45,6 @@ beeb.net
 beltandroad.news
 bereaky.gov
 bernardaud.com
-bet888-uk.com
 betasusgirislerin.icu
 betgovault.us
 betpath.de
@@ -212,15 +211,16 @@ interenergy.com
 internationaljournalofacarology.com
 internet-pr-beratung.de
 ishimaru-shinji.com
+itdongdong.com
 iwate.jp
 jackaudio.org = jack|jack audio connection kit
 jahlawfirm.com
-jakartatophotels.com
 jallacasino.org
 jamhammer.ca
 janeaustensworld.com
 jauneorange.be
 jeanienetwork.com
+jemkef.com
 jennifersirey.net
 jimmieschickenshack.net
 jimnabors.com
@@ -244,6 +244,7 @@ kdhlradio.com
 keonhacai5.onl
 kholmsk.ru
 kimptoncharlottesquare.com
+kipro.mx
 kismac-ng.org = kismac
 kiwitcms.org
 kjcy.com
@@ -302,11 +303,11 @@ mobruk.pl
 modsking.com
 mongolschool.org
 motteville-infos.fr
+moullinex.com
 munilaestrella.cl
 museum-in-der-schule.at
 myu-group.co.jp
 n24.ro
-nastiao.com
 nationalcoalitionforsexualhealth.org
 neoparty.link
 neuhandeln.de
@@ -325,6 +326,7 @@ obsidianroundup.org
 oibgroup.com
 okogroup.com
 olgchs.org
+one-pick.net
 oneminers.com
 onlyrepresentative.org
 openbusiness.ru
@@ -338,6 +340,7 @@ p5e5vr.vip
 packhelp.com
 paintedbride.org
 parafiastareolesno.pl
+pariwartankhabar.com
 partizanmedia.hu
 paulrushworthbrown.com
 pax.us
@@ -371,7 +374,6 @@ rallysportsclub.ca
 rapairport.com
 rapidjackpotplus.com
 raquelwillis.com
-realspin-casino.de
 rec-animation-factory.com
 reelradar.co.uk
 refashion.fr
@@ -442,7 +444,6 @@ the-anchorage-hotel.co.uk
 the-funbets.co.uk
 thearchitecthotel.com
 thebrandhopper.com
-theformulatorshop.com
 theharlington.co.uk
 thesassway.com
 thevaults.london
@@ -461,7 +462,6 @@ uoradea.ro
 urbanmegapoint.uk
 usafact.org
 usedsalvagecars.com
-usefulshortcuts.com
 v5w41.cn
 vcd.org
 vesly27.fr
@@ -474,6 +474,7 @@ vitadox.com
 vloeronline.nl
 voiceattack.com
 volxerpa.com
+w6z5zc.cn
 warside1.com
 wasserkraft-deutschland.de
 wavytalk.com

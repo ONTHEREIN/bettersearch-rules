@@ -5,7 +5,6 @@
 abcit.kz
 adaction.org
 adamosalvatore.com
-aeronewsjournal.com
 africanatureinvestors.org
 africanleadershipmagazine.co.uk
 agrichem.org.tw
@@ -70,6 +69,7 @@ c-space.eu
 cameoarthouse.com
 carrytefsen.nl
 cashontime.com
+casinopaymentsinfo.com
 catv-yokohama.ne.jp
 cdnyeshiva.org
 centralines.co.nz
@@ -135,6 +135,7 @@ exploroz.com
 fabiolacolmenarez.com
 fabioviale.it
 factoryofart.com
+fafa1918.com
 fairgrow.me
 falafel.ma
 fastguardservice.com
@@ -186,10 +187,12 @@ hosho.or.jp
 hugolandolfi.com
 hungryhearts.no
 huntingtonhistoricalandcommunitytrust.org
+hwcsc.com.cn
 iandickson.com.au
 iap.ac.cn
 iccsz.com
 ifap.org
+infiniteelectronics.com
 infofestival.com
 institutionsaintjosephlanavarre.fr
 intloop.com
@@ -310,6 +313,7 @@ pichilemunews.cl = el pichilemu|periodico pichilemu|periódico pichilemu|pichile
 pinoyexchange.com
 piratasvillena.com
 platon.ru
+playoflowe.com
 plentzia.net
 pocoproject.org = poco c++ libraries
 poonamjhawer.com
@@ -338,6 +342,7 @@ robzabrecky.com
 rockwoodmusichall.com
 rocodems.com
 rodenberg.de
+rodericgrigson.com
 rovesnik.ru
 ryokamiso-saitama.jp
 rzd-expo.ru
@@ -380,7 +385,7 @@ stant.com
 starehobzi.cz
 stockholmcultureawards.com
 strana-rosatom.ru
-styz123.com
+streameasttv.click
 subrosa.cc
 sunvalley.com
 sxbzjr.com
@@ -390,6 +395,7 @@ tamiliam.com
 tautavel.com
 tbs.org.tw
 tc-bredeney.de
+tdabelew.com
 telospressonline.com
 temmax69.me
 tempe.es

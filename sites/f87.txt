@@ -41,7 +41,6 @@ ashrafdali.com
 asino.casino
 atmosphere-kanifushi.com
 attorney-newyork.com
-au-spinbit.com
 au5music.com
 aud.edu
 aviatorpinapotzyvy.kz
@@ -133,10 +132,10 @@ django-cms.org = django cms|djangocms
 djarkitek.com
 dl-jinboli.com
 dn88tn.com
-docuweave.io
 dominicasdebetania.org
 domusmedica.dk
 dpg-brandenburg.de
+dpp-tool.com
 drops-rk.jp
 dynamicgamingexpress.com
 e-jcvi.org
@@ -202,6 +201,7 @@ grainesdetroc.fr
 granit-fx.dev
 gravesales.com
 greensm.com
+grid.life
 griessmuehle.de
 habitat.fr
 hackforla.org
@@ -236,7 +236,6 @@ jcas.jp
 jcment.co.kr
 jfecon.jp
 jigang.com.cn
-jiukew.com
 joeystyles.com
 jordanrussiacenter.org
 jumpcrypto.com
@@ -281,7 +280,6 @@ madeinmarseille.net
 madelinemartin.com
 magglobal.fr
 manishparashar.org
-maogshop.com
 mappingmuseums.org
 marinesciencecenter.com
 marleyspoon.de
@@ -298,7 +296,6 @@ miniaturmuseumarikalex.com
 missshirleys.com
 modere.com
 mogotex.by
-monacobet-sk.sk
 mooml.ru
 morlaix.fr
 morrinhosfc.blogspot.com
@@ -353,6 +350,7 @@ persiraja.com
 peterboykin.com
 pietroporcinai.it
 pioneer.co.uk
+pionheir.com
 plastikakritis.com
 poisonhive.com
 politanalitika.ru

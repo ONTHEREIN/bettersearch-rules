@@ -83,7 +83,6 @@ citresearch.de
 cityofmedinatn.org
 cloudflareaccess.com
 cndd.ro
-codegiant.io
 columbusgrove.org
 competencefactory.nl
 comunitasansaverio.it
@@ -173,6 +172,7 @@ hatman2010.org
 hazelden.org
 heesah.com
 heirsmagazine.com
+herma.be
 hessischer-landtag.de
 hibakupiano.com
 hideki-matsushita.com
@@ -200,6 +200,7 @@ janijipya.org
 janoubia.com
 janschou.dk
 jaywadley.com
+jeeny.me
 jesinacalcio.com
 jewmus.dk
 jimmymovie.com
@@ -259,7 +260,6 @@ mfmgt.com
 michaelfbonner.com
 mikefarrismusic.net
 mincom.gov.az
-minhhaseafood.com
 mjosen-lange.no
 mobilecrunch.com
 modeco.eu
@@ -308,7 +308,6 @@ phongthanvs.com
 physicsforums.com
 pintoe.co
 piraten.hamburg
-pixeleruption.com
 pixelheart.eu
 pixelnest.io
 playpartyplan.com
@@ -358,7 +357,6 @@ sinamuarchi.cl
 skinnyquick.to
 skk-banjaluckapivara.com
 slanguagestudio.com
-slot-machines.co
 slotdrive130.de
 solacebase.com
 solfia.org
@@ -366,10 +364,10 @@ sp14.pl
 spacemart.com
 special-a.jp
 spinmayacasinoo.nl
-spinteincasino.de
 spinunit.org
 sport-club-irgertsheim.de
 sportbet-ecuador.net
+sportsradio987.com
 sprucesf.com
 squatchthefilm.com
 ssdctallur.org
@@ -410,13 +408,10 @@ trustedpress.co.uk
 tulana.org
 turboavedon.com
 tylerbryantandtheshakedown.com
-tylkohiszpania.pl
 uam-csic.es
 ummalhoul.net
 urbanjackpotview.uk
 usa33ors.top
-userbot.ai
-usergacorwell.com
 uuarc.org
 uvalno.cz
 valeanddownlandmuseum.org.uk

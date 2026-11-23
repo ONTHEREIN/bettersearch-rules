@@ -7,7 +7,6 @@ a-class.org.nz
 aadcalabria.com
 aadocks.be
 aalbc.com
-abogadoproblemalegal.cl
 academiaandsocietyjournal.com
 addisontx.gov
 adler.com.pl
@@ -40,6 +39,7 @@ bankersadda.com
 barbaramarxhubbard.com
 bartwronski.com
 basecamphq.com
+bca.org.au
 beechysask.ca
 bellasugar.com
 bestparking.com
@@ -150,7 +150,6 @@ finnmarkdagblad.no
 fionalalircp.com
 firsttrustbank.co.uk
 fishnoodle.com.tw
-fitfreakk.com
 flexiple.com
 fm100.gr
 fondationpierrelafue.org
@@ -162,7 +161,6 @@ forumdediscussions.com
 freelatifa.com
 ft-ringsee.de
 fullforce.se
-g-tingche.com
 gamdom-dk.com
 gantdaily.com
 gdyniadesigndays.eu
@@ -379,6 +377,7 @@ skepdic.com
 skplotnik-dom.ru
 slonwsrh.pl
 slotenmakersnel.nl
+slotmachinesltd.com
 smartemailing.cz
 smithfrozenfoods.com
 spflashtool.com
@@ -442,8 +441,8 @@ visitmeadecounty.org
 vivod-iz-zapoya-2.ru
 volunta.de
 vrfitnessinsider.com
-wah-ha.nl
 wallstreet-billionaire.com
+waterloo-tourisme.be
 wbaltv.com
 wedskenya.com
 wfix.net
@@ -454,6 +453,7 @@ wisol.co.kr
 wolfscasino.nl
 wp-danmark.dk
 wtfjs.com
+wunderino-se.se
 xjtvs.com.cn
 xtremerace.fi
 yanaipostelnik.com

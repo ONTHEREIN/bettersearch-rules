@@ -1,6 +1,5 @@
 100kingitust.ee
 1021thesound.com
-1gom.llc
 1xbetazergiris.com
 22universal.com
 3epraha.cz
@@ -50,6 +49,7 @@ awrswheelrepair.com
 axelum.eu
 ayuntamientograjera.com
 bajajcorp.com
+barrock.bz
 benferinga.com
 bennet.com
 benthin.nl
@@ -58,7 +58,6 @@ berkshiremall.com
 betanki.pl
 bisontransport.com
 bjdch.gov.cn
-bkkvxjj.xyz
 black-diamond.jp
 bnksys.co.kr
 bobku.net
@@ -92,6 +91,7 @@ cliftonprimary.com
 cmamusic.nl
 cnab.cat
 cne.pt
+cngo-bgcn.ca
 collegeart.org
 collegialedudorat.com
 com.tr = al jazeera|al jazeera arabic|al jazeera satellite channel|al-jazeera|al-jazīrah|aljazeera|backrub|bbva担保银行|bim|bi̇m|diken|dogus holding|doğan holding company|doğuş holding|doğuş holding a.ş.|eczacıbaşı|ford otosan|garanti bank|garanti bankası|garanti bbva|gazete duvar|goo.gle|google|google homepage|google search|google search engine|google web search|google.com|google.com.hk|google.com.tw|google搜尋|google搜索|i̇nci sözlük|jazeera|jsc|karsan|koç holding|koç holding a.ş.|melco|mitsubishi denki k.k.|mitsubishi denki kabushiki-gaisha|mitsubishi electric|mitsubishi electric corporation|otokar|otosan|oyak renault|petrol ofisi|rehau|rehau group|roketsan|roketsan a.ş.|roketsan roket sanayii ve ticaret a.ş.|search|t24|turkcell|turkey newspaper|tülomsaş|türk telekom|türk telekomünikasyon a.ş.|türkiye|türkiye lokomotif ve motor sanayii a.ş.|türksat|türksat a.ş.|türksat 卫星通信与有线电视运营公司|türksat 衛星通訊與有線電視運營公司|ulker|united markets|vakıfbank|vestel|wengo|wikihow|wikihow, inc.|www.google.com|yandex mail|yandex.mail|yıldız holding|zorlu holding company|ülker|ülker gıda|三菱电机|三菱電機|半岛电视台|半島電視台|图尔克萨特卫星通信与有线电视运营公司|土耳其日报|奥托卡|奧菲西石油|威勝電子集團|戈茲控股|戈茲控股股份|戈茲控股股份有限公司|星辰控股|烏爾克|瓦基弗银行|福特奧托生|科奇控股|罗克桑工业|羅克桑國防企業|谷歌搜索|道昂控股
@@ -159,6 +159,7 @@ fiveseasonswindows.com
 flammeverte.org
 flowtrailplanet.com
 flux.ai
+fmfjlj.com
 franceangels.org
 frontier-science.gr
 frymaster.com
@@ -183,7 +184,6 @@ grammar.org.uk
 grandriver.org
 granicusideas.com
 gravityandothermyths.com
-grgraa.com
 guyader-avocat.fr
 hackujstat.cz
 hankyo.jp
@@ -201,7 +201,6 @@ hokuyo-keibi.co.jp
 hoosiercrossroadsconference.org
 horst-reichel.com
 housefoods-group.com
-hr-yun.com
 hspa.com
 huguespluviose.fr
 icckyoto.or.jp
@@ -337,8 +336,6 @@ pid4you.lu
 piercenebraska.com
 pigtou.com
 pinko.com
-planet-peptidez.com
-plazacafenovara.it
 pluvet.fr
 plwl.cn
 pmsmkm.in
@@ -414,10 +411,10 @@ synthesis.com
 takinogawagakuen.jp
 taruseki.co.jp
 tech4i2.com
+tehnikaarenda.ru
 terredelbarolo.com
 thaimassage-schwaigern.de
 thebiggreenk.com
-thecacaoproject.be
 theitalianlawjournal.it
 thespinmayas.nl
 thuengersheim.de

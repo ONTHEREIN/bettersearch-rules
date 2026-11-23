@@ -11,11 +11,13 @@ ad-magazin.de = architectural digest|建筑文摘|建築文摘|建築輯要
 adenauerhaus.de
 afera.com.pl
 ahlam-alshamsi.com
+aiqubelabs.io
 aixuebao.com.cn
 alandhotels.fi
 alarmforce.com
 alexzakharov.ru
 algon.cz
+alobet290.com
 aluminij.ba = aluminij mostar
 americanmysticthemovie.com
 amouduniversity.org
@@ -105,7 +107,6 @@ diogenis.com
 doccaro.de
 draha.net
 dvdlady.com
-dystr.com
 eatyourpizza.com
 efim.org
 ejournal36.com
@@ -158,7 +159,6 @@ goineau.com
 goldlion.com
 goquorum.com
 guidemysocial.com
-gulaiangsa.com
 haladjian.fr
 handyhand.dk
 harmankardon.com = harman kardon|harman/kardon|哈曼卡頓|哈曼卡顿
@@ -170,7 +170,6 @@ heartforafrica.org
 hebagowayed.com
 helle.dk
 hengjindj.com
-hfww5k.com
 hotelzaly.cz
 hpplus.jp
 humboldtcountynv.gov
@@ -205,7 +204,6 @@ karlstoecker.com
 kereview.or.kr
 kerrydarlington.co.uk
 keuskupan.blogspot.com
-kieferorthopaede.com.de
 kimerafilm.com
 king-size-rock.de
 kino67.ru
@@ -218,6 +216,7 @@ kroo.com
 kroshka-kazan.ru
 kujirakan.jp
 kyorin-pharm.co.jp
+la-casino.website
 labin.hr
 landscapegarten.com
 landshaft-kamen.com
@@ -229,7 +228,6 @@ lesagettes.ch
 lesbaxter.com
 letsreachsuccess.com
 lfikyoto.org
-lgbthostel.pl
 linguafranca.nyc
 linksalpha.com
 logicfocus.nl
@@ -298,6 +296,7 @@ papyrusonline.com
 paroissefayence.wordpress.com
 parrotlinux.org
 pascalackermann.com
+pegym.com
 pei-untamed.com
 pendeenschool.com
 pendleton-usa.com
@@ -306,7 +305,6 @@ pg12.ru
 pharmacept.com
 philharmoniegelre.nl
 pimpampumfoc.org
-pixelextended.tech
 pixeltechzwolle.nl
 pixelvetica.ch
 pkd-digital-support.netlify.app
@@ -322,6 +320,7 @@ primegamblezone.com
 principia.io
 professionalframing.com
 pulseclubspace.com
+puze-cn.com
 quake3arena.com = q3a|quake 3|quake 3 arena|quake 3: arena|quake iii|quake iii arena|quake iii: arena|quakeiii|雷神之錘3|雷神之錘iii團隊競技場|雷神之錘iii競技場|雷神之鎚iii競技場|雷神之锤3|雷神之锤iii|雷神之锤iii竞技场
 quatuorelmire.com
 queens-head-cranford.co.uk
@@ -338,6 +337,7 @@ red88tg.com
 rekrytointi.com
 respeggt.com
 retrobowl26.com
+reyting-top-kazino.lol
 rezeptsport.ru
 richmondparkacademy.org
 rijswijkseschouwburg.nl
@@ -370,14 +370,15 @@ silverhubnest.it
 silverreels.nl
 simotec.co.jp
 simpleshowing.com
+siyitax.org.cn
 skillstaff2.ru
 skinm2013.no
 skirlrecords.com
 sks-metaplast.com
 skylerhowes10.com
 slotadvisor.us
-slotonlinenaga888.com
 slotsfinder.co.uk
+slotspalace-casino-cz.com
 snowrider2.io
 soboba-nsn.gov
 sonicelements.com
@@ -389,6 +390,7 @@ ssmanhem.se
 sswento.org
 staeder.com
 stalic.ru
+starsling.dev
 stelladamasus.com
 stephaniebensonlive.com
 stewartfornb.com
@@ -398,6 +400,7 @@ stwst.at
 successfulblogging.com
 supacat.com
 sycamorestpeters.org
+sydneyfunlotto.net
 szalaipiroska.hu
 szona.org
 tabootattoo-anime.com
@@ -435,7 +438,6 @@ ultrapalacestation.com
 uncommoncaribbean.com
 undergroundfilmfest.it
 uni-passau.de
-unitedseo.ae
 unwomen.de
 upsdirectory.com
 uraboku.jp

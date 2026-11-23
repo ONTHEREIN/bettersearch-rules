@@ -81,7 +81,6 @@ ciapowermed.com
 cieletespace.fr
 cityofhope.org
 cityofmanchestertn.com
-clairvaux-2015.fr
 classiccarmuseum.org
 claudia-starkloff.com
 clausvanwageningen.nl
@@ -157,7 +156,6 @@ flavioventurini.com.br
 flyairsenegal.com = air senegal|szn|塞內加尔航空|塞內加爾航空
 footshop.com
 ford.com = ecosport|escape|escape 2.3 4wd|f-150|f-350|fomoco|ford|ford bronco|ford ecosport|ford edge|ford escape|ford expedition|ford explorer|ford f-1|ford f-100|ford f-110|ford f-140|ford f-150|ford f-2|ford f-250|ford f-260|ford f-3|ford f-350|ford f-4|ford f-5|ford f-7|ford f-8|ford f-series|ford flex|ford gt|ford mach-e|ford motor|ford motor co.|ford motor company|ford motor corporation|ford motors|ford mustang|ford mustang mach-e|ford sync|mach-e|mustang|sync ford, ford, sync|sync系統|福特|福特bronco|福特ecosport|福特edge|福特escape|福特expedition|福特explorer|福特flex|福特f型車|福特f系列|福特gt|福特mustang|福特sync|福特公司|福特征服者|福特探险家|福特探险者|福特汽車|福特汽車公司|福特汽车|福特烈马|福特翼搏|福特車廠|福特野馬|福特野馬mach-e|福特野马|福特锐界|福特锐际
-fortniterussia.com
 fotech.cl
 france-genomique.org
 fromthetopmusic.com
@@ -190,7 +188,6 @@ handson.nu
 hartleyjackson.com
 hatloom.com
 hebraico.top
-hi88com.skin
 hillross.com.au
 historiaana.fi
 hongluan.top
@@ -235,10 +232,8 @@ kinbets1.it
 kjskjbsdklksasdfh.space
 klipartz.com
 knent.com
-ko66.tours
 krainaz.org
 laboratorioespacial.blogspot.com
-laea.in
 lakesonoma50.com
 lamourend.com
 laposterecrute.fr
@@ -287,6 +282,7 @@ mmdays.com
 mobile-next.de
 moko.cc
 moon7groundss.top
+moonworldresorts.com
 morbidmoonrecords.com
 msbeducollege.in
 mteveresttandoori.nl
@@ -300,9 +296,11 @@ neoslibraries.ca
 netsecops.io
 newcollegeschool.org
 newscultureblog.uk
+nexapixelionx.com
 nickysboutiquecatering.co.nz
 njalliancefc.com
 njomza.net
+nkdnutrition.com
 nn-volley.ru
 norlandiahotelgroup.com
 northstarlds.org
@@ -340,7 +338,9 @@ pisabet480.com
 plat.ai
 playeverland.com
 polytechnics.ru
+pool-systems.de
 pourquoionsebat.com
+powerleague.co.uk
 pressassociationjamaica.org
 primariacornatelu.ro
 procm.ch
@@ -420,7 +420,6 @@ thebigclash.fr
 thecrucial12.com
 thejuice1073.com
 thesisterhoodofnight-movie.com
-thisisplaneted.org
 thomsonreuters.com = jcr|journal citation reports|thomson reuters|thomson reuters corporation|thomson scientific & healthcare|thomson-reuters|期刊引證報告|期刊引证报告|汤姆逊路透|汤森路透|汤森路透公司|湯姆遜路透|湯森路透|路透集团
 tibet-school.org
 tjec.gov.cn
@@ -479,7 +478,6 @@ yndcskbaghpat.com
 yodishit.com
 yolandasfetsos.com
 yorkcarecentre.ca
-youpin59.com
 ypressgames.com
 yshengslw.cn
 yukonreview.net

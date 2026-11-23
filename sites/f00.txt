@@ -29,7 +29,6 @@ archaeologyawards.org
 asdah.org
 asiafriendfinder.com
 athlonehigh.org
-au-betfair.org
 avion-travel.net
 ayto-caceres.es
 barbhagcollege.com
@@ -43,6 +42,7 @@ bigcat.org
 bigdogsseries.com
 blissing.com
 blog29.net
+bluecrux.com
 bolandrugby.co.za
 bookbeat.se
 boop.org
@@ -113,6 +113,7 @@ dragons.jp
 drdobbs.com
 dreamsky.co.jp
 dubaiwrc23.ae
+duet.edu.pk
 eastendmkt.com
 ecohustler.com
 econom-trans.ru
@@ -306,8 +307,6 @@ pedorthic.ca
 performanceart-giswil.ch
 philippe-bas.fr
 piepenbrock.de
-pin-up8v3.com
-pizpiretacafe.com
 podrobny-obzor-1xbet.ru
 ppai.org
 praesepeplc.com
@@ -407,7 +406,6 @@ todayhumor.co.kr
 toermalijn-uithoorn.nl
 toothbrushhistory.com
 topproducerwebsite.com
-tototogel1.org
 trace212.com
 trendsinurology.com
 trustedfirmware.org = mbed crypto|mbed tls|polarssl|xyssl
@@ -437,14 +435,12 @@ wilmingtonde.gov
 win666.net
 winer.org
 winnicajura.pl
-wisdomtreeprime.com
 wolfgantzen.fr
 wolfgreenfield.com
 woodartforms.com
 wuerzburgerfv.de
 xelw6p4r59.cn
 xentax.com
-xs-pc.com
 xssed.com
 xx966.com
 xxszazadintezet.hu

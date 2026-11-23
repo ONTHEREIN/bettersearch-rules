@@ -15,6 +15,7 @@ agat.by
 agentmlovestacos.com
 ajilon.com
 akongcuan.com
+akoskomuves.com
 alabado.org
 alan-carter.de
 albertosimone.it
@@ -59,6 +60,7 @@ blackwoodlt.org.uk
 bloementuin.nl
 blogalimentos.com
 blogfreely.net
+blogtimes.jp
 bloop.ai
 bmc.bw
 book-of-ra.pt
@@ -83,6 +85,7 @@ carolinanissen.cl
 carolinebinch.co.uk
 carolinestanbury.com
 carolinetiglao.com
+casinofambet.es
 castleviewpub.com
 cemadrian.com
 certainly.io
@@ -109,6 +112,7 @@ crowngreen777.com
 ctkprep.org
 culturarte.org
 cvcat.es
+cwlh.org.au
 dailybingoagency.uk
 davidjcutlerart.com
 ddmpraha.cz
@@ -140,7 +144,6 @@ ekai.pl
 ellis-cph.dk
 energy-cie.ro
 eopsa.eu
-epico.cc
 esxpress.org
 etherstack.com
 eurohockey.com
@@ -166,7 +169,6 @@ fulmersill.com
 fuluzhanggui.com
 fzxark.cn
 gates-olympus.com.de
-gbhjql.vip
 germanodesousa.com
 gmlounge.com
 goldenarchesunlimited.com
@@ -182,7 +184,7 @@ hacklinkgirisyap.com
 hammerklaviertrio.com
 happyvalley-goosebay.com
 hbredboys.lu
-heartsfc.co.uk
+heartsfc.co.uk = heart of midlothian f.c.|heart of midlothian football club|hearts|哈茨足球俱乐部|哈茨足球俱樂部|赫斯足球俱樂部|赫斯足球會
 helensharman.com
 helpmax.net
 hemismas.netlify.app
@@ -241,7 +243,6 @@ kuddewoerde.de
 kurt-gossweiler.de
 labcasino.gr
 landfield.com
-landria.io
 lanrivoare.fr
 laputan.org
 laulunystavat.fi
@@ -272,6 +273,7 @@ marecollege.nl
 marianizaguirre.com
 marina-events.nl
 martinfryc.eu
+mastercrafttires.com
 mathenot.com
 mcm4g.com
 me2.do
@@ -345,7 +347,6 @@ pl.ru
 planet-van.co.jp
 platinumlaser.com.ua
 playdaily.nl
-pnghut.com
 podrez.pl
 portofhelsinki.fi
 postfinance.ch = postfinance|瑞士邮政金融|瑞士郵政金融
@@ -374,7 +375,6 @@ romaitalianristorante.com
 rotativooaxaca.com.mx
 rtic.com.br
 rttibhopal.org
-ruderbaum.ch
 ruedlingen.ch
 saint-etienne-de-serre.fr
 sanahmusic.com
@@ -389,6 +389,7 @@ schrader-institute.de
 sebipol.com.pl
 sentabi.jp
 sgceducation.org
+shimantobank.com
 shokupan-sakimoto.com
 sjfhcl.com
 skopanie.pl
@@ -437,7 +438,6 @@ thepathoftruth.com
 theriversidechurchny.org
 thesportseconomist.com
 thestarrconspiracy.com
-thiruvallamunicipality.in
 timcelen.com
 tjasaferme.com
 tomax.at
@@ -447,7 +447,6 @@ toscanafantastica.com
 tregarantec.bzh
 trendforce.com.tw
 trendyone.de
-tropheesdelacom.so
 trunkcall.app
 tss21.co.jp
 tsv-roettenbach-1927.de
@@ -457,6 +456,7 @@ un-spider.org
 urbancoinonline.uk
 uschedule.com
 uusimmatkasinot.com
+uy888i.com
 vanakpark.net
 vegas-now-aus.com
 venturamuseum.org
@@ -483,7 +483,6 @@ xcfdcxh.com
 xfit.ru
 xingyecopper.com
 xinmengxiang.com.cn
-xoilactv.blog
 yeegp.cn
 yeguasdelapocalipsis.cl
 yourimpossiblevoice.com

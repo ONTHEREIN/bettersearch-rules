@@ -54,7 +54,6 @@ besserweiter.de
 bht920bio.com
 bingoagency.uk
 birdshouston.org
-bitwatyqt.cc
 blackfawnfilms.com
 blauersee-ratingen.de
 blueinc.co.uk
@@ -125,13 +124,14 @@ dresdner-bank.de = dresdner bank|德瑞斯顿银行|德累斯顿银行
 dsla.nl
 dyingtolivethemovie.com
 edu.ph
+elibrary.com.tw
 enamali.ml
 ermysteds.co.uk
 erowz.com
 espressif.com = esp8266|esp8266开发板|espressif|espressif systems|乐鑫|乐鑫科技
 eusprig.org
+evangeliodeldia.org
 familyandcommunityministries.org
-feiyencp.com
 festivalnuits.fr
 feuerwehr-neutiefenweg.de
 fightnews.info
@@ -176,7 +176,6 @@ heimentaler-biohof.de
 herborgkrakevik.no
 heritagelandscapesupplygroup.com
 himanetwork.com
-hindilyricssongs.in
 hjfm.co.kr
 hotel-florenc.cz
 housetube.tw
@@ -186,6 +185,7 @@ humanity-inclusion.org.uk
 hutorkasp.ru
 i2sl.org
 ijert.org
+ikea-hacka.com
 incubite.com
 indiancanyonsgolf.com
 inkjetwholesale.com.au
@@ -211,6 +211,7 @@ kibin.com
 kidsfirst.nl
 kilian-kerner.de
 kilishockey.no
+kindcutsforkids.net
 kingmaker.at
 kkrabotnicki.mk
 kkuriren.se
@@ -425,7 +426,6 @@ trippin.world
 truereelslab.nl
 twickenhamstadium.com
 uhigher.com
-uhuiquan.com
 universityarms.com
 urbandicecenter.uk
 usedomerfliegerclub.de
@@ -448,7 +448,6 @@ volldampf.ch
 walkaholic.me
 watchwhatueat.com
 watium.es
-weiqianxiang.com
 welivetogether.com
 wensolutions.com
 whysgs.com
@@ -460,10 +459,10 @@ xxx-red-tube.online
 xxyrtjj.com
 y5zu51.cn
 ycjiechu.com
+yhs555.com
 yicai.com
 ymcabrno.cz
 yoo-hoo.com
-yw-zone.com
 zakenreis.nl
 zborovy.cz
 zdenkabelas.com

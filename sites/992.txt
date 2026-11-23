@@ -73,6 +73,7 @@ brfamha.org
 britroyalbase.uk
 buddytuckerassociation.org
 buergerrat.de
+bulutklinik.com
 bxlcbl.com
 byterover.dev
 caca-cetsd.org.cn
@@ -81,7 +82,6 @@ canal18.tv
 cappuccino.org
 cartomatic.pl
 casinokingzone.us
-casinorewardsca.com
 castellodimorsasco.it
 cdht.gov.cn
 cegedim-sante.com
@@ -124,7 +124,7 @@ davidepstein.com
 dchs.org
 decayetti.com
 degaussgame.com
-delta-fan.com
+delta-fan.com = delta|delta electronics|delta electronics, inc.|台達電|台達電子|台達電子工業|达电子
 digitalpodcast.com
 diotima.org.gr
 directoriodigital.net
@@ -145,6 +145,7 @@ eevza.eu
 elisabeth-baume-schneider.ch
 ellix.ca
 emerilsrestaurants.com
+enbet125.com
 epim.info
 ericjsanchez.com
 esceo.org
@@ -223,7 +224,6 @@ ifatwa.info
 igs-remagen.de
 ik-h.de
 inanna.beauty
-inaples.it
 infinitology.net
 info-ler.fr
 inforeg.ru
@@ -249,7 +249,6 @@ julzwest.com
 justinmyers.net
 justonweb.be
 juyeecasa.com
-jyxhdb.com
 k8s.af
 kabsadhospital.com
 kahlomusic.com
@@ -281,6 +280,7 @@ ledesertderetz.fr
 lepe.es
 leschatonsdor.fr
 libella.fr
+lidyabet591.com
 lincolnvillesc.com
 linearcollider.org
 lloydmall.com
@@ -317,6 +317,7 @@ michaelwallis.com
 midsummermozart.org
 midwestexpress.com
 mileshield.co.uk
+mingsbistro.net
 mira.be
 missy-makeupartist.com
 mnbc.ca
@@ -328,13 +329,11 @@ msccrociere.it
 muhouderovka.ru
 museum-boezberg.ch
 mynewhitman.com
-nalandacollegepup.com
 nanabunnonijyuuni-mobile.com
 nandedairport.co.in
 narkologicheskaya-clinika-v-rostove19.ru
 natalie-rauch.com
 natalyakusch.com
-nbfl.gov
 ncsem.org.uk
 neinver.com
 neoassist.com
@@ -363,7 +362,6 @@ operapop.it
 oratoriorclube.com
 oulunravit.fi
 ovenclean.com
-ozdispb.com
 ozonefcbengaluru.com
 pacofemenia.com
 pairlabs.ai
@@ -429,7 +427,6 @@ sentirnyc.com
 serenityscreenings.com
 sharly.ai
 shibu-cli.com
-simplyinfinitephotography.com
 siris.nl
 sjakkselskapet.no
 skorogoszcz.pl
@@ -442,7 +439,6 @@ somersetcinemas8.com
 somersvilletownecenter.com
 sonacaremedical.com
 sparkthedarkradio.com
-specialistid.com
 spectrumnews.org
 spincoreonline.co.uk
 spinelligroup.eu
@@ -486,6 +482,7 @@ trendpress.de
 trtarabi.com
 tv3network.com
 tvoikirpichi.ru
+twoil-a.garden
 umbhost.net
 umek.si
 uninta.edu.br

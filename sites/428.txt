@@ -1,6 +1,5 @@
 131online.net
 24ways.org
-31bed.com
 352.com.ng
 98f.website
 aaacreditguide.com
@@ -47,6 +46,7 @@ benjamindreyer.com
 benoitfelici.com
 betafpv.com
 betneohero.us
+betosfer204.com
 betultrawave.us
 bgvmusic.ru
 bh.gov.cn
@@ -81,6 +81,7 @@ catholicschoolsny.org
 cbdchoice.com
 ccpanel.org.uk
 centrumchodov.cz
+centuryinitiative.ca
 cetiat.fr
 chauvigny.fr
 chemille-melay.fr
@@ -114,7 +115,6 @@ donatecar.ca
 dopravniakademie.cz
 doublezero.xyz
 dunkindonuts.co.kr
-duonina.com
 eaglesanantonio.com
 ebz-hesselberg.de
 ed-mall.cn
@@ -236,6 +236,7 @@ lh1ondemand.com
 liateam.ir
 licehappensga.com
 ligair.fr
+lightboxdigital.co.uk
 lilyskitchen.co.uk
 limburg.be
 linadavenant.com
@@ -245,6 +246,7 @@ lizzieemeh.com
 los-poetas.com
 loyolamalawi.org
 lucanskyarms.com
+lucernepools.com
 luisarnal.fr
 luleasportklubb.se
 madoka.org
@@ -256,11 +258,11 @@ malimedical.org
 maqhubela.com
 marathontechnologies.com
 marchhare.jp
+marjansmit.nl
 markusica.hr
 marstheatre.com
 mcnairscholars.com
 mcqueens.co.uk
-mebehoanggia.vn
 mecaes.es
 meridianms.org
 merryedwards.com
@@ -344,14 +346,13 @@ prostoy.ru
 puppetlabs.com
 pupswithchopsticks.com
 pyscal.org
-qjxwycm.com
 radaraereo.com.br
+raggedy-bits.com
 rancholosalamitos.com
 reedtech.com
 regionalmoment.com
 revue-fiduciaire.com
 ricarda-wyrwol.de
-rikvipkim.com
 ril-hockey.no
 rimfrostproduksjoner.no
 rivesaltais-agly.com
@@ -370,6 +371,7 @@ samesame-themovie.com
 santensogyosya-kikin.jp
 sasolution.kr
 save7.org
+sdwtjy.com
 serenebach.net
 shamisani-hospital.com
 share.ca
@@ -423,7 +425,6 @@ thenewtop10s.com
 thesilverdalehotel.co.uk
 thugnificentreviews.wordpress.com
 tissuedynamics.com
-todoferro.com
 tomgreen.com
 tomy-ibis.co.jp
 transatlanticrecords.com
@@ -445,13 +446,12 @@ verkehrsgeschichtliche-blaetter.de
 veryhotsex.net
 vexilo.id
 viollier.wordpress.com
-visitgallup.com
 visittrento.it
 vita.no
 vittoriobodini.it
 wadsworthtownship.org
 wasserstein-home.com
-waven-game.com = waven
+waven-game.com = dofus 3|dofus 3.0|dofus unity|dofus³|wakfu heroes|waven
 wgk-law.com
 wheeldirect.uk
 wochenblatt.cc
@@ -466,7 +466,6 @@ ykchoralsociety.org
 yo-ten.com
 yumenosora.co.jp
 zambawin.biz
-zgfzwl.com
 zoneonline.nl
 zoopark-rostov.ru
 ztjs.net.cn

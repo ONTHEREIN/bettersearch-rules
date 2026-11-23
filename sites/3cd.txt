@@ -4,6 +4,7 @@
 aaslan.com
 abre.ai
 acdp.es
+acteff.org
 afm.org
 afyon.bel.tr
 aihorde.net
@@ -21,7 +22,6 @@ anmatino.ee
 annauniv.edu
 antiquaria-preis.de
 antu.gov.cn
-aobongdare.com
 apigee.com
 arash-shadram.com
 artexplora.org
@@ -33,7 +33,6 @@ azbowlgame.com
 bagiowhite.co
 bank.nl
 basworld.com
-bbdu.ac.in
 bddmv.org
 beckinstitute.org
 bernardlama.fr
@@ -66,16 +65,16 @@ charlien-musik.com
 chatanagruni.sk
 chateaudejosselin.com
 cherylnunn.com
+chicken-game.co.uk
 chofumusicfestival.com
 choisir.ch
 choisylavictoire.fr
+chunyuwang.org
 ciaoweb.it
-cijferbaas.nl
 cirebontoto.to
 civicx.com
 civilsocietybrewing.com
 clintoncountyohdems.org
-cn-xinqiulive.com.cn
 cnjournals.org
 coca-cola.ru
 colinjames.co.nz
@@ -130,7 +129,6 @@ everlink.tools
 everythinginoneblog.co.uk
 faralloncapital.com
 fareastmalls.com.sg
-fatfruitcasino.ch
 fbflipper.com
 federaciocatalanahalterofilia.cat
 firmo.pt
@@ -144,9 +142,11 @@ fredlanting.org
 freistaedter-bier.at
 funmujersigloxxi.org
 galekkeropvakantie.nl
+gamemanclub.club
 gardenclub.org
 gaujac47.fr
 gbstandards.org
+gdaoxu.com
 gedar.eus
 gedeonprogrammes.com
 genevieveparis.com
@@ -175,6 +175,7 @@ hiromi-go.net
 hitclub88.love
 hksm.com.hk
 homeinvest.no
+homelesshealthcare.org.au
 hoorstichting.nl
 hotelroanoke.com
 hotspringscentraltheater.com
@@ -312,7 +313,6 @@ peru.info
 pic.net
 pistolwimp.com
 pkck8uc.cn
-pokerok1001.com
 pokretzanarodidrzavunis.org
 postbus.at
 prj-exp.ru
@@ -360,7 +360,6 @@ self.inc
 sellpy.de
 sertec-int.com
 servik.com
-sf1.io
 sfhir.com
 shaistalodhi.com
 shearings.com
@@ -383,7 +382,6 @@ spinybetcasino.net
 spokanepride.org
 sqyouest.com
 st-margarets.org
-starcelik.com
 statsmarketresearch.com
 steagathehistoricalsociety.com
 stetson.edu
@@ -409,7 +407,6 @@ technoscore.com
 temataviews.co.nz
 templatesjungle.com
 tentsile.com
-thamesrockets.com
 the2unlimited.com
 thearushahotel.com
 thecottonsmith.com
@@ -418,6 +415,7 @@ thedrybar.com
 theleastofthese.movie
 theodor-heuss-schule-kiel.de
 theredlionculworth.co.uk
+theviolethourmusical.com
 thewavesmusic.com
 tnms.tv
 tongalaps.wordpress.com
@@ -442,6 +440,7 @@ urbanbetsplace.uk
 urbanplaysource.uk
 utsubo.com
 uzumtezkor.uz = uzum|uzum company
+v-count.com
 veho.fi
 veloland.fr
 vernongwells.com
@@ -468,12 +467,12 @@ wichmann-verlag.de
 wikilima.com
 wilcoworld.net = wilco|威爾科
 windmillhillcityfarm.org.uk
-wolfgoldgame-cz.com
 worcestershireregiment.com
 work-smart-initiative.ch
 worldserveintl.org
 wqxo.com
 wsw-netz.de
+x572p.cn
 xn--80abfbchbax2ff4a.xn--p1ai
 xn--e1aod0b.xn--p1ai
 xplore.ca

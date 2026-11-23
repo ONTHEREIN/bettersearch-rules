@@ -5,7 +5,6 @@
 8183461.top
 98winco.com
 academia-net.org
-academia-research.com
 adammotor.com
 adamsalliance.org
 adlinktech.com
@@ -27,12 +26,14 @@ apidentidade.wordpress.com
 aplacetohotels.com
 apollodiagnostics.in
 arbidoc.blogspot.com
+archeryrecurvebowsonline.com
 architecturendesign.net
 armcatistanbul.org
 asls.org.uk
 aspanaes.org
 assocarenews.it
 ateliermarcelhastir.eu
+avers.ua
 aviator-game.ca
 bachelorpartythefilm.com
 bahasakita.com
@@ -146,7 +147,6 @@ eldongroveacademy.co.uk
 eliskap.com
 enerflo.com
 enthrallinggumption.com
-epuffer.ca
 equipmentfa.com
 escamoes.pt
 esporteclubejacuipense.com
@@ -157,6 +157,7 @@ eventival.com
 evidenceforchristianity.org
 evreimir.com
 extempore.ch
+extour-shop.ru
 fasdk12.org
 fatimasyed.com
 ffwhof.de
@@ -164,7 +165,6 @@ fireflies.dk
 fishntalesadventures.com
 fjoergyn.com
 flughafen-luebeck.de
-flux2ai.io
 flychanchangiair.com
 frankierandall.com
 frankrosspharmacy.com
@@ -216,6 +216,7 @@ itmco.ir
 itsuonakashima.blogspot.com
 ivrha.org
 iwilltakemychances.com
+janicecookknight.com
 jeanchristopheattias.net
 jesusonextasy.com
 jimstengel.com
@@ -226,7 +227,6 @@ jolly-pasta.co.jp
 jsfrente.net
 jsgwy.com.cn
 jumoke-verissimo.com
-junoco.com
 just-pro.jp
 kathbradford.com
 kelvedonacademy.com
@@ -262,10 +262,12 @@ magicalspin.eu
 maike-kranaster.de
 makingqueerhistory.com
 mala-yerba.com
+marc-o-polo.de
 marista-lisboa.org
 markwahlberg.com
 maskinbladet.dk
 masterchef.com.my
+maxadventuretrails.com
 mchughconstruction.com
 medwatch.dk
 megaspinarena.nl
@@ -329,7 +331,6 @@ predict-idlab.github.io
 primereeltoday.uk
 prodz.tokyo
 profit-energo.ru
-projecthm.movie
 prolope.es
 prolyte.com
 pulseitmagazine.com.au
@@ -431,7 +432,6 @@ unionfenosa.es = union fenosa|unión fenosa|費諾薩聯合集團
 urbanbase.fr
 urbanwildfocus.uk
 usa7debates.top
-v-top-hk.com
 vandanapublications.com
 vegadream88.de
 vegasmoosecasinoguideuk.com
@@ -441,6 +441,7 @@ villelacstjoseph.com
 vimejiac.org
 virily.com
 vskmv.org
+whmdcx.com
 wikib.us
 wnsw228.cn
 womenscollegebalangir.in

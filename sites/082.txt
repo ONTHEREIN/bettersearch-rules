@@ -48,6 +48,7 @@ bargonigiancarlo.it
 beatricewertli.ch
 beattvhn.com
 bebisrestaurant.gr
+bec88.media
 bensonmill.org
 bertheerink.nl
 betrixmedia.co.uk
@@ -89,7 +90,6 @@ coffreimperial.fr
 commonwealth-planners.org
 comunecantiano.eu
 conectaverde.es
-cooneyconway.com
 cordasco.ch
 coreum.com
 cotidianul.md
@@ -110,12 +110,14 @@ delicity.com
 dharmendrasewan.com
 diceview.uk
 divyadeepatrust.org
+djhlv.com
 dn.ua
 dnews.gr
 dolly-web.com
 domaine-lafage.com
 dougargue.com
 dprcg.gov.in
+dvntlv.com
 earthbalancenatural.com
 editorialminerva.com
 elektrobud.eu
@@ -131,6 +133,7 @@ europe-calling.de
 exim.pl
 eyesonukraine.eu
 fadedpage.com
+fastpayment.co.kr
 fdlmovies.com
 fearinthefens.com
 feuerwehr-eppishausen.de
@@ -141,7 +144,6 @@ fooddata.dk
 forodvd.com
 foundationpsp.org
 francissu.com
-frappuccino.com
 frei.hu
 friedenspaedagogik.de
 fujitsu-siemens.de
@@ -166,6 +168,7 @@ grepit.se
 gsvu.ru
 gtt.az
 guideglobalblog.uk
+h93z27.cn
 hacklinknetwork.com
 heidiklum.de
 hf.gov.cn
@@ -215,6 +218,7 @@ knezicky.cz
 knihovnabakov.cz
 kochi-tabi.jp
 konbila.com
+kredikolay.net
 kungsangengc.se
 kupferinstitut.de
 kurikara.org
@@ -227,7 +231,6 @@ lexibook.com
 lff.lv
 lhsnstl.org
 limmud.org
-linkvaored88.com
 liveoficial.com.br
 lorenzoisd.net
 lotter.de
@@ -258,6 +261,7 @@ meijiyakuhin.co.jp
 melide.ch
 menbowramenbar.com
 mesowatt.it
+michauto.org
 michtheatre.ru
 millicanpecan.com
 mitspitzerfeder.de
@@ -279,7 +283,6 @@ neguac.com
 newdurhamdemocrats.org
 newsazerbaijan.net
 nextviplounge.com
-ngjtxne.com
 nimmagaddafoundation.org
 ningenkumikyoku.wordpress.com
 nisenet.org
@@ -298,6 +301,7 @@ optimaworks.ca
 optirankz.shop
 orbitforgenow.com
 osdd.net
+osopox.com
 ospedalebuccherilaferla.it
 oupjournals.org
 ourforte.com
@@ -309,7 +313,6 @@ participation-et-democratie.fr
 pasekandpaul.com
 pcre2project.github.io = [^: space:]|libpare|libpcre|libpcre386|pcre|pcre383|pcre386|perl compatible regular expressions|相容於perl的正規表示式
 pecsiegyhazmegye.hu
-peemmudatogel.net
 perspektivstrategi.se
 pez.com
 photographyforrealestate.net
@@ -323,7 +326,6 @@ pmcpa.org.uk
 polarcomic.com
 polderbreed.nl
 popbytes.com
-pregabalin.life
 primariaabrud.ro
 privatization.gov.ua
 prizma.mk
@@ -338,15 +340,16 @@ ramboyrecordings.com
 raphaelledegroot.net
 rapidmade.com
 rasdradio.net
+rasingstars.com
 raven-games.net
 rcgs.jp
 readingrainbow.com
 realmoneycasinogame.net
 red-adamant.com
 redlinesuperbike.com
-redrubynorway.com
 refugioisd.net
 res.org.uk
+ridgid.cn
 ringo-spin-it.co.it
 rkmvdeoghar.org
 roche.co.kr
@@ -417,6 +420,7 @@ thetelegraph.com
 thevillagemaid.co.uk
 tinaruthe.de
 top3doctors.com
+toureiffel.fr
 traditours.com
 trentdabbs.com
 ubn.news
@@ -456,6 +460,7 @@ wordsandpictures.org
 worldescortsclub.com
 wuawfm.com
 xfmvip.com
+xvs271.cn
 youthfrontiers.org
 zeppelinflug.de
 zhongfang.gov.cn

@@ -59,7 +59,6 @@ ceyrekmuhendis.com
 cglznmovcq.com
 chestnutridgevillage.org
 chevignon.fr
-chicken-crash.nl
 childlife.org
 chocolateskateboards.com
 christykinard.com
@@ -93,7 +92,6 @@ dg-sucht.de
 dgm.world
 dhlog.com
 dichterbij.nl
-dingzhiqiao.com
 directoryalbum.com
 djerbamuseum.tn
 djsutherland.ml
@@ -107,6 +105,7 @@ duapp.com
 duchenne.org.uk
 dumate.cn
 duskygrey.com
+edfoxconsulting.com
 edwardwillett.com
 efay.eu
 eisenberg.co.kr
@@ -116,8 +115,8 @@ ellsaline.org
 eparhijabacka.info
 epsg-registry.org
 essexcountystandard.co.uk
-euro247-ko.com
 everymantheatre.org
+exonsys.com
 faitsdiversmedia.com
 fantelas.net
 feeneytrust.org.uk
@@ -136,7 +135,7 @@ gedisa.com
 genderlib.org
 gestair.com
 gjr.org
-glottolog.org
+glottolog.org = glottolog
 go999.ink
 goboso.org
 godz-dk.com
@@ -174,7 +173,6 @@ iowarealty.com
 isosugar.org
 iwtsd.gov
 izmic.net
-jamalouki.net
 jams-prenatal.jp
 jesus-serviteur.org
 jili12345download.net
@@ -232,7 +230,6 @@ maven.co.il
 maya-entertainment.com
 mccrarysisters.com
 medierosen.no
-meifengla.com
 meikoi-psp.com
 meine-rab.de
 memoriamundo.es
@@ -356,6 +353,7 @@ slotscentralplus.co.uk
 sonyadunbar.com
 souls-of-fire.com
 southseattle.edu
+spins-heaven.com
 splingaerd.net
 spread.co.jp
 sscce.org
@@ -396,6 +394,7 @@ twinq.nl
 ufrj.br
 unaoc.org
 universalavenue.com
+uqhealthcare.org.au
 usame.life
 usblackchambers.org
 uscx.us
@@ -432,7 +431,6 @@ xts686.com
 yamamahmag.com
 ye19r.cn
 yfj7z.cn
-yirenzhitou.com
 yonago-navi.jp
 ysujs.cn
 yubasuttertransit.com

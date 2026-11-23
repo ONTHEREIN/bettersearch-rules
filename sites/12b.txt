@@ -15,6 +15,7 @@ adfclub.com
 adultproducts.top
 africanos.eu
 africantextilemuseum.org
+afroyard.net
 airjordan4.org
 ajiunit.com
 akbuzatrb.ru
@@ -102,6 +103,7 @@ creativeaffairsdc.com
 crimeofaggression.info
 crushsoda.com = crush|orange crush
 csonge.hu
+cstmr.com
 curat.io
 cxm.world
 darkpeakbooks.co.uk
@@ -144,7 +146,9 @@ feelee.ru
 filimbi.com
 filiptrejbal.cz
 finanzamt-aachen-kreis.de
+findforexbonus.com
 fiordalisoweb.it
+fletaro.com
 fleurametz.com
 foodfairmarkets.com
 fosslife.org
@@ -171,7 +175,6 @@ gitolite.com
 gojimo.com
 gov.ve
 grafickikolektiv.org
-grandevegasfrance.com
 groundnet.co.jp
 growthzoneapp.com
 gtkmm.org = gtkmm
@@ -187,7 +190,6 @@ hduquesadecardona.com
 herrjan.de
 hikunpeng.com
 himamandalawaluya.ac.id
-hmcy-cg.com
 homegrowngrouprealty.com
 homepad.com
 hub.berlin
@@ -254,6 +256,7 @@ loirette.fr
 lorenzopetrocca.de
 lovaticsspeeduptime.com
 luckmodern.nl
+luongson-tv.info
 lushixian.gov.cn
 luswu.cn
 lycee-fabert.com
@@ -271,7 +274,7 @@ megaoddsmeta.com
 meisakuroki.com
 melissa-zhang.com
 metmuseum.ph
-mewgenics.com = mew-genics|mew-genics!|mewgenics|mewgenics!|喵基因
+mewgenics.com = mew-genics|mew-genics!|mewgenics|mewgenics!|喵喵的结合|喵基因
 mgcwoodchem.com
 midas.co.za
 midianinja.org
@@ -282,7 +285,6 @@ minatomirai21.com
 minichallenge.co.uk
 minorikawa.jp
 minoshima.jp
-missionsvalencia.eu
 mitsuoka-motor.com = mitsuoka|mitsuoka motor|mitsuoka motor co., ltd.|光冈汽车|光岡汽車|光岡汽車公司|光岡自動車
 mizensir.com
 mk-lenobl.ru
@@ -385,7 +387,6 @@ sk-ii.jp
 skills-group.org
 sleeklofts.com
 sleepermagazine.com
-solotogelfresh.com
 sophieblackall.com
 sophieherfort.com
 southeastasiafilmfestival.com
@@ -414,7 +415,6 @@ tavernalelis.gr
 tchibo.com = tchibo|奇堡
 teatrocestello.it
 techobserver.in
-textit.com
 thebankwrexham.com
 thebrenster.ca
 thecambridgeroom.wordpress.com
@@ -455,6 +455,7 @@ vdsmedujno.com
 vedantaaluminium.com
 ventura-design.nl
 verneglobal.com
+verthilix.com
 viciff.com
 viewbug.com
 vigamus.com
@@ -465,6 +466,7 @@ visit-oita.jp
 vistex.com
 vividarenaspark.it
 vrbankmecklenburg.de
+vulkanspielecasino-gr.gr
 vyvod-iz-zapoya-v-ekaterinburge21.ru
 w99-casino.com
 walentowski-galerien.de
@@ -486,11 +488,11 @@ xianguorou.cn
 xn--80aaieumwdryc.xn--p1ai
 xoilacct.tv
 yasminjaidin.com
-ydgjym.com
 yogaoutlet.com
 yorkcatholic.org
 yrfentertainment.com
 zenarena.nl
 zkkgospic.hr
 zooyuu.cn
+ztpczirm.cn
 zvigill.wordpress.com

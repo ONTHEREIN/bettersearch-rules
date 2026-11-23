@@ -7,7 +7,6 @@
 abacad.com
 academiahistoria.ec
 accuradio.com
-actuanews.fr
 adamsbrowncpa.com
 addaeditore.it
 adhet-tchad.org
@@ -24,11 +23,10 @@ ajec.cat
 al-diaz.com
 alexubago.com
 alonkaplan.com
-aluminatiboards.com
+alteracapital.com.br
 ambilly.fr
 americanspa.com
 americaoutloud.news
-amfvoi.mobi
 amkrajewski.github.io
 andypando.com
 animaking.com.br
@@ -42,6 +40,7 @@ atriummedcenter.org
 authena.io
 avgol.com
 bancofilipino.com
+bdmbetcasino-es.es
 belgradelibrary.org
 betterworldbooks.com = better world books
 beyondrace.com
@@ -92,6 +91,7 @@ dapacheckertools.store
 darkdividefilm.com
 dashofjazz.com
 dataverse.nl
+de.dk
 decenter.kr
 dependability.org
 designkit.org
@@ -100,7 +100,6 @@ dezernatzukunft.org
 dialogue-in-silence.com
 dier.nu
 dirsyncpro.org = dirsync pro|dirsyncpro
-dlcompare.fr
 domoweklimaty.pl
 drfv.de
 duboiswyoming.org
@@ -121,6 +120,7 @@ espn.com.ec
 estrellaolariaga.com
 estudiosvedicos.es
 europianocomp.eu
+eva-vlg.ru
 evergladessafaripark.com
 f168.health
 face26.com
@@ -209,6 +209,7 @@ julie-mack.com
 kannyaka.in
 kapsradio.com
 keibyo.jp
+keluaranhk2021.net
 kerth-music.de
 kfmall.com.tw
 kimjew.com
@@ -235,6 +236,7 @@ ldcsb.ca
 leanblog.org
 learningglass.eu
 lefidelaire.fr
+lekangwuye.com
 lenscap.gg
 lindustriadellecostruzioni.it
 logixlaic.it
@@ -245,7 +247,6 @@ machine0.io
 maidpurecleaningservices.com
 mairie-cessy.fr
 makeawish.ca
-maldive999.com
 malighting.com
 mannwelding.com
 marcelleemann.ch
@@ -271,6 +272,7 @@ muifelbrouwerij.nl
 ncblpc.org
 nekoslot88.live
 nelke-official.com
+news-uptodate.club
 nicklaird.com
 nigelmartin-smith.com
 niko.ua
@@ -403,7 +405,6 @@ summitxpoker.co.uk
 swiftreview.us
 syfantuan.cn
 synear.cn
-szkolamotyli.eu
 tabtrade.com
 tadalafil20.us
 takadanobuhiko.com
@@ -455,7 +456,6 @@ venusandthesun.com
 vertexslotplatform.nl
 viaqqq.top
 viewstl.com
-vigilante.tv
 vikigeorgiopoulou.com
 vilgimn.ru
 vinybeltramelli.com
@@ -485,6 +485,7 @@ xiexingbao.cn
 xn--sor-bc-dya.dk
 xyshjj.cn
 yceo-mobilite.fr
+ylhzram.cn
 yorkstreetproject.org
 youradchoices.ca
 yourewelcome.com
@@ -494,6 +495,5 @@ zbcdjy.com
 zegna.us
 zentechbridge.nl
 zhiznzemli.ru
-zienjournals.com
 ziu.gov.pl
 zysj.com.cn

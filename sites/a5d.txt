@@ -20,6 +20,7 @@ alphabetastock.com
 alphaindustries.com = alpha industries
 alsoft.cz
 altomuenster.de
+amart.com.co
 amt.pl
 anglers-arms.com
 ant.games
@@ -84,6 +85,7 @@ ciahering.com.br
 cincinnatiballet.com
 cineby.vip
 clgcrua.com
+click2clinic.com
 clyrskin.com
 cncc.fr
 cntaiping.com
@@ -99,7 +101,6 @@ cricketact.com.au
 cristinaguglielmino.com
 customs.bg
 czechdidgeridoo.com
-dancegavindanceband.com
 danieledipauli.com
 dataforce.co.jp
 deckarakademin.se
@@ -115,7 +116,6 @@ digitale-technologien.de
 disney.ph
 doseoptics.com
 drasaraguirao.com
-dreamon.com.tr
 dress-for-less.nl
 drjanedraycott.co.uk
 drraphaelperez-es.com
@@ -141,15 +141,12 @@ federacioncantabradehipica.com
 federicosecondo.org
 fergusonhighschool.net
 ffc-asso.fr
-fiberartsy.com
 fictosexuality.org
 firstbankrichmond.com
 flarestudiogo.com
-fomexsa.com
 frankiemiller.net
 fredtheband.com
 freedomnewspaper.com
-freetextbox.com
 freshwagernetwork.com
 fromion.org
 gale.care
@@ -166,6 +163,7 @@ harvester-yakumo.com
 hbbdecor.com
 hd1.com.br
 headleysurrey.org.uk
+hfyongli.com
 hikearizona.com
 hillwoodsedugujarat.org
 hitgenerator.pl
@@ -200,11 +198,13 @@ itlos.org
 iwamizawa-hospital.jp
 jackpotdaily.co.uk
 jaewook.net
+jasminslots.no
 jasondelucia.com
 jbpress.co.jp
 jennibick.com
 jet.com
 joker123ths.me
+jokerbet462.com
 jonmychal.com
 joor.com
 joss-fong.com
@@ -221,7 +221,6 @@ kinghornfoundation.com.au
 klingonheart.com
 klinikum-os.de
 knihovnapodebrady.cz
-kokshetau.asia
 konrader.eu
 koreagrandsale.co.kr
 kouzinbedlam.com
@@ -293,6 +292,7 @@ no7beauty.com
 novapalaceexpress.nl
 nsitp.com
 nyirbeltek.hu
+nyspinscasino.se
 okeanews.fr
 olderedlionpub.co.uk
 omegadeltaphi.com
@@ -318,8 +318,8 @@ poesia-clozza.ch
 poltekkes-medan.ac.id
 portwest.com
 postly.ai
-ppi-group.eu
 prism-sd.org
+privateequityvaluation.com
 proalphazonezone.nl
 proaurum.de
 proxfree.com
@@ -361,11 +361,9 @@ sd-gs.com.cn
 senkouji.jp
 seoulbeltway.co.kr
 severinonegri.com
-sfw.vc
 sgmetro.com
 shandongjuxue.com
 shootjimmy.com
-signal.support
 simplisisdesign.com
 simplygram.com
 sinoian.com
@@ -375,6 +373,7 @@ slotindustries867.de
 sm-eco-10060.org
 smallcapasia.com
 smpdb.ca
+social27.com
 socolive2.cv
 sofitel-marseille-vieuxport.com
 sophia-eternal.jp
@@ -387,6 +386,7 @@ summitcasino890.com
 sunhaeim.com
 super-appli.co.jp
 superprof.com
+swipeblocked.com
 tacticalmagic.org
 talkingstickresort.com
 tanoaireed.com
@@ -427,6 +427,7 @@ vfb-kirchhellen.de
 viacampylitera.es
 viapresse.com
 videor.co.jp
+view-hub.org
 virtualbox.org = innotek virtualbox|oracle virtualbox|oracle vm virtual box|oracle vm virtualbox|sun virtualbox|vbox|virtual box|virtualbox
 visitdublin.com
 visitnoordlimburg.nl
@@ -439,6 +440,7 @@ westace-casino.co
 whichev.net
 wikiromandie.org
 win.or.jp
+wishwin.com.gr
 wlink.org
 worldnaturephotographyawards.com
 wwfparma.wordpress.com

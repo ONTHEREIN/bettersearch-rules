@@ -9,6 +9,7 @@ affordaplane.com
 afftopbrand.com
 akat.dk
 akto.io
+akwatur.com
 al-luhnstedt.de
 albertafindaprovider.ca
 albertanewsprint.com
@@ -48,7 +49,7 @@ bio1000.com
 biogen.dk
 bizangob.com
 blastbrawl2.com
-bobjellison.com
+bobsirrigationrepair.com
 bodet.com
 boldjournalfeed.com
 bossche-encyclopedie.nl
@@ -170,7 +171,6 @@ fortunenation.nl
 fra-foa.net
 francinetint.com
 frank-casino1.ru
-freelancestar.com
 frenchwam.com
 freyaparker.com
 fsv-steinmark.de
@@ -332,6 +332,7 @@ openoregon.org
 orionvolleybal.nl
 ostechnik.de
 otherbrotherdarryls.com
+palletliquidationusa.com
 panizzerameatco.com
 paolofreguglia.it
 parcomontenetto.it
@@ -340,6 +341,7 @@ pastest.com
 patrickmin.com
 paveprime.com
 pendo.io
+peoplerate.co
 periscopedata.com
 pflb.us
 pgi-ca.com
@@ -359,7 +361,6 @@ projectartaud.org
 puan.gov.cn
 qantara.de = qantara|qantara.de
 qdhaici.cn
-qiming020.com
 qlep.com
 qoppa.com = pdf studio
 quechantribe.com
@@ -400,7 +401,6 @@ skl.de
 slimshots.info
 smstitan.ru
 socialistul.ro
-softsuave.com
 sonnyemory-cachet.com
 sou-hristo-botev-ivaylovgrad.org
 soulounge.com
@@ -438,13 +438,12 @@ trywhisk.com
 tsacg.com
 twingabriel.de
 twinklephone.com
-tyalxx.com
+u9k11.cn
 uefa.tv
 uffizi.it
 ukplaygrandcasino.com
 unilinkbus.co.uk
 union-of-russian-artists.ru
-usa-the-republic.com
 utilitalia.it
 utxesa.org
 uzovskysalgov.sk
@@ -469,6 +468,7 @@ winking.be
 wistaria.com
 woodsport.net
 workspacealliance.com
+wqa8thg.cn
 writeless.ai
 wsmydd.cn
 wuhouci.net.cn
@@ -477,7 +477,6 @@ x0fb05.cn
 xferrecords.com
 xn----8sbakfjltdc3bazq.xn--p1ai
 xn----btborqaficil.xn--p1ai
-xn--80aahduajfrohbczhd9ib4i.xn--p1ai
 xu.edu.ph
 yamaguchimioko.jp
 yellz.jp

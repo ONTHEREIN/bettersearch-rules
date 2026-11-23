@@ -1,7 +1,5 @@
-100-hk.com
 114study.com
 11foot8.com
-123cy.in
 789win.download
 7thsunday.nl
 889993606.xyz
@@ -10,6 +8,7 @@ aboutbritain.com
 abstracts2view.com
 actcom.co.il
 activelearninglab.nl
+adrenomedullin.us
 adsame.com
 afkarblog.com
 afpral.fr
@@ -34,6 +33,7 @@ asbeaune.fr
 asf.am
 ashimagebank.org
 astroximperium.com
+audiomuse.ai
 avalara.com
 aviamasters-games.net
 ayiamarinouda.org
@@ -71,6 +71,7 @@ camelliabowl.com
 camerepenali.it
 camillealbane.com
 canarias7.es
+cankirixkizlari.xyz
 carriecuinn.com
 casa.io
 casinofeedhub.co.uk
@@ -100,7 +101,6 @@ costaam.com.au
 couchespingo.fr
 court.gov.mo
 cphoto.net
-crimea-portal.gov.ua
 cronicaviva.com.pe
 crosly.be
 crucial.fr
@@ -147,6 +147,7 @@ ethichub.com
 eventbrite.de
 experienceberks.com
 expert.com.ua
+expertschaleurbois.fr
 exploration-patrimoine.com
 falconermuseum.co.uk
 feri.de
@@ -158,7 +159,6 @@ freimaurerdortmund.de
 freshaurapoint.com
 friskasker.no
 fulbright.pt
-fun88-th.com
 fundforthepublicinterest.org
 furusetmoske.no
 fussball-feuchtwangen.de
@@ -198,6 +198,7 @@ ifqgo.cn
 ilafox.com
 imagefap.com
 imageforumfestival.com
+insuite.io
 insulinresistance.org
 insurancehero.org.uk
 inteligivel.com
@@ -207,6 +208,7 @@ ironesingleton.com
 ishimbaimr.ru
 ismacs.net
 isny-katholisch.de
+isuzu.fr
 itfc-idb.org
 izzi-casino-apk.ru
 jakemorley.com
@@ -222,6 +224,7 @@ jpacd.org
 jpsny.org
 jumpassociates.com
 jurisprudenciaarg.com
+kaddio.com
 katzhang.com
 ketamindhealth.ca
 kgchem.co.kr
@@ -283,7 +286,7 @@ newainnovation.com
 nichiigakkan.co.jp
 nikkasystems.com
 nikomoon.com
-nintendo.co.jp = big brain academy: brain vs. brain|buddy mission: bond|donkey konga 3|fire emblem engage|game builder garage|kirby's dream buffet|kirby's return to dream land deluxe|mario & sonic at the olympic games|mario kart 64|mario party superstars|mario power tennis|mario strikers: battle league|mario world 2|mario world 2: yoshi’s island|mario's super picross|metroid prime remastered|mk 64|mk64|mobile golf|nintendo ds browser|nintendo switch sports|nintendo switch 运动|nintendo switch 運動|opera devices|photo channel|pikmin 4|pokémon trozei!|smw 2|smw 2: yoshi island|smw 2: yoshi’s island|smw2|smw2: yoshi island|splatoon 3|star fox 64|super mario 3d land|super mario bros. 5|super mario brothers 5|super mario kart r|super mario rpg|super mario world 2|super mario world 2: yoshi island|super mario world 2: yoshi's island|super mario world 2: yoshi’s island|swm2: yoshi’s island|the legend of zelda: skyward sword hd|today & tomorrow channel|today and tomorrow channel|tv no tomo channel|warioware: get it together!|warioware: touched!|xenoblade chronicles 3|yoshi island|yoshi's island|yoshi's island: super mario world 2|yoshi’s island|分享同乐！瓦力欧制造|分享同樂！瓦利歐製造|卡比的美食节|塞尔达传说 御天之剑hd|宝可梦益智方块|密特罗德 究极 复刻版|异度神剑3|搭档任务 秘密搜查组|搭檔任務 秘密搜查組|摸摸瓦力欧制造|摸摸瓦里奥制造|摸摸瓦里奧製造|斯普拉遁3|星之卡比 wii 豪华版|星之卡比 wii 豪華版|星际火狐64|星際火狐64|火焰之纹章 结合|灵活脑学校 一起伸展大脑|玛利欧与音速小子在北京奥林匹克运动会|瑪利歐派對 超級巨星|瑪利歐激戰前鋒 戰鬥聯賽|瑪利歐與音速小子在北京奧林匹克運動會|瑪利歐超級繪圖方塊|異度神劍3|皮克敏4|耀西島|薩爾達傳說 禦天之劍hd|觸控壞俐歐工坊|超級瑪利歐 耀西島|超級瑪利歐3d樂園|超級瑪利歐世界2 耀西島|超级玛利欧3d乐园|超级马力欧 耀西岛|超级马力欧3d乐园|超级马力欧rpg|超级马里奥 耀西岛|附带导航！一做就上手 第一次的游戏程序设计|附帶導航！一做就上手 第一次的遊戲程式設計|马力欧与索尼克在北京奥林匹克运动会|马力欧派对 超级巨星|马力欧激战前锋 战斗联赛|马力欧的超级绘图方块|马里奥网球gc|马里奥赛车64
+nintendo.co.jp = big brain academy: brain vs. brain|buddy mission: bond|donkey konga 3|fire emblem engage|game builder garage|kirby's dream buffet|kirby's return to dream land deluxe|mario & sonic at the olympic games|mario kart 64|mario party superstars|mario power tennis|mario strikers: battle league|mario world 2|mario world 2: yoshi’s island|mario's super picross|metroid prime remastered|mobile golf|nintendo ds browser|nintendo switch sports|nintendo switch 运动|nintendo switch 運動|opera devices|photo channel|pikmin 4|pokémon trozei!|smw 2|smw 2: yoshi island|smw 2: yoshi’s island|smw2|smw2: yoshi island|splatoon 3|star fox 64|super mario 3d land|super mario all-stars|super mario bros. 5|super mario brothers 5|super mario rpg|super mario world 2|super mario world 2: yoshi island|super mario world 2: yoshi's island|super mario world 2: yoshi’s island|swm2: yoshi’s island|the legend of zelda: skyward sword hd|today & tomorrow channel|today and tomorrow channel|tv no tomo channel|warioware: get it together!|warioware: touched!|xenoblade chronicles 3|yoshi island|yoshi's island|yoshi's island: super mario world 2|yoshi’s island|分享同乐！瓦力欧制造|分享同樂！瓦利歐製造|卡比的美食节|塞尔达传说 御天之剑hd|宝可梦益智方块|密特罗德 究极 复刻版|异度神剑3|搭档任务 秘密搜查组|搭檔任務 秘密搜查組|摸摸瓦力欧制造|摸摸瓦里奥制造|摸摸瓦里奧製造|斯普拉遁3|星之卡比 wii 豪华版|星之卡比 wii 豪華版|星际火狐64|星際火狐64|火焰之纹章 结合|灵活脑学校 一起伸展大脑|玛利欧与音速小子在北京奥林匹克运动会|瑪利歐派對 超級巨星|瑪利歐激戰前鋒 戰鬥聯賽|瑪利歐與音速小子在北京奧林匹克運動會|瑪利歐超級繪圖方塊|異度神劍3|皮克敏4|耀西島|薩爾達傳說 禦天之劍hd|觸控壞俐歐工坊|超級瑪利歐 耀西島|超級瑪利歐3d樂園|超級瑪利歐世界2 耀西島|超級瑪利歐合集|超級馬里奧合集|超级玛利欧3d乐园|超级马力欧 耀西岛|超级马力欧3d乐园|超级马力欧rpg|超级马里奥合集|附带导航！一做就上手 第一次的游戏程序设计|附帶導航！一做就上手 第一次的遊戲程式設計|马力欧与索尼克在北京奥林匹克运动会|马力欧派对 超级巨星|马力欧激战前锋 战斗联赛|马力欧的超级绘图方块|马里奥网球gc|马里奥赛车64
 nipsbutala.org
 nirajchag.com
 northsydneybuscharters.com.au
@@ -309,6 +312,7 @@ palazzoversace.com
 parcotepilora.it
 parkeren-amsterdam.com
 paulettetavormina.com
+paysafecard-casino-online.de
 pazpena.com
 peacemaker.net
 pedigree.com = pedigree dog food|pedigree petfoods|宝路|宝路犬粮|宝路狗粮|寶路|寶路寵物食品|寶路犬糧|寶路狗糧
@@ -318,13 +322,13 @@ pervasivedb.com
 peterbrownartist.com
 pgii.org
 philvandeklundert.nl
-pictadesk.com
 pilarcalvo.com
 piltdownman.co.uk
 plantationreclaimed.com
 playadelfuego.org
 playfault.com
 plus61j.net.au
+plushpuppyusa.com
 plxtech.com
 pmcindiana.com
 pollhost.com

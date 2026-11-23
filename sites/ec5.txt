@@ -37,6 +37,7 @@ asianjab.com
 asst-lecco.it
 atdmt.com
 atillagirgin.net
+avalue.com.tw
 avocuddle.net
 backgrounddancer.com
 barefootthemovie.com
@@ -60,7 +61,6 @@ borderlex.net
 borupkirke.dk
 boulderhumane.org
 brianvickers.com
-bridgehousegrants.org.uk
 brightreviewbuzz.nl
 browtu.shop
 bshasselbraam.nl
@@ -151,16 +151,13 @@ events.ir
 expressionpartage.fr
 fahrenheit911.com
 fate-go.us = fate/grand order|fate/grand order arcade|fgo|命运-冠位指定|命運－冠位指定
-fbgtxchamber.org
 fedenachaa.cl
 ffjpoker.com
 ficsf.it
 finanzamt-wunsiedel.de
-fish-road.net
 fitnessfuture.sk
 flugplatz-eisenach.de
 forschungen-engi.ch
-friendshipbreadkitchen.com
 fujiya-camera.co.jp
 funke-mediengruppe.de = funke mediengruppe|waz-mediengruppe|丰克媒体集团|冯克媒体集团|芬克媒体集团|馮克媒體集團
 furze.no
@@ -202,7 +199,6 @@ impakter.com
 inference.systems
 innive.com
 insem.co.kr
-internetmurah.my
 interris.it
 iport.io
 ispt.com.cn
@@ -215,6 +211,7 @@ jess-staehr.dk
 jgv.com
 jl18.com.ph
 johnsonhardware.com
+jokerbet539.com
 joshuaschultz.com
 jrbpk.com
 juicestore.com
@@ -244,6 +241,7 @@ luckyjetgame-tr.com
 luckytigercasino.com
 lweicourse.com
 lycee-bellevue.fr
+magicpowerbuilder.com
 mairie-huttenheim.fr
 mairie-salaise-sur-sanne.fr
 makthaverskan.se
@@ -318,6 +316,7 @@ paroisse-orgeval-morainvilliers.fr
 passt.top
 patientworthy.com
 patnacricketacademy.com
+pavetest.com
 pencil-animation.org
 phff.de
 physio-control.com
@@ -348,7 +347,6 @@ renew-fuel.com
 reshetmofet.org
 restauranthalvemaan.nl
 rfgalicia.org
-richthofen.com
 rickyskaggs.com
 rogueenergy.com
 rokycany.cz
@@ -369,12 +367,9 @@ secretnuclearbunker.co.uk
 selfmedicationhypothesis.com
 semits.com
 seoandcode.com
-settheexpectation.org
-shengyuzhilan.com
 shopbeavervalley.com
 showmecables.com
 single-betcalculator.uk
-sinofnhealth.com
 sj-rt.ru
 skanevolley.se
 skimasktheslumpgod.net
@@ -429,6 +424,7 @@ tiguimininggroup.com
 tikomed.com
 tnhrce.org
 tokyo-ad.or.jp
+totalimagemedspa.com
 totallychoice.com = bit.trip beat|bit.trip core|bit.trip runner|bit.trip void|像素奔跑者|像素跑者|畫素跑者|節奏方塊|节奏方块
 touch33.net
 tourismevalenciennes.fr
@@ -441,15 +437,16 @@ ulstersavings.com
 unabhaengige-buerger.de
 unigirona.cat
 unlimited-elements.com
+uqk9cmzv.cn
 usa33affects.xyz
 uselectionatlas.org = uselectionatlas.org|戴夫·萊普的美國總統選舉地圖集
 vandenheuvel-orgelbouw.nl
-vbfsdf.com
 vegasinoenligne.fr
 verdecora.es
 versico.com
 viequizz.com
 village-lacustre.ch
+villesetshopping.fr
 voiesvertes.com
 volksbank-muensingen.de
 volvrz.ru

@@ -8,6 +8,7 @@
 7card.co.jp
 98wincom.wiki
 a-hotel.com
+a2ztaxcorp.net
 ac-consulting.ru
 acozykitchen.com
 adamlaxaltforag.com
@@ -36,6 +37,7 @@ arbelecos.es
 arcadexcentral29.us
 archdisabilitylaw.ca
 archiviodistatovenezia.it
+arielgroup.com
 arigrafmilano.it
 artecorp.co.jp
 artworkstrenton.org
@@ -50,6 +52,7 @@ axxzia.co.jp
 azerbaijan-evisa.info
 banouto.bj
 bcbx.delivery
+beijingyang.com
 belgernschildau.de
 benjay.co
 beoir.org
@@ -126,7 +129,6 @@ digitalax.xyz
 diiri.org
 discoveryholding.com
 dmaxx.ae
-domainjk.com
 dongtanop.com
 dreamquark.com
 dublindesign.ie
@@ -160,12 +162,10 @@ fayobserver.com = fayetteville observer|the fayetteville observer|費耶特維�
 feelthepower.org
 feuerwehrmuseum-bayern.de
 figliedivinozelo.it
-findsio.io
 fivedoves.com
 flightnetwork.com
 floridatechonline.com
 fnac-static.com
-followme.pl
 forestsolutionstudio.it
 forzaitalianfootball.com
 fosterandpartners.com = foster + partners|foster and partners|foster associates|福斯特建築事務所
@@ -190,6 +190,7 @@ grand-arcade.co.uk
 granlogiadebolivia.bo
 greatplacetowork.me
 grinchmovie.com
+groovetechnology.com
 groundfloor.us
 groupenationaluniversitaire.org
 grovex.io
@@ -358,7 +359,6 @@ projectredcap.org
 psprings.co.uk
 pwtag.org
 qiubei-git.cn
-qtic.com.au
 querio.ai
 quorn.ph = quorn|庫恩|闊恩牌素肉
 radiosupernova.pl
@@ -420,6 +420,7 @@ sonalmitra.com
 spelkoret.com
 sprinteropt.ru
 stadtbibliothek-od.de
+stanleybet-casino.it
 startdir.nl
 steamusercontent.com
 stediuk.com
@@ -453,6 +454,7 @@ topmso.com.tw
 toratshraga.com
 toray-intl.co.jp
 tourofukraine.org
+travel.google
 travelwisconsin.com
 treatwell.be
 ttv.pl
@@ -460,6 +462,7 @@ u66g9.cn
 udidavidi.com
 udla.edu.ec
 uni-landau.de
+unicalag.it
 unitedukrainianballet.com
 universitas21.com
 urbaniana.va
@@ -480,6 +483,7 @@ vzberlin.org
 webuilderapp.com
 wellcomeimages.org
 westernwater.com.au
+wettelijke-feestdagen.nl
 willyhomes.com
 winkler-tobias.de
 wir3.de
@@ -490,11 +494,11 @@ xblog.in
 xn----7sbcacvtbeqee7ah8ati1o.xn--p1ai
 xn--eqrt2g.xn--vuq861b
 xoriant.com
-xtratech.org
 yellowpages.co.id
 yesenergy.com
 yonghong2008.com
 yukidaruma-kogen.com
+zenitrovax.com
 zeppelin-museum-zeppelinheim.de
 zertificon.com
 zukunftsallianz.at

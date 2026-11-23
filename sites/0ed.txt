@@ -18,6 +18,7 @@ agifest.com
 aidrom.ro
 aksp.ru
 aktavite.com.au
+alacc.org.au
 ale8one.com
 alextalbotrice.com
 allegiancemovie.com
@@ -126,7 +127,6 @@ easyhitcounters.com
 ecomuseorisofiumipaesaggio.it
 egmf.org
 emdmusic.org
-employ.co.il
 energyarts.com
 eoipalma.com
 epea.com
@@ -152,6 +152,7 @@ fvv-creatieve-noordzeevrouwen-wenduine.be
 gaaaa.org
 galaxycombatwargames.com
 gamecrush.com
+gcdiscipleship.com
 gdhcp.cn
 geektimes.com
 geipan.fr
@@ -238,6 +239,7 @@ kiri.or.kr
 kite-surf-sport.de
 klintegaarden-aarhus.dk
 knihovnapecka.cz
+kouroshzaim.org
 kulturquartier-neustrelitz.de
 lacabanamaldives.com
 laliste-everythingornothing.com
@@ -262,6 +264,7 @@ lowestfare.com
 lsd-community-fentanyl.site
 lumino-lamp.com
 lusso.com
+luxservis.com.ua
 malarodriguez.com
 manfredmann.co.uk
 maplemountains.ca
@@ -274,6 +277,7 @@ mediaigaming.ca
 medicentrum.hu
 mensheaven.jp
 mierzyce.pl
+miguelaguirre.com
 minisforum.jp
 missalaskapageant.com
 mjmmed.com
@@ -281,7 +285,7 @@ mkamin.ski
 mobelbiochem.com
 modernprizestore.uk
 moh-scientific-anime.com
-monsterking.eu
+moodings.com
 mooeraudio.com
 motherwellcathedral.co.uk
 musicadaripostiglio.it
@@ -308,7 +312,7 @@ ocls.org
 odgers.com
 oebbtickets.at
 openbravo.com = openbravo
-otomelara.it = oto melara|oto-melara|oto/melara|奥托·梅莱拉|奥托梅莱拉|奧托梅萊拉
+otomelara.it = oto melara|oto/melara|奥托·梅莱拉|奥托梅莱拉|奧托梅萊拉
 oxford.co.za
 p7okpdi.mom
 pahaperhe.fi
@@ -356,10 +360,12 @@ rifugiobarbellino.it
 rikoremont.ru
 risefusionlabs.id
 rocketmail.com = rocketmail|rocketmail.com
+roman80th.com
 rossdouglas.com
 rsmrm.id
 rushprint.no
 russiancity.ru
+sa4dus.github.io
 saje.ca
 salvadios.es
 sc-moskitos-wuppertal.de
@@ -391,6 +397,7 @@ stmarysprestwich.org
 storl.de
 studiosborgerstraat.nl
 suesel.de
+super-ts.com
 superlogica.com
 synonymet.no
 talent-databank.co.jp
@@ -438,7 +445,7 @@ wanggaofeng.cn
 wfglobal.org
 wfrkny.com
 whatthepitta.com
-winaura-online.com
+whippy.ai
 wintermond.net
 wiskundemeisjes.nl
 withresumeai.com

@@ -19,6 +19,7 @@ aignay-le-duc.com
 alliantpowder.com
 alt-market.us
 altenbuch.de
+amhgttv.com
 anxll.cn
 anzchog.org
 archeologi-italiani.it
@@ -85,6 +86,7 @@ cbdszop.pl
 cdtmn.org
 ceimaine.org
 centralsd.net
+century21-glockner-dax.com
 charter.ie
 chemiseed.com
 chigoha.com
@@ -135,7 +137,6 @@ duplexplanet.com
 dvinci-hr.com
 eamonmusic.com
 earlyword.com
-eazeup.com
 echobingoarena.it
 econsor.de
 ecprov.gov.za
@@ -175,7 +176,6 @@ freezone.global
 fremap.es
 fromshocktoawe.com
 gabbyscupcakes.co.nz
-gadplumbing.co.uk
 galaxy.com
 gaming-style.com
 gc.edu
@@ -193,6 +193,7 @@ grochola.pl
 groenehalte.be
 hanskupfer.de
 harborsportsnow.nl
+hastparis.com
 hayakawa-online.co.jp = charlie wilson's war|never let me go|別讓我走|千万别丢下我|查理·威尔逊的战争|查理·威爾遜的戰爭|莫失莫忘|蓋世奇才|韋氏風雲
 hdporncomics.com
 health-more.jp
@@ -208,7 +209,6 @@ holidayfuture.com
 horacemann.com
 howardgreenberg.com
 hsv.com
-huadunanda.com
 hutong.co.uk
 ibs-corp.com
 idealnutritionnow.com
@@ -292,7 +292,6 @@ mearto.com
 micheleafriedman.com
 michielhegener.nl
 mididb.com
-migliorinuovicasinoonline.com
 miko.fr
 milestoneaviation.com
 millenairecaen2025.fr
@@ -419,7 +418,6 @@ sisal.biz
 sistemaomsk.online
 sketchyguynv.com
 sleague.com
-slotbet100a.com
 smartsupergroup.uk
 softplatz.com
 sovereigngracemusic.org
@@ -439,6 +437,7 @@ svha-vd.ch
 svweil.de
 swbno.org
 swissbiomedical-foundation.ch
+swissfoilingacademy.com
 szexo.com
 szinhaz.net
 t-fal.co.jp
@@ -464,12 +463,14 @@ tinyl.io
 tinytimesclub.cn
 tofuvegan.com
 torchlight3.com = torchlight 3|torchlight frontiers|torchlight iii|火炬之光：边境|火炬之光：邊境
+tributasenasturias.es
 tropique-du-papillon.com
 truck4x4.ru
 ttram.cn
 turnipseedtravel.com
 ukssdc.ac.uk
 uptoncressetthall.co.uk
+uro98.com
 usine-digitale.fr
 uspincasinoo.com
 usrumelange.lu
@@ -485,6 +486,7 @@ vintageair.com
 vocesdelpueblo.pe
 volk.com
 volobrescia.it
+vusuc6.cn
 wallawalla.edu
 wcpweb.org
 weblineglobal.com
@@ -508,7 +510,7 @@ xhglj.com.cn
 xmlguild.org
 xn--helgakhnmengel-lsb.de
 xrumer.ru
-xushunscience.com
+xsjjkj.com
 yogapoint.nl
 youngirov.ru
 yozinwinery.com
@@ -517,3 +519,4 @@ yurtec.co.jp
 zdrowegeny.pl
 zee33pains.xyz
 zee61peoples.shop
+zsubmachinestudios.github.io

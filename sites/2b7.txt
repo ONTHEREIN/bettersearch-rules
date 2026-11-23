@@ -32,6 +32,7 @@ antoine-miannay.com
 antonfoundation.org
 apps4all.ru
 apuglobal.edu
+archeage.ru
 arenysdemunt.cat
 arsthanea.com
 asahibuilding.co.jp
@@ -56,9 +57,9 @@ bhphoto.com
 bijnen.nl
 bingham.com
 bio.to = kat tun|kat-tun|kattun
-biochemist.org
 blackheathbooks.co.uk
 blackmoreops.com
+blackswanhealth.com.au
 blogpot.com
 bm8898.com
 boldsystems.org = barcode of life data systems|bold|bold systems|生命条形码数据系统
@@ -72,7 +73,6 @@ buysellads.com
 buzzspot.us
 c2mobile.com.mx
 cadasb.org
-cafereo.co.jp
 caleruela.es
 cambridgeangels.com
 canadiancovidcarealliance.org
@@ -100,7 +100,6 @@ cizekjan.cz
 ck2generator.com
 clearsolutiontoday.it
 cliniquedudos.ca
-clintpups.us
 clonas.fr
 cocoshiga.jp
 coek.pl
@@ -143,6 +142,7 @@ elobrero.es
 emersonbrito.com.br
 emitennews.com
 encuentro.gov.ar
+eonspacelabs.com
 epaignes.fr
 epassportphoto.com
 equipebouyguestelecom.fr
@@ -154,7 +154,6 @@ exgirl.jp
 f05.website
 fachverlag.de
 factor55.com
-fafa118dg.com
 fan-death.com
 fattirebiketours.com
 fcgossau.ch
@@ -173,6 +172,7 @@ freexcafe.com
 freshtopics.us
 frogleapstudios.com
 fuga.ch
+futureishuman.com
 galileo-records.com
 gantter.com
 gasolinealley.co.nz
@@ -231,11 +231,13 @@ johanneswidlund.wordpress.com
 jokevangrootheest.nl
 joodsvirtueelmuseum.nl
 jp2hs.org
+jranexqfn.cc
 jssst.or.jp
 jusediciones.com
 kamikiridokoro.co.jp
 karesansui-project.info
 karjalanmaa.fi
+kayamind.com
 kennyexport.cl
 kevmud.com
 kimberlinforcongress.com
@@ -349,7 +351,6 @@ peterdagostino.com
 pharmica.co.uk
 pievesantostefano.net
 pirastro.com
-pixpin.vip
 pl.so
 plasmaportal.co.uk
 playshatteredskies.com
@@ -363,7 +364,6 @@ portfoliopen.com
 potomacriverkeepernetwork.org
 ppauk.org
 pprevozi-sliven.com
-praytellagency.com
 presenc.ai
 primeconcept.co.uk
 prof-ras.ru
@@ -402,6 +402,7 @@ saikazo.org
 saintlary.com
 saleproperty.net
 samlevydp.com
+sanguibio.com
 sarastorer.com.au
 sayouth.mobi
 sbdcbharatpur.com
@@ -419,6 +420,7 @@ sharedeals.de
 shinseikai.jp
 shopbmwusa.com
 simba.co.za
+simcoetrails.ca
 skiinfo.no
 skyrora.com
 sleepyeye-mn.com
@@ -432,6 +434,7 @@ sometra.ro
 sopharmatrading.com
 spansion.com = spansion|spansion llc|飛索半導體|飞索半导体
 spanskaskolan.se
+spingrannyfr.net
 spsmahilamahavidyalaya.com
 stadt-rodalben.de
 standardbarhouston.com
@@ -472,6 +475,7 @@ trees.org.uk
 trenalasnubes.com.ar
 truewordbloom.com
 tussell.com
+tvk42.co.jp
 twidec913.com
 ult.edu.cu
 umbertoscipione.com
@@ -512,6 +516,7 @@ wm70s7at.com
 wolterskluwer.eu
 wqkz.com
 wxjf2017.cn
+xgamekub1688.com
 xn--2026-43dlgiaj8a1di1cp.xn--p1ai
 yamakobus.jp
 yinlhp.com
@@ -522,4 +527,3 @@ zimrre.com
 zonarp.com
 zora.co
 zx4634.com
-zxjmsj.com

@@ -27,7 +27,6 @@ ana.it
 andrewberish.com
 anet.be
 angkawin.sbs
-aoyidq.cn
 appatdeloup.ch
 arsu.kz
 asut.ch
@@ -116,19 +115,20 @@ e-theca.net
 eastfremantlelacrosse.com
 ebookbrowse.com
 ecowapp.org
+edebiyatfakultesi.com
 eklohotels.com
 electionprojection.com
 elegia.fr
 elektrokarnizy10.ru
 elsoldesalinas.com
 equalitytec.com
+equals11.com
 erols.com
 escheburg.de
 estin.dz
 evml.ee
 evolvingearth.org
 existenz.no
-extelinsights.com
 exterio.ca
 fab.industries
 fabianruperti.com
@@ -199,6 +199,7 @@ hyoto.jp
 iaf.se
 ialpasoc.info
 iddc.net
+ijtomh.com
 impero.gr
 inacsl.org
 infohumpolec.cz
@@ -272,6 +273,7 @@ madeformovers.com
 mag-ias.com
 magnastity.cz
 mairie-fontromeu.fr
+maluzen.com
 manomio.com
 marecentre.nl
 marlboroughmall.com
@@ -347,7 +349,6 @@ pejaproducten.com
 peraledadesanroman.es
 perfectmediaserver.com
 petfriendlytravel.com
-phimmoi9.one
 piano-nobile.com
 pigniu.ch
 pilotpen-shop.nl
@@ -358,6 +359,7 @@ playvoidbloom.com
 pleasingfungus.com
 pleasuresnow.com
 poclad.org
+pokecardex.com
 polarstudios.se
 politeamapc.com
 ponsonbyarms.com
@@ -375,6 +377,7 @@ rebels.jp
 recherches-autochtones.org
 red-torch.ru
 redator.ai
+redhypedev.com
 republicains.fr
 retourenforschung.de
 risq.quebec
@@ -384,7 +387,6 @@ rmhcrochester.org
 rosiamontana.org
 rubeandrake.com
 ryannapoleon.com
-s8top.win
 sab.com = sab|sabb|saudi awwal bank|saudi british bank|沙地英國銀行|沙特英国银行|沙特英國銀行
 saintsabina.org
 sannidalil.no
@@ -451,7 +453,6 @@ toolonvesa.fi
 topnutritioncoaching.com
 topsmarkets.com
 totogaming.org.ro
-tourbon.com
 transparencia.org.ve
 traveldeal.nl
 tropical-islands.de
@@ -475,6 +476,7 @@ villabehavioralhealth.com
 visionstationlucky.it
 vpascal.com = virtual pascal
 vtg-wt.at
+w702o.cn
 wakasabay.jp
 walthowe.com
 weekendesk.es

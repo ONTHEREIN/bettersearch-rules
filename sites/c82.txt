@@ -1,6 +1,5 @@
 22263348.com
 6669ddd.vip
-7w138248.com
 a-tvp.si
 aaminc.com
 aatxesf.com
@@ -120,6 +119,7 @@ dazesoft.cn
 dbjadow.pl
 dearborn.org
 denkichi.com
+designashirt.com
 dhanwantrisikar.com
 digiarts.org.tw
 dilana-robichaux.com
@@ -136,6 +136,7 @@ edificar.net
 ehow.com = ehow|ehow.com
 ektu.kz
 elahe-izadi.com
+electrocarbon.ca
 eleganthotels.com
 enjoyyfun.com
 escuderiabaixemporda.com
@@ -143,6 +144,7 @@ euprava.gov.rs
 europeanfamilybusinesses.eu
 factdispatch.co.uk
 fassadenklar.de
+fasterandfaster.net
 feder-spiel.net
 fh-suisse.ch
 firststudentinc.com
@@ -171,6 +173,7 @@ griffon.eu
 groovy94.com
 gsc-game.com = cossacks ii: battle for europe|cossacks ii: napoleonic wars|cossacks: art of war|cossacks: back to war|cossacks: european wars|cossacks: the art of war|cossacs ii: battle for europe|казаки ii: битва за европу|哥薩克|哥薩克2|哥薩克ii：拿破崙戰爭|哥薩克：歐洲戰爭
 guadalteba.es
+guggenheimabudhabi.ae
 gugsoendertranders.dk
 guy-david.fr
 hachirou.com
@@ -228,7 +231,6 @@ labirint.ru = kyokushin|kyokushin kaikan|kyokushin karate|极真会馆|極真會
 lalegal.cl
 lanesfordrains.co.uk
 lappesbeesupply.com
-larepublicaonline.com
 latium.org
 le164.com
 leadtek.com.cn = leadtek|leadtek research|麗臺科技
@@ -299,7 +301,6 @@ openlyfeeds.us
 oppaidaisuki.jp
 ordersuit.info
 ortm.ml
-oufyj.com
 ourdailybread.at
 ourlady-saintedwards.co.uk
 oxfordhouse.org
@@ -338,6 +339,7 @@ rbc.se
 rcrowley.org
 realz-de.org
 rebirth-fy.com
+regem.in
 repemex.com.mx
 restartglobal.org
 risingmoongames.com
@@ -370,6 +372,7 @@ simonhoegsberg.com
 sisos.co.jp
 slotservices1166.de
 sodiwseries.com
+solvingplasticwastecrc.com
 spmaccraibag.org
 srgzggf.com
 starburstgame.co.uk
@@ -387,13 +390,11 @@ survivalhive.co.uk
 susanacamaraleret.com
 sv-zuchering.de
 swosuathletics.com
-sydy999.com
 symbolikon.com
 tdf.tr
 telebrands.com
 teleradioerre.it
 templestudioslondon.com
-tgosoldier.com
 the-echoplex.net
 thenvcasinos.org.pl
 therenovationspot.com
@@ -421,7 +422,6 @@ vca.ca
 veronikajokelmusic.com
 vertexblackjackhub.com
 verythai.com.tw
-veterinaryirelandjournal.com
 vgm-gernrode-harz.de
 villageofedenwold.ca
 ville-astaffort.fr
@@ -451,4 +451,3 @@ yhliu918.github.io
 zhongnanwuye.com
 zlotetarasy.pl
 zorghulp.nl
-zypbfw.com

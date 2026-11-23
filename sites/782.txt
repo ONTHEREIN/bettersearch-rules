@@ -86,7 +86,6 @@ chshb.gov.tw
 citizen.co.jp = citizen|citizen holdings|citizen watch|星辰表|西铁城|西铁城钟表有限公司
 cityofrainier.com
 claraponty.com
-clickhubspot.com
 cmn.org
 cn-5stars.com
 codefather.cn
@@ -200,6 +199,7 @@ hoteliset.ru
 hotels-of-florence.net
 hotimg.com
 hotslots.io
+i-b-z.de
 iaumc.org
 icehrm.com
 iconbar.com
@@ -243,10 +243,8 @@ kromephotos.com
 krystalsparks.com
 kubaci-silver.ru
 kubagym.org
-kynaenglish.vn
 lagrand1450.com
 lalabet.co.at
-lamaelee.nl
 larabida.org
 lasemainedesardennes.fr
 latantedc10restaurant.com
@@ -265,7 +263,6 @@ lipulse.com
 lisbon-treaty.org
 list-gymnasium.de
 liveinlimbo.com
-lizhongkeji.com
 lodger.fi
 loot.co.za
 lourensvandenakker.nl

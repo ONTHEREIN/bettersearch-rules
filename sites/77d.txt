@@ -1,4 +1,5 @@
 12voltplanet.co.uk
+1winsharkca.org
 25a.ru
 60114838.xyz
 889992715.xyz
@@ -15,7 +16,6 @@ angiogenese.de
 anglobengali.com
 apollofood.com.my
 aquilapp.fr
-arinoyvillar.com
 artyzm.com
 asdubai.org
 asiasocietymuseum.org
@@ -26,6 +26,7 @@ basketesprit.sk
 bbbschgo.org
 bcnsg.cn
 beho.cz
+belling.co.uk
 benerichson.com
 bercel.hu
 bernsteinglass.com
@@ -63,9 +64,9 @@ caos.museum
 cardonecapital.com
 casatisma.it
 cbc-creation.co.jp
+cdqg.edu.cn
 cgrailway.co
 charls.world
-chilli-reels.uk
 chineesgroningen.nl
 chomes.com.au
 christophersmithbooks.com
@@ -73,6 +74,7 @@ city-yar.ru
 cityofpleasantonca.gov
 civilrighttocounsel.org
 cleverism.com
+clinicavetpuntoanimal.com
 cloudarena.it
 clussaislapommeraie79.org
 cmcc.vc
@@ -150,6 +152,7 @@ freestocks.org
 freshcraft.co.uk
 fscasinos.net.pl
 futurecardshouse.com
+fwwcihc.com
 geekbarhrvatska.com
 genso-sayume.jp
 geoengineer.org
@@ -203,7 +206,6 @@ jenius196web.online
 jessethistle.com
 jessicasimonpoetry.com
 jiugaozn.com
-jmc-jiansuji.com
 joachimgerard.be
 johanneum.net
 jorgemartinho.pt
@@ -259,6 +261,7 @@ martenson.com
 marvel-bet.top
 marysonthehill.online
 mastodon.nl
+mdr7.ru
 megaherz.de
 melon-travel.ru
 memorialohio.com
@@ -275,7 +278,6 @@ mostbet-casino-betting.ru
 moxiedocs.com
 mp3diary.com
 msdsr.sk
-multigriyaresort.com
 museedeliatetreault.ca
 musica.com
 musicalpassage.org
@@ -285,7 +287,6 @@ mysunderland.co.uk
 najdi.si = najdi.si
 narrato.io
 natalietinti.com
-nationalparkcity.org
 navidayon.com
 negodiuk.ai
 netto-online.de = netto|netto marken-discount|netto品牌折扣|內托品牌折扣|内托品牌折扣
@@ -320,7 +321,7 @@ patriciaborges.com
 pawsey.org.au
 pcvey.com
 personal-loans-lender.com
-pharmacieduforez.fr
+petuum.com
 phillippahuttonsquire.com
 piam.org.my
 picknz.co.nz
@@ -346,20 +347,19 @@ quickcountry.com
 quoracdn.net
 ramonespinoza.com
 reelfx.com
-resomation.com
 revolution.watch
 riverrue.com
 rmsi.com
+rmutws.cn
 rockstar-ca.com
 roidesicile-rivoli.com
 romeshakespearefestival.com
 russelleducationtrust.org.uk
 rutorclubwiypaf63caqzlqwtcxqu5w6req6h7bjnvdlm4m7tddiwoyd.com
-sabong67.vin
 safe2use.com
 saffronroad.com
 salemalketbi.com
-samsung.com = galaxy flip 4|galaxy s21|galaxy s22|galaxy s25|galaxy s25 series|galaxy store|galaxy z flip 3|galaxy z flip 4|galaxy z flip3|galaxy 系列|galaxy系列|one ui|s browser|s health|s22|samsung|samsung apps|samsung browser|samsung electric industries|samsung electronics|samsung electronics co.|samsung electronics co., ltd|samsung electronics co., ltd.|samsung electronics ltd|samsung galaxy|samsung galaxy 2022|samsung galaxy note 3|samsung galaxy player 50|samsung galaxy s ii|samsung galaxy s iii|samsung galaxy s21 series|samsung galaxy s22|samsung galaxy s22 5g|samsung galaxy s22 series|samsung galaxy s23 series|samsung galaxy s24 series|samsung galaxy s25 series|samsung galaxy s26 series|samsung galaxy s5|samsung galaxy series|samsung galaxy store|samsung galaxy z flip 3|samsung galaxy z flip 4|samsung galaxy z flip3|samsung galaxy系列|samsung health|samsung internet|samsung internet browser|samsung kies|samsung pay|samsung s22|samsung semiconductor|samsung touchwiz|samsung wallet|serie samsung galaxy s26|sλmsung|sλmsung pay|touchwiz|touchwiz ui|z flip 3|z flip3|三星 galaxy|三星 galaxy s2|三星 galaxy s3|三星 galaxy s5|三星 galaxy 系列|三星galaxy|三星galaxy active neo|三星galaxy player 50|三星galaxy s21|三星galaxy s22|三星galaxy s23|三星galaxy s24|三星galaxy s25|三星galaxy s26系列|三星galaxy s5|三星galaxy store|三星galaxy z flip 3|三星galaxy z flip 4|三星galaxy 系列|三星galaxy系列|三星kies|三星pay|三星touchwiz|三星健康|三星支付|三星智付|三星瀏覽器|三星电子|三星电子公司|三星盖乐世s2|三星盖乐世s3|三星盖乐世s5|三星盖乐世系列|三星蓋樂世s2|三星蓋樂世s3|三星蓋樂世筆記3|三星錢包|三星钱包|三星電子
+samsung.com = com.sec.android.easymover|galaxy s21|galaxy s22|galaxy store|galaxy z flip 3|galaxy z flip3|galaxy 系列|galaxy系列|one ui|s browser|s health|s22|samsung|samsung apps|samsung browser|samsung electric industries|samsung electronics|samsung electronics co.|samsung electronics co., ltd|samsung electronics co., ltd.|samsung electronics ltd|samsung galaxy|samsung galaxy note 3|samsung galaxy player 50|samsung galaxy s ii|samsung galaxy s iii|samsung galaxy s21 series|samsung galaxy s22|samsung galaxy s22 series|samsung galaxy s23 series|samsung galaxy s24 series|samsung galaxy s25 series|samsung galaxy s26 series|samsung galaxy s5|samsung galaxy series|samsung galaxy store|samsung galaxy z flip 3|samsung galaxy z flip 4|samsung galaxy z flip3|samsung galaxy系列|samsung health|samsung internet|samsung internet browser|samsung kies|samsung pay|samsung semiconductor|samsung touchwiz|samsung wallet|serie samsung galaxy s26|smart switch|smart switch mobile|sλmsung|sλmsung pay|s换机助手|s換機助手|touchwiz|touchwiz ui|z flip 3|z flip3|三星 galaxy|三星 galaxy s2|三星 galaxy s3|三星 galaxy s5|三星 galaxy 系列|三星galaxy|三星galaxy active neo|三星galaxy player 50|三星galaxy s21|三星galaxy s22|三星galaxy s23|三星galaxy s24|三星galaxy s25|三星galaxy s26系列|三星galaxy s5|三星galaxy store|三星galaxy z flip 3|三星galaxy z flip 4|三星galaxy 系列|三星galaxy系列|三星kies|三星pay|三星touchwiz|三星健康|三星支付|三星智付|三星瀏覽器|三星电子|三星电子公司|三星盖乐世s2|三星盖乐世s3|三星盖乐世s5|三星盖乐世系列|三星蓋樂世s2|三星蓋樂世s3|三星蓋樂世筆記3|三星錢包|三星钱包|三星電子|换机助手|換機助手
 sandbakken-sportsstue.no
 sandromattioli.de
 santarem.pt
@@ -394,6 +394,7 @@ spotragazzi.it
 ssmiet.in
 starlightprincessslot-hr.com
 statelibraryofiowa.org
+stefanobattistini.it
 stefanodoraziodeivernice.net
 stgeorgesdesgroseillers.fr
 sthippolyte37.fr
@@ -422,12 +423,12 @@ thecovidblog.com
 thedesignblog.org
 thegamerimages.com
 thegrowtheq.com
-thehonestlocal.com
 theironyard.com
 thermoanalytics.com
 thestreetchestnuthill.com
 thewutheringheights.co.uk
 thorame-basse.fr
+thorasys.com
 thueringer-rechnungshof.de
 togocheck.com
 tonymorphett.com

@@ -1,5 +1,4 @@
 38dubband.com
-42-coin.org
 4spires.org
 52pojie.cn
 888cibs.com
@@ -17,13 +16,13 @@ alvarodelarica.com
 ambaritaputra.info
 amberblog.au
 americanbeverage.org
-amperis.com
 amway.in
 amytavbdj.cc
 anfia.it
 anginprize.com
 anniegetsitdone.com
 anniesparamountdc.com
+ansvisor.com
 apeddub.com
 apollotechnical.com
 artesianews.com
@@ -34,6 +33,7 @@ autotrader.ca
 avaloncodeds.com = avalon code|樂園密碼
 awbf.org
 azs98.cz
+bancstone.com
 bathams.co.uk
 batisante.fr
 bauernkrieg-bw.de
@@ -96,6 +96,7 @@ commenter.ai
 concorsosalagallo.it
 consul.mn
 corbehem.fr
+corvathor.com
 cpaaffiliatesnetwork.com
 craigswapp.com
 creuseconfluence.com
@@ -157,6 +158,7 @@ fly88com.biz
 fmtn.org
 fontenais.ch
 footballlabs.org
+foretees.com
 fpsmagazine.com
 freekorea.us
 freepressjournal.in
@@ -487,7 +489,6 @@ versaleditores.com.br
 victoryplus.com
 videocardbenchmark.net
 vipiska-online.ru
-virtua.cloud
 vlproosendaal.nl
 vortexpulsehighroller.com
 vsolcn.com

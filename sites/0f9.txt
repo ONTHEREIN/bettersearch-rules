@@ -293,6 +293,7 @@ opentrend.us
 osaka-seitetu.co.jp
 outrightsystems.org
 oxygenserv.com
+paigeandelliott.com
 pandorajewelry.net.co
 parafiajedlicze.pl
 parkendprimary.co.uk
@@ -329,6 +330,7 @@ reveryplaycasino.org
 revolver.ee
 rimanit.co.jp
 roumupdesign.com
+royalagro.com
 rsudkanujoso.com
 rsudkotasalatiga.com
 rubyfortune.com
@@ -420,7 +422,6 @@ virginamerica.com = virgin airlines|virgin america|維珍美國航空
 vizioneck.com
 vrmhope.org
 vtv.com.ve
-vxgongzhong.com
 wallingfordvt.com
 weddingguide.co.za
 weinig.com
@@ -434,6 +435,7 @@ wortfluss.ch
 wpthemedesigner.com
 write4good.com
 wtwhmedia.com
+xhscdn.com
 xxofx.com
 yakimotogames.com
 yundeshop.com

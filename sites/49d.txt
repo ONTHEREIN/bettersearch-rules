@@ -10,6 +10,7 @@ airwick.co.uk = air wick
 ajprd.com
 akita-c.ed.jp
 akulinarium.co.il
+alainberset.ch
 alexandraloras.com
 alinea.fr
 amcham.org.mx
@@ -39,16 +40,19 @@ badmintonsa.co.za
 balatonszemes.hu
 barthess.com
 baznicai.lv
+bbvacontuempresa.es
 beacon.org
 beaulieuschool.org.uk
 bebras.org
 berliner-geschichte.net
+betk-mx.net
 betworld24.de
 bibelstudienkolleg.de
 biela.dev
 bienphongvietnam.vn
 bigbigwork.com
 bigscreencinemas.com.au
+bioregen.com
 blb-karlsruhe.de
 blogcheckeronline.website
 bloodandbiscuits.com
@@ -69,11 +73,11 @@ bydenergy.com
 cambuur.nl
 cancerhelp.org.uk
 cap.ru
-caremetx.com
 carrcadin-hotel.com
 carreregroupda.com
 cashel.ie
 casoolacasino.org
+castratcraftzone.com
 chartpattana.com
 chpl.org
 christchurch.ws
@@ -208,6 +212,7 @@ integrative-psych.org
 internationalintimates.com
 irvan.com
 isaachess.com
+isac-pesaro.github.io
 ivanmoshchuk.com
 jaketroyli.com
 jbcounty.org
@@ -310,6 +315,7 @@ obecbriza.info
 olfastory.com
 onlinehollandcasino.net
 onsmartwatch.com
+opensourcealternatives.to
 osakapopstar.com
 oui.net
 ourtowncinemas.com
@@ -347,10 +353,12 @@ pubget.com
 pubs.com
 puentegenil.es
 puertoaventuras.com
+pulpex.com
 qhtelecom.com.cn
 qnapandit.com
 quezonsciencehighschoolph.wordpress.com
 quimidroga.com
+rabbitsemiconductor.com
 rapidjackpot610.com
 rasputinmusic.com
 ratskeller-vetschau.de
@@ -358,10 +366,11 @@ reallon.fr
 recivitas.org
 rednova.com
 refluksfamilie.dk
+rent-cn.com
 retinaresearchfnd.org
 revueltasonora.com
 riccobarrino.com
-roku.com = roku|roku players|roku, inc.
+roku.com = roku|roku, inc.
 roli.com
 rovigooggi.it
 rovixa.id
@@ -381,6 +390,7 @@ sgpgc.org
 shaiamit.com
 shg.org
 shipyourenemiesglitter.com
+shopzhumu.com
 shortnews.com
 shuggieotismusic.com
 sikandarids.com
@@ -402,6 +412,7 @@ strulus.be
 stubgroup.com
 superior-air.gr
 swanmeadschool.co.uk
+tanoahotels.com
 tanukichan.com
 taukopaikat.com
 tcsuckhoelaohoa.vn
@@ -426,7 +437,6 @@ tomorrowsengineers.org.uk
 top-casino-online.de
 torstenschwarz.de
 total-slovenia-news.com
-toto123.com
 toulon-sur-allier.fr
 translator.eu
 trashhero.org
@@ -458,6 +468,7 @@ voecklabruck.at
 voicemy.ai
 vpa.ch
 walther-blohm-stiftung.de
+wearejetson.com
 weberdev.com
 westdalevillage.ca
 wij.nl

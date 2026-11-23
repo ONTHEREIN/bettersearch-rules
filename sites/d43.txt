@@ -68,7 +68,6 @@ blaydonrfc.co.uk
 blockblaster.app
 bluesnews.com
 bofrost.com
-borbetomagus.com
 bouhy.net
 brak.de
 bricklive.co.uk
@@ -119,6 +118,7 @@ das-schoene-bett.de
 davidrouzer.com
 davka.com
 dchfa.org
+ddizi.mom
 dealsgonebad.com
 deborahglick.com
 delreycity.com
@@ -155,6 +155,7 @@ erikchambert.se
 esre-space.org
 estelon.com
 euren.dk
+fafa178mh.com
 fcmod.org
 ffw-mistendorf.de
 filarmonia-tula.ru
@@ -215,7 +216,7 @@ inkabet.pe
 integrishsv.com
 internationalistanbulhorrorfilmfestival.com
 intervoiceonline.org
-invesco.com = invesco|景順
+invesco.com = invesco|invesco ltd.|景順
 irmscher.de = irmscher
 isgrg.org
 jacobinmag.com
@@ -227,6 +228,7 @@ jlrppatterns.com
 joehenrylovesyoumadly.com
 joelgoldman.com
 johnbell.ai
+johndoe.com
 jokeritfc.fi
 joostvandenbroek.com
 jorgevalverde.art
@@ -237,12 +239,14 @@ kamersmetaandacht.nl
 kiikoistenkotiseutuyhdistys.fi
 kinorex.ch
 kitlambert.co.uk
+klota.se
 kofukyouritsu.com
 koi.mx
 kosovothanksyou.com
 kuriosesmuschelmuseum.de
 ladispute.org
 lagarde-autoclaves.com
+lapalmavet.com
 lapasprobolinggo.com
 laponte.org
 larepublica.com.uy
@@ -254,6 +258,7 @@ licatholic.org
 lispbook.com
 listjs.com
 lkr.de
+lobstergrilleinn.com
 logicbig.com
 logoblog.org
 loi-pinel.fr
@@ -473,6 +478,7 @@ umrlice.com
 unbound.com
 uniwagon.com
 unsubscribe.video
+upgames168.com
 upply.com
 utaeeeeee.com
 utrsports.net
@@ -503,8 +509,6 @@ worldtortlawsociety.com
 wrhl.info
 wufoo.eu
 xmayo.me
-xmydev.com
 xn--80ahnanie9ayb2dp.xn--p1ai
 xn--80akiinbisaeq.xn--p1ai
-zhonghaony.com
 zitzak.nl

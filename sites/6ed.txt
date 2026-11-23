@@ -2,7 +2,6 @@
 abdullahfirat.com
 af-network.org
 agnesnixon.com
-agrejournal.org
 aib.edu
 alexandernifong.com
 alexina.space
@@ -41,8 +40,6 @@ beebeep.net
 behaviorlive.com
 bewareofdarknessmusic.com
 bfm-oberfranken.de
-bfzyfrp.com
-bgnmataram.com
 bhagyodaytirth.org
 bimfilm.com
 bioinvent.com
@@ -152,11 +149,9 @@ fotoevidence.com
 fotowissen.eu
 foundationsrecoverynetwork.com
 foxsilver.net
-freestuff.gr
 freightwaves.com
 fsv-dornberg.de
 fundaciongrunenthal.es
-gangnam-gugudan.com
 geneve-rhc.ch
 gingerbillycomedy.com
 glace.me
@@ -167,7 +162,6 @@ grandado.com
 grote-schoenen.nl
 grundschule-west-brb.de
 gumbrand.com
-gvfio.com
 h-matsuo.co.jp
 health-first.org
 hedgehogregistry.org
@@ -209,6 +203,7 @@ jbums.com
 jeanson.org
 jgrchj.net
 joeyconcepcion.net
+josh-tobin.com
 josiemorway.com
 jshmtrq.cn
 judy.co
@@ -243,6 +238,7 @@ loanspot.ca
 locallaundrylounge.com.au
 londonbetsstore.uk
 lori-dr.com
+losancestrosviajesyturismo.com
 luck817.com
 luckshotgames.com
 lunarhellgames.com
@@ -279,7 +275,6 @@ mpykj.com
 mstarz.com
 muishinji.com
 mumbaicricket.com
-mvk.org.ua
 myfortunedestination.com
 mynextmattress.co.uk
 mysushrut.com
@@ -288,6 +283,7 @@ nascarracingexperience.com
 nataliagermanou.com
 nepirockcastle.com
 nessbattery.co.uk
+nexanovaedge.com
 niccolocastelli.ch
 ninecasinotop.cz
 noda.live = noda
@@ -418,6 +414,7 @@ tidefans.com
 timdouwsma.com
 timestudy.com
 tmqqhao.com
+toxicremnantsofwar.info
 toyota.com.ua
 truecitrus.com
 trunkshowmovie.com
@@ -438,11 +435,13 @@ utzgroup.com
 val-morin.ca
 vertexworks.nl
 vistonline.it
+visualharmony.pro
 visus-verlag.de
 vojkanaddunajom.sk
 volinkin.uz
 volleybox.net
 vozoljapan.net
+washingtonsqpark.org
 watsonrealtycorp.com
 webfinlandtestnumber1.com
 wehi.edu.au
@@ -461,7 +460,6 @@ xavier-xerxes.com
 xigavang.com
 xn----7sbbanh1bpefjbffsfm2r2b.xn--j1amh
 xn--h1ae7a.xn--p1ai
-xuqs0.com
 yeshen.com
 yousense.com
 zaiste.net

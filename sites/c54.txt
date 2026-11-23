@@ -57,6 +57,7 @@ carvel.dev
 casanovas.se
 casigamex.com
 ccia-chiba.or.jp
+cdmbss.cn
 ceniburundi.bi
 certificate-transparency.org
 charter.net
@@ -155,8 +156,6 @@ franz-haniel-gymnasium.de
 fredrikeklund.com
 freshbonusreview.uk
 fsm.ac.in
-gamecard.com.tw
-gamerenders.com
 gdch.de
 gdszjk.org.cn
 gemaeldeundobjekte.de
@@ -211,6 +210,7 @@ indianaenvironmentalreporter.org
 indown.io
 inputmag.com
 ipso.de
+iqzirojs.cn
 isogaisimon.net
 its-nds.de
 iustitiaeuropa.com
@@ -326,7 +326,6 @@ optex-europe.com
 optimove.com
 orontesgames.com
 overstolzen.de
-owxfans.com
 oywxfrs5.com
 palacemalton.com
 paolapalma.it
@@ -385,7 +384,9 @@ settlersridgepa.com
 shigabooks.com
 shinjuku-ecocenter.jp
 shopwatertower.com
+shubbak.co.uk
 sibpribor.ru
+sidunmaoyi.com
 sigmatheta.org
 simplycharlottemason.com
 simplyshredded.com
@@ -404,6 +405,7 @@ smithsonianmagazine.com
 soundsoftalent.com
 spacestudiosmanchester.co.uk
 spadavolobollettino.it
+spinupcasino-ca.com
 spitzer-silo.com
 srilankan.com = alk|sri lankan air|sri lankan airline|sri lankan airlines|srilankan air|srilankan airline|srilankan airlines|斯里兰卡航空|斯里兰卡航空公司|斯里蘭卡航空|斯里蘭卡航空公司
 st-achatius-mainz.de
@@ -427,7 +429,6 @@ teddymuseum.com
 teia.art
 tendan.co.jp
 tennovaclarksville.com
-termini.com
 tescomobile.com
 thatartsyreadergirl.com
 the961.com
@@ -449,7 +450,6 @@ tsv-thedinghausen.de
 tub-bocholt-volleyball.de
 tzurba.com
 udaytaskan.com
-ufa88svip.info
 ugc-cisl.it
 ultraclubexpress.com
 uniradiobaja.com
@@ -459,6 +459,7 @@ upn.gov.sk
 urbanhealthplan.org
 urtxintxaeskola.eus
 uygurarastirmalari.com
+v0h79r.cn
 valdepenas.es
 vanmaanenbad.nl
 vasilylevanov.com
@@ -502,6 +503,5 @@ zaxcom.com
 zdkh.cz
 zerivo.id
 zfpeup.cn
-zh-yaxinggame.com.cn
 zhasotan.kz
 zpak.net

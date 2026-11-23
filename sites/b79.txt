@@ -14,13 +14,14 @@ ajazart.com
 alainlamontagne.com
 alevitrasp.com
 alexhenryfoster.com
+algodocs.com
 allnighterthemovie.com
 almwirtschaft.net
 altadenalibrary.org
 amelanderbier.nl
 aminjafari.com
+ammoai.io
 andreagibson.org
-anglecurehealthcare.com
 annakravtchenko.it
 annien.wordpress.com
 apcoa.dk
@@ -43,9 +44,9 @@ bartercardmaps.co.nz
 basementalcc.com
 bayareaderby.com
 bea.es
+benidormheaven.com
 berkeleymuseum.org
 bestevoorkids.nl
-better2know.co.uk
 bgre.ru
 bhseindia.com
 big-bass-splash-uk.co.uk
@@ -101,7 +102,6 @@ diningforwomen.org
 diocesisdearauca.org
 dipuleon.es
 diyarbakir.bel.tr
-doithuongblog.com
 donchery.fr
 dotsrc.org
 dotttme.com
@@ -129,7 +129,6 @@ essen-retail.ru
 eurasianjournals.com
 europacity.com
 europcar.nl
-eventmaker.com
 ezcaroz.es
 fagura.ro
 fahaldine.blogspot.com
@@ -189,7 +188,6 @@ hoflahopp.de
 holidayinn.com = holiday corporation|holiday inn|holiday inn hotels|假日酒店|花園庭院假日酒店
 holmsland-kirker.dk
 honorboundgame.com
-huangjianghao.com
 huehnerbob.de
 hzuoye.com
 i-mpr.com
@@ -226,7 +224,6 @@ kasfo.or.kr
 kia.de
 kingtto.com
 kisarantotowalau.com
-kitereisen.tv
 kityizvky.cc
 kkvv.com
 kochi-kenyaku.or.jp
@@ -264,7 +261,6 @@ lycee-jeanhyppolite.fr
 macea.ro
 madasmaths.com
 magipun.com
-magnetic-slots.fi
 mailboxde.com
 manmadediy.com
 markdowntohtml.com
@@ -299,10 +295,10 @@ mvvainc.com
 naheba.es
 nanny-network.com
 nativanews.com.br
+nboinis.github.io
 nemours.fr
 neroth.de
 neuro-depesche.de
-new88sg3.com
 nichiren.com
 nihonseikan.co.jp
 nishcatering.com
@@ -354,7 +350,6 @@ pwsrcac.org
 pyxono.be
 qingzaitools.com
 rabbittailworks.com
-ranamonet.com
 ratnavaali.com
 rdc-entreprises.cd
 redactleunlimited.com
@@ -393,7 +388,6 @@ severnav.ro
 sfnature.org
 sgvalley.co.kr
 shapirofamilyfdn.org
-shjglaser.com
 shopritelpgaclassic.com
 shunvn.com
 sikuallooloo.com
@@ -466,7 +460,6 @@ vologda-portal.ru
 voodoocasino.eu
 vvsd.net
 wcsfp.com
-welilereceipts.com
 welspunenergy.com
 wer-kennt-wen.de
 weserbund.de

@@ -44,7 +44,6 @@ augustahistorictheatre.com
 b-f-k.de
 backwoods-entertainment.com
 bailleval.fr
-baku-ih.gov.az
 balykhin.ru
 bapsisidhwa.com
 batya.hu
@@ -123,6 +122,7 @@ dailybail.com
 dallasliquidterminal.com
 damares.com.br
 datanlawaterfall.com
+deathinadumpster.ca
 decoart.com
 delta-pronatura.de
 deltamune.co.za
@@ -223,7 +223,6 @@ hugocasinoo.pl
 hydroxycut.com
 hyperswitch.io
 iamjvmie.com
-ic500.com
 idomahalloffame.ng
 iemest.eu
 ige-grenoble.fr
@@ -269,7 +268,7 @@ letanovce.sk
 levesquetriplets.com
 lilly.ca
 lockly.com
-loreal.com = l'oreal|l'oréal|l’oréal groupe|巴黎欧莱雅|巴黎歐萊雅|巴黎莱雅|巴黎萊雅|欧莱雅|歐萊雅|莱雅|萊雅
+loreal.com = l'oreal|l'oréal|l'oréal education|l'oréal paris|l'oréal professionnel|l’oréal groupe|巴黎欧莱雅|巴黎歐萊雅|巴黎莱雅|巴黎萊雅|欧莱雅|歐萊雅|莱雅|萊雅
 love-taitung.com
 lufthansagroup.com = lufthansa regional|汉莎区域航空|汉莎地方航空|漢莎區域航空|漢莎地方航空
 luludraws.com
@@ -310,6 +309,7 @@ moon7weights.xyz
 morningsave.com
 mouveobus.fr
 moxyboxy.ca
+mozzaik.ru
 mrmine.com
 museumranggawarsita.id
 musicbru.wordpress.com
@@ -336,14 +336,12 @@ north40.com
 northcoast.com
 novartis.org
 nsastorage.com
-nuonuoxiye.com
 nv-casino-romania.ro
 nytsyn.com
 oaklandtribune.com
 obcl.edu
 obecrybnik.eu
 opwegnaarzes.nl
-organlive.com
 oringen.se
 oscarmayer.com = oscar mayer|the oscar mayer company|奥斯卡·迈耶|奧斯卡·邁耶|奧斯卡·麥爾|奧斯卡·麥爾公司
 osk2.ru
@@ -357,8 +355,9 @@ paymentforstripe.com
 peperi.com.br
 philipanthonymitchell.com
 picapport.de
+pillow.co.jp
 pinesfnc.com.au
-pingshunfang.com
+pinkertonsbbq.com
 pistolannies.com
 pixy.cz
 plasmazone.co.uk
@@ -392,7 +391,6 @@ restaurant-atelierfv.fr
 restaurantlastage.nl
 ride-gts.com
 riot-optimizer.com
-rivalo.cat
 robox.it
 roermondparochiecluster.nl
 roobet-br.com
@@ -415,7 +413,6 @@ schneems.com
 schnell-und-steiner.de
 scr.md
 scrollglobal.org
-sega-online.jp
 seiburealestate.co.jp
 seo.fr
 serudsindia.org
@@ -481,6 +478,7 @@ tvwiki.club
 tymoteuszmyrda.pl
 typelab.org
 ubuntuvibes.com
+ukbettips.co.uk
 ulapsa.org
 umn.org.np
 universityofsacramento.org
@@ -503,7 +501,6 @@ vipertoto.net
 voirfilms.mom
 vytautasjuozapaitis.lt
 wageon-casino-it.com
-web2ads.in
 weblocks-framework.info
 webseo1.icu
 westminster-ca.gov
@@ -511,7 +508,6 @@ wgaltm.com
 wifcny.org
 wikispeed.com
 windward-performance.com
-wirtshaus-christoffel-erfurt.de
 wittamer.com
 wonderworldpark.com
 woodbusiness.ca
@@ -532,5 +528,6 @@ zalameggyes.hu
 zee7bes.shop
 zell-mosel.de
 zjb.org.cn
+zorvancia.com
 zu-zweit.com
 zuidaima.com

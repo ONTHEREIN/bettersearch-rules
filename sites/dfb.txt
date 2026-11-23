@@ -13,6 +13,7 @@ akerink.com
 alabama-quassarte.org
 alexgross.com
 allinea.com
+altbbm88.org
 andrzejwroblewski.com
 ange-bd.com
 annasui.co.jp
@@ -108,7 +109,6 @@ dominiopublico.gov.br
 dore-dokkum.nl
 dorpsraadclinge.nl
 douchebagmovie.com
-dsdynamo.ru
 dstny.be
 e-oa.com.cn
 ecai2020.eu
@@ -197,6 +197,7 @@ isbscience.org
 israel-opera.co.il
 itcolombo.org
 jabarsegar.com
+jbswlkj.com
 jearytopmetal.com
 jeffreysbaytourism.org
 jensuisjyreste.org
@@ -267,7 +268,6 @@ michel-chaillou.com
 michiganvotes.org
 millsboro.org
 minervact.com
-modafinil.pro
 mohammedashraf.com
 monroecountypa.gov
 moon61nearlys.shop
@@ -304,6 +304,7 @@ onedoor.org.au
 onemillioncheckboxes.com = omc|one million checkboxes
 oneplus.com = a6000|a6003|one plus|one plus 6|one plus six|one+|oneplus|oneplus 6|oneplus six|op6|oxygenos|一加|一加手机6|一加手機 6|一加手機6|氢os|氢操作系統|深圳市萬普拉斯科技有限公司
 opendatanepal.com
+oriql.com.au
 osgrsocietysvr.org
 oslo10.ch
 outsetmedia.com
@@ -328,13 +329,13 @@ premiobuonenotizie.it
 pritlove.org
 proofcraft.systems
 qayn.org
-quickstart-indonesia.com
 quincysaddleclub.org
 raceosw.com
 rachelsedelman.com
 radioclubepe.com.br
 rakebit-casino.es
 rapidarenapro.com
+rapportocolpo.it
 rascafria.org
 raymondchabot.com
 rcb.lv
@@ -411,6 +412,7 @@ thespacerecords.com
 thriveldn.co.uk
 timessquare.com.hk
 tlsprop.com
+tobininjurylaw.com
 toho-titanium.co.jp
 tooheysextradry.com.au
 top-bois-chauffage.fr
@@ -422,7 +424,6 @@ townoforange.org
 toybloid.com
 toypw.cn
 trademark-hotel.com
-tranzit-auto.ru
 trecastagnimusicfestival.com
 triscuit.com
 triumphweekly.co.uk
@@ -447,7 +448,6 @@ velkycepcin.sk
 velvetspinroyal.it
 venturevillage.eu
 viddy.com
-vipph2.com.ph
 vipsluck.com.de
 vistaviewbase.it
 vmslsoccer.com
@@ -471,10 +471,8 @@ y-sakubei.com
 yamato-scientific.com
 yewtreeprimary.co.uk
 yileui.com
-yjlc.uk
 yourrichbff.com
 yts.monster
 zacgorman.com
 zgyxlc.com
-zhenxuangu.com
 zone-zhongcai.com.cn

@@ -47,7 +47,6 @@ birthright.org
 biscoind.com
 blackgenocide.org
 blog.google
-bnc.bank
 boletinoficial.gov.ar
 bolliblas.com
 boris-johnson.com
@@ -132,7 +131,6 @@ endlessbranding.com
 equalhousing.org
 ernestovillegas.org
 es9e.com
-esskultur.at
 ethicalelephant.com
 eurocarex.com
 eutech.org
@@ -185,6 +183,7 @@ guydeutscher.com
 hagok.be
 haian.gov.cn
 hanniehalma.nl
+hansbaars.nl
 hd-report.com
 hedorf.dk
 heidiklein.com
@@ -215,7 +214,6 @@ istitutogramscisiciliano.it
 jackdonner.com
 jacketswinkel.com
 janchipchase.com
-jeffsetter.com
 jendrajarnagin.com
 jermainejackson.com
 jessicaferrari.it
@@ -335,10 +333,8 @@ ploske.eu
 pointtoday.co.uk
 pokerodirect.co.uk
 popolariudeur.it
-pornovideo24.online
 portugalperth.com
 ppl.com.pt
-praxis-henneberg.com
 profmarkcollard.com
 purepalaceonline.nl
 pvplug.de
@@ -354,6 +350,7 @@ reformierte-gemeinde.de
 remixtoto-resmi.com
 review-unes.com
 revisionmaths.com
+rikvip.tech
 ro-man.org
 rockoverdose.gr
 rocles.net
@@ -376,7 +373,6 @@ sheboptheshop.com
 shslombard.org
 skagenharbourhotel.dk
 skywindgroup.com
-slotsonlinesolutions.com
 slotvision1056.de
 smuzcafe.hu
 snedovice.cz
@@ -387,9 +383,7 @@ sonypix.in
 sotskyi.com
 sourceforge.jp = cabos
 sparkysburgers.com
-spinbara.co.no
 spvgg-niederaichbach.de
-spwholdings.com
 ssh-tech.com
 stateoftheinternet.com
 steeleyespan.org.uk
@@ -417,7 +411,6 @@ theconcordian.com
 thegoodluckclub.co.uk
 theguildpei.com
 thehivesbroadcastingservice.com
-theqwestnetwork.com
 thirtyparkplace.com
 thoughtflows.in
 tippmixbet-hu.com
@@ -432,6 +425,7 @@ torabullion.com
 toshiakeudon.jp
 tostaocafeypan.com
 travelmanagers.com.au
+travelsdubai.com
 tregey.net
 tripleminds.co
 triventoeducacao.com.br
@@ -466,6 +460,7 @@ washingtonstreet.wordpress.com
 watchfire.com
 watchlistnews.com
 wave.ca
+wavelino.com
 wck.org = wck|world central kitchen|世界中央廚房
 webdunia.com
 wellmadestarm.com
@@ -482,10 +477,9 @@ xn--b1agalyeon.xn--80adxhks
 xnudes.app
 xxia.com
 y30y.cn
-ycsrcsc.com
-yinghaool.com
 youngfilms.de
 ywcafe.net
+z20253.cn
 zaborie.sk
 zbqkj.cn
 znjk-as.cn

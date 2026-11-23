@@ -21,7 +21,6 @@ aloisnebel.cz
 alphaprosecurity.com
 altcast.co.uk
 am1590theanswer.com
-americantimesreporter.com
 amica.org
 aminousa.com
 amipara.co.jp
@@ -53,7 +52,6 @@ bertilssonsstuga.se
 bhartiyagyanpeeth.com
 bismillahtowels.com
 bispebjerg-bronshojprovsti.dk
-biturbo.io
 bjfuyi-icsc.cn
 bleialf.de
 blog33can.shop
@@ -106,7 +104,6 @@ crystalroyalpoint.com
 ctbythenumbers.news
 culturenow.gr
 cutly.info
-dailyllama.com
 dailymodern.co.uk
 dallascityfc.com
 danlok.com
@@ -114,6 +111,7 @@ dansermag.com
 dbmail.org
 debenhamsuffolk.co.uk
 deeshaphilyaw.com
+devon-cornwall-film.co.uk
 diafir.com
 digitalchina.gov.cn
 digitalgovernmenthub.org
@@ -130,7 +128,6 @@ druglibrary.org
 dta.gov.au
 dubbningshemsidan.se
 dublinliteraryaward.ie
-dushibook.cn
 e-watts.fr
 eastmain.ca
 economicsnetwork.ac.uk
@@ -183,7 +180,9 @@ gruppoamicimonteviasco.it
 gt-spiral.com
 gtxh.com
 guiceoffshore.com
+gznzw.com
 hamptondowns.com
+handbook.tw
 harting.de
 haverhillhistory.org
 herbalife.com = herbalife|herbalife international|herbalife ltd.|賀寶芙
@@ -199,6 +198,8 @@ huiminqu.gov.cn
 huisnederlandsbrussel.be
 huschkemau.de
 huwsgarden.com
+hydrao.com
+hymksdw.com
 iamfilmfestival.com
 ifp-school.com
 ijem.in
@@ -237,7 +238,6 @@ karimould.fr
 kekeyoupin.com
 kepler-interactive.com
 khz-movers.com
-kissho-yamanaka.com
 klimator.se
 klimczok.pl
 klippel.de
@@ -286,7 +286,6 @@ mega-joker-slot-bd.com
 megatrain.com
 melenchon2022.fr
 melida.es
-menswatchsales.me
 metrans.eu
 michaelschool.nl
 miltonandsallyaveryartsfoundation.com
@@ -323,7 +322,6 @@ northparkokc.com
 nortrup.de
 objectweb.org = lomboz
 oddifyworld.co.uk
-ohpredictive.com
 olavsborgkristneskole.no
 openeyesfund.com
 orangex.com
@@ -340,6 +338,7 @@ pacotito.com
 palazzofalson.com
 paradromics.com
 parafiagultowy.pl
+pengyougame.com
 peppermintos.com = peppermint linux os|peppermint os|peppermintos
 peraton.com
 philx.tv
@@ -440,7 +439,6 @@ thenimla.com
 thesca.org
 thetexastornados.com
 thomashuyghe.be
-threechordsandthetruth.net
 tikitakacasinocz.com
 tkb.lv
 tonicucarella.blogspot.com
@@ -450,7 +448,6 @@ toyean.com
 travellersrest.org.uk
 trycaliper.com
 tsv-buch.de
-tunir.co.in
 tuv-saar.com
 ueno.or.jp
 ufrkj.com
@@ -489,7 +486,7 @@ weltmaschine.at
 wiecherthaus.ch
 windsurfingnz.org
 winnipegriverarts.com
-worldofdarkness.com = white wolf|white wolf publishing|白狼公司|白狼游戏|白狼遊戲
+worldofdarkness.com = white wolf|white wolf publishing|wod|world of darkness|新黑暗世界|白狼公司|白狼游戏|白狼遊戲|黑暗世界
 wuskj.com
 xrcollaboration.com
 y1f05.cn

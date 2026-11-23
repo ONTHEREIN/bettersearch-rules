@@ -75,7 +75,6 @@ canotech.fr
 cardaci.ba
 cardiovascimaging.com
 carnavalexhibit.org
-casinoly-onlinegreece.gr
 casinoneotide.us
 cbip.com.my
 cbsdeklimoprijsoord.nl
@@ -107,7 +106,9 @@ coronaria.fi
 cpcouncil.net
 crabtreecompany.com
 craigholme.co.uk
+crazybuzzer.com.de
 croisieurope.travel
+cuppaso.com
 cxmflow.com
 datacenterworld.com
 dbt-lbc.org
@@ -118,7 +119,6 @@ derrolladams.com
 deschakelammerzoden.nl
 dhiaandave.vercel.app
 diabetesmumbai.com
-dialect.to
 digitalhimalaya.com = digital himalaya
 diminfo.ru
 diy-shop.jp
@@ -233,7 +233,7 @@ kathrynmccormick.us
 keithbraveheart.com
 kendelcarson.com
 kipas899.college
-kleinerperkins.com
+kleinerperkins.com = kleiner perkins|kleiner perkins caufield & byers|kleiner perkins公司|koliner perkins|kpcb|克萊納·柏金斯·考菲爾德及拜爾斯|凱鵬華盈
 klimatilpasning.dk
 kmtgrp.com
 kool929fm.com
@@ -253,6 +253,7 @@ lepopulaire.fr
 lexfriedman.com
 lilboulder.com
 little-dragon.se
+livetv430.me
 logiball.de
 loveyourbodyfitness.ca
 ltmetro.in
@@ -299,6 +300,7 @@ nchponline.org
 necaxafutbol.com
 nerdpromthemovie.com
 nihonkenkouiryou.jp
+nohu90com.com
 noitom.com
 normanmailersociety.org
 northxeast.com
@@ -308,6 +310,7 @@ nouvelles-scenes.com
 novafortunebonus.it
 novajidrany.hu
 nukhu.com
+nxfptel.com
 ok8386u.com
 olaflenk.com
 onenetwork.com
@@ -327,7 +330,6 @@ phpexam.jp
 playluck.pt
 plumley-toft-bexton-pc.co.uk
 pornsok.com
-prelaturadejuli.org
 presse-puree.fr
 prestige.fi
 primeclubplus.com
@@ -373,6 +375,7 @@ searchwp.com
 servier.ca
 sevenvenues.com
 sggqx.cn
+sh-sjhf.com
 siljeholtan.dk
 sinclair-solutions.com
 siracusanews.it
@@ -431,7 +434,6 @@ tsvrohr.de
 tux4kids.com = tux type|tux, of math command|tuxmath|tuxtyping|tux打字|tux，数学命令|tux，數學命令
 ukrinform.com
 urbanwinnerjournal.uk
-uu88ga.com
 uwartsonline.nl
 valalta.hr
 vavr.io

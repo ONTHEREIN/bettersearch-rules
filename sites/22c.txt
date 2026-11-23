@@ -64,6 +64,7 @@ cancerrop.com
 captainhum.co.uk
 caribjournal.com
 carrefour.fr = carrefour city|carrefour express|carrefour market|家樂福便利購|家樂福超市
+casinojoyde.com
 casumo-no.net
 cattelecom.com
 cbic.org
@@ -130,8 +131,8 @@ eu-robotics.net
 euroagro.by
 eurovolley.tv
 everyday-delicious.com
-exertis.co.uk
 ezbanex.com
+ezhanrobot.com
 facc.com.br
 faccaa.br
 farabel.com
@@ -139,7 +140,6 @@ fartooyoung.org
 fat-forensics.org
 fdb.es
 feguifoot.com
-felixspins.com.pt
 fengyang.gov.cn
 fepyc.es
 fhp.fr
@@ -165,6 +165,7 @@ givegab.com
 gkb-23.ru
 glsv.com
 gmo-pg.com
+goatzcasinos.co.no
 goisrael.com
 golos-deti.ru
 google.tk
@@ -174,7 +175,6 @@ hacklinklive.com
 hanavagnerova.com
 haramont.fr
 hautot-sur-seine.fr
-hdcpsj.com
 helenaprestes.com
 heritagemuseumsandgardens.org
 hickorychair.com
@@ -200,6 +200,7 @@ iton.tv
 itsjakebass.com
 ivc.edu
 jackpot-raider.uk
+jdzirnok.cn
 jessicafitzgibbon.com
 jeton-rougefr.fr
 jigokudani-yaenkoen.co.jp
@@ -253,14 +254,12 @@ mayafourteen.com
 mdlcyh.com
 meatmarket.org.au
 medefinternational.fr
-medhanialemeotcks.org
 mediatelecom.com.mx
 megatonrainfall.com
 mektebi.kz
 menznau.ch
 mercatolive.fr
 micronutris.com
-mikeacker.com
 milosierdzie-miastko.pl
 mimdesign.com.au
 mitchmalloy.com
@@ -377,7 +376,6 @@ smallmillion.mom
 smartdicedesk.uk
 smarter.am
 space-inventor.com
-spartacusx.com
 sportiumcasino.nl
 sq8888.shop
 starbucksmelody.com
@@ -389,7 +387,6 @@ sukekiyo-official.jp
 summithighbulldogs.com
 sunburytigers.com
 sunledusa.com
-superfilmizle.icu
 superleague.ua
 sustainablebrands.com
 suzhoupingtan.com.cn
@@ -403,7 +400,6 @@ takumitoyoda.com
 tams-online.de
 taowc.com
 taviro.be
-taylorcrystal.hu
 techgnosis.com
 teletalkapps.com
 theboysandgirls.jp
@@ -433,6 +429,7 @@ unipar.br
 unipedtidsskrift.net
 urbanov.com
 uroauca.com
+vaking.no
 valleyfest.com
 vardforetagarna.se
 vashontheater.com
@@ -467,7 +464,6 @@ yensaohongnhung.vn
 yhareb.com
 yikpa.com
 yjs.dev
-z-tech.nl
 zamnesia.es
 zasow.pl
 zaufanie.pl

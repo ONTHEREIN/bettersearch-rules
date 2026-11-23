@@ -44,7 +44,6 @@ aurora.dev
 avas.space
 avtorinok.ru
 awajihanasajiki.jp
-ayuslot-pro.com
 babynames.net
 bahai-library.org
 bangerscene.co.uk
@@ -55,6 +54,7 @@ basqueresearch.com
 bayreuth-tourismus.de
 becity.org
 beneluxbusinessroundtable.org
+bengtsfors-grillen.se
 bentallgreenoakleasing.com
 berger-levrault.fr
 bestengservice.com
@@ -109,6 +109,7 @@ dagnija.com
 daralkalema.com
 datanamic.com
 davidjolleyhorn.com
+deltaruneprophecy.art
 descansogardens.org
 deschuteslandtrust.org
 designwanted.com
@@ -126,6 +127,7 @@ discworldemporium.com
 donki.com = don don donki|don quijote|don quijote co., ltd.|donki|唐・吉訶德|唐吉|唐吉訶德|唐吉诃德|唐吉軻德|株式會社唐吉訶德|激安殿堂|驚安殿堂
 dpbspgcollege.in
 dunime.com
+dxyzyx.com
 dynamicgamingnetwork.com
 e-doctor.info
 econjwatch.org
@@ -238,7 +240,6 @@ kanschool.nl
 kaygordon.com
 kiko.com
 kimcamjones.com
-king88bet18.net
 kinoranok.org.ua
 klaraml.com
 kse-online.com
@@ -307,7 +308,6 @@ nikkotravel.co.jp
 nobleguideacademy.com
 noproblem.co.jp
 northbetcentral.nl
-northmetrofootball.net
 novanetworkinsight.nl
 novapoliklinikazbraslav.cz
 novexa.be
@@ -350,8 +350,8 @@ pointapp.org
 policevalais.ch
 popcornnews.net
 pragueprocess.eu
-privacywatch.news
 prostija-ptuj.si
+qldallergy.com
 queenelizabeths-ac.org.uk
 qwartz.fr
 ranville-breuillaud.fr
@@ -374,7 +374,6 @@ rossnoble.co.uk
 ry-wine.com
 ryanschultz.com
 safernel.co.uk
-sahachina.com
 sainsmandalawaluya.ac.id
 saint-francois.net
 saintaubindujura.fr
@@ -383,6 +382,7 @@ sarajevotimes.com
 sardatech.com
 saudade-movie.com
 searcharchives.bl.uk
+secondflor.com
 seibugas.com
 senadopr.us
 senanghati.org
@@ -425,6 +425,7 @@ superfama.net
 supermarineaircraft.com
 supernanny.kz
 svatyanton.sk
+sveafastigheter.se
 svmcugi.com
 swaantje-guentzel.de
 swisscarevent.ch
@@ -465,7 +466,6 @@ universalmusic.ca
 utphilly.com
 ututo.ar = ututo|ututo gnu/linux
 verdemg.com
-vietmos.vn
 vioxdj.com
 virtualapple.org
 visionluckypoint.com

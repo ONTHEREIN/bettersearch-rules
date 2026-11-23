@@ -6,11 +6,11 @@
 aaarg.fr
 abcf2.com
 abcfundraising.com
-ableshop.kr
 adiscon.com
 aede.eu
 aeif.or.jp
 ahnu.edu.cn
+airingnews.com
 ajg.or.jp
 akademiabialska.pl
 aktalakota.org
@@ -35,14 +35,13 @@ armaturygroup.cz
 arraycubegames.com
 arthroplastyjournal.org
 artik-bc.com
-asale.org
+asale.org = asale|西班牙語學會聯合會|西班牙语学院协会
 assoarcipelago.it
 avacysolution.com
 avenir-services-aluminium.com
 avo.cz
 awa777.asia
 axeltowers.dk
-b7bp2g.com
 babensham.de
 bad-toelz.de
 basaribet-girisi2025.com
@@ -92,6 +91,7 @@ cartelwarthemovie.com
 cashorcrashlive.net
 castellinicompany.com
 ccnbikes.com
+ceiba-bs.com
 celiarivenbark.com
 cervejaitaipava.com.br
 cesmeca.mx
@@ -131,6 +131,7 @@ dghdtyn.com
 dhobighatfilm.com
 dir.cat
 dirs21.de
+dk-onecasino.net
 dogsondeployment.org
 dojo-berlin.de
 dorfmuseum-gontenschwil.ch
@@ -207,7 +208,6 @@ homeofgoodhope.nl
 homify.es
 hoornseplas.net
 houfy.com
-housestyler.in
 huaytuengthao.com
 huk.org
 humanjava.com
@@ -224,6 +224,7 @@ internationalboundarycommission.org
 ionos.co.uk
 iranica.com
 isg-fi.org.uk
+itikelabhaskar.com
 itvonline.it
 jackparadise.com
 jackpotnation.de
@@ -262,6 +263,7 @@ lamone.ch
 larrvaldivia.cl
 laskinsfest.com
 lavanille-naturepark.com
+layerbet.io
 learningsparql.com
 lgt.lt
 liselindstrom.com
@@ -269,6 +271,7 @@ litpla.com
 live4fun.ru
 lizforindiana.com
 localgovernmentmag.co.nz
+logistahometech.fr
 lyun.edu.cn
 m88casinoindonesia.com
 magnetic-slots-casinos.net.pl
@@ -316,6 +319,7 @@ now-tv.com
 nuin.co.kr
 nutter.com
 nvfc.org
+oasisrecruit.com
 obecmarsov.cz
 ocrv.fun
 octordlegame.io
@@ -331,10 +335,8 @@ osma-soria.org
 ourstage.com
 oxfordarchaeology.com
 paczesny.tech
-pagelever.com
 parafiabieliny.pl
 partridgebromley.co.uk
-paylaterparts.co.uk
 peoplesmomentum.com
 photosmithapp.com
 phpwebhosting.com
@@ -362,6 +364,7 @@ sabf.fr
 saintjeandaubrigoux.fr
 sakuraobd.co.jp
 san9net.com
+santech.ru
 sbshivkalacollege.com
 schsa.org
 sciencesites.org
@@ -377,6 +380,7 @@ shark.aero
 sharkbetting.com
 shavim.net
 show.tours
+shuifa.net
 siba.fi
 sikku.se
 sindicalizate.com
@@ -403,8 +407,6 @@ summitslots567.com
 sun-win.vc
 sutbongtv.ai
 svenstrupvendelboe.com
-szhdzh.com
-takeiteasy.com.co
 teatrbarakah.com
 thedailynews24hr.com
 thegeekpub.com
@@ -452,8 +454,8 @@ wordproject.org
 worldbrides.org
 worldplaynetworks.com
 www.arprheumatology
-x-toys.nl
 xics.cat
+xn--z92b7qv6ckueoshntbjz1b6th.kr
 xperthractueel.nl
 yatterman.jp
 yelp.com = yelp|yelp inc|yelp inc.|yelp incorporated|yelp!|yelp, inc.|yelp.com

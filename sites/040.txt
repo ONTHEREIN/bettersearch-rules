@@ -60,7 +60,6 @@ bucek.name
 buehne-moosburg.de
 busanipark.com
 buzzfocus.com
-bzhai.top
 capriole.com
 carolineafugglas.com
 casinoble.com.br
@@ -113,6 +112,7 @@ dollarsense.au
 domeroom.co.uk
 dsporto.de
 dsro.org
+duriumx.com
 dyson.hk
 echodumardi.com
 educhr.ru
@@ -161,7 +161,6 @@ gma.ci
 goremageddon.be
 grainsa.co.za
 greatdomains.com
-gt5marketing.com
 gtc.edu
 gyotongn.com
 hccb.in
@@ -209,7 +208,7 @@ jetune.ru
 johnlawton.org
 jonathanhoefler.com
 jsports.co.jp
-jssports.in
+jturnerresearch.com
 jukkis.com
 juventus.it
 kalimori.org
@@ -230,7 +229,6 @@ kriminalforsorgen.gl
 ksnikakis.com
 kulturfabrik-berching.de
 kumkangshoe.com
-kuwin.global
 kysu.edu
 lahuellasonora.com
 lauderschule.de
@@ -238,6 +236,7 @@ lazich.info
 lebattantdeslames.com
 lebron18.net
 leefether.co.uk
+lekkeradverteren.nl
 lennundusmuuseum.ee
 librarycopyright.net
 librejuste.fr
@@ -282,7 +281,6 @@ mstudio-nyc.com
 museogracco.it
 museudeporcelana.com.br
 mysnhs.net
-myxq.my
 n-heydorn.de
 namantarcha.com
 naszetekstylia.pl
@@ -330,7 +328,6 @@ pithos.github.io
 pixelatedgeek.com
 pkfcqnw.cn
 plantatussentimientos.com
-pokitdok.com
 politicacriminal.cl
 polomuseum.com
 popolospizza.com
@@ -381,6 +378,7 @@ seitseid.de
 seoulbiennale.org
 serastone.com
 sfuhs.org
+sgptotomc.com
 sherweb.com
 shine-research.com
 shipk12.org
@@ -403,6 +401,7 @@ stealthisstory.org
 stories.com
 sumperk.cz
 suprnova.org = suprnova.org
+szhelin.com
 szknl.cn
 tacticsgamer.de
 tammileetips.com
@@ -459,8 +458,8 @@ whitearound.pl
 wikidatatree.xyz
 wincofoodsportlandopen.com
 wochederkritik.de
+woonloodsstellendam.nl
 wpgfdn.org
-writingforresults.net
 wutongminsu.cn
 xayzby.com
 xn--80afoazq8c.xn--p1ai
@@ -473,7 +472,6 @@ xportsnews.com
 yescom.com.br
 zaemit.com
 zbaszynek.pl
-zblvlong.com
 zee7somebodys.de
 zenconnectzone.nl
 zesunsub.com

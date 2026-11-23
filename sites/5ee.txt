@@ -63,6 +63,7 @@ bettlach.fr
 beverleyminster.org
 beybladetr.com
 bezmialemscience.org
+biblicalperspectives.com
 bilkollektivet.no
 bimeh.com
 bioconda.github.io
@@ -82,7 +83,6 @@ buehnenbern.ch
 buitenbeter.nl
 bukou.co.jp
 burakarik.com
-businessmacroeconomics.com
 ca61havess.top
 ca7designs.xyz
 caisterinfant.co.uk
@@ -145,7 +145,6 @@ dio.org
 diod.cz
 directstays.com
 diskstation.me
-dndevehicle.com
 dndijapan.org
 dnqp.de
 do-jutsu.ru
@@ -178,7 +177,6 @@ flirt.com
 fmplus.net
 fondationbombardier.ca
 fonge.org
-forum4teens.de
 forumperlamemoria.org
 fotoautomat.fr
 francescabalzani.it
@@ -202,7 +200,6 @@ gofairfoundation.org
 goldenhff.com
 goldexxcasino.com
 graemestorm.co.uk
-grant.com
 grenda.no = grenda|grenda.no
 greve.dk
 groovie.org
@@ -225,7 +222,6 @@ hostiq.ua
 howfollowswhat.net
 hram-belousovo.ru
 hrotovice.cz
-huazheindustry.com
 huntingtonsociety.ca
 hwefc.org.au
 hzrtv.cn
@@ -252,6 +248,7 @@ jl4d.org
 jobyay.co.uk
 joecamerota.com
 jscottrakozy.com
+jshr.jp
 jugendchorfestival.de
 kanze.net
 kaotikmetal.com
@@ -344,9 +341,11 @@ notedpeople.com
 ns1.com
 ntegritynetworks.com
 nu-kn.com
+nukimovie.top
 obec-roztoky.cz
 octuvre.cat
 oeht.at
+oelkj.com
 oferta.vc
 ohwvagoodwill.org
 olimar.de
@@ -429,7 +428,6 @@ siladizisi.info
 silex.me = silex flash cms
 silterra.com
 singaporemusicalboxmuseum.org
-siteshowcase.top
 skild.com
 skilledsurvival.com
 skillupai.com
@@ -459,12 +457,12 @@ teafm.com.my
 terrakoti.net
 terrasport.ua
 theflyingvmetalbar.com
+themonstersknow.com
 themusmus.com
 thieracheducentre.fr
 tigerradio.com
 tillbroenner.com
 tippingpoint.org
-tjggcc.com
 tomlongracing.com
 totaltraining.com
 trsmotorcycles.com

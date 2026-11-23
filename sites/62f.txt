@@ -2,12 +2,12 @@
 123movies.actor
 2normal.net
 4pna.com
-7winbetpro.com
 8xbetvip.org
 9ku.com
 a1autotransport.com
 aa72.realty
 acesse.dev
+adfontesjournal.com
 ainokaisa.com
 airchina.jp
 airheartgame.com
@@ -49,6 +49,7 @@ beseatsmart.org
 besteonlinewinkels.com
 biochemistry.be
 bishopramseyschool.org
+bitvoryn.com
 bloeizonefryslantour.nl
 bluecog.co.nz
 bluespassions.com
@@ -109,6 +110,7 @@ crbmb.com
 creativemarket.com
 cryptoarena.ca
 cstpsol.com
+cuantosolar.com
 cynthiazambrano.com
 daf-netzwerk.org
 dandasparks.org.uk
@@ -166,10 +168,10 @@ franzkafka.de
 fratboyentertainment.com
 fresheo.be
 freshmeatproductions.org
-frumzi.games
 fundera.it
 funyuns.com
 fusionvegasfactory.it
+gamdomno.co.no
 gamerpoker.pt
 ganggarrison.com
 gaspardkoenig.com
@@ -202,6 +204,7 @@ hotelurashima.co.jp
 hughes-templin.com
 hydroviv.com
 hyogo-nourinsuisangc.jp
+hysdqzby.com
 ifkenskede.se
 illinoislegalaid.org
 ilovevaquero.com
@@ -225,7 +228,6 @@ jeannedarc66.com
 jiisonline.org
 johnfordmusic.net
 johnweaversculptor.com
-jointlearningnetwork.org
 judithyarrow.com
 jusan.kz
 kadrovoe-agentstvo-moscow.ru
@@ -254,6 +256,7 @@ lilmosey.com
 linkers.net
 lochewedistillery.co.uk
 lpjournal.ru
+lukacstamas.com
 lunarrouletteonline.com
 macromedia.com = macromedia|宏媒体公司|美国宏媒体公司
 macromicro.me
@@ -441,6 +444,7 @@ truehouse.co.uk
 trueluckapp.com
 ts2h.com
 tuwoyou.cn
+tylekeo88.org
 ugebrev.dk
 un75.online
 universe.pl
@@ -469,13 +473,14 @@ watershedrestaurant.com
 wednesdayweek.com
 winhlp.com
 winz-nl.com
-woles4dup.com
 wustrow-seenplatte.de
 xchair.com
 xn--80acuoviek.xn--p1ai
 yff.com
+yq0p7g.cn
 yunnsoo.com
 z-polus.info
+z-z-j.cn
 zadubzavisin.cz
 zdanov.cz
 zooptek.net

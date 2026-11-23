@@ -36,7 +36,6 @@ arttoday.com
 asahi-life.co.jp
 ascd.de
 asgard-corp.com
-asia-ngdata.com.cn
 asisonline.org
 aspose.app
 astroligion.com
@@ -68,7 +67,6 @@ bogorodicinacrkva.rs
 boholtekirke.dk
 bookmarksbay.com
 bougylezneuville.fr
-boulevardsalon.net
 brianbrowne.com
 bsgm.org.uk
 burstiq.com
@@ -78,6 +76,7 @@ campbelldavid.com
 canet-adri.cat
 careerticket.jp
 carrbridge.com
+casarosso.nl
 casinoxclub.us
 cbrl.ca
 ceciliaechenique.cl
@@ -109,7 +108,6 @@ darrellgreen.com
 davmac.org
 dcnsgroup.com
 descendantsoferdrick.com
-design-simulation.com
 dg58.org
 dia-m.ru
 digitalreisen.at
@@ -137,7 +135,6 @@ exams-boost.com
 expertspaceexpress.nl
 farent.nl
 fatheads.com
-faunistik.net
 fc013.cc
 feedthebot.org
 ferdinandborger.nl
@@ -202,7 +199,6 @@ ipgeolocation.io
 iphoneblog.de
 iquebec.com
 is-a-geek.com
-isismotelscone.com.au
 isms.jp
 jacklift.nl
 jackpotjoy-se.com
@@ -213,7 +209,6 @@ jhpolice.gov.in
 jlime.com = jlime
 jonak.fr
 joseluislozanoactor.es
-juicyspotcafe.com
 kafe-dvorik.ru
 kec.jp
 kimmenzer.dk
@@ -282,7 +277,6 @@ natureworldnews.com
 newskr.kr
 newsonline360.co.uk
 nickmonsonmusic.com
-niepanruanjian.com
 nmi.hu
 noahhollmann.com
 noblesociety.com
@@ -442,7 +436,6 @@ tvoyaskala.com
 ung.ac.id
 universalmedicalinc.com
 universaltrendsblog.co.uk
-unnutrition.org
 urbanarenaplus.nl
 utreon.com
 vailresorts.com

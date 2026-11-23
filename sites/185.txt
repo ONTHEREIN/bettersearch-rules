@@ -22,7 +22,6 @@ amnesty.ca
 anduinos.com = anduinos
 annakschmid.ch
 antichecarampane.com
-anxcye.com
 aomorinko.com
 apollosaturn.com
 aquadeo.net
@@ -49,8 +48,9 @@ bethelin.com
 betzinofra.net
 bigdaddyscreations.com
 blackrodchurchschool.com
-blockode.co
 bluegold-worldwaterwars.com
+bluserviceitalia.com
+boardgamegeekstore.com
 bornholmer-grundschule.de
 brentanoquartet.com
 brickrow.com
@@ -71,7 +71,6 @@ calsky.com
 carwashmag.com
 casinoluckyhills.it
 cbs3.com
-cdwqyh.com
 ceic.ac.cn
 celebritiesphones.com
 cfee.net
@@ -86,17 +85,18 @@ colegioandresbello.cl
 colegiounionmexico.com
 comic-trail.com
 communicatemagazine.com
-companyidc.com
 connectpay.com
 conrail.com
 construction-products.eu
 coolzinos.ch
 coreblackjackhub.com
 cr-martinique.fr
+cresuscasinoofficial.net
 crypto4me.net
 cynthiarylant.com
 d13publicaffairs.com
 dakotagas.com
+dandy.qa
 darleychurchtown.co.uk
 dasiataylor.com
 dbem.ws
@@ -119,6 +119,7 @@ drhaushka.co.uk
 duckduckgo.com = ddg|duck duck go|duck.com|duckduckgo|duckduckgo private browser|duckduckgo.com
 duttenhofer.de
 dvtv.cz
+eastleighskips.com
 eclipseacemax.com
 edizionilacomune.com
 elitecardnationpoint.nl
@@ -133,6 +134,7 @@ ericsteckel.com
 esadealumni.net
 escentmachine.com
 eu-asso.fr
+fafa012zn.com
 farbs.org
 fcdesgraves33720.com
 festivalfantazie.cz
@@ -195,7 +197,6 @@ italianonprofit.it
 jamalcampbell.com
 japew.com
 jes.be
-jfccpe.com
 jfpauze.com
 jneirojarel.com
 joyellenicole.com
@@ -208,6 +209,7 @@ kanox.co.jp
 kanyeuniversecity.com
 kci-medical.ie
 kcstreetcar.org
+keitelejazz.fi
 kerogreen.eu
 kindaipicks.com
 kisalfoldvolan.hu
@@ -216,6 +218,7 @@ kj52.com
 kkdc.org
 klondike-online.com
 kmts.or.kr
+knoxgarden.org
 komplettgroup.com
 krigsvidenskab.dk
 ksctox.or.kr
@@ -230,6 +233,7 @@ legasseau.fr
 leikir-studio.com
 lfbrecht.de
 lgnord.de
+libet-casino-fr.com
 life-beam.com
 lifeinwesternpa.org
 lifeloom.au
@@ -266,6 +270,7 @@ michaeljquinn.net
 michelyweb.de
 minitracks.de
 mollyball.com
+momentoeditorial.com.br
 moniekpeek.nl
 montaukfilmfestival.org
 morina.cz
@@ -380,7 +385,6 @@ shizuokakenbudoukan.jp
 shopinkansascity.com
 siri.com
 skorstensgaard.dk
-slz4m.com
 snwhdawf.cn
 soliddaily.de
 sologne-des-etangs.fr
@@ -394,6 +398,7 @@ spd-bezirk-hannover.de
 spingalaxy.us
 srjvcollegeshiggaon.com
 stada.com
+stalbanswindowanddoorrepairs.co.uk
 starplayers.jp
 stars4all.eu
 starsinc.com
@@ -421,6 +426,7 @@ telekom.mk = macedonian telekom|makedonski telekom|马其顿电信
 tenri.org
 terabyteshop.com.br
 thedukeofwellington.london
+theflowonline.com
 thehammadtariq.com
 thehappyfits.com
 theinvisibledog.org
@@ -471,14 +477,16 @@ wnns.com
 worldfishing.net
 wqmurajs.cn
 wrightsock.com
+wwv6t.cn
 xn--felsphok-dza23i.hu
 xn--wiedenbrcker-tv-6vb.de
 xvxxx.cc
 y0251.cn
 y86fs.cn
 yanomakoto.net
-yichanglvxing.com
+yonexshop.jp
 yorunokuni.com
+yrv01.cn
 yukemurinosato.com
 za-reset.si
 zenconnectlab.nl

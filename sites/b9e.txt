@@ -45,7 +45,6 @@ benjaminmoore.com
 betblocker.org
 bettundbike.de
 bh90210.ru
-bho6ec1.xyz
 bhrreit.com
 bigsbackyardultra.com
 bikeindia.in
@@ -132,7 +131,7 @@ elitespinhub.com
 entelios.com
 erjch2017.com
 esadorleans.fr
-eth.limo
+eth.limo = tornado|tornado cash|tornadocash
 eu-openscreen.eu
 eurostars-eureka.eu
 excellerateaustralia.com
@@ -159,6 +158,7 @@ freie-lektoren.de
 freshslotsstation.com
 friedmanmichael.com
 froged.com
+fyqjgw.com
 gardenbreizh.org
 gcollinsandsons.com
 gift-group.co.jp
@@ -171,6 +171,7 @@ grandoasis.us
 greenteacher.com
 gunstonhall.org
 gurugramdegreecollege.com
+haningtonoysters.com
 hasanminhaj.com
 heronhill.com
 hibernate.org = hibernate
@@ -191,7 +192,6 @@ interface-eu.org
 irm.jp
 isangil.net
 iskra.eu
-jackpotsraider.uk
 jackpotworld24.de
 jank-lang.org
 jasonlewis.org
@@ -212,6 +212,7 @@ killrungame.com
 kindercare.com
 klippare.com
 konno-misako.com
+korvathia.com
 kp88vn.com
 kpfis.or.kr
 krestanskaakademie.cz
@@ -238,6 +239,7 @@ litecart.net
 localedge.com
 lokalno.mk
 londonmegacorner.uk
+londontribunals.gov.uk
 lorentzcenter.nl
 love39steps.com
 lowcarb-ernaehrung.info
@@ -270,7 +272,6 @@ michelecarlo.com
 mikov.cz
 millerline.co.uk
 minnesotastreetproject.org
-mnim.org
 moethemonster.com
 montymiranda.com
 moreanartscenter.org
@@ -292,7 +293,6 @@ noblemuffins.com
 noguchi-g.com
 nsf.ps
 nsouzai-kyoukai.or.jp
-nv-casino-fr.org
 nwfriesland.nl
 oasysmobile.com
 oidhaco.org
@@ -402,6 +402,7 @@ tonglu.biz
 topcasinobewertungen.de
 torenewamerica.com
 torpids.de
+townsvilledigitalmarketing.com.au
 transid.nl
 truebizworks.co.uk
 tsukiji-uoichiba.co.jp
@@ -422,6 +423,7 @@ visit-samara.ru
 vistascroll.com
 vistrygroup.co.uk
 visualsentinel.com
+vj88.business
 voiceless.org.au
 vojkovice.info
 volamos.com
@@ -443,6 +445,8 @@ worldtvgrid.com
 wow-powerleveling.org
 xaphyr.com
 xavor.com
+xcflwh.com
+ybl5v.cn
 ydmt.org
 zentralplus.ch
 zepyur.am

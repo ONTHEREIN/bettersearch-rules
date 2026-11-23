@@ -3,7 +3,6 @@
 4glaza.info
 51lunwen.org
 93shkola.ru
-a5bar.org
 aanl.am
 aavoeoamor.com
 abtronics.ru
@@ -52,6 +51,7 @@ bigdash.com
 biontech.com
 bisdom-krijgsmacht.nl
 bit-nik.it
+blakaviation.com
 bluevertigo.com.ar
 bmf.com.br
 bmpvc.com
@@ -137,9 +137,7 @@ esriaustralia.com.au
 etoffe.com
 everythingsfuckedpodcast.com
 execfunctions.org
-eyewitnessnews.co.za
 fablepets.com
-fastspin96th.blog
 fclluita.cat
 fdb.pl = fdb|fdb.pl|imdb.pl
 femturisme.cat
@@ -188,6 +186,7 @@ henrics-oldenkott.com
 hermespardini.com.br
 heterographe.ch
 hfcuvt.com
+hib.co.uk
 hildevancauteren.com
 hir-net.com
 hkppa.net
@@ -214,9 +213,9 @@ jackorazone.co.uk
 janatie-ataie.com
 jes24.co.jp
 jesuits-europe.info
-jingmingtang.com
 jk28x31k.cc
 jodiemoore.com
+joomdonationdemo.com
 joyelab.org
 kauchuk.kz
 kbsdepoort.nl
@@ -229,7 +228,6 @@ kp79.gg
 kriminalistiyhdistys.fi
 kvakademi.org
 kyotokojohokenkai.jp
-labpeptides.org
 latviesufonds.org
 ldarch.ie
 ldxy.edu.cn
@@ -244,7 +242,6 @@ lpm-saarland.de
 lppm.com
 lucky-jet-games.kz
 lux555.net
-lyzhibo.com
 macworld.com = macworld
 margarethaskolan.se
 mariaespeus.com
@@ -261,7 +258,6 @@ medtechnika.ru
 melsvanzutphen.nl
 metarom.eu
 metering.com
-mfa2005.com
 mgrt.gov.si
 michel-haillard.com
 michinoeki-shiroishi.jp
@@ -270,7 +266,6 @@ miin.cc
 mimipage.com
 miniworldlyon.com
 miss-piercing.nl
-mitratogelonline.com
 mmgrupp.ee
 mnuai.ro
 mochizuki-san.jp
@@ -406,9 +401,9 @@ sunrez.com
 svolpert.eu
 sw.gov.pl
 sweetjames.com
-sweetsms.in
 swissgamersaward.ch
 switchup.org
+tableauglorieux.fr
 tadejpogacar.com
 taghribnews.com
 tallinn.church
@@ -428,6 +423,7 @@ thomhell.com
 tikamoon.com
 tikitaka-casino-nl.com
 tinysa.org
+tinyvga.com
 titancapitalforensics.com
 toa.st
 topxx88.com
@@ -471,6 +467,8 @@ wocommunity.org
 wordery.com
 wpsrhd.com
 www.estv.admin.ch
+x1creditcard.com
+xagbgs.com
 xxyerp.icu
 y1065.com
 yagitakeshi.com

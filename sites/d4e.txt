@@ -1,4 +1,3 @@
-21daysugardetox.com
 64406346.com
 789-club.to
 88999316.xyz
@@ -63,6 +62,7 @@ brunoalessandro.it
 bryancpijanowski.me
 bryanhealth.com
 bsbi.org
+buitenlands.eu
 businesseventsthailand.com
 butaairways.az
 caibarge.it
@@ -126,7 +126,6 @@ dre.pl
 drewbarr.com
 drisp.dk
 drmarkdooley.com
-duniaoutbound.com
 dynatechconsultancy.com
 easternmarine.com
 ecocyc.org
@@ -134,7 +133,6 @@ ecolendirect.fr
 editionslateliercontemporain.net
 ege-go.ru
 einsteinhorsemag.com
-emirbet.com
 enchem.net
 endeavorone.com
 enhanceai.dev
@@ -145,13 +143,13 @@ essa-foot.dz
 ettringen.de
 euglena.jp
 evrfc.co.uk
+faceandbodysalon.com
 fcbaltimore1729.com
 ferraridealers.com
 feuerwehr-friesland.de
 filarmonicadecortes.pt
 filmfestivalofcbus.com
 filocanale.it
-fjqzz.com
 flugplatz-hegenscheid.de
 fonderie-vincent.com
 foofwwf.com
@@ -184,9 +182,9 @@ henzeboekhout.nl
 historyofceylontea.com
 hiwit.com
 hoken-clinic.com
-holon.cat
 hombujapadmavati.org
 horshammuseum.org
+hotel-neuhaus.com
 hotnatalia.com
 hoyorredondo.es
 hreyfill.is
@@ -210,6 +208,7 @@ ishine.asia
 it24hrs.com
 itchiku-museum.com
 itcouldstillhappen.com
+itnuwe.com
 itslaw.com
 iwanb.com
 izapya.com = zapya|快牙
@@ -249,7 +248,6 @@ kreis-bad-duerkheim.de
 kyastal.com
 lafayetteny.com
 lanutrition.fr
-larrikinpuppets.com.au
 lasrocasrestaurant.com
 legitgamblingsites.com
 lejasciems.lv
@@ -265,7 +263,6 @@ luckyniki-de.com
 ludolfnielsen.dk
 lunapark21.net
 lunaparksydney.com
-luvnailsalon.com
 mackenzie.art
 madeleinedavidchagnon.com
 magdalenasevcik.de
@@ -343,7 +340,6 @@ orca-script.de
 osamuskwasis.com
 otzovikon.com
 oxventure.com
-pas.org.my
 pasc-ch.org
 petecampos.com
 pgii-targovishte.com
@@ -386,7 +382,7 @@ ryangirdusky.com
 sacada.net
 saint-blaise.ch
 saintpetersblog.com
-sakerhetspolisen.se
+sakerhetspolisen.se = swedish security service|瑞典保安警察|瑞典國家安全局
 sakura-no-sato.com
 salillas.es
 sallandnatuurlijkgastvrij.nl
@@ -441,11 +437,9 @@ taxisite.com
 techniekwerkt.nl
 tekmaneducation.com
 tellmebest.com
-teseshiqiao.com
 testssl.sh
 thegrantportal.com
 thelovefan.com
-tlergm.com
 tmsmm.ru
 tmux.github.io = tmux
 tobishipharm.com.hk

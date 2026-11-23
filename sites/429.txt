@@ -30,7 +30,6 @@ arkheim.com
 armenianmonument.org
 arnosteinwender.com
 arnoutkillian.nl
-arsenal-info.ru
 artsharela.org
 asj-sj.org
 assocomaplast.org
@@ -107,6 +106,7 @@ crackmagazine.net
 crememagazine.co.nz
 croat.community
 csce.ca
+ctiweb.co.jp
 cupernhaminfant.com
 cynical-c.com
 czeladz.pl
@@ -134,18 +134,19 @@ dr.dk = borgen|broen|bron|danish esc|danish eurovision song contest|dansk melodi
 drphilipmiller.com
 dshort.com
 ecosocialistsgreece.blogspot.com
+edeka-looks.de
 edite-de-paris.fr
 educationnext.org
 edufuture.biz
 eliotschrefer.com
 emazzanti.net
 embajadabolpan.com
-embeddedstar.com
 energypolicy.ru
 enka-girls.jp
 enstimac.fr
 epm.gr
 eq6v3z.shop
+eyerisinginternational.com
 ezhou.kuaimi.cn
 ezruner.net
 fcbillar.cat
@@ -171,7 +172,6 @@ genesis-initiative.org
 geordiebootboys.com
 geratskirchen.de
 gionee.com = gionee|gionee communication equipment co. ltd.|金立
-girls-kzn.mobi
 globetv.ch
 gmuender-tagespost.de
 goldcanyon.net
@@ -247,7 +247,6 @@ kimutake.jp
 kingsgame-de.de
 kompass.com
 korso.pl
-kqbd.gdn
 kumamoto-shigikai.jp
 kylelarsonracing.com
 lacollective.com
@@ -258,6 +257,7 @@ liaison.com
 libera.chat = libera|libera chat|libera.chat
 libya-businessnews.com
 ligos.com = indeo|indeo video|indeo video interactive|real-time video
+linglinjiaoyu.com
 londonloungemarket.uk
 londonprizelink.uk
 loungelab.uk
@@ -284,6 +284,7 @@ michiganmedicine.org
 mickwallace.net
 mierzwa.org.pl
 mikadono.family
+milehighsticking.com
 mirkvn.com
 mitchellindianvillage.org
 modernbetpoint.uk
@@ -332,6 +333,7 @@ patentgenius.com
 peramiho.org
 pgss-chirpan.com
 philipmatesic.com
+pixeliversehub.com
 playtikitaka.co.uk
 pledge-tx.com
 pokerspot.co.uk
@@ -364,7 +366,6 @@ rtm.ong
 sail-labs.com
 sailauf.de
 saintlaurentsursevre.fr
-samba-slots-nl.nl
 sanicare.de
 sankyu.co.jp
 sc1880.de
@@ -381,7 +382,6 @@ silverfallsschools.org
 simonwakefieldgolf.com
 sitzungsdienst-neukoelln.de
 skulpturlandskap.no
-slot777ku.org
 sorinstitute.org
 south32.net = south32|south32 limited
 spelunkyworld.com = spelunky|spelunky classic|洞穴冒险|洞穴冒險|洞穴探险
@@ -419,6 +419,7 @@ thescarefestweekend.com
 theskinwellnesscenter.net
 tiffanitime.org
 timelines.ai
+tipugbn.cn
 tisztavizkft.hu
 tomohide-web.info
 tonekanews.ir
@@ -429,6 +430,7 @@ trevorperkins.com
 troopwebhost.org
 truba.com
 trublion.org
+twentyfiveandfour.com
 u-ldevinci.fr
 unionmodel.info
 uniqa.ro

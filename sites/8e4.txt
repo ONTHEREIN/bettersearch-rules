@@ -3,6 +3,7 @@
 77bet.phd
 abjjad.com = abjjad
 adevinta.com
+adriansarmasanofficial.ro
 aero-club-esslingen.de
 ahvma.org
 aid.de
@@ -17,10 +18,8 @@ alexisimport.com
 alexlanglands.com
 allaboutdnt.com
 allgen.se
-alllabtests.com
 alphathoughts.us
 ammunitiongroup.com
-anacondamovie.com
 andreablanar.com
 ange-vierge-anime.com
 angelislandferry.com
@@ -42,7 +41,6 @@ at-jam.jp
 atlantkommitten.se
 aubonheurdujour.net
 austere.org
-autoid.pl
 autonlab.org
 avtokampi.si
 ayjackson.ca
@@ -67,6 +65,7 @@ bexley.fr
 bgmonline.net
 billysband.ru
 bitbo.io
+bitext.com
 biuronogalska.pl
 bjseedu.com
 blaisendala.com
@@ -134,7 +133,6 @@ ctrlv.cz
 currentsnewmedia.org
 datajitu.help
 davidelacara.nl
-debtsnote.com
 degantel.nl
 denisrousseau.com
 detourjapan.com
@@ -161,7 +159,6 @@ etcvenues.com
 eugeniogiani.it
 euroganaderia.eu
 euville.fr
-fatbtc.com
 fbstib.org
 fcmamer32.lu
 feministcurrent.com
@@ -178,8 +175,10 @@ forum-studie.de
 fsxwwj.com
 ftm-cgt.fr
 fundacioneducacioncatolica.com
+furniturepick.com
 fusepoint.com
 futurea.de
+fx.land
 gaijin.at
 garysinisefoundation.org
 gavang4.tv
@@ -218,7 +217,6 @@ hits1027.com
 hk.canon
 hoghehus.de
 holyghostnyc.net
-home-pwesports.com.cn
 hoosiersalon.org
 htv-online.de
 huethig.de
@@ -259,7 +257,6 @@ kennethsnelson.net
 keyingredient.com
 kezina.ru
 kiinteistotahkola.fi
-king88.luxe
 kipawa.ca
 kishorebiyani.com
 kitchenkocktailsusa.com
@@ -352,6 +349,7 @@ orgelbau-ahrend.de
 orlandoreade.com
 ou-kosharica.com
 pajeczno.pl
+panosgl.org
 parissocoeur.fr
 parrocchiasanteugenio.it
 peasleyboisemovers.com
@@ -370,7 +368,7 @@ prabhupadabooks.com
 pravonapravdu.sk
 premiersoundfactory.com
 primepathpoint.com
-pshistoricalsociety.org
+prviet.com.vn
 pwkvmc.com
 qube2game.com
 radio19.it
@@ -378,7 +376,6 @@ radiofrance-podcast.net
 rakumachi.co.jp
 raleighmag.com
 rangerdesign.com
-rcasino-uk.com
 rdv-iitd.com
 recyclivre.com
 regent.edu
@@ -426,6 +423,7 @@ spinaniacasinos.de
 stafs.be
 standinc.com
 stanthonyscollege.com
+stelario-casino-be.com
 stmarysonline.co.uk
 sundancenow.com
 sunwaymedical.com
@@ -462,6 +460,7 @@ tissotvelodrome.ch
 titantherobot.com
 tityra.com
 tobiaspicker.com
+tom-ad.com
 torchgoddess.com
 totectors.co.uk
 tripadvisor.be
@@ -490,7 +489,6 @@ vidaa-wiedau.eu
 viessmann-climatesolutions.com
 view.co.uk
 virtualcasino-fr.com
-visitergrenade.fr
 visitukraine.today
 volksuniversiteitamsterdam.nl
 vvveb.com
@@ -504,6 +502,7 @@ wilkes.edu
 winspiritau.com
 wowcasinos.ro
 writersofthewest.net
+xotsrcf.com
 xzen.band
 yihaichuanmei.cn
 yolawo.de
@@ -513,4 +512,5 @@ yutoku.jp
 zailaboratory.com
 zee7questions.top
 ziporyn.com
+zonadecomfort.ro
 zuppler.com

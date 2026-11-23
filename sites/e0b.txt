@@ -53,6 +53,7 @@ azelor.space
 backlinkurlchecker.space
 badushuette.ch
 bassnab.ru
+bcgame-philippines.net
 beachbodycoach.com
 beaconlive.com
 bergbieten.fr
@@ -140,6 +141,7 @@ engie.co.uk
 engreen.world
 eon.com.my
 eplastics.com
+erichongisto.com
 esconlinecasino-ch.com
 escritoscientificos.es
 eu-verbraucher.de
@@ -147,6 +149,7 @@ europeanboatingindustry.eu
 eurotalk.com
 evolutionofhorror.com
 ewvt.de
+fafa168xs.com
 fasttransit.org
 felixbanaszak.de
 fightthesmears.com
@@ -364,6 +367,7 @@ saunahouse.com
 savingtheworld.org
 savorysweetlife.com
 say-zee.net
+sazuguide.com
 sbo.nl
 scf.sr
 schieder-schwalenberg.net
@@ -405,6 +409,7 @@ sportsradio1560.com
 ssp-welsberg.it
 starwarsforcearena.com = star wars: force arena
 stephenoram.net
+stlukesglasgow.com
 sumitomo-chem.co.jp = sumitomo chemical|住友化學
 sunhelp.org
 supersoul.tv
@@ -460,6 +465,7 @@ vertexcardsworld.nl
 vertexreelsstation.com
 vfl-nauen.de
 visible-learning.org
+vitadartisti.it
 vizionone.com
 vladimirtravel.ru
 volejbalbrno.cz
@@ -469,7 +475,7 @@ we888-live.com
 wearwagrepeat.com
 wellspanphilhaven.org
 welovethis.store
-westpac.com.au = wbc|western pacific|western-pacific|westpac|westpac banking corp|westpac banking corporation|西太平洋銀行|西太平洋银行
+westpac.com.au = asx.wbc|wbc|western pacific|western-pacific|westpac|westpac banking corp|westpac banking corporation|西太平洋銀行|西太平洋银行
 wgg-neumarkt.de
 whitephantomgames.co.uk
 whtop.com

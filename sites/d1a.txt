@@ -6,9 +6,8 @@
 83c.asia
 889993979.xyz
 8thwall.com
-9-balllivestream.com.cn
+a29t6.cn
 a300ktv0923144733.com
-abbeygale.com
 absoluteplumbingwa.com
 accessibilityclinic.org
 acfid.asn.au
@@ -87,6 +86,7 @@ chennaiopen.org
 chungain.kr
 ciffreobona.fr
 cjbio.net
+claudiozanutim.com.br
 clearreelsgroup.nl
 clearwatercounty.org
 cleobetraacasino.ca
@@ -139,7 +139,6 @@ epicgames.com = creative|egs|epic|epic game store|epic games|epic games inc.|epi
 ericbiddines.com
 ermsdorf.lu
 eromm.org
-espacedesmondespolaires.org
 espaces-latinos.org
 ethermanage.com
 eurofederalistparty.eu
@@ -152,6 +151,7 @@ farmandranchguide.com
 farnost-krpole.cz
 fete-des-possibles.org
 fftarot.fr
+five88.rugby
 florianfroehlich.com
 flylevel.com = level|水平航空
 focusfocus.nl
@@ -324,7 +324,7 @@ oneclay.net
 osdou.com
 osteoporosis.ca
 pacificbuddhistacademy.org
-paralympic.org = 1960 summer paralympics|1960年夏季残奥会|1968 summer paralympics|1968年夏季帕拉林匹克運動會|1972 summer paralympics|1972年夏季傷殘奧林匹克運動會|1972年夏季帕拉林匹克運動會|1972年夏季残奥会|1972年夏季残疾人奥林匹克运动会|1976 summer paralympics|1976年夏季帕拉林匹克運動會|1984 summer paralympics|1984 winter paralympics|1984年冬季傷殘奧林匹克運動會|1984年冬季帕拉林匹克运动会|1984年冬季帕拉林匹克運動會|1984年冬季残疾人奥林匹克运动会|1984年夏季帕拉林匹克運動會|1988 summer paralympics|1988 winter paralympics|1988年冬季傷殘奧林匹克運動會|1988年冬季帕拉林匹克运动会|1988年冬季帕拉林匹克運動會|1988年冬季残疾人奥林匹克运动会|1988年夏季傷殘奧林匹克運動會|1988年夏季帕拉林匹克运动会|1988年夏季帕拉林匹克運動會|1988年夏季残疾人奥林匹克运动会|1992 winter paralympics|1992年冬季帕拉林匹克運動會|1996 summer paralympics|1996年夏季残奥会|1998 winter paralympics|1998年冬季傷殘奧林匹克運動會|1998年冬季帕拉林匹克運動會|1998年冬季柏拉林匹克運動會|1998年冬季残奥会|1998年冬季残疾人奥林匹克运动会|1998年冬季殘奧會|1998年残疾人冬奥会|2002 winter paralympics|2002年冬季残奥会|2010 winter paralympics|2010年冬季傷殘奧林匹克運動會|2010年冬季帕拉林匹克運動會|2010年冬季残疾人奥林匹克运动会|2012 paralympic games|2012 summer paralympic games|2012 summer paralympics|2012年夏季傷殘奧林匹克運動會|2012年夏季帕拉林匹克運動會|2012年夏季帕運會|2012年夏季柏拉林匹克運動會|2012年夏季残奥会|2012年夏季残疾人奥林匹克运动会|2014 winter paralympics|2014年冬季傷殘奧林匹克運動會|2014年冬季帕拉林匹克运动会|2014年冬季帕拉林匹克運動會|2014年冬季残奥会|2014年冬季残疾人奥林匹克运动会|2024 summer paralympics|2024年夏季帕拉林匹克運動會|2024年夏季残疾人奥林匹克运动会跆拳道比赛|2026 winter paralympics|2026年冬季帕拉林匹克運動會|2028 summer paralympics|2028年夏季残疾人奥林匹克运动会|atlanta 1996|heidelberg 1972|international paralympic committee|ipc|la 2028 paralympic games|la 2028 paralympics|la28 paralympic games|la28 paralympics|london 2012|los angeles 2028 paralympic games|los angeles 2028 paralympics|nagano 1998|paralympic games|paris 2024|paris 2024 paralympic games|sochi 2014 paralympic winter games|summer paralympics 1972|summer paralympics 1996|summer paralympics 2012|summer paralympics 2028|taekwondo at the 2024 summer paralympics|winter paralympics 1998|winter paralympics 2014|国际帕拉林匹克委员会|国际残奥委会|国际残疾人奥林匹克委员会|國際帕委會|國際帕拉林匹克委員會|國際殘疾人奧林匹克委員會|帕拉林匹克運動會|残疾人奥林匹克运动会|殘疾人奧林匹克運動會
+paralympic.org = 1960 summer paralympics|1960年夏季残奥会|1968 summer paralympics|1968年夏季帕拉林匹克運動會|1972 summer paralympics|1972年夏季傷殘奧林匹克運動會|1972年夏季帕拉林匹克運動會|1972年夏季残奥会|1972年夏季残疾人奥林匹克运动会|1976 summer paralympics|1976年夏季帕拉林匹克運動會|1984 summer paralympics|1984 winter paralympics|1984年冬季傷殘奧林匹克運動會|1984年冬季帕拉林匹克运动会|1984年冬季帕拉林匹克運動會|1984年冬季残疾人奥林匹克运动会|1984年夏季帕拉林匹克運動會|1988 summer paralympics|1988 winter paralympics|1988年冬季傷殘奧林匹克運動會|1988年冬季帕拉林匹克运动会|1988年冬季帕拉林匹克運動會|1988年冬季残疾人奥林匹克运动会|1988年夏季傷殘奧林匹克運動會|1988年夏季帕拉林匹克运动会|1988年夏季帕拉林匹克運動會|1988年夏季残奥会|1988年夏季残疾人奥林匹克运动会|1992 winter paralympics|1992年冬季帕拉林匹克運動會|1996 summer paralympics|1996年夏季残奥会|1998 winter paralympics|1998年冬季傷殘奧林匹克運動會|1998年冬季帕拉林匹克運動會|1998年冬季柏拉林匹克運動會|1998年冬季残奥会|1998年冬季残疾人奥林匹克运动会|1998年冬季殘奧會|1998年残疾人冬奥会|2002 winter paralympics|2002年冬季残奥会|2010 winter paralympics|2010年冬季傷殘奧林匹克運動會|2010年冬季帕拉林匹克運動會|2010年冬季残疾人奥林匹克运动会|2012 paralympic games|2012 summer paralympic games|2012 summer paralympics|2012年夏季傷殘奧林匹克運動會|2012年夏季帕拉林匹克運動會|2012年夏季帕運會|2012年夏季柏拉林匹克運動會|2012年夏季残奥会|2012年夏季残疾人奥林匹克运动会|2014 winter paralympics|2014年冬季傷殘奧林匹克運動會|2014年冬季帕拉林匹克运动会|2014年冬季帕拉林匹克運動會|2014年冬季残奥会|2014年冬季残疾人奥林匹克运动会|2024 summer paralympics|2024年夏季帕拉林匹克運動會|2024年夏季残疾人奥林匹克运动会跆拳道比赛|2026 winter paralympics|2026年冬季帕拉林匹克運動會|2028 summer paralympics|2028年夏季残疾人奥林匹克运动会|atlanta 1996|heidelberg 1972|international paralympic committee|ipc|la 2028 paralympic games|la 2028 paralympics|la28 paralympic games|la28 paralympics|london 2012|los angeles 2028 paralympic games|los angeles 2028 paralympics|nagano 1998|paris 2024|paris 2024 paralympic games|seoul 1988|sochi 2014 paralympic winter games|summer paralympics 1972|summer paralympics 1988|summer paralympics 1996|summer paralympics 2012|summer paralympics 2028|taekwondo at the 2024 summer paralympics|tignes-albertville 1992|winter paralympics 1998|winter paralympics 2014|国际帕拉林匹克委员会|国际残奥委会|国际残疾人奥林匹克委员会|國際帕委會|國際帕拉林匹克委員會|國際殘疾人奧林匹克委員會
 pascalmutel.com
 paxnet.co.kr
 paysdelaserre.fr
@@ -342,6 +342,7 @@ profesionalreview.com
 progettoblio.com
 programme-tv.com
 pwc.com = pricewaterhousecoopers|pwc|pwc network|pwc.com|普华永道|普华永道中天会计师事务所|普华永道会计师事务所|普華永道會計師事務所|羅兵咸會計師行|羅兵咸永道|羅兵咸永道會計師事務所
+qlgdmie.com
 qtiponline.com
 quorn.be = quorn|庫恩|闊恩牌素肉
 raiffeisenbank-kaiserstuhl.de
@@ -356,7 +357,6 @@ red-laboratory.net
 redcellpartners.com
 resistol.com
 resourcetrade.earth
-rkdekorasi.com
 robleswrites.com
 rookindy.com
 rzd-museum.ru
@@ -392,10 +392,10 @@ soundenterprises.com
 sourceoutdoor.com
 sourcesofstrength.org
 srkmlcedu.org
-steamdreams.co.uk
 stellamarisostia.it
 sudmessin.fr
 superplastic.co
+supremesportcenter.it
 surin-kcm.com
 suzymovs.com
 swiftwithmajid.com
@@ -440,6 +440,7 @@ unn.edu.cn
 unternimm-die-zukunft.de
 urakasumi.com
 urbancardsstation.nl
+us26r6.cn
 ustatunja.edu.co
 utahyouthsoccer.net
 vertexpoker.it

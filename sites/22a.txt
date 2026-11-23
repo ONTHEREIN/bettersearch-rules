@@ -10,6 +10,7 @@ addc.ae
 adrse.ro
 africa-action.de
 africassnd.org
+agniflux.com
 airr-community.org
 alainturpault.com
 alistoraproperties.com
@@ -49,6 +50,7 @@ bid.tv
 bigke.org
 bigstone.ca
 bishopvisitor.com
+bjhqky.com
 blackswantheatre.com.au
 blanne.cz
 blogspace.fr
@@ -103,6 +105,7 @@ cosmicjackpotexpress.com
 cosmolife.co.jp
 cwin.trade
 czjnwl.com
+daiho.or.jp
 dailyedge.ie
 damonbaehrel.com
 danpontefract.com
@@ -137,6 +140,7 @@ emmanuelfratianni.com
 epicbetcasino.fi
 evil-islands.com
 extract.pics
+f7digitalmedia.com
 fchristus.com.br
 ffcr.or.jp
 fierstbloomberg.com
@@ -174,9 +178,7 @@ gwcim.com
 gxgs.gov.cn
 gygov.gov.cn
 hach-lange.de
-happydas.in
 hayu.com
-hdbet.download
 health-ri.nl
 hegyvidekujsag.hu
 highergroundmedia.com
@@ -197,7 +199,6 @@ indobet.com
 interactual.com
 iofos.eu
 ion.ac.uk
-irende.com
 islandfort.co.uk
 it-online.co.za
 jaszaiszinhaz.hu
@@ -211,7 +212,6 @@ johnwaldentrust.org
 jooust.ac.ke
 jordanlsanders.com
 josepcolom.com
-joyofdeath.co.uk
 jpsjunkremoval.com
 justbitwin.nl
 justfreeslide.com
@@ -219,7 +219,6 @@ kabus.fi
 kanwa.com
 karely-ruiz.com
 kellyandryan.com
-kenhowells.net
 kikanshi-book.com
 kimboishii.com
 kittentoob.com
@@ -271,6 +270,7 @@ mizsih.hu
 mod.gov.lv
 mogilevnews.by
 moirakellyaustralia.com
+moneynet.co.uk
 monovar.es
 montypython.net
 moonarea.net
@@ -293,19 +293,18 @@ ngg-r.com
 nigelstonier.co.uk
 nohejbalsk.com
 nomediakings.org
-nor.com.au
 northshoreweekend.com
 nostalgimuseum.se
 nouchimi.com
 nsinternational.com
 nusantara-atlas.org
+nvidia.eu
 ofifc.org
 oko.press = oko press|oko.press
 ole777x.com
 oliveratannhelseteam.no
 omegadiceworld.nl
 omniguidesurgical.com
-onlinecasinomitschnellerauszahlung.de
 opstinarudo.com
 outstyle.com
 pallium.cz
@@ -328,12 +327,14 @@ porcia.com
 porterwright.com
 povo.jp
 powellcorderoy.co.uk
+prediksitoto-5d.com
 prediomartinelli.com.br
 privnote.com
 progressiefpn.nl
 purebetpro.nl
 purecraftnetwork.nl
 q-bird.com
+qhjrb.com
 quantis.com
 quickbriefstudio.nl
 rafiusa.org
@@ -388,7 +389,6 @@ spotnana.com
 spzoz-brzesko.pl
 st-endreol.com
 starburst-slot.com.br
-startupsseed.com
 stclement-ottawa.org
 stichtingvrd.nl
 stisipol-silaspapare-jayapura.com
@@ -424,7 +424,7 @@ tltuchola.pl
 togel77.blog
 toutwars.com
 townofrouleau.com
-transformersmovie.com = the last knight|transformers|transformers 2: revenge of the fallen|transformers 3: dark of the moon|transformers 4|transformers 5|transformers: age of extinction|transformers: dark of the moon|transformers: dark of the moon 3d|transformers: movie|transformers: revenge of the fallen|transformers: rise of the beasts|transformers: the last knight|变形金刚|变形金刚1|变形金刚2|变形金刚2：卷土重来|变形金刚3|变形金刚3：月黑之时|变形金刚5：最后的骑士|变形金刚：堕落者的复仇|变形金刚：复仇之战|變形金剛|變形金剛2：墮落者的復仇|變形金剛3|變形金剛3：黑月降臨|變形金剛4|變形金剛5：最後騎士|變形金剛狂派再起|變形金剛系列電影|變形金剛電影系列|變形金剛：墮落者的復仇|變形金剛：復仇之戰|變形金剛：狂派再起|變形金剛：終極戰士|變形金剛：萬獸崛起|變形金剛：黑月降臨
+transformersmovie.com = bayformers|the last knight|transformers|transformers 2: revenge of the fallen|transformers 3: dark of the moon|transformers 4|transformers 5|transformers: age of extinction|transformers: dark of the moon|transformers: dark of the moon 3d|transformers: movie|transformers: revenge of the fallen|transformers: rise of the beasts|transformers: the last knight|变形金刚|变形金刚1|变形金刚2|变形金刚2：卷土重来|变形金刚3|变形金刚3：月黑之时|变形金刚5：最后的骑士|变形金刚：堕落者的复仇|变形金刚：复仇之战|變形金剛|變形金剛2：墮落者的復仇|變形金剛3|變形金剛3：黑月降臨|變形金剛4|變形金剛5：最後騎士|變形金剛狂派再起|變形金剛系列電影|變形金剛電影系列|變形金剛：墮落者的復仇|變形金剛：復仇之戰|變形金剛：狂派再起|變形金剛：終極戰士|變形金剛：萬獸崛起|變形金剛：黑月降臨
 trinitybexleyheath.org.uk
 trtc.com.tw
 truehealthinitiative.org
@@ -453,6 +453,7 @@ wadebowen.com
 webgazi.com
 whiteclouds.com
 whizprime.com
+wildcard-works.com
 winora-group.de
 womenwhodraw.com
 wordechoplanet.com
@@ -464,7 +465,6 @@ xnxx-porn.monster
 xrcgteam.com
 yayoe.org
 youshouldhaveleftmovie.com
-yspvzk.com
 yujawang.com
 zenrouren-kaikan.jp
 zevtechnologies.com

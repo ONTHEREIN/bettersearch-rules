@@ -17,7 +17,6 @@ affenberg.com
 aguapan.org
 aia.co.th
 airport.co.kr
-akinonoyu.com
 alexanderkutschera.com
 aliorbank.ro
 alphascope.us
@@ -40,9 +39,7 @@ atlantaheartbreakers.com
 atoute.org
 auclassifieds.com.au
 aurorapropbetmax.com
-autalo.com
 avirtuouswoman.org
-aydogandijital.com.tr
 baberuthmuseum.org
 bad-ems.de
 baruthotels.com
@@ -135,8 +132,11 @@ elizabethwarren.com
 enconvo.com
 entasyonline.com
 erickuijpers.nl
+europenews.co
 falknerhaus.at
+familyservices.org.au
 fashionbalilegian.com
+fedy-diary.ru
 filedn.com
 finanzamt-bonn-aussenstadt.de
 flexbook.me
@@ -175,7 +175,6 @@ goldmax360.com
 gosdat.online
 gplx.gov.vn
 grandhotelsiva.it
-grandmondial-ontario.com
 graniteymca.org
 greenbelly.co
 greenhouseschoolwebsites.co.uk
@@ -203,6 +202,7 @@ hpschool.nl
 hromov.net
 huffnpuffsllots-fr.fr
 huskyloops.com
+i9betno1.net
 iaees.org
 ichkoche.at
 icrisat.org
@@ -280,6 +280,7 @@ meta-publications.com
 miasteczkomultimedialne.pl
 michaelvangerwen.com
 mikebrewer.tv
+mikromint.de
 milege.org
 mindead.com
 mleuven.be
@@ -318,7 +319,6 @@ odeonpoliteama.it
 oelhaus-h-r.de
 oerterp.nl
 ogurahirokazu.com
-oleron.fr
 onecash365.com
 openarena.ws = openarena
 oppodigital.com
@@ -383,6 +383,7 @@ sevenplaycasino-au.com
 shirakavia.am
 shreksuperslam.com = shrek superslam|史瑞克超級衝擊|怪物史莱克2|怪物史莱克：超级撞击
 shzxaa.top
+sibyllenbad.de
 sinar.ru
 sirromet.com
 slingocasinotipsuk.com
@@ -400,6 +401,7 @@ spinprime.id
 stadtmarketing-herne.de
 stadtwerke-muenster.de
 stammer.in
+stapelstein.de
 starkenberger.at
 stcolumbasrcprimary.co.uk
 stellayoung.com
@@ -415,8 +417,8 @@ studdyai.com
 studentsinsurance.es
 sucafina.com
 sugarrush1000slot-gr.com
-sulfonhsbiotin.com
 sundeved-efterskole.dk
+supermoonbakehouse.com
 surfcitync.gov
 surfingbird.ru
 surgegraph.io
@@ -437,8 +439,10 @@ thecocktaildb.com
 thesagegateshead.org
 thespinkings.co.uk
 thewalkers.nl
+timebet21.com
 tldkffltm12.xyz
 tormeadschool.org.uk
+tpevents.nl
 tracklistdigest.co.uk
 trefkoele.nl
 tvmirai.jp
@@ -457,7 +461,6 @@ upepiscopal.org
 upmf-grenoble.fr
 urbanacitizen.com
 urbanslotinsight.uk
-uzaymanga.com
 vaillant.nl
 vardagssammanfattning.se
 veewo.com = neon abyss|霓虹深渊

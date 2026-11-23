@@ -1,6 +1,7 @@
 1-win.in
 1bitsquared.com
 1xbet-uzsite.com
+368timebet.com
 3dmodels-textures.com
 4funmedia.pl
 789club.place
@@ -42,7 +43,6 @@ arzugeybulla.com
 asako-omi.jp
 atlantsecurity.com
 awards.nl
-awebic.com.br
 azfreenews.com
 baltimorebookfest.com
 bandrele.yt
@@ -106,7 +106,6 @@ clanport.co.uk
 claytonluna.com
 clb.az
 cmha.net
-cmosieczna.pl
 coastal.co.tz
 combinedarms.us
 connectsource.uk
@@ -134,7 +133,6 @@ dils.co.in
 disclosurescotland.co.uk
 districttimes.co.uk
 doomlord.net
-dpclgc.com
 dracisumperk.cz
 dreffa.com
 drolsumstasjon.no
@@ -179,10 +177,10 @@ florinroebig.com
 flynxjets.com
 focalink.com.tw
 foggyislefilms.com
-football-sport.com
 forbesmiddleeastevents.com
 forestreelsspace.it
 franceintheus.org
+freemantv.com
 fsf.de
 furonteer.com
 furthmuehle.at
@@ -224,7 +222,6 @@ icdd.info
 ictlongbeach.org
 ievaepnere.com
 igo-betsnl.nl
-ilanma.com
 impiana.com.my
 infomedianusantara.com
 inlandhomes.co.uk
@@ -245,6 +242,7 @@ k-jinken.net
 k-litecodecpack.com
 kadivar.com
 kaikokubunji.com
+kalebet131.com
 katomodels.com = kato|kato precision railroad models|sekisui kinzoku co., ltd.|關水金屬
 kenzai.fr
 kevanjonesmp.me.uk
@@ -339,7 +337,6 @@ ok-vizura.com
 oliviaharrison.com
 ona.org
 oracletutorial.com
-oxfje.com
 passionpit.com
 paysdechateaubriant.fr
 pesakarchitekti.cz
@@ -405,10 +402,12 @@ sonicswap.io
 sonix.ai
 sophiesumburane.com
 sou90.org
+spin-katana.uk
 spinmachoapp.org
 spinproworld.us
 spolocenskypavilon.sk
 sportarak.ir
+sqb-ilmenau.de
 srmdegreecollege.com
 ssn.tv
 stellararenaplus.com
@@ -423,6 +422,7 @@ sweetbonanzaslot-nz.com
 swisswine.com
 taihonet.co.jp
 tangiradio.net
+tenglonomm.cn
 tepr.net
 tetsuya.co.jp
 theethereum.wiki
@@ -435,6 +435,7 @@ thewebconsole.com
 thezdi.com
 thomasmorstead.com
 tickets.ie
+timebet710.com
 tinevanrompuy.be
 tomatenquark.github.io
 totalhub.us
@@ -465,6 +466,7 @@ whathappenedinmybirthyear.com
 whitespacegallery.co.uk
 whl168.com
 whonamedit.com
+wicksitech.com
 wideinsight.de
 wireismusic.com
 wisthbf.se
@@ -475,6 +477,7 @@ xigua7719.cn
 xinyuanxuan.com
 xjanyy.com
 xn--0tr06ns0b857g.com
+ycrzw9.cn
 yihuochuanmei.cn
 yisanyisi.cn
 yiwugou.com
@@ -485,4 +488,3 @@ zgtxyh.com
 zimzum.com
 zoneloot.de
 zumlobmueller.de
-zuzudelivery.kz

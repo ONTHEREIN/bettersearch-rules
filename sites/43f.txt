@@ -65,6 +65,7 @@ c6r.org
 cabalinkabul.wordpress.com
 cambridgeglass.org
 canadawildproductions.com
+canadianwhaleinstitute.ca
 caritasvietnam.org
 carl-jung.net
 carolmccomb.com
@@ -135,7 +136,6 @@ eyemailchina.com
 eziogribaudo.com
 fadeawayworld.net
 fatecjales.com.br
-feminion.org
 findmydepartment56.com
 flextg.com
 floram.org
@@ -147,7 +147,6 @@ freesfx.co.uk
 freeshipping.org
 frenchbloom.com
 frigolandia.eu
-gaigoiviet.com
 gallaghersnysteakhouse.com
 gamdomcasino-at.at
 gamesfire.at
@@ -247,12 +246,14 @@ ljplus.ru
 localmarketingmanager.com
 logicsparkstation.it
 logstor.com
+lotusrecycling.com.au
 louisdegeer.se
 lucianperkins.com
 mackeyecenter.com
 margaretdabbs.co.uk
 mariejeanneserero.fr
 marina-news.net
+marisoul.co
 markusbertan.de
 medicaljane.com
 mehdibenlahcen.wordpress.com
@@ -264,12 +265,12 @@ mikrotik.com = mikrotik|routeros
 mircturk.com
 montbrison-forezbasketfeminin.com
 msgkingdom.com
+mubet.sarl
 musasino.net
 museodecera.com
 museodellemigrato.it
 musikfestspielesaar.de
 myempirecasino.eu
-mysouthlakenews.com
 mythaspace.com
 nanomi.com
 natewooley.com
@@ -308,7 +309,6 @@ parysmountain.co.uk
 past-vina.cz
 pcci-group.com
 pcquote.com
-pet-magazine.co.uk
 physiary.clinic
 picklefm.com
 plaincolumn.us
@@ -334,7 +334,6 @@ ramosun.com
 randstad.de
 rebelforceradio.com
 rebuy.de
-renters.pl
 resobr.ru
 revue-audimat.fr
 rexconsulting.com
@@ -422,6 +421,7 @@ toddfalcone.com
 toingapuhi.co.nz
 tomaszewska.pl
 tonistrendlupe.com
+transpareo.com
 trendsi.com
 triofado.de
 troutcpa.com
@@ -445,7 +445,6 @@ vfxhq.com
 voenpro.ru
 volvox.no
 votecraighall.com
-voyagetravelapps.com
 vzwverkeersveiligheid.be
 w18akw.cn
 webalta.ru
@@ -461,6 +460,7 @@ worldconnecteonline.fr
 worldwideinsure.com
 wpl.cymru
 wuhnqa12219.cn
+x02b0.cn
 xiongxianwuye.cn
 xn--2s2b99c38x33b65k.com
 xn--80azbkd5a.xn--p1ai
@@ -473,4 +473,5 @@ zee61trades.top
 zencast.website
 zezedicamargoeluciano.com.br
 zijaanzij.nl
+zine.fr
 zlatopramen.cz

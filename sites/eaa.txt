@@ -24,7 +24,6 @@ anypod.net
 apoplogic.com
 arcademics.com
 aroma-parfum.ru
-artvinescortgo.com
 asi-profile.de
 asmae.org
 asoc-abogadosdelestado.es
@@ -138,7 +137,6 @@ faes.org
 fashionbiznes.pl
 fecibogota.com
 firstbrandsgroup.com
-fitlike.at
 fondazionecariforli.it
 food-club.dk
 fordstheatre.org
@@ -149,7 +147,7 @@ freshmusic.ca
 fugetsudo.biz
 fujiko-ki.co.jp
 fullyfilment.nl
-gamebaidoithuong.social
+g3180.cn
 gap.gov.tr
 gcil.org.uk
 gem.xyz
@@ -165,8 +163,6 @@ grandchmielowiec.pl
 graphiteapp.org = graphite
 greaterhillcrest.com
 greenpeace.ch
-griekzorba.nl
-grinzoo.com
 grove-oxon.org.uk
 gzjxry.com
 haconcerts.be
@@ -182,7 +178,6 @@ hildegardis-gymnasium.de
 hinase-gr.com
 hiramamasaji.net
 historicwashingtonga.com
-hitnspincasino-dk.dk
 hognireistrup.com
 hollenstedt.de
 homeslandcountrypropertyforsale.com
@@ -223,7 +218,6 @@ jsrg.com.cn
 kalevalaseura.fi
 kardiologie-erfurt.de
 kcvufox20.com
-kempstondentalpractice.com
 killingheidi.com.au
 kinderkrebsinfo.de
 kirchen-fuerfeld.de
@@ -288,7 +282,6 @@ moonlightbusinessrotterdam.nl
 moravskedivadlo.cz
 morrick.me
 mortenandersen.com
-motipmed.com
 mouss.cz
 mrng.to
 msayagh.github.io
@@ -302,7 +295,6 @@ nationaljazzarchive.co.uk
 naturalvoice.de
 naughtongallery.org
 nbdeyy.com
-nbet.monster
 nelliebellie.com
 newsbritblog.co.uk
 nextgen-auto.com
@@ -424,7 +416,6 @@ thelivingcosmos.com
 thepunchlineismachismo.com
 thereseritchie.com
 thewhiskyardvark.com
-thisiseindhoven.nl
 tibf.ir
 tinomamic.eu
 tipli.cz
@@ -440,6 +431,7 @@ tusseymountain.com
 tv-hechingen.de
 twynstragudde.nl
 u25993.cn
+ufabet168a.com
 uitgeverijdesmederij.nl
 umland-wobau.de
 unilininsulation.com
@@ -474,7 +466,9 @@ wrestlecrap.com
 y8z56.cn
 yabookscentral.com
 ye.ua
+yeshuanova.com
 yory.nl
+youswitch.tv
 ywcasouthsudan.org
 zapiskihistoryczne.pl
 zcqlgc.com
@@ -484,3 +478,4 @@ zhangjiop5.cn
 zhongzhi.com.cn
 zool.kz
 zrouter.org
+zzblmf.cn

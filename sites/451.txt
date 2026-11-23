@@ -21,6 +21,7 @@ aldar.com
 alicampbell.net
 allenfroese.com
 allepuz.es
+allfunnyjokes.com
 amie-sultan.com
 amys.com
 antoniomariabaggio.it
@@ -63,14 +64,13 @@ bzyyszx.com
 ca-bettycasino.com
 ca61discovers.top
 caixapopular.com
-camaroz28.com
 camerosblues.com
 caocao.fr
 capriproperties.it
 caravela.coffee
-caritogelhk.com
 cartographymaster.eu
 casino-alexander.site
+casino-gid.website
 casinodudespin.sk
 cathedrale-versailles.org
 catho-aixarles.fr
@@ -126,6 +126,7 @@ elenalasconi.ro
 elsnig.com
 emeraldensemble.org
 emirateshospitals.ae
+enbet55.com
 endersanalysis.com
 energystar.gov = energy star|能源之星
 eptb-loire.fr
@@ -139,6 +140,7 @@ fanwarsromcom.com
 farmaciatarquini.it
 fedon.gr
 fermavi.com.br
+ferra-group.com
 fest.se
 finhay.com.vn
 flavorcoffee.co.jp
@@ -231,6 +233,7 @@ kpodfm.com
 ladymysteria.com = eikoku tantei mysteria|english detective mysteria|london detective mysteria|英國偵探 mysteria|英國偵探mysteria|英國偵探mysteria the crown|英國偵探推理|英國偵探神祕事件|英國偵探神秘事件
 lakelandmotormuseum.co.uk
 latavolarotonda.info
+launderthis.com
 lazarmy.com
 leihotikan.net
 leonpericles.com.au
@@ -241,6 +244,7 @@ linsner.com
 linx247.com
 lksnext.com
 lococasino.org
+lonestarhome.health
 longbeachmc.org
 lotsmall.cn
 lotto.net
@@ -334,6 +338,7 @@ pro-football-reference.com = pfr|pro football reference|pro-football-reference.c
 pso-world.com
 putneymagpies.com
 quandoo.it
+r10t.sg
 radio949colorado.com
 radiocardiff.org
 radkov-sy.cz
@@ -392,7 +397,6 @@ spilki.app
 sportnov.ru
 sportsradio1370.com
 sportverein-poppenreuth.de
-squarepusher.co
 ssmi.hr
 ssplaza.jp
 ssrcnvapi.org
@@ -401,7 +405,6 @@ star71similar.shop
 stratis.pro
 sugarrushgame-cz.com
 sukumari.com
-sultanplaynaga.com
 sumerianblood.com
 superapotheek.com
 susannaparigi.it
@@ -456,7 +459,6 @@ vchasnoua.com
 venturafilmes.eu
 vermarcsport.be
 veromodawuerzburg.de
-veryspecial.io
 villageofcrestwood.org
 villawewersbusch.de
 ville-verson.fr
@@ -477,8 +479,10 @@ womensequality.org.uk
 wowpark.dk
 wzaz.com
 xn----7sbhhdd7apencbh6a5g9c.xn--p1ai
+yenimahallekizlari.site
 ymeray.fr
 yonezawaekiben.jp
+yuanzhangbang.cn
 zabrze.com.pl
 zc-rubber.com
 zee61wells.xyz
@@ -487,5 +491,6 @@ zencastr.com
 zenjackpot.ca
 zhanna-bichevskaya.ru
 zupa-svkvirina.hr
+zvcwmyi.com
 zwctest.top
 zwms-fm.cn

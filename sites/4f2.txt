@@ -47,7 +47,6 @@ beg.aero = beg|belgrade airport|belgrade nikola tesla airport|lybe|尼古拉-特
 beijingspring.com
 bel-japon.com
 beplusthemes.com
-bernat.com
 beserk.com.au
 betprobay.us
 bikchentaev.ru
@@ -116,7 +115,6 @@ dbts.edu
 depanndirect.fr
 depedtarlaccity.com
 dewiki.de
-dgjiangsu.com
 digitaldeskdigital.nl
 disaiwang.com
 domaine-bassac.com
@@ -148,13 +146,13 @@ ericvanaro.com
 erinmeaker.com
 esportsreview.de
 etaktik.cz
-eu-norway.org
 ev-luth-gemeinde-rom.org
 exactis.com
 exoticuganda.com
 ezerx.in
 fachagentur-windenergie.de
 faf-hirschau.de
+fafa800ok.com
 fagerhult.com
 faltriqueira.com
 fancinegay.com
@@ -166,7 +164,6 @@ flaviorenegado.com.br
 flowerstation.co.uk
 folkfacebook.com
 forestlakecollege.com.au
-forever.kz
 formel4.dk
 fotofinlandia.fi
 fraxern.at
@@ -220,6 +217,7 @@ inesc.org.br
 infojobs.net
 institutostrom.org
 inteligtelecom.com.br
+inter-soccer.com
 internationalbluecross.org
 internationaljournal.org
 internetcrimeforum.org.uk
@@ -257,7 +255,6 @@ krz-eg.de
 ks-og.de
 ksrgroupofedu.org
 kuaimw.cn
-kubesimplify.com
 kwaliteitsgeld.com
 kxmygs.com
 labernarda.com
@@ -290,6 +287,7 @@ mbank.cz
 megaglest.org = megaglest
 melindaofficial.com
 mementoludi.net
+mentoracademy.com.au
 mestilla.lt
 metprof.ru
 meyers-windmuehle.de
@@ -298,6 +296,7 @@ minervabunkering.com
 mirkanovakmusic.com
 misawa-akemi.com
 mlproperties.com
+mn0i8q0.com
 modernstakemedia.uk
 monologue.to
 montyne.com
@@ -329,6 +328,7 @@ ollerupbunkeren.dk
 ololwit.org.uk
 olu.kz
 omt-ohe.com
+onecasino-dk1.org
 onlinecasinoausland.com.de
 onlinesequencer.net
 oregonstate.education
@@ -344,13 +344,12 @@ partnersbetalright.com
 pas-de-calais-tourisme.com
 pekkasaarinen.info
 pharmacyresearchuk.org
-pharyngula.org
+pharyngula.org = pharyngula
 philadelphiaaluminumdoors.com
 philipkennicott.com
 philippechevallier.com
 physioaims.com
 pilgerhaeusl.de
-pindao365.com
 planetavuz.ru
 plantandequipment.com
 pli-petronas.com
@@ -365,7 +364,6 @@ pravorf.org
 presqueislemaine.gov
 privacy.com.br
 procivis.fr
-projectnewm.io
 psfu.de
 purgatorycomics.com
 pvs-studio.com
@@ -378,7 +376,6 @@ queaprendemoshoy.com
 quest-eu.org
 ravisagro.ru
 realwire.com
-rebrandxpress.com
 regionstavanger.com
 reviewingthebrew.com
 reynalddrouhin.net
@@ -394,7 +391,6 @@ sallylevi.com
 santamuerte.fr
 santaveracruzbilbao.org
 sarlac.com.au
-schoch-engineering.ch
 scienceworldjournal.org
 screentide.co.uk
 seanwilsonracing.co.uk
@@ -436,6 +432,7 @@ teachforthephilippines.com
 team7-home.com
 teamkuota.de
 teammuenchen.de
+tekcyte.com
 telescopes.ru
 terminal21.co.th
 test-guide.com
@@ -445,7 +442,6 @@ tg88-lc.com
 theatredublinga.com
 thebankofconwy.com
 thedisabilitycollective.com
-thesanetravel.com
 thetennisdaily.jp
 thibaultverbiest.net
 thorconpower.com
@@ -503,6 +499,7 @@ wuli.ac.cn
 wwf.pt
 xindew-needles.com
 xtensio.com
+y45rn.cn
 yamadaryoji.com
 yleniabaccaro.it
 youngwire.com

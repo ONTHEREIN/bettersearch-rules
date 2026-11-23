@@ -1,7 +1,5 @@
 19rcpp.ru
 1wayout.net
-427032772.xyz
-623730.com
 88999824.xyz
 aannemervak.nl
 abenoharukas-300.jp
@@ -27,13 +25,11 @@ analizfamilii.ru
 angebijoux.com
 anjavanschijndel.com
 anonfiles.com
-aptisijembrana.org
 arc.cat
 arentorp.com
 arlingtonmuseum.org
 artslon.ru
 asa.gov.au
-asia-imtiyu.com.cn
 at-la.com
 ateam-japan.com
 atelierlacoulee.org
@@ -48,6 +44,7 @@ baosonhospital.com
 bartnijs.nl
 base.de
 baycitylodge.com
+bearses.com
 beastphilanthropy.org
 behoerden-serviceportal.de
 belliwelli.com
@@ -102,7 +99,6 @@ cromosomax.com
 ctkupavna.ru
 cultmovienetwork.com
 culturemonde.fr
-cyxxwang.com
 dadafo.dk
 dage7608.one
 dailypeaknest.com
@@ -125,10 +121,8 @@ dulwichvillageinfants.co.uk
 durantisd.org
 eatsnarfs.com
 eiscat.se
-energy--casino.com
 epicjackpotworld.nl
 esp-pathology.org
-ethertongallery.com
 everestmedicines.com
 evotv.hr
 f48.ee
@@ -156,7 +150,6 @@ gaspardthomas.com
 gate.ngo
 gauchostamford.com
 gazellebikes.com
-gcsepod.co.uk
 gelijke-kansen.nl
 gknservice.com
 glassdrive.com
@@ -192,7 +185,6 @@ igrescuepa.com
 ijcva.com
 ijwph.ir
 impacttv.dk
-indigocard.ltd
 insectes-net.fr
 international-eisteddfod.co.uk
 interworx.com
@@ -237,7 +229,7 @@ lanouvelletribune.info
 laserclinics.co.uk
 layoffhedge.com
 lcaof.org
-legalcurrent.com
+led2led.com
 lehifreepress.com
 lemko.com
 les-siestes.com
@@ -255,6 +247,7 @@ mairie-de-bonnevalsurarc.fr
 mairie-preneron.com
 mairie-villeneuvesurverberie.fr
 maisonentravaux.fr
+makrobet710.com
 mapleleafhub.ca
 mariajosevela.com
 marieclaire.ua
@@ -262,17 +255,15 @@ mariejosegustave.com
 marnaz.fr
 masm.it
 mediamaratonbogota.com
-mediawiki.org = $wgcheckuserforcesummary|$wgcheckuserlog|advancedsearch|centralauth|checkuser|discussiontools|easytimeline|extension:advancedsearch|extension:centralauth|extension:checkuser|extension:discussiontools|extension:easytimeline|extension:flaggedrevs|extension:massmessage|extension:timeline|extension:visualeditor|flagged revisions|flaggedrevs|help:简易时间线语法|instant diffs|mass message|massmessage|media wiki|mediawiki|module:tnt|pwb|python mediawiki bot framework|pywikibot|pywikipedia|pywikipediabot|skin:timeless|spamblacklist|tex validator and converter|texvc|the python mediawiki bot framework|timeless|timeless skin|visualeditor|wikieditor|wikipedia|wikipedia android app|wikipedia app|可视化编辑器|媒体维基|模块:tnt|模組:tnt|維基百科安卓应用|維基百科應用|維基百科應用程式|维基百科客户端|维基百科应用|维基百科应用程序|维基百科应用程式|視覺化編輯器
+mediawiki.org = $wgcheckuserforcesummary|$wgcheckuserlog|advancedsearch|centralauth|checkuser|discussiontools|easytimeline|extension:advancedsearch|extension:centralauth|extension:checkuser|extension:discussiontools|extension:easytimeline|extension:flaggedrevs|extension:massmessage|extension:timeline|extension:visualeditor|flagged revisions|flaggedrevs|help:简易时间线语法|hiruwiki|instant diffs|mass message|massmessage|media wiki|mediawiki|module:tnt|pwb|python mediawiki bot framework|pywikibot|pywikipedia|pywikipediabot|skin:timeless|spamblacklist|tex validator and converter|texvc|the python mediawiki bot framework|timeless|timeless skin|visualeditor|wikieditor|wikipedia|wikipedia android app|wikipedia app|可视化编辑器|媒体维基|模块:tnt|模組:tnt|維基百科安卓应用|維基百科應用|維基百科應用程式|维基百科客户端|维基百科应用|维基百科应用程序|维基百科应用程式|視覺化編輯器
 medicalgeology.org
 melbet-link-zrklo.ru
 meredithmarks.com
 metastreamstation.com
 meute.ch
 mi-pro.co.uk
-miamilakesautomall.com
 michiganlottery.com
 mihohazama.com
-milroysofsoho.com
 minaloc.gov.rw
 modernzone.de
 mogianahc.net
@@ -300,7 +291,6 @@ nour-hammour.com
 npo-cfa.com
 nsu.fi
 nypgj.com
-oakjournal.de
 ogaki-tv.co.jp
 ok-food.co.jp
 oldenburger-turnerbund.de
@@ -347,7 +337,6 @@ richiecampbell.pt
 robbertwelagen.nl
 rocketfuelent.com
 rocketnest.it
-rolanziacasino.pl
 romawebfest.it
 rosenaggartremblay.com
 rosey.fr
@@ -387,7 +376,6 @@ svhs.co
 swcbnj.org
 takaokakojyozoo.jp
 taliamar.com
-taolite.com
 tappingqanda.com
 taran.news
 taskcards.de
@@ -437,10 +425,10 @@ wolinpn.pl
 worldfzo.org
 wuppenau.ch
 xboxpromotions.com
-yakerong.com
 yard2.com
 yasminemodestine.com
 yodel.io
 ysk-inc.co.jp
 zatounaprimary.co.uk
 zenwagergames.com
+zoastwas.nl

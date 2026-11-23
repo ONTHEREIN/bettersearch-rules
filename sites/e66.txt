@@ -50,6 +50,7 @@ bigclash-swiss.com
 bildningsalliansen.fi
 birn.dk
 biubiuoptics.com
+blackanddecker.de
 blackened.cz
 boishistoria.se
 boiteascience.com
@@ -62,6 +63,7 @@ burcottinn.co.uk
 burungtapir.xyz
 bytefederal.sr
 ca7dos.shop
+californiacarecompass.com
 carlipa.fr
 casinospinsmania.co.uk
 cbar.az
@@ -91,6 +93,7 @@ dai-konan.com
 danacentre.org.uk
 dapacheckers.space
 dav-essen.de
+dcl-inc.com
 de-heus.nl
 defined.net
 degura.de
@@ -165,7 +168,6 @@ heddy-honigmann.nl
 hegenbart.cz
 herbknowledge.net
 hidesertstar.com
-hmjkyswlw.com
 hokuryu.info
 hometownnewsbrevard.com
 hyperator.com
@@ -197,6 +199,7 @@ jpcecon.com
 jpshrine.org
 jtatik.org
 julianasicoli.com
+juniperbrief.com
 juwelia.nl
 kaff-eine.com
 kansaschristian.edu
@@ -212,8 +215,10 @@ labbracket.com
 labyrint-vzw.be
 lacnetwork.it
 lamilamusic.com
+lanikaibrewing.com
 lasvegaslightsfc.com
 latelenovela.com
+laurencegt.com
 leap4fnssa.eu
 learndirect.com
 leaseurope.org
@@ -281,6 +286,7 @@ officinemeccanichereggiane.it = fantuzzi reggiane|officine meccaniche reggiane s
 ohryerushalayim.com
 ojack.xyz
 okdoomer.io
+onlytech.com
 ontariocreates.ca
 organo.co.jp
 oslobuddhistsenter.no
@@ -288,7 +294,9 @@ ozziespetshop.com
 padlet.pics
 paforwardparty.com
 parade.com.my
+paradisepizzacapecod.com
 part-cloud.com
+participacionbogota.gov.co
 passiv.com
 paulreiser.com
 payabli.com
@@ -445,7 +453,7 @@ westernboerderij.nl
 wiadomoscizaglebia.pl
 wik-lesite.fr
 wilkelab.org
-win789.services
+winmasterscasino-gr.com
 winspirit-slots.com
 winstscore.nl
 winzip.com = winzip
@@ -467,7 +475,6 @@ xram-st.ru
 yeeyan.com
 youhuitong.xyz
 yszbjr.com.cn
-zcqygl.com
 zenplus.it
 zh-globe-lpl.com
 zitrogames.com

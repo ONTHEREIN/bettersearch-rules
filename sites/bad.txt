@@ -1,7 +1,5 @@
 1wins-pl.net
 2023eleusis.eu
-2048cupcakes.io
-5plus.mu
 881thepark.com
 889993620.xyz
 889997964.xyz
@@ -45,7 +43,6 @@ besedihram.ru
 bewiser.co.uk
 bfm.berlin
 bibliotecadiamatrice.wordpress.com
-bilingua.org
 billis.az
 bingooffice.uk
 biocognitiveculture.com
@@ -80,6 +77,7 @@ chenmil.com
 chloewine.com.cn
 christopherwalker.com
 churchhouseharberton.co.uk
+chzc.edu.cn
 cim.edu
 cinemira.hu
 cip-gmbh.com
@@ -98,7 +96,6 @@ comparaiso.es
 comunebagnidilucca.com
 cortexcollider.com
 cqband-jp.com
-creditcardjl.com
 cs3news.org
 cudoo.com
 cyclassics-hamburg.de
@@ -151,6 +148,7 @@ forestplayzone.it
 freeourinternet.org
 freshwinworld.it
 friends.edu
+fruitmachinesteppers.com
 funkschau.de
 fytxonline.com
 galileo.org
@@ -183,7 +181,6 @@ highrollerport.com
 hikinginthesmokys.com
 hiltonhotels.de
 hjzyy.com.cn
-hongkong40.net
 horni-stropnice.cz
 hvezdarnatabor.cz
 hygrometers.com
@@ -292,7 +289,7 @@ obecrovne.sk
 och.fr
 odebrechtenergia.com.br
 off.org.pl
-ollbig.ru
+offergoose.cn
 openpolitics.or.jp
 openrest.com
 optissimo.one
@@ -300,7 +297,6 @@ optixplus.co.uk
 ou-banevo.com
 ousvklohridski-dupnica.com
 overclockers.ru
-oxnardsd.org
 p-ch.jp = p5 royal|p5 the royal|p5r|persona 3 portable|persona 5 royal|persona 5: royal|persona 5: the royal|shin megami tensei: persona 3 portable|女神异闻录5 皇家版
 panalandia.info
 pander.pro
@@ -331,7 +327,6 @@ reisenett.no
 ressuredford.fi
 ribikyoiku.or.jp
 richtmann.org
-ringerspizza.com
 rivertowns.net
 roadtrailrun.com
 roamans.com
@@ -366,7 +361,6 @@ smartfortunehub.uk
 socialcrawlytics.com
 sofarsogood.fr
 sookenewsmirror.com
-sourcebot.dev
 southburlingtonvt.gov
 southstatebank.com
 spectacleravissant.fr
@@ -426,7 +420,6 @@ tumanduo.com
 turnbuddy.com
 twistedpianist.com
 uberzone.net
-ufabetventure.com
 ufostalker.com
 unepref-ariege.org
 unheval.edu.pe
@@ -481,6 +474,7 @@ ynsz.gov.cn
 yokawao.com
 youshalldopass.pro
 ysebank.co.kr
+yuayotxg.cc
 yumijixie.com
 zcmc.am
 zenbetonline.ca

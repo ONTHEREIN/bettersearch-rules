@@ -1,6 +1,5 @@
 1070kram.com
 107theranch.com
-1code.io
 1xbit.com
 2korpus.pl
 789betcom.com
@@ -149,6 +148,7 @@ globalbajaj.com
 globalfurnituregroup.com
 gmz.su
 goldenpalaceplus.com
+goodmeasuregroup.org
 grane.fr
 grill23.com
 gs-schwartbuck.de
@@ -157,13 +157,13 @@ gunda-niemann-stirnemann-halle.de
 halinabenedyk.pl
 haruberry.jp
 hebeaestheticsandvitality.com
+hftyw.com
 hgv.it
 hhky.com
 hikari-ss.co.jp
 hitclube.net
 hoegy.de
 holstenhallen.com
-homesmiles.com
 honestcoffeeguide.com
 hongju.or.kr
 hongyan.info
@@ -205,7 +205,7 @@ jpautoceste.ba
 jpf.go.jp
 jpsoft.com = 4nt / take command|take command console
 kaasinos-netherlands.nl
-kamagrajellyshop.com
+kamasutrabeurs.nl
 karimmaurice.com
 katiedavis.com
 kerilake.com
@@ -229,7 +229,6 @@ labelmarket-brady-sklep.pl
 lach-ner.com
 lapalombella.org
 lashijasdefelipe.com
-lavishhousing.com
 leoncassinos.com
 limon-art.com
 linatheodorou.com
@@ -265,6 +264,7 @@ mariloumermans.be
 matrix-berlin.de
 matsuura-kodai.com
 mbaapartments.com
+mcmsklep.pl
 mcuoneclipse.com
 meat.by
 meeting-dakar.com
@@ -313,9 +313,10 @@ odha.or.jp
 ombudsman.rs
 ondrejangelovic.wordpress.com
 oregontrailcenter.org
+orionlabs.io
 orlitsa.bg
 osc-berlin.de
-oscars.org = 16th academy awards|1928年奥斯卡金像奖|1928年奧斯卡金像獎|1936年奥斯卡金像奖|1936年奧斯卡金像獎|1968年奥斯卡金像奖|1968年奧斯卡金像獎|1979年奥斯卡金像奖|1979年奧斯卡金像獎|1st academy awards|2014年奥斯卡金像奖|2014年奧斯卡金像獎|40th academy awards|51st academy awards|86th academy awards|8th academy awards|academy award for animated feature film|academy award for best animated feature|academy award for best cinematography|academy award for best documentary|academy award for best supporting actor|best adapted screenplay|best supporting actor oscar|best supporting actress|live action short film|oscar for best documentary feature|oscar for best supporting actor|the 1st academy awards|the 40th academy awards|the 51st academy awards|the 86th academy awards|the 8th academy awards|奥斯卡最佳动画片奖|奥斯卡最佳动画长片|奥斯卡最佳女配角奖|奥斯卡最佳实境短片|奥斯卡最佳实景短片奖|奥斯卡最佳實境短片奖|奥斯卡最佳實景短片奖|奥斯卡最佳摄影奖|奥斯卡最佳改编剧本奖|奥斯卡最佳男配角奖|奥斯卡最佳真人短片奖|奥斯卡最佳纪实短片奖|奥斯卡最佳纪录片奖|奥斯卡金像奖最佳单轴实景短片奖|奥斯卡金像奖最佳双轴实景短片奖|奥斯卡金像奖最佳实景短片奖|奧斯卡最佳動畫片獎|奧斯卡最佳動畫長片獎|奧斯卡最佳女配角|奧斯卡最佳女配角獎|奧斯卡最佳實境短片|奧斯卡最佳實境短片獎|奧斯卡最佳實景短片獎|奧斯卡最佳攝影|奧斯卡最佳攝影獎|奧斯卡最佳改編劇本|奧斯卡最佳改編劇本獎|奧斯卡最佳男配角|奧斯卡最佳男配角獎|奧斯卡最佳真人短片獎|奧斯卡最佳紀錄片獎|奧斯卡最佳紀錄短片|奧斯卡金像最佳實景短片獎|奧斯卡金像獎最佳單軸實景短片獎|奧斯卡金像獎最佳實景短片獎|奧斯卡金像獎最佳雙軸實景短片獎|最佳動畫長片|最佳女配角|最佳实景短片奖|最佳實景短片 short subject|最佳實景短片獎|最佳摄影奖|最佳攝影|最佳攝影獎|最佳改編劇本|最佳男配角|最佳真人单轴短片 short subject|最佳真人双轴短片 short subject|最佳真人喜剧短片 short subject|最佳真人喜劇短片 short subject|最佳真人單軸短片 short subject|最佳真人彩色短片 short subject|最佳真人新奇短片 short subject|最佳真人短片|最佳真人雙軸短片 short subject|最佳紀錄片|第16屆奧斯卡金像獎|第16届奥斯卡金像奖|第1屆奧斯卡金像獎|第1届奥斯卡金像奖|第40屆奧斯卡金像獎|第40届奥斯卡金像奖|第51屆奧斯卡金像獎|第51届奥斯卡金像奖|第86屆奧斯卡金像獎|第86届奥斯卡金像奖|第8屆奧斯卡金像獎|第8届奥斯卡金像奖
+oscars.org = 16th academy awards|1928年奥斯卡金像奖|1928年奧斯卡金像獎|1936年奥斯卡金像奖|1936年奧斯卡金像獎|1968年奥斯卡金像奖|1968年奧斯卡金像獎|1979年奥斯卡金像奖|1979年奧斯卡金像獎|1st academy awards|2014年奥斯卡金像奖|2014年奧斯卡金像獎|40th academy awards|51st academy awards|86th academy awards|8th academy awards|academy award for animated feature film|academy award for best animated feature|academy award for best cinematography|academy award for best documentary|academy award for best supporting actor|best adapted screenplay|best supporting actor oscar|best supporting actress|live action short film|oscar for best documentary feature|oscar for best supporting actor|the 1st academy awards|the 40th academy awards|the 51st academy awards|the 8th academy awards|óscar a la mejor actriz de reparto|奥斯卡最佳动画片奖|奥斯卡最佳动画长片|奥斯卡最佳女配角奖|奥斯卡最佳实境短片|奥斯卡最佳实景短片奖|奥斯卡最佳實境短片奖|奥斯卡最佳實景短片奖|奥斯卡最佳摄影奖|奥斯卡最佳改编剧本奖|奥斯卡最佳男配角奖|奥斯卡最佳真人短片奖|奥斯卡最佳纪实短片奖|奥斯卡最佳纪录片奖|奥斯卡金像奖最佳单轴实景短片奖|奥斯卡金像奖最佳双轴实景短片奖|奥斯卡金像奖最佳实景短片奖|奧斯卡最佳動畫片獎|奧斯卡最佳動畫長片獎|奧斯卡最佳女配角|奧斯卡最佳女配角獎|奧斯卡最佳實境短片|奧斯卡最佳實境短片獎|奧斯卡最佳實景短片獎|奧斯卡最佳攝影|奧斯卡最佳攝影獎|奧斯卡最佳改編劇本|奧斯卡最佳改編劇本獎|奧斯卡最佳男配角|奧斯卡最佳男配角獎|奧斯卡最佳真人短片獎|奧斯卡最佳紀錄片獎|奧斯卡最佳紀錄短片|奧斯卡金像最佳實景短片獎|奧斯卡金像獎最佳單軸實景短片獎|奧斯卡金像獎最佳實景短片獎|奧斯卡金像獎最佳雙軸實景短片獎|最佳動畫長片|最佳女配角|最佳实景短片奖|最佳實景短片 short subject|最佳實景短片獎|最佳摄影奖|最佳攝影|最佳攝影獎|最佳改編劇本|最佳男配角|最佳真人单轴短片 short subject|最佳真人双轴短片 short subject|最佳真人喜剧短片 short subject|最佳真人喜劇短片 short subject|最佳真人單軸短片 short subject|最佳真人彩色短片 short subject|最佳真人新奇短片 short subject|最佳真人短片|最佳真人雙軸短片 short subject|最佳紀錄片|第16屆奧斯卡金像獎|第16届奥斯卡金像奖|第1屆奧斯卡金像獎|第1届奥斯卡金像奖|第40屆奧斯卡金像獎|第40届奥斯卡金像奖|第51屆奧斯卡金像獎|第51届奥斯卡金像奖|第86屆奧斯卡金像獎|第86届奥斯卡金像奖|第8屆奧斯卡金像獎|第8届奥斯卡金像奖
 ostrov-obec.sk
 otorakoubou.com
 ouhrsmir.com
@@ -356,7 +357,6 @@ redwoodpharma.se
 reliasmedia.com
 remlab.net = miredo
 renens.ch
-resuelvetudeuda.com
 riec.nl
 rilking365.top
 rioscenarium.com.br
@@ -409,13 +409,13 @@ sylvesterstallone.com
 symaps.fr
 tajalindley.com
 tamashiki.or.jp
-tanuki-token.world
 tcb.com
 telescope.ac
 teller.jp
 texprocil.org
 the72project.org
 theatlantavultures.com
+thebloomi.com
 thecastleinnsurrey.co.uk
 thedruidorder.org
 thehongkongmassacre.com = the hong kong massacre
@@ -423,6 +423,7 @@ theophanyloudspeakers.com
 thurrockyachtclub.org.uk
 tiparts.ru
 todoist.com = todoist|待办事项
+togelgacor.co.uk
 toiletology.com
 tollkoetter.de
 torontosketchfest.com
@@ -471,10 +472,11 @@ wksm.com
 wmufradio.com
 worcestershirehistoricalsociety.co.uk
 world-glassware.com
+wsmrc.org.au
 www.renatoserrabibliotecasolofra
 xn--vallensbkkirke-7ib.dk
 xon-casino-de.org
-yachunyueqi.com
+xvphsd.com
 yanruichao.com
 yaoshisp.com
 yashgawli.com

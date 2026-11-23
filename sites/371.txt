@@ -136,7 +136,6 @@ dronninglundefterskole.dk
 dtk-idar-oberstein.de
 dtrcardetailing.nl
 dukes-lancaster.org
-dungcuykhoaphucan.com
 eaacorp.com
 earlham.ac.uk
 ebs.ro
@@ -164,6 +163,7 @@ fedefutguate.org
 felix.ee
 fgfox-kasyno.com
 fgstier-art.de
+fhaustralia.org.au
 filipporosso.net
 fisherind.com
 fktorlak.com
@@ -212,7 +212,6 @@ hnrri.com
 hoa.org.uk
 honeybear.ai
 hongwrong.com
-hoowk.in
 hotsprings-sd.com
 hram-brazhnikovo.ru
 hrok.co.kr
@@ -284,7 +283,6 @@ locusludus.com
 lovayatak.com
 lovelyroses.com
 lsd-naver-ketamine.site
-luckapone.app
 lucky-31-online-fr.com
 lundingold.com
 mabaret-alasafra.com
@@ -324,6 +322,7 @@ mottmac.com = mmd|mott macdonald|mott macdonald group|mott macdonald internation
 mountcarmelhigh.co.uk
 mscurie.ro
 mtv-muenchen.de
+muckraker.com
 munax.com
 munemwasif.com
 museolarco.org
@@ -344,6 +343,7 @@ nsmithfieldri.org
 oac.gr
 obec-heroltice.cz
 obsjeroenbosch.nl
+omdev.tech
 ongakunotomo.co.jp
 openpublish.eu
 opentimestamps.org = opentimestamps
@@ -392,6 +392,7 @@ rapidvault.de
 rasalama-ambohipotsy.org
 realmanage.com
 recallgavin2020.com
+refugeeresponseindex.org
 reisemobilpark-kempen.de
 resas.go.jp
 ricardorangel.us
@@ -439,7 +440,6 @@ stallouestre.fr
 stanowice.pl
 stc.com.sa
 stcarthagescathedral.ie
-stdds.com
 steinsburgmuseum.de
 stjohnswoodchurch.org.uk
 stotles.com
@@ -460,6 +460,7 @@ teatretalia.es
 teenvogue.com = teen vogue|少女时尚|少女時尚|时尚手册|时尚青少版|青少年vogue雜誌|青少年时尚|青少年時尚|青年時尚
 terre-humanisme.org
 thamesandhudson.com
+thehearst.org
 thermage.com
 theyellowmonkeysuper.jp
 thomas-witzmann.de
@@ -516,5 +517,4 @@ zainabsalman.com
 zamoracf.es
 znaimo.gov.ua
 zortilonrel.com
-ztbrand.co.uk
 zzytech.com
